@@ -22,15 +22,12 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) ([CTM](https://www.curseforge.com/minecraft/mc-mods/ctm))
 
-### General Improvements
-These mods provide general improvements to the game: new blocks, enhanced terrain generation, better mechanics, or similar.  They are often difficult to categorize as they span a wealth of other categories.
-
-- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
-
-### Immersion
+### Gameplay
 These mods alter core gameplay elements to add a more immersive experience.
 
+- [Animania](https://www.curseforge.com/minecraft/mc-mods/animania) ([CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api))
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
+- [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
 
 ### Terrain Generation
 These mods add new biomes or alter how terrain is generated, providing a more diverse and rich experience to the overworld (and some other dimensions).
