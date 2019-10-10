@@ -1,7 +1,15 @@
 # SoSly Minecraft Modpack
 **Version:** 3.0.0 ("wild river")
 
-The Society of Silliness Minecraft Modpack is provided as a place to play and enjoy the game.  The official server's difficulty will be set to "Normal", with mob griefing disabled.
+The Society of Silliness Minecraft Modpack is provided as a place to play and enjoy the game. 
+
+#### Server Properties and Rules
+| Setting | Value | Setting | Value |
+|-|:-:|-|:-:
+| **Minecraft Version** | 1.12.2 | **Idle Timeout** | 30
+| **Difficulty** | Normal | **Player Limit** | 36
+| **Mob Griefing** | Disabled | **Assigned Memory** | 3 GB
+
 
 ## Installation Instructions
 1. Install [MultiMC](https://multimc.org/).
