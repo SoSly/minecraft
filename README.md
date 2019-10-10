@@ -20,6 +20,7 @@ Wherever possible, a link to the Mod's description is provided, along with a lin
 ### Decoration and Creativity
 These mods add new decorative blocks to the game, encouraging creativity in what you build.
 
+- [Better Slabs Mod](https://www.curseforge.com/minecraft/mc-mods/better-slabs-mod)
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) ([CTM](https://www.curseforge.com/minecraft/mc-mods/ctm))
 
 ### Gameplay
