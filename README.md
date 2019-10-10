@@ -37,6 +37,7 @@ These mods alter core gameplay elements to add a more immersive experience.
 - [Animania](https://www.curseforge.com/minecraft/mc-mods/animania) ([CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api))
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
+- [Tektopia](https://www.curseforge.com/minecraft/mc-mods/tektopia) ([CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api))
 
 ### Terrain Generation
 These mods add new biomes or alter how terrain is generated, providing a more diverse and rich experience to the overworld (and some other dimensions).
