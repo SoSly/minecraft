@@ -51,3 +51,9 @@ These mods add new biomes or alter how terrain is generated, providing a more di
 These mods add simple functionality to the game.
 
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
+
+### Visual Upgrades
+These mods provide an improvement or change to the visual appearance of the Minecraft game.  Mods marked with an asterisk(\*) are optional, and can be disabled or removed if you dislike them or if they give you trouble.
+
+- [Better Foliage](https://www.curseforge.com/minecraft/mc-mods/better-foliage)* ([Forgelin](https://minecraft.curseforge.com/projects/shadowfacts-forgelin))
+- [Optifine](https://optifine.net/home)*
