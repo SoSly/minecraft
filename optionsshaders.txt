@@ -1,5 +1,5 @@
-#Sun Oct 13 19:37:10 PDT 2019
-shaderPack=
+#Mon Oct 14 22:17:31 PDT 2019
+shaderPack=Sildurs Vibrant Shaders v1.23 Lite.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
