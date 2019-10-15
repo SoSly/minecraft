@@ -15,7 +15,7 @@ We are using the Conquest Reforged texture pack, which accompanies the mod of th
 
 ## Installation Instructions
 1. Install [MultiMC](https://multimc.org/).
-2. Download the latest version of this modpack from the [releases]() section of this site.
+2. Download the latest version of this modpack from the [releases](https://github.com/SoSly/minecraft/releases) section of this site.
 3. Open MultiMC and click the "Add Instance" button.
 4. Select "Import from zip" on the left side, then find the download from step 2.
 5. Hit "OK".
