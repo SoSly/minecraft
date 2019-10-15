@@ -7,9 +7,8 @@ The Society of Silliness Minecraft Modpack is provided as a place to play and en
 | Setting | Value | Setting | Value |
 |-|:-:|-|:-:
 | **Minecraft Version** | 1.12.2 | **Idle Timeout** | 30
-| **Difficulty** | Normal | **Player Limit** | 36
-| **Mob Griefing** | Disabled | **Assigned Memory** | 3 GB
-
+| **Difficulty** | Normal | **Player Limit** | 72
+| **Mob Griefing** | Disabled | **Assigned Memory** | 6 GB
 
 #### Texture Packs
 We are using the Conquest Reforged texture pack, which accompanies the mod of the same name.  It is a very beautiful medieval texture pack, although it does not have textures for every mod we play with, which sometimes causes some minor appearance issues.. Unfortunately, the mod cannot be used without the texture pack, and so playing on this server requires the use of that texture pack.
@@ -38,13 +37,18 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 ### Gameplay
 These mods alter core gameplay elements to add a more immersive experience.
 
-- [Animania](https://www.curseforge.com/minecraft/mc-mods/animania) ([CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api))
+www.curseforge.com/minecraft/mc-mods/craftstudio-api))
 - [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
 - [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons)
 - [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
-- [Just a Few Fish](https://www.curseforge.com/minecraft/mc-mods/just-a-few-fish)
-- [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
+
+### Mobs
+These mods add new neutral or enemy mobs.
+
+- [Animania](https://www.curseforge.com/minecraft/mc-mods/animania) ([CraftStudio API](https://- [Just a Few Fish](https://www.curseforge.com/minecraft/mc-mods/just-a-few-fish)
+- [Outfox](https://www.curseforge.com/minecraft/mc-mods/outfox)
+- [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [Tektopia](https://www.curseforge.com/minecraft/mc-mods/tektopia) ([CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api))
 
 ### Terrain Generation
@@ -65,4 +69,4 @@ These mods provide an improvement or change to the visual appearance of the Mine
 
 - [Better Foliage](https://www.curseforge.com/minecraft/mc-mods/better-foliage)* ([Forgelin](https://minecraft.curseforge.com/projects/shadowfacts-forgelin))
 - [Optifine](https://optifine.net/home)
-- [Sildur's Vibrant Shaders](https://sildurs-shaders.github.io)
+- [Sildur's Vibrant Shaders](https://sildurs-shaders.github.io)*
