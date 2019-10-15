@@ -39,6 +39,9 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 These mods alter core gameplay elements to add a more immersive experience.
 
 - [Animania](https://www.curseforge.com/minecraft/mc-mods/animania) ([CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api))
+- [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
+- [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons)
+- [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
 - [Just a Few Fish](https://www.curseforge.com/minecraft/mc-mods/just-a-few-fish)
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
