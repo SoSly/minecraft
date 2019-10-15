@@ -49,6 +49,7 @@ These mods add new neutral or enemy mobs.
 - [Animania](https://www.curseforge.com/minecraft/mc-mods/animania) ([CraftStudio API](https://- [Just a Few Fish](https://www.curseforge.com/minecraft/mc-mods/just-a-few-fish)
 - [Outfox](https://www.curseforge.com/minecraft/mc-mods/outfox)
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
+- [Sophistocated Wolves](https://www.curseforge.com/minecraft/mc-mods/sophisticated-wolves)
 - [Tektopia](https://www.curseforge.com/minecraft/mc-mods/tektopia) ([CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api))
 
 ### Terrain Generation
