@@ -40,6 +40,7 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 These mods alter core gameplay elements to add a more immersive experience.
 
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
+- [Dynamic Sword Skills](https://www.curseforge.com/minecraft/mc-mods/dynamic-sword-skills)
 - [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
 - [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons)
 - [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
