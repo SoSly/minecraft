@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:2
 renderClouds:fast
-resourcePacks:["Conquest+Reforged.zip"]
+resourcePacks:["JSTR_Modded_Universal.zip","SoSly.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -98,11 +98,6 @@ key_quark.keybind.lockBuilding:37
 key_key.next_placement_mode.desc:67
 key_key.next_axis_mode.desc:68
 key_key.betterfoliage.gui:66
-key_key.conquest.button.gamefolder:43
-key_key.conquest.button.blockIds:48
-key_key.blockpalette.open:46
-key_key.blockpalette.search:47
-key_connect.bind.open:25
 key_key.toggleLiquids:38
 key_key.toggleVisible:0
 key_key.journeymap.zoom_in:13
