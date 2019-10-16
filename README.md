@@ -13,6 +13,12 @@ The Society of Silliness Minecraft Modpack is provided as a place to play and en
 #### Texture Packs
 We are using the John Smith texture pack.  It is a very beautiful medieval texture pack, although it does not have textures for every mod we play with, which sometimes causes some minor appearance issues.  In any case where this happens, the game will default back to the standard appearance for those items; however, we have tried to provide supplementary textures wherever we can.
 
+<!--
+TODO: Implement this section with Reskillable(?)
+#### Experience and Advancement
+Most of the systems in this modpack are gated behind XP.  Thanks to our Tombstones mod, you only lose 10% of your current XP when you die, to facilitate the advancement systems we have put in place.  However, most mods and vanilla minecraft advancements will rely on you having put XP into various systems.
+//-->
+
 ## Installation Instructions
 1. Install [MultiMC](https://multimc.org/).
 2. Download the latest version of this modpack from the [releases](https://github.com/SoSly/minecraft/releases) section of this site.
@@ -36,7 +42,7 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 ### Gameplay
 These mods alter core gameplay elements to add a more immersive experience.
 
-www.curseforge.com/minecraft/mc-mods/craftstudio-api))
+- [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
 - [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
 - [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons)
 - [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
