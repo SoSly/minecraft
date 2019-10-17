@@ -53,6 +53,7 @@ These mods add new neutral or enemy mobs.
 - [Animania](https://www.curseforge.com/minecraft/mc-mods/animania) ([CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api))
 - [Bear With Me](https://www.curseforge.com/minecraft/mc-mods/bear-with-me)
 - [Exotic Birds](https://www.curseforge.com/minecraft/mc-mods/exotic-birds)
+- [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) ([LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary))
 - [Just a Few Fish](https://www.curseforge.com/minecraft/mc-mods/just-a-few-fish)
 - [Outfox](https://www.curseforge.com/minecraft/mc-mods/outfox)
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
