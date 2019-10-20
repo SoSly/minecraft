@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:true
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -105,8 +105,6 @@ key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
 key_quark.keybind.lockBuilding:37
-key_key.next_placement_mode.desc:67
-key_key.next_axis_mode.desc:68
 key_key.betterfoliage.gui:66
 key_key.toggleLiquids:38
 key_key.toggleVisible:0

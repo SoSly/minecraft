@@ -44,7 +44,7 @@ These mods alter core gameplay elements to add a more immersive experience.
 - [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons)
 - [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
-- [ReSkillable]([ReSkillable](https://www.curseforge.com/minecraft/mc-mods/reskillable)) and [CompatSkills](https://www.curseforge.com/minecraft/mc-mods/compatskills)
+- [ReSkillable](https://www.curseforge.com/minecraft/mc-mods/reskillable) and [CompatSkills](https://www.curseforge.com/minecraft/mc-mods/compatskills)
 
 ### Mobs
 These mods add new neutral or enemy mobs.
