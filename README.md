@@ -44,6 +44,7 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 These mods alter core gameplay elements to add a more immersive experience.
 
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
+- [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 - [Locks](https://www.curseforge.com/minecraft/mc-mods/locks)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
 
