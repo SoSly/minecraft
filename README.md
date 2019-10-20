@@ -33,7 +33,6 @@ Wherever possible, a link to the Mod's description is provided, along with a lin
 ### Decoration and Creativity
 These mods add new decorative blocks to the game, encouraging creativity in what you build.
 
-- [Better Slabs Mod](https://www.curseforge.com/minecraft/mc-mods/better-slabs-mod)
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) ([CTM](https://www.curseforge.com/minecraft/mc-mods/ctm))
 
 ### Gameplay
@@ -71,6 +70,7 @@ These mods add new biomes or alter how terrain is generated, providing a more di
 ### Utility
 These mods add simple functionality to the game.
 
+- [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 
 ### Visual Upgrades
