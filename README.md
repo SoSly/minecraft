@@ -79,6 +79,7 @@ These mods add new biomes or alter how terrain is generated, providing a more di
 These mods add simple functionality to the game.
 
 - [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
+- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 
 ### Visual Upgrades
