@@ -44,12 +44,13 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 These mods alter core gameplay elements to add a more immersive experience.
 
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
-- [Dynamic Sword Skills](https://www.curseforge.com/minecraft/mc-mods/dynamic-sword-skills)
-- [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
-- [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons)
-- [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
 - [Locks](https://www.curseforge.com/minecraft/mc-mods/locks)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
+
+### Skills and Magic
+These mods add mundane skills or magical abilities to the game.
+
+- [Dynamic Sword Skills](https://www.curseforge.com/minecraft/mc-mods/dynamic-sword-skills)
 - [ReSkillable](https://www.curseforge.com/minecraft/mc-mods/reskillable) 
   - [CompatSkills](https://www.curseforge.com/minecraft/mc-mods/compatskills)
   - [Craft Tweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
@@ -78,9 +79,13 @@ These mods add new biomes or alter how terrain is generated, providing a more di
 ### Utility
 These mods add simple functionality to the game.
 
+- [Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks)
+- [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
 - [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
+- [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
+- [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons)
 
 ### Visual Upgrades
 These mods provide an improvement or change to the visual appearance of the Minecraft game.  Mods marked with an asterisk(\*) are optional, and can be disabled or removed if you dislike them or if they give you trouble.
