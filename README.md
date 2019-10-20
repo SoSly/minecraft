@@ -44,9 +44,9 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 These mods alter core gameplay elements to add a more immersive experience.
 
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
-- [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 - [Locks](https://www.curseforge.com/minecraft/mc-mods/locks)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
+- [Sleeping Overhaul](https://www.curseforge.com/minecraft/mc-mods/sleepingoverhaul) ([TickRateChanger](https://www.curseforge.com/minecraft/mc-mods/tickratechanger) and [CosmicLib](https://www.curseforge.com/minecraft/mc-mods/cosmiclib))
 
 ### Skills and Magic
 These mods add mundane skills or magical abilities to the game.
@@ -80,6 +80,7 @@ These mods add new biomes or alter how terrain is generated, providing a more di
 ### Utility
 These mods add simple functionality to the game.
 
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks)
 - [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
 - [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
