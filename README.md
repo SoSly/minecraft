@@ -30,6 +30,11 @@ The following mods are installed on this server.  If you would like to suggest a
 
 Wherever possible, a link to the Mod's description is provided, along with a link to its prerequisites libraries.
 
+### Adventure
+These mods add new dungeons and worlds to explore.
+
+- [Roguelike Dungeons](https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons)
+
 ### Decoration and Creativity
 These mods add new decorative blocks to the game, encouraging creativity in what you build.
 
