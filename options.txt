@@ -96,6 +96,7 @@ key_key.dss.block.desc:157
 key_key.dss.toggleat.desc:52
 key_key.dss.skills_gui.desc:25
 key_key.dss.togglehud.desc:47
+key_quark.keybind.lockBuilding:37
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -104,7 +105,6 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
-key_quark.keybind.lockBuilding:37
 key_key.betterfoliage.gui:66
 key_key.toggleLiquids:38
 key_key.toggleVisible:0
