@@ -43,8 +43,11 @@ These mods alter core gameplay elements to add a more immersive experience.
 - [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
 - [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons)
 - [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
+- [Locks](https://www.curseforge.com/minecraft/mc-mods/locks)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
-- [ReSkillable](https://www.curseforge.com/minecraft/mc-mods/reskillable) and [CompatSkills](https://www.curseforge.com/minecraft/mc-mods/compatskills)
+- [ReSkillable](https://www.curseforge.com/minecraft/mc-mods/reskillable) 
+  - [CompatSkills](https://www.curseforge.com/minecraft/mc-mods/compatskills)
+  - [Craft Tweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
 
 ### Mobs
 These mods add new neutral or enemy mobs.
