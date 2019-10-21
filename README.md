@@ -47,6 +47,7 @@ These mods alter core gameplay elements to add a more immersive experience.
 - [Locks](https://www.curseforge.com/minecraft/mc-mods/locks)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
 - [Sleeping Overhaul](https://www.curseforge.com/minecraft/mc-mods/sleepingoverhaul) ([TickRateChanger](https://www.curseforge.com/minecraft/mc-mods/tickratechanger) and [CosmicLib](https://www.curseforge.com/minecraft/mc-mods/cosmiclib))
+- [Treecapitator Updated](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) ([bspkrsCore Updated](https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated))
 
 ### Skills and Magic
 These mods add mundane skills or magical abilities to the game.
