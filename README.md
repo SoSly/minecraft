@@ -30,6 +30,7 @@ The following mods are installed on this server.  If you would like to suggest a
 
 Wherever possible, a link to the Mod's description is provided, along with a link to its prerequisites libraries.
 
+<<<<<<< HEAD
 ### Adventure
 These mods add new dungeons and worlds to explore.
 
@@ -70,17 +71,18 @@ These mods add new neutral or enemy mobs.
 - [Sophistocated Wolves](https://www.curseforge.com/minecraft/mc-mods/sophisticated-wolves)
 - [Tektopia](https://www.curseforge.com/minecraft/mc-mods/tektopia) ([CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api))
 
+=======
 ### Terrain Generation
 These mods add new biomes or alter how terrain is generated, providing a more diverse and rich experience to the overworld (and some other dimensions).
 
 - [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 - [GeographiCraft](https://www.curseforge.com/minecraft/mc-mods/climate-control-geographicraft)
 - [Realistic Terrain Generation](https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation)
-- [Streams](https://www.curseforge.com/minecraft/mc-mods/streams) ([Farseek](https://www.curseforge.com/minecraft/mc-mods/farseek))
 
 ### Utility
 These mods add simple functionality to the game.
 
+- [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks)
 - [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
