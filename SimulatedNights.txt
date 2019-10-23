@@ -1,0 +1,2 @@
+soundCategory_master_copy:1.0
+Your master volume will be set to this copy of it when you wake from sleep. Do not alter this manually.

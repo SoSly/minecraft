@@ -46,8 +46,9 @@ These mods alter core gameplay elements to add a more immersive experience.
 
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
 - [Locks](https://www.curseforge.com/minecraft/mc-mods/locks)
+- [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
-- [Sleeping Overhaul](https://www.curseforge.com/minecraft/mc-mods/sleepingoverhaul) ([TickRateChanger](https://www.curseforge.com/minecraft/mc-mods/tickratechanger) and [CosmicLib](https://www.curseforge.com/minecraft/mc-mods/cosmiclib))
+- [Simulated Nights](https://www.curseforge.com/minecraft/mc-mods/simulated-nights)
 - [Treecapitator Updated](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) ([bspkrsCore Updated](https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated))
 
 ### Skills and Magic
