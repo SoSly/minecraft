@@ -1,5 +1,5 @@
-#Mon Oct 14 22:17:31 PDT 2019
-shaderPack=Sildurs Vibrant Shaders v1.23 Lite.zip
+#Thu Oct 24 21:40:22 PDT 2019
+shaderPack=Builder's Modded Shaders V2.4.0.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
