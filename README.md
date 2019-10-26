@@ -98,7 +98,9 @@ These mods add simple functionality to the game.
 - [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
 - [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
+- [Leo's Craftable Chainmail](https://www.curseforge.com/minecraft/mc-mods/leos-craftable-chainmail)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
+- [NoMoreRecipeConflict](https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict)
 - [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
 - [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons)
 
