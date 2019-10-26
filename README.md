@@ -54,6 +54,7 @@ These mods alter core gameplay elements to add a more immersive experience.
 ### Skills and Magic
 These mods add mundane skills or magical abilities to the game.
 
+- [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery)
 - [Dynamic Sword Skills](https://www.curseforge.com/minecraft/mc-mods/dynamic-sword-skills)
 - [ReSkillable](https://www.curseforge.com/minecraft/mc-mods/reskillable) 
   - [CompatSkills](https://www.curseforge.com/minecraft/mc-mods/compatskills)
