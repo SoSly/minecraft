@@ -42,14 +42,20 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) ([CTM](https://www.curseforge.com/minecraft/mc-mods/ctm))
 
 ### Gameplay
-These mods alter core gameplay elements to add a more immersive experience.
+These mods alter core gameplay elements.
 
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
-- [Locks](https://www.curseforge.com/minecraft/mc-mods/locks)
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
 - [Simulated Nights](https://www.curseforge.com/minecraft/mc-mods/simulated-nights)
-- [Treecapitator Updated](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) ([bspkrsCore Updated](https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated))
+- [Treecapitator Updated](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) ([bspkrsCore Updated](https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated)
+
+### Immersion
+These mods provide a more immersive experience in the minecraft world.
+
+- [Growthcraft (Community Edition)](https://www.curseforge.com/minecraft/mc-mods/growthcraft-community-edition)
+- [Locks](https://www.curseforge.com/minecraft/mc-mods/locks)
+- [Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)
 
 ### Skills and Magic
 These mods add mundane skills or magical abilities to the game.
