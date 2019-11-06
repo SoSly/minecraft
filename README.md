@@ -1,5 +1,5 @@
 # SoSly Minecraft Modpack
-**Version:** 3.0.0 ("wild river")
+**Version:** 3.0.0
 
 The Society of Silliness Minecraft Modpack is provided as a place to play and enjoy the game. 
 
