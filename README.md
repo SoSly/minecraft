@@ -30,7 +30,6 @@ The following mods are installed on this server.  If you would like to suggest a
 
 Wherever possible, a link to the Mod's description is provided, along with a link to its prerequisites libraries.
 
-<<<<<<< HEAD
 ### Adventure
 These mods add new dungeons and worlds to explore.
 
@@ -79,8 +78,8 @@ These mods add new neutral or enemy mobs.
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [Sophistocated Wolves](https://www.curseforge.com/minecraft/mc-mods/sophisticated-wolves)
 - [Tektopia](https://www.curseforge.com/minecraft/mc-mods/tektopia) ([CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api))
+    - [Tektopia Harvestcraft Compat](https://www.curseforge.com/minecraft/mc-mods/tektopia-harvestcraft-compat)
 
-=======
 ### Terrain Generation
 These mods add new biomes or alter how terrain is generated, providing a more diverse and rich experience to the overworld (and some other dimensions).
 
