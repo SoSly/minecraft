@@ -30,7 +30,6 @@ The following mods are installed on this server.  If you would like to suggest a
 
 Wherever possible, a link to the Mod's description is provided, along with a link to its prerequisites libraries.
 
-<<<<<<< HEAD
 ### Adventure
 These mods add new dungeons and worlds to explore.
 
@@ -42,18 +41,26 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) ([CTM](https://www.curseforge.com/minecraft/mc-mods/ctm))
 
 ### Gameplay
-These mods alter core gameplay elements to add a more immersive experience.
+These mods alter core gameplay elements.
 
+- [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
-- [Locks](https://www.curseforge.com/minecraft/mc-mods/locks)
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
 - [Simulated Nights](https://www.curseforge.com/minecraft/mc-mods/simulated-nights)
-- [Treecapitator Updated](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) ([bspkrsCore Updated](https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated))
+- [Treecapitator Updated](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) ([bspkrsCore Updated](https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated)
+
+### Immersion
+These mods provide a more immersive experience in the minecraft world.
+
+- [Growthcraft (Community Edition)](https://www.curseforge.com/minecraft/mc-mods/growthcraft-community-edition)
+- [Locks](https://www.curseforge.com/minecraft/mc-mods/locks)
+- [Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)
 
 ### Skills and Magic
 These mods add mundane skills or magical abilities to the game.
 
+- [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery)
 - [Dynamic Sword Skills](https://www.curseforge.com/minecraft/mc-mods/dynamic-sword-skills)
 - [ReSkillable](https://www.curseforge.com/minecraft/mc-mods/reskillable) 
   - [CompatSkills](https://www.curseforge.com/minecraft/mc-mods/compatskills)
@@ -71,8 +78,8 @@ These mods add new neutral or enemy mobs.
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [Sophistocated Wolves](https://www.curseforge.com/minecraft/mc-mods/sophisticated-wolves)
 - [Tektopia](https://www.curseforge.com/minecraft/mc-mods/tektopia) ([CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api))
+    - [Tektopia Harvestcraft Compat](https://www.curseforge.com/minecraft/mc-mods/tektopia-harvestcraft-compat)
 
-=======
 ### Terrain Generation
 These mods add new biomes or alter how terrain is generated, providing a more diverse and rich experience to the overworld (and some other dimensions).
 
@@ -90,7 +97,9 @@ These mods add simple functionality to the game.
 - [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
 - [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
+- [Leo's Craftable Chainmail](https://www.curseforge.com/minecraft/mc-mods/leos-craftable-chainmail)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
+- [NoMoreRecipeConflict](https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict)
 - [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
 - [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons)
 

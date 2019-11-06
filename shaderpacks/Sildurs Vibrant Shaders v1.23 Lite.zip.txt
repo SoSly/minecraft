@@ -1,4 +1,0 @@
-#Mon Oct 14 22:17:43 PDT 2019
-shadowDistance=90.0
-shadowMapResolution=1024
-grass_shadows=false
