@@ -97,6 +97,7 @@ These mods add new neutral or enemy mobs.
 ### Terrain Generation
 These mods add new biomes or alter how terrain is generated, providing a more diverse and rich experience to the overworld (and some other dimensions).
 
+- [BetterBedrock](https://www.curseforge.com/minecraft/mc-mods/better-bedrock)
 - [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 - [GeographiCraft](https://www.curseforge.com/minecraft/mc-mods/climate-control-geographicraft)
 - [Realistic Terrain Generation](https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation)
