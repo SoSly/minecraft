@@ -58,26 +58,28 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 ### Gameplay
 These mods alter core gameplay elements.
 
-- [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
 - [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)
-- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
-- [Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks)
-- [Leo's Craftable Chainmail](https://www.curseforge.com/minecraft/mc-mods/leos-craftable-chainmail)
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 - [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
-- [Simulated Nights](https://www.curseforge.com/minecraft/mc-mods/simulated-nights)
-- [Treecapitator Updated](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) ([bspkrsCore Updated](https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated)
 
 ### Immersion
 These mods provide a more immersive experience in the minecraft world.
 
+- [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
+- [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings) ([OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib))
 - [Growthcraft (Community Edition)](https://www.curseforge.com/minecraft/mc-mods/growthcraft-community-edition)
+- [Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks)
+- [Leo's Craftable Chainmail](https://www.curseforge.com/minecraft/mc-mods/leos-craftable-chainmail)
 - [Locks](https://www.curseforge.com/minecraft/mc-mods/locks)
 - [Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)
+- [Simulated Nights](https://www.curseforge.com/minecraft/mc-mods/simulated-nights)
+- [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters)
+- [Treecapitator Updated](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) ([bspkrsCore Updated](https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated)
 
 ### Skills and Magic
 These mods add mundane skills or magical abilities to the game.
