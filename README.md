@@ -95,6 +95,11 @@ These mods add new neutral or enemy mobs.
 - [Tektopia](https://www.curseforge.com/minecraft/mc-mods/tektopia) ([CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api))
     - [Tektopia Harvestcraft Compat](https://www.curseforge.com/minecraft/mc-mods/tektopia-harvestcraft-compat)
 
+### Performance
+These mods attempt to improve the performance of minecraft.
+
+- [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-for-minecraft)
+
 ### Terrain Generation
 These mods add new biomes or alter how terrain is generated, providing a more diverse and rich experience to the overworld (and some other dimensions).
 
