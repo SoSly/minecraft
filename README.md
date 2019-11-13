@@ -1,3 +1,16 @@
+<!--
+
+- [X] World Generation
+- [X] Neutral mobs
+- [ ] Adventure
+- [ ] Immersion
+- [ ] Building and Crafting
+- [ ] Tech and Magic
+- [ ] Stand-alone Systems
+- [ ] Efficiency
+
+//-->
+
 # SoSly Minecraft Modpack
 **Version:** 3.0.0
 
@@ -46,6 +59,7 @@ These mods alter core gameplay elements.
 - [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
+- [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
 - [Simulated Nights](https://www.curseforge.com/minecraft/mc-mods/simulated-nights)
 - [Treecapitator Updated](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) ([bspkrsCore Updated](https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated)
