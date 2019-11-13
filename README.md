@@ -56,6 +56,7 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 ### Gameplay
 These mods alter core gameplay elements.
 
+- [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)
 - [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
