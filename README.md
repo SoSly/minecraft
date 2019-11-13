@@ -59,6 +59,7 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 These mods alter core gameplay elements.
 
 - [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)
+- [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
 - [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
