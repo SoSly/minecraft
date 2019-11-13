@@ -99,6 +99,7 @@ These mods add new neutral or enemy mobs.
 These mods attempt to improve the performance of minecraft.
 
 - [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-for-minecraft)
+- [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
 
 ### Terrain Generation
 These mods add new biomes or alter how terrain is generated, providing a more diverse and rich experience to the overworld (and some other dimensions).
@@ -109,21 +110,25 @@ These mods add new biomes or alter how terrain is generated, providing a more di
 - [Realistic Terrain Generation](https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation)
 - [Streams](https://www.curseforge.com/minecraft/mc-mods/streams) ([Farseek](https://www.curseforge.com/minecraft/mc-mods/farseek))
 
+### User Interface
+These mods alter the User Interface.
+
+- [Apple Skin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks)
+- [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
+- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
+- [NoMoreRecipeConflict](https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict)
+- [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
+  - [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons)
+
 ### Utility
 These mods add simple functionality to the game.
 
 - [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks)
-- [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks)
-- [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
-- [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
-- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
 - [Leo's Craftable Chainmail](https://www.curseforge.com/minecraft/mc-mods/leos-craftable-chainmail)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
-- [NoMoreRecipeConflict](https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict)
-- [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
-- [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons)
 - [World Stripper](https://www.curseforge.com/minecraft/mc-mods/world-stripper)
 
 ### Visual Upgrades
