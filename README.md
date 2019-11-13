@@ -51,6 +51,7 @@ These mods add new dungeons and worlds to explore.
 ### Decoration and Creativity
 These mods add new decorative blocks to the game, encouraging creativity in what you build.
 
+- [Bibliocraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft)
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) ([CTM](https://www.curseforge.com/minecraft/mc-mods/ctm))
 
 ### Gameplay
@@ -58,8 +59,12 @@ These mods alter core gameplay elements.
 
 - [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)
 - [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
+- [Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks)
+- [Leo's Craftable Chainmail](https://www.curseforge.com/minecraft/mc-mods/leos-craftable-chainmail)
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 - [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
 - [Simulated Nights](https://www.curseforge.com/minecraft/mc-mods/simulated-nights)
@@ -125,10 +130,6 @@ These mods alter the User Interface.
 These mods add simple functionality to the game.
 
 - [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator)
-- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
-- [Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks)
-- [Leo's Craftable Chainmail](https://www.curseforge.com/minecraft/mc-mods/leos-craftable-chainmail)
-- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 - [World Stripper](https://www.curseforge.com/minecraft/mc-mods/world-stripper)
 
 ### Visual Upgrades
