@@ -109,6 +109,7 @@ These mods attempt to improve the performance of minecraft.
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 - [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-for-minecraft)
 - [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
+- [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)
 
 ### Terrain Generation
 These mods add new biomes or alter how terrain is generated, providing a more diverse and rich experience to the overworld (and some other dimensions).
