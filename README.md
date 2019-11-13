@@ -117,6 +117,7 @@ These mods add simple functionality to the game.
 - [NoMoreRecipeConflict](https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict)
 - [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
 - [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons)
+- [World Stripper](https://www.curseforge.com/minecraft/mc-mods/world-stripper)
 
 ### Visual Upgrades
 These mods provide an improvement or change to the visual appearance of the Minecraft game.  Mods marked with an asterisk(\*) are optional, and can be disabled or removed if you dislike them or if they give you trouble.
