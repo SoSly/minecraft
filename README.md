@@ -104,6 +104,7 @@ These mods add new neutral or enemy mobs.
 ### Performance
 These mods attempt to improve the performance of minecraft.
 
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 - [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-for-minecraft)
 - [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
 
