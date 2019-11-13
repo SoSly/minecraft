@@ -1,10 +1,11 @@
+*.errored
 /.mixin.out
-/saves
+/astralsorcery
+/crafttweaker.log
+/crash-reports
+/journeymap
 /logs
+/saves
+/screenshots
 /usercache.json
 /usernamecache.json
-/journeymap
-/crafttweaker.log
-/screenshots
-/astralsorcery
-*.errored
