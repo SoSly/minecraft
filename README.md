@@ -126,6 +126,7 @@ These mods add new biomes or alter how terrain is generated, providing a more di
 These mods alter the User Interface.
 
 - [Apple Skin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
+- [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
 - [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks)
 - [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
