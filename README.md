@@ -110,6 +110,7 @@ These mods add simple functionality to the game.
 - [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks)
+- [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks)
 - [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
 - [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
