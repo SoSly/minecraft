@@ -75,6 +75,7 @@ These mods provide a more immersive experience in the minecraft world.
 - [Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks)
 - [Leo's Craftable Chainmail](https://www.curseforge.com/minecraft/mc-mods/leos-craftable-chainmail)
 - [Locks](https://www.curseforge.com/minecraft/mc-mods/locks)
+- [Malisis Doors](https://www.curseforge.com/minecraft/mc-mods/malisisdoors) ([Malisis Core](https://www.curseforge.com/minecraft/mc-mods/malisiscore))
 - [Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)
 - [Simulated Nights](https://www.curseforge.com/minecraft/mc-mods/simulated-nights)
 - [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters)
