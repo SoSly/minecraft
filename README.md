@@ -47,6 +47,7 @@ Wherever possible, a link to the Mod's description is provided, along with a lin
 These mods add new dungeons and worlds to explore.
 
 - [Roguelike Dungeons](https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons)
+- [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 
 ### Decoration and Creativity
 These mods add new decorative blocks to the game, encouraging creativity in what you build.
