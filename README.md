@@ -60,7 +60,6 @@ These mods alter core gameplay elements.
 
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
 - [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)
-- [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 - [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
@@ -84,8 +83,10 @@ These mods provide a more immersive experience in the minecraft world.
 ### Skills and Magic
 These mods add mundane skills or magical abilities to the game.
 
+- [Arcane Archives](https://www.curseforge.com/minecraft/mc-mods/arcane-archives) ([mysticallib](https://www.curseforge.com/minecraft/mc-mods/mysticallib))
 - [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery)
 - [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
+- [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
 - [Dynamic Sword Skills](https://www.curseforge.com/minecraft/mc-mods/dynamic-sword-skills)
 - [ReSkillable](https://www.curseforge.com/minecraft/mc-mods/reskillable) 
   - [CompatSkills](https://www.curseforge.com/minecraft/mc-mods/compatskills)
