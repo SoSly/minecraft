@@ -76,6 +76,7 @@ These mods add mundane skills or magical abilities to the game.
 
 - [Arcane Archives](https://www.curseforge.com/minecraft/mc-mods/arcane-archives) ([mysticallib](https://www.curseforge.com/minecraft/mc-mods/mysticallib))
 - [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery)
+- [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic) ([Guide API](https://www.curseforge.com/minecraft/mc-mods/guide-api))
 - [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
 - [Dynamic Sword Skills](https://www.curseforge.com/minecraft/mc-mods/dynamic-sword-skills)
