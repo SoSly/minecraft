@@ -72,6 +72,7 @@ These mods provide a more immersive experience in the minecraft world.
 - [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings) ([OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib))
+- [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry)
 - [Growthcraft (Community Edition)](https://www.curseforge.com/minecraft/mc-mods/growthcraft-community-edition)
 - [Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks)
 - [Leo's Craftable Chainmail](https://www.curseforge.com/minecraft/mc-mods/leos-craftable-chainmail)
