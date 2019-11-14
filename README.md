@@ -1,16 +1,3 @@
-<!--
-
-- [X] World Generation
-- [X] Neutral mobs
-- [ ] Adventure
-- [ ] Immersion
-- [ ] Building and Crafting
-- [ ] Tech and Magic
-- [ ] Stand-alone Systems
-- [ ] Efficiency
-
-//-->
-
 # SoSly Minecraft Modpack
 **Version:** 3.0.0
 
@@ -95,6 +82,10 @@ These mods add mundane skills or magical abilities to the game.
 - [ReSkillable](https://www.curseforge.com/minecraft/mc-mods/reskillable) 
   - [CompatSkills](https://www.curseforge.com/minecraft/mc-mods/compatskills)
   - [Craft Tweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
+- [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)
+  - [Enchanting with Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/enchanting-with-thaumcraft)
+  - [Thaumic Inventory Scanning](https://www.curseforge.com/minecraft/mc-mods/thaumcraft-inventory-scanning)
+  - [Thaumic Periphery](https://www.curseforge.com/minecraft/mc-mods/thaumic-periphery)
 
 ### Mobs
 These mods add new neutral or enemy mobs.
@@ -135,6 +126,7 @@ These mods alter the User Interface.
 - [Inventory Tweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks)
 - [Journeymap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
+  - [Thaumic JEI](https://www.curseforge.com/minecraft/mc-mods/thaumic-jei)
 - [NoMoreRecipeConflict](https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict)
 - [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
   - [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons)

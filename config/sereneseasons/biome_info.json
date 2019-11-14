@@ -225,7 +225,7 @@
     "disable_crops": false
   },
   "thaumcraft:magical_forest": {
-    "enable_seasonal_effects": false,
+    "enable_seasonal_effects": true,
     "use_tropical_seasons": false,
     "disable_crops": false
   },
