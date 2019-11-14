@@ -80,6 +80,7 @@ These mods provide a more immersive experience in the minecraft world.
 - [Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)
 - [Simulated Nights](https://www.curseforge.com/minecraft/mc-mods/simulated-nights)
 - [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters)
+- [Spartan Shields](https://www.curseforge.com/minecraft/mc-mods/spartan-shields)
 - [Treecapitator Updated](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) ([bspkrsCore Updated](https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated)
 
 ### Skills and Magic
