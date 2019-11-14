@@ -53,6 +53,7 @@ These mods add new dungeons and worlds to explore.
 These mods add new decorative blocks to the game, encouraging creativity in what you build.
 
 - [Bibliocraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft)
+- [Ceramics](https://www.curseforge.com/minecraft/mc-mods/ceramics)
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) ([CTM](https://www.curseforge.com/minecraft/mc-mods/ctm))
 
 ### Gameplay
