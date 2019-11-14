@@ -42,6 +42,7 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 - [Bibliocraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft)
 - [Ceramics](https://www.curseforge.com/minecraft/mc-mods/ceramics)
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) ([CTM](https://www.curseforge.com/minecraft/mc-mods/ctm))
+- [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
 
 ### Gameplay
 These mods alter core gameplay elements.
@@ -69,6 +70,7 @@ These mods provide a more immersive experience in the minecraft world.
 - [Simulated Nights](https://www.curseforge.com/minecraft/mc-mods/simulated-nights)
 - [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters)
 - [Spartan Shields](https://www.curseforge.com/minecraft/mc-mods/spartan-shields)
+- [Spartan Weaponry](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry)
 - [Treecapitator Updated](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) ([bspkrsCore Updated](https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated)
 
 ### Skills and Magic
