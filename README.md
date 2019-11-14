@@ -114,6 +114,7 @@ These mods add new biomes or alter how terrain is generated, providing a more di
 
 - [BetterBedrock](https://www.curseforge.com/minecraft/mc-mods/better-bedrock)
 - [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+- [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
 - [GeographiCraft](https://www.curseforge.com/minecraft/mc-mods/climate-control-geographicraft)
 - [Realistic Terrain Generation](https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation)
 - [Streams](https://www.curseforge.com/minecraft/mc-mods/streams) ([Farseek](https://www.curseforge.com/minecraft/mc-mods/farseek))
