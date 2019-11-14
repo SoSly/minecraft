@@ -143,6 +143,7 @@ These mods add simple functionality to the game.
 These mods provide an improvement or change to the visual appearance of the Minecraft game.  Mods marked with an asterisk(\*) are optional, and can be disabled or removed if you dislike them or if they give you trouble.
 
 - [Better Foliage](https://www.curseforge.com/minecraft/mc-mods/better-foliage)* ([Forgelin](https://minecraft.curseforge.com/projects/shadowfacts-forgelin))
+- [Builder's Modded Shaders](https://www.dropbox.com/sh/bko0b0ctaovdwda/AACStbybl9uhCkP6TtFfFPIAa?dl=0)*
 - [Optifine](https://optifine.net/home)*
 - [Sildur's Vibrant Shaders](https://sildurs-shaders.github.io)*
-- [Builder's Modded Shaders](https://www.dropbox.com/sh/bko0b0ctaovdwda/AACStbybl9uhCkP6TtFfFPIAa?dl=0)*
+- [Smooth Font](https://www.curseforge.com/minecraft/mc-mods/smooth-font)
