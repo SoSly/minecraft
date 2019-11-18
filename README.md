@@ -41,6 +41,7 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 
 - [Bibliocraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft)
 - [Ceramics](https://www.curseforge.com/minecraft/mc-mods/ceramics)
+- [Chinese Workshop](https://www.curseforge.com/minecraft/mc-mods/chineseworkshop)
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) ([CTM](https://www.curseforge.com/minecraft/mc-mods/ctm))
 - [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
 
