@@ -68,6 +68,7 @@ These mods provide a more immersive experience in the minecraft world.
 - [Leo's Craftable Chainmail](https://www.curseforge.com/minecraft/mc-mods/leos-craftable-chainmail)
 - [Locks](https://www.curseforge.com/minecraft/mc-mods/locks)
 - [Malisis Doors](https://www.curseforge.com/minecraft/mc-mods/malisisdoors) ([Malisis Core](https://www.curseforge.com/minecraft/mc-mods/malisiscore))
+- [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world) ([mysticallib](https://www.curseforge.com/minecraft/mc-mods/mysticallib))
 - [Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)
 - [Simulated Nights](https://www.curseforge.com/minecraft/mc-mods/simulated-nights)
 - [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters)
@@ -87,6 +88,7 @@ These mods add mundane skills or magical abilities to the game.
 - [ReSkillable](https://www.curseforge.com/minecraft/mc-mods/reskillable) 
   - [CompatSkills](https://www.curseforge.com/minecraft/mc-mods/compatskills)
   - [Craft Tweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
+- [Roots](https://www.curseforge.com/minecraft/mc-mods/roots)
 - [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)
   - [Enchanting with Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/enchanting-with-thaumcraft)
   - [Thaumic Inventory Scanning](https://www.curseforge.com/minecraft/mc-mods/thaumcraft-inventory-scanning)
@@ -141,6 +143,7 @@ These mods alter the User Interface.
 These mods add simple functionality to the game.
 
 - [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator)
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 - [World Stripper](https://www.curseforge.com/minecraft/mc-mods/world-stripper)
 
 ### Visual Upgrades
