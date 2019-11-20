@@ -115,6 +115,7 @@ These mods attempt to improve the performance of minecraft.
 
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 - [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-for-minecraft)
+- [Gotta Go Fast](https://www.curseforge.com/minecraft/mc-mods/gotta-go-fast)
 - [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid)
 - [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor)
 
