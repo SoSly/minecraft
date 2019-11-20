@@ -46,6 +46,7 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 - [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
 - [Fairy Lights](https://www.curseforge.com/minecraft/mc-mods/fairy-lights)
 - [NotEnoughScaffold](https://www.curseforge.com/minecraft/mc-mods/notenoughscaffold)
+- [Useful Interior](https://www.curseforge.com/minecraft/mc-mods/useful-interior)
 
 ### Gameplay
 These mods alter core gameplay elements.
