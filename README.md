@@ -53,6 +53,7 @@ These mods alter core gameplay elements.
 - [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
+- [Netherbound](https://www.curseforge.com/minecraft/mc-mods/netherbound)
 - [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
 
