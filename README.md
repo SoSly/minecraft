@@ -52,6 +52,7 @@ These mods alter core gameplay elements.
 
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
 - [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)
+- [Controlled Burn](https://www.curseforge.com/minecraft/mc-mods/controlled-burn)
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 - [Netherbound](https://www.curseforge.com/minecraft/mc-mods/netherbound)
