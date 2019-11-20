@@ -96,9 +96,12 @@ These mods add mundane skills or magical abilities to the game.
 - [Roots](https://www.curseforge.com/minecraft/mc-mods/roots)
 - [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)
   - [Enchanting with Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/enchanting-with-thaumcraft)
+  - [Thaumic Brewing](https://www.curseforge.com/minecraft/mc-mods/thaumic-brewing)
   - [Thaumic Gadgets](https://www.curseforge.com/minecraft/mc-mods/thaumic-gadgets)
   - [Thaumic Inventory Scanning](https://www.curseforge.com/minecraft/mc-mods/thaumcraft-inventory-scanning)
   - [Thaumic Periphery](https://www.curseforge.com/minecraft/mc-mods/thaumic-periphery)
+  - [Thaumic Restoration](https://www.curseforge.com/minecraft/mc-mods/thaumic-restoration)
+  - [Thaumic Wonders](https://www.curseforge.com/minecraft/mc-mods/thaumic-wonders)
 
 ### Mobs
 These mods add new neutral or enemy mobs.
