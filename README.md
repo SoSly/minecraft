@@ -154,6 +154,7 @@ These mods alter the User Interface.
 ### Utility
 These mods add simple functionality to the game.
 
+- [Autorun](https://www.curseforge.com/minecraft/mc-mods/autorun)
 - [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator)
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 - [World Stripper](https://www.curseforge.com/minecraft/mc-mods/world-stripper)

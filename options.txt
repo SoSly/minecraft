@@ -100,7 +100,6 @@ key_key.dss.skills_gui.desc:25
 key_key.dss.togglehud.desc:47
 key_keybind.baublesinventory:48
 key_arcanearchives.gui.keybinds.manifest:0
-key_quark.keybind.lockBuilding:37
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -108,6 +107,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:37
 key_key.betterfoliage.gui:66
 key_bloodmagic.keybind.open_holding:35
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
@@ -115,14 +115,18 @@ key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
 key_chineseworkshop.keybind.select:56
 key_roots.keybinds.pouch:0
 key_roots.keybinds.quiver:0
-key_roots.keybinds.spell_slot_previous:0
-key_roots.keybinds.spell_slot_4:0
-key_roots.keybinds.spell_slot_1:0
 key_roots.keybinds.spell_slot_3:0
-key_roots.keybinds.spell_slot_5:0
+key_roots.keybinds.spell_slot_previous:0
 key_roots.keybinds.spell_slot_2:0
+key_roots.keybinds.spell_slot_1:0
+key_roots.keybinds.spell_slot_4:0
+key_roots.keybinds.spell_slot_5:0
 key_roots.keybinds.spell_slot_next:0
 key_cos.key.opencosarmorinventory:0
+key_AutoRun:69
+key_key.tg.open_gui:19
+key_key.tg.armor_ability:0
+key_key.tg.lense_gui:33
 key_Strip World:211
 key_Dress World:210
 key_Inspect Block:199
@@ -143,12 +147,14 @@ key_key.carry.desc:42
 key_key.toggleLiquids:38
 key_key.toggleVisible:0
 key_dsurround.cfg.keybind.AnimaniaBadges:0
-key_key.dragon_fireAttack:19
+key_key.dragon_fireAttack:0
 key_key.dragon_strike:34
 key_key.dragon_down:45
 key_key.dragon_change_view:65
 key_Open Backpack:48
 key_invtweaks.key.sort:19
+key_key.carpet_forward:17
+key_key.carpet_backward:31
 key_tombstone.message.knowledge_of_death:0
 key_Open Skill GUI:21
 key_key.journeymap.zoom_in:13
