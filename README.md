@@ -60,6 +60,7 @@ These mods alter core gameplay elements.
 - [Netherbound](https://www.curseforge.com/minecraft/mc-mods/netherbound)
 - [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
+- [Spice of Life](https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life) ([applecore](https://www.curseforge.com/minecraft/mc-mods/applecore))
 
 ### Immersion
 These mods provide a more immersive experience in the minecraft world.
