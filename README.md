@@ -56,6 +56,7 @@ These mods alter core gameplay elements.
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
 - [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)
 - [Controlled Burn](https://www.curseforge.com/minecraft/mc-mods/controlled-burn)
+- [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
 - [Hunger Overhaul](https://www.curseforge.com/minecraft/mc-mods/hunger-overhaul) ([applecore](https://www.curseforge.com/minecraft/mc-mods/applecore))
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
