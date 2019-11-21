@@ -14,7 +14,7 @@ fboEnable:true
 difficulty:2
 fancyGraphics:false
 ao:2
-renderClouds:fast
+renderClouds:false
 resourcePacks:["JSTR_Modded_Universal.zip","SoSly.zip"]
 incompatibleResourcePacks:[]
 lastServer:
@@ -115,13 +115,13 @@ key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
 key_chineseworkshop.keybind.select:56
 key_roots.keybinds.pouch:0
 key_roots.keybinds.quiver:0
-key_roots.keybinds.spell_slot_2:0
-key_roots.keybinds.spell_slot_1:0
-key_roots.keybinds.spell_slot_next:0
-key_roots.keybinds.spell_slot_3:0
-key_roots.keybinds.spell_slot_4:0
 key_roots.keybinds.spell_slot_previous:0
+key_roots.keybinds.spell_slot_3:0
+key_roots.keybinds.spell_slot_1:0
+key_roots.keybinds.spell_slot_4:0
 key_roots.keybinds.spell_slot_5:0
+key_roots.keybinds.spell_slot_2:0
+key_roots.keybinds.spell_slot_next:0
 key_cos.key.opencosarmorinventory:0
 key_AutoRun:69
 key_key.tg.open_gui:19
@@ -144,19 +144,22 @@ key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
 key_nei.options.keys.gui.botania_corporea_request:0
 key_key.carry.desc:42
-key_key.toggleLiquids:38
-key_key.toggleVisible:0
 key_dsurround.cfg.keybind.AnimaniaBadges:0
+key_keys.howlingmoon.menu:37
+key_keys.howlingmoon.transform:36
+key_keys.howlingmoon.ability1:19
+key_keys.howlingmoon.ability2:34
 key_key.dragon_fireAttack:0
 key_key.dragon_strike:34
 key_key.dragon_down:45
 key_key.dragon_change_view:65
 key_Open Backpack:48
 key_invtweaks.key.sort:19
+key_key.toggleLiquids:38
+key_key.toggleVisible:0
 key_key.carpet_forward:17
 key_key.carpet_backward:31
 key_tombstone.message.knowledge_of_death:0
-key_Open Skill GUI:21
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
 key_key.journeymap.minimap_type:26
@@ -173,12 +176,6 @@ key_key.journeymap.fullscreen.north:200
 key_key.journeymap.fullscreen.south:208
 key_key.journeymap.fullscreen.east:205
 key_key.journeymap.fullscreen.west:203
-key_nocubes.key.toggleRenderSmoothTerrain:24
-key_nocubes.key.toggleRenderSmoothLeaves:23
-key_nocubes.key.toggleProfilers:25
-key_nocubes.key.toggleTerrainSmoothableBlockState:49
-key_nocubes.key.toggleLeavesSmoothableBlockState:37
-key_nocubes.key.toggleTerrainCollisions:0
 soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0

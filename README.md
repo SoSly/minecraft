@@ -85,6 +85,7 @@ These mods provide a more immersive experience in the minecraft world.
 - [Spartan Shields](https://www.curseforge.com/minecraft/mc-mods/spartan-shields)
 - [Spartan Weaponry](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry)
 - [Treecapitator Updated](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) ([bspkrsCore Updated](https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated)
+- [Weather, Storms & Tornadoes](https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes) ([CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil))
 
 ### Skills and Magic
 These mods add mundane skills or magical abilities to the game.
