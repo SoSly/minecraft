@@ -95,6 +95,7 @@ These mods add mundane skills or magical abilities to the game.
 - [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
 - [Dynamic Sword Skills](https://www.curseforge.com/minecraft/mc-mods/dynamic-sword-skills)
+- [Howling Moon](https://www.curseforge.com/minecraft/mc-mods/howling-moon)
 - [Roots](https://www.curseforge.com/minecraft/mc-mods/roots)
 - [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft)
   - [Enchanting with Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/enchanting-with-thaumcraft)
