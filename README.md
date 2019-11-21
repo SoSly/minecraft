@@ -34,6 +34,7 @@ Wherever possible, a link to the Mod's description is provided, along with a lin
 These mods add new dungeons and worlds to explore.
 
 - [Roguelike Dungeons](https://www.curseforge.com/minecraft/mc-mods/roguelike-dungeons)
+- [Shipwrecks!](https://www.curseforge.com/minecraft/mc-mods/shipwrecks)
 - [Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 
 ### Decoration and Creativity
