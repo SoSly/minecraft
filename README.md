@@ -134,6 +134,7 @@ These mods attempt to improve the performance of minecraft.
 ### Terrain Generation
 These mods add new biomes or alter how terrain is generated, providing a more diverse and rich experience to the overworld (and some other dimensions).
 
+- [Base Metals](https://www.curseforge.com/minecraft/mc-mods/base-metals) ([mmdlib](https://www.curseforge.com/minecraft/mc-mods/mmdlib))
 - [BetterBedrock](https://www.curseforge.com/minecraft/mc-mods/better-bedrock)
 - [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 - [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
