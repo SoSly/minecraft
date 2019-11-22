@@ -46,6 +46,7 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 - [Chinese Workshop](https://www.curseforge.com/minecraft/mc-mods/chineseworkshop)
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) ([CTM](https://www.curseforge.com/minecraft/mc-mods/ctm))
 - [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
+- [Dirt Deco](https://www.curseforge.com/minecraft/mc-mods/dirt-deco)
 - [Fairy Lights](https://www.curseforge.com/minecraft/mc-mods/fairy-lights)
 - [NotEnoughScaffold](https://www.curseforge.com/minecraft/mc-mods/notenoughscaffold)
 - [Useful Interior](https://www.curseforge.com/minecraft/mc-mods/useful-interior)
