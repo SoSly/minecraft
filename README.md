@@ -53,6 +53,7 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 ### Gameplay
 These mods alter core gameplay elements.
 
+- [Bubble Column Elevator Backport](https://www.curseforge.com/minecraft/mc-mods/bubble-column-elevator-backport)
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
 - [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)
 - [Controlled Burn](https://www.curseforge.com/minecraft/mc-mods/controlled-burn)
