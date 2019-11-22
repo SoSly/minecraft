@@ -13,9 +13,6 @@ The Society of Silliness Minecraft Modpack is provided as a place to play and en
 #### Texture Packs
 We are using the John Smith texture pack.  It is a very beautiful medieval texture pack, although it does not have textures for every mod we play with, which sometimes causes some minor appearance issues.  In any case where this happens, the game will default back to the standard appearance for those items; however, we have tried to provide supplementary textures wherever we can.
 
-#### Experience and Advancement
-Most of the systems in this modpack are gated behind XP.  Thanks to our Tombstones mod, you only lose 10% of your current XP when you die (instead of all of it), to facilitate the advancement systems we have put in place.  However, most mods and vanilla minecraft advancements will rely on you having put XP into various systems.  To learn more, check the "Skills" in game. This feature is provided by [ReSkillable](https://www.curseforge.com/minecraft/mc-mods/reskillable).
-
 ## Installation Instructions
 1. Install [MultiMC](https://multimc.org/).
 2. Download the latest version of this modpack from the [releases](https://github.com/SoSly/minecraft/releases) section of this site.
