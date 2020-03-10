@@ -81,7 +81,6 @@ These mods provide a more immersive experience in the minecraft world.
 - [Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)
   - [Pam's Bonecraft](https://www.curseforge.com/minecraft/mc-mods/pams-bonecraft)
   - [Pam's Desertcraft](https://www.curseforge.com/minecraft/mc-mods/pams-desertcraft)
-- [Simulated Nights](https://www.curseforge.com/minecraft/mc-mods/simulated-nights)
 - [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters)
 - [Spartan Shields](https://www.curseforge.com/minecraft/mc-mods/spartan-shields)
 - [Spartan Weaponry](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry)
@@ -117,11 +116,13 @@ These mods add new neutral or enemy mobs.
 - [Exotic Birds](https://www.curseforge.com/minecraft/mc-mods/exotic-birds)
 - [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) ([LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary))
 - [Just a Few Fish](https://www.curseforge.com/minecraft/mc-mods/just-a-few-fish)
+- [Not Enough Pets](https://www.curseforge.com/minecraft/mc-mods/not-enough-pets)
 - [Outfox](https://www.curseforge.com/minecraft/mc-mods/outfox)
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [Sophistocated Wolves](https://www.curseforge.com/minecraft/mc-mods/sophisticated-wolves)
 - [Tektopia](https://www.curseforge.com/minecraft/mc-mods/tektopia) ([CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api))
     - [Tektopia Harvestcraft Compat](https://www.curseforge.com/minecraft/mc-mods/tektopia-harvestcraft-compat)
+    - [Tektopia Information](https://www.curseforge.com/minecraft/mc-mods/tektopia-information)
 
 ### Performance
 These mods attempt to improve the performance of minecraft.
