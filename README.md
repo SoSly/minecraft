@@ -1,5 +1,6 @@
 # SoSly Minecraft Modpack
-**Version:** 3.0.0
+**Version:** 3.0.0<br />
+**Seed:** 6917766840659095847
 
 The Society of Silliness Minecraft Modpack is provided as a place to play and enjoy the game. 
 
