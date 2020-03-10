@@ -46,6 +46,7 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 - [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked)
 - [Dirt Deco](https://www.curseforge.com/minecraft/mc-mods/dirt-deco)
 - [Double Slabs](https://www.curseforge.com/minecraft/mc-mods/double-slabs)
+- [Earthworks](https://www.curseforge.com/minecraft/mc-mods/earthworks)
 - [Fairy Lights](https://www.curseforge.com/minecraft/mc-mods/fairy-lights)
 - [NotEnoughScaffold](https://www.curseforge.com/minecraft/mc-mods/notenoughscaffold)
 - [Useful Interior](https://www.curseforge.com/minecraft/mc-mods/useful-interior)
@@ -53,6 +54,7 @@ These mods add new decorative blocks to the game, encouraging creativity in what
 ### Gameplay
 These mods alter core gameplay elements.
 
+- [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)
 - [Bubble Column Elevator Backport](https://www.curseforge.com/minecraft/mc-mods/bubble-column-elevator-backport)
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
 - [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)
@@ -60,24 +62,24 @@ These mods alter core gameplay elements.
 - [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
 - [Future MC](https://www.curseforge.com/minecraft/mc-mods/future-mc)
 - [Hunger Overhaul](https://www.curseforge.com/minecraft/mc-mods/hunger-overhaul) ([applecore](https://www.curseforge.com/minecraft/mc-mods/applecore))
+- [Locks](https://www.curseforge.com/minecraft/mc-mods/locks)
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 - [Netherbound](https://www.curseforge.com/minecraft/mc-mods/netherbound)
 - [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix)
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) ([AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib))
 - [Spice of Life](https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life) ([applecore](https://www.curseforge.com/minecraft/mc-mods/applecore))
+- [Treecapitator Updated](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) ([bspkrsCore Updated](https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated)
 
 ### Immersion
 These mods provide a more immersive experience in the minecraft world.
 
-- [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings) ([OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib))
 - [Forestry](https://www.curseforge.com/minecraft/mc-mods/forestry)
 - [Growthcraft (Community Edition)](https://www.curseforge.com/minecraft/mc-mods/growthcraft-community-edition)
 - [Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks)
 - [Leo's Craftable Chainmail](https://www.curseforge.com/minecraft/mc-mods/leos-craftable-chainmail)
-- [Locks](https://www.curseforge.com/minecraft/mc-mods/locks)
 - [Malisis Doors](https://www.curseforge.com/minecraft/mc-mods/malisisdoors) ([Malisis Core](https://www.curseforge.com/minecraft/mc-mods/malisiscore))
 - [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world) ([mysticallib](https://www.curseforge.com/minecraft/mc-mods/mysticallib))
 - [Pam's HarvestCraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft)
@@ -86,7 +88,6 @@ These mods provide a more immersive experience in the minecraft world.
 - [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters)
 - [Spartan Shields](https://www.curseforge.com/minecraft/mc-mods/spartan-shields)
 - [Spartan Weaponry](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry)
-- [Treecapitator Updated](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) ([bspkrsCore Updated](https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated)
 - [Weather, Storms & Tornadoes](https://www.curseforge.com/minecraft/mc-mods/weather-storms-tornadoes) ([CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil))
 
 ### Skills and Magic
@@ -175,5 +176,4 @@ These mods provide an improvement or change to the visual appearance of the Mine
 - [Better Foliage](https://www.curseforge.com/minecraft/mc-mods/better-foliage)* ([Forgelin](https://minecraft.curseforge.com/projects/shadowfacts-forgelin))
 - [Builder's Modded Shaders](https://www.dropbox.com/sh/bko0b0ctaovdwda/AACStbybl9uhCkP6TtFfFPIAa?dl=0)*
 - [Optifine](https://optifine.net/home)*
-- [Sildur's Vibrant Shaders](https://sildurs-shaders.github.io)*
 - [Smooth Font](https://www.curseforge.com/minecraft/mc-mods/smooth-font)
