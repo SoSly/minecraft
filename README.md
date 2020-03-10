@@ -120,9 +120,6 @@ These mods add new neutral or enemy mobs.
 - [Outfox](https://www.curseforge.com/minecraft/mc-mods/outfox)
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [Sophistocated Wolves](https://www.curseforge.com/minecraft/mc-mods/sophisticated-wolves)
-- [Tektopia](https://www.curseforge.com/minecraft/mc-mods/tektopia) ([CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api))
-    - [Tektopia Harvestcraft Compat](https://www.curseforge.com/minecraft/mc-mods/tektopia-harvestcraft-compat)
-    - [Tektopia Information](https://www.curseforge.com/minecraft/mc-mods/tektopia-information)
 
 ### Performance
 These mods attempt to improve the performance of minecraft.
