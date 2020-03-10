@@ -121,6 +121,7 @@ These mods add new neutral or enemy mobs.
 - [Outfox](https://www.curseforge.com/minecraft/mc-mods/outfox)
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [Sophistocated Wolves](https://www.curseforge.com/minecraft/mc-mods/sophisticated-wolves)
+- [ToroQuest](https://www.curseforge.com/minecraft/mc-mods/toroquest)
 
 ### Performance
 These mods attempt to improve the performance of minecraft.
