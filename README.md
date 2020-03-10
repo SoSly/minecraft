@@ -59,6 +59,7 @@ These mods alter core gameplay elements.
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on)
 - [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)
 - [Controlled Burn](https://www.curseforge.com/minecraft/mc-mods/controlled-burn)
+- [Dude! Where's my horse?](https://www.curseforge.com/minecraft/mc-mods/dude-wheres-my-horse)
 - [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers)
 - [Future MC](https://www.curseforge.com/minecraft/mc-mods/future-mc)
 - [Hunger Overhaul](https://www.curseforge.com/minecraft/mc-mods/hunger-overhaul) ([applecore](https://www.curseforge.com/minecraft/mc-mods/applecore))
