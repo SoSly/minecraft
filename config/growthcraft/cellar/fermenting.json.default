@@ -1965,6 +1965,141 @@
       "input_fluid": {
         "name": null,
         "names": [
+          "applejuice"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Apple Cider",
+        "name": "fluid_booze_apple_cider_fermented",
+        "amount": 1
+      },
+      "time": 144000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Nether Wart",
+        "mod_id": "minecraft",
+        "name": "nether_wart",
+        "amount": 1,
+        "meta": 0
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "applejuice"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Apple Cider",
+        "name": "fluid_booze_apple_cider_fermented",
+        "amount": 1
+      },
+      "time": 95040
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "cider"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Apple Cider",
+        "name": "fluid_booze_apple_cider_potent",
+        "amount": 1
+      },
+      "time": 144000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "cider"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Apple Cider",
+        "name": "fluid_booze_apple_cider_extended",
+        "amount": 1
+      },
+      "time": 144000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "cider"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Apple Cider",
+        "name": "fluid_booze_apple_cider_poisoned",
+        "amount": 1
+      },
+      "time": 144000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastBrewers",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
           "fluid_honey"
         ],
         "inclusion_tags": [],
@@ -4491,6 +4626,141 @@
         "amount": 1
       },
       "time": 24000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastBrewers",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grapejuice"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Purple Grape Wine",
+        "name": "fluid_booze_purple_wine",
+        "amount": 1
+      },
+      "time": 144000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Nether Wart",
+        "mod_id": "minecraft",
+        "name": "nether_wart",
+        "amount": 1,
+        "meta": 0
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "grapejuice"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Purple Grape Wine",
+        "name": "fluid_booze_purple_wine",
+        "amount": 1
+      },
+      "time": 95040
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustGlowstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "wine"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Purple Grape Wine",
+        "name": "fluid_booze_purple_wine_potent",
+        "amount": 1
+      },
+      "time": 144000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "dustRedstone",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "wine"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Purple Grape Wine",
+        "name": "fluid_booze_purple_wine_extended",
+        "amount": 1
+      },
+      "time": 144000
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastPoison",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "name": null,
+        "names": [
+          "wine"
+        ],
+        "inclusion_tags": [],
+        "exclusion_tags": [],
+        "comment": "",
+        "amount": 1
+      },
+      "output_fluid": {
+        "comment": "Purple Grape Wine",
+        "name": "fluid_booze_purple_wine_poisoned",
+        "amount": 1
+      },
+      "time": 144000
     }
   ]
 }
