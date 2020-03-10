@@ -1253,6 +1253,38 @@
       "residue": null,
       "requiresLid": null,
       "time": 20
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": "yeastBayanus",
+        "comment": "",
+        "mod_id": null,
+        "name": null,
+        "amount": 1,
+        "meta": 32767
+      },
+      "input_fluid": {
+        "comment": "Wine",
+        "name": "wine",
+        "amount": 40
+      },
+      "output_fluid": {
+        "comment": "Purple Port Wine",
+        "name": "fluid_booze_purple_portwine",
+        "amount": 40
+      },
+      "residue": {
+        "pomace": 0.3,
+        "ore": null,
+        "comment": "Bone Meal",
+        "mod_id": "minecraft",
+        "name": "dye",
+        "amount": 1,
+        "meta": 15
+      },
+      "requiresLid": false,
+      "time": 120
     }
   ]
 }

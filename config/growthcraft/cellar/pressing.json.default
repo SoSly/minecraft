@@ -104,6 +104,32 @@
         "meta": 15
       },
       "time": 40
+    },
+    {
+      "comment": "",
+      "item": {
+        "ore": null,
+        "comment": "Grapes",
+        "mod_id": "rustic",
+        "name": "grapes",
+        "amount": 1,
+        "meta": 0
+      },
+      "fluid": {
+        "comment": "Grape Juice",
+        "name": "grapejuice",
+        "amount": 250
+      },
+      "residue": {
+        "pomace": 0.3,
+        "ore": null,
+        "comment": "Bone Meal",
+        "mod_id": "minecraft",
+        "name": "dye",
+        "amount": 1,
+        "meta": 15
+      },
+      "time": 40
     }
   ]
 }
