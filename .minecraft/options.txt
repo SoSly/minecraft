@@ -85,6 +85,7 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
+key_Options Gui:23
 key_key.dragon_fireAttack:19
 key_key.dragon_strike:34
 key_key.dragon_down:45

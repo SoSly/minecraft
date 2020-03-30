@@ -38,4 +38,5 @@ Dependencies required on by other mods.
 
 ### World Generation
 - [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) allows us to generate the world before you explore it, to reduce lag.
+- [Geographicraft](https://www.curseforge.com/minecraft/mc-mods/climate-control-geographicraft) provides fine control over climate bands and river sizes.
 - [Realistic Terrain Generation](https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation) allows us to generate a beautiful world.
