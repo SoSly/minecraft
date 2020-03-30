@@ -26,10 +26,11 @@ The following mods are installed on this server.  If you would like to suggest a
 
 Wherever possible, a link to the Mod's description is provided, along with a link to its prerequisites libraries.
 
-### Adventure
+### Adventure and Exploration
 New and exciting interactions in the world of Minecraft, including new mobs to fight or places to explore.
 
 - [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) adds a host of exciting adventure to the overworld, including Dragons, Hippogryphs, Sirens, and more.
+- [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) adds a simple compass to find whatever biome you're looking for.
 
 ### Dependencies
 Dependencies required on by other mods.
@@ -37,6 +38,7 @@ Dependencies required on by other mods.
 - [LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary) is required for [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons).
 
 ### World Generation
+- [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) adds dozens of new biomes to the world, along with new plants, flowers, and trees.
 - [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) allows us to generate the world before you explore it, to reduce lag.
 - [Geographicraft](https://www.curseforge.com/minecraft/mc-mods/climate-control-geographicraft) provides fine control over climate bands and river sizes.
 - [Realistic Terrain Generation](https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation) allows us to generate a beautiful world.
