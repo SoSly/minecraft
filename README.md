@@ -35,3 +35,6 @@ New and exciting interactions in the world of Minecraft, including new mobs to f
 Dependencies required on by other mods.
 
 - [LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary) is required for [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons).
+
+### World Generation
+- [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) allows us to generate the world before you explore it, to reduce lag.
