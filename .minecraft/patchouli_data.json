@@ -1,0 +1,41 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": true,
+  "bookData": {
+    "bewitchment:book_of_shadows": {
+      "viewedEntries": [
+        "bewitchment:distilling_and_smelting/witches_oven_and_distillery",
+        "bewitchment:magic_overview/altars_and_modifiers",
+        "bewitchment:magic_overview/witches_devices",
+        "bewitchment:cauldron_and_brewing/teleporting",
+        "bewitchment:cauldron_and_brewing/disposal",
+        "bewitchment:cauldron_and_brewing/filled_goblet",
+        "bewitchment:cauldron_and_brewing/chalks",
+        "bewitchment:cauldron_and_brewing/black_and_brown_dye",
+        "bewitchment:cauldron_and_brewing/cauldron_washing",
+        "bewitchment:rituals/perception",
+        "bewitchment:rituals/teleportation",
+        "bewitchment:rituals/world_manipulation",
+        "bewitchment:rituals/chalk",
+        "bewitchment:rituals/circle_drawing"
+      ],
+      "bookmarks": [],
+      "history": [
+        "bewitchment:rituals/world_manipulation",
+        "bewitchment:rituals/circle_drawing",
+        "bewitchment:rituals/chalk",
+        "bewitchment:rituals/perception",
+        "bewitchment:rituals/teleportation",
+        "bewitchment:cauldron_and_brewing/cauldron_washing",
+        "bewitchment:cauldron_and_brewing/black_and_brown_dye",
+        "bewitchment:cauldron_and_brewing/chalks",
+        "bewitchment:cauldron_and_brewing/filled_goblet",
+        "bewitchment:cauldron_and_brewing/disposal",
+        "bewitchment:cauldron_and_brewing/teleporting",
+        "bewitchment:magic_overview/witches_devices",
+        "bewitchment:magic_overview/altars_and_modifiers"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

@@ -53,7 +53,8 @@ New and exciting interactions in the world of Minecraft, including new mobs to f
 ### Dependencies
 Dependencies required on by other mods.
 
-- [LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary) is required for [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons).
+- [LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary), required by Ice and Fire.
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli), required by Bewitchment.
 
 ### Gameplay
 New systems or changes to the base gameplay.
@@ -64,6 +65,7 @@ New systems or changes to the base gameplay.
 All of Minecraft's gameplay loops are enhanced by these ways to power.
 
 - [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery) allows you to draw magic from the stars in the form of Starlight.
+- [Bewitchment](https://www.curseforge.com/minecraft/mc-mods/bewitchment)
 - [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft) allows you to draw magic from physical objects in the form of Vis.
 
 ### World Generation
