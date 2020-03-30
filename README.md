@@ -25,3 +25,13 @@ You will now be able to launch the "SoSly" minecraft instance.  Loading will tak
 The following mods are installed on this server.  If you would like to suggest an additional mod, please send a message to @Niv#0245 in the #minecraft channel on our discord with a link to the mod.
 
 Wherever possible, a link to the Mod's description is provided, along with a link to its prerequisites libraries.
+
+### Adventure
+New and exciting interactions in the world of Minecraft, including new mobs to fight or places to explore.
+
+- [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) adds a host of exciting adventure to the overworld, including Dragons, Hippogryphs, Sirens, and more.
+
+### Dependencies
+Dependencies required on by other mods.
+
+- [LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary) is required for [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons).

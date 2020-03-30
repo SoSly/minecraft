@@ -1,3 +1,5 @@
 .minecraft/logs
 .minecraft/saves
 .minecraft/screenshots
+.minecraft/usercache.json
+.minecraft/usernamecache.json
