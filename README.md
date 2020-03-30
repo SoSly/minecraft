@@ -63,7 +63,8 @@ New systems or changes to the base gameplay.
 ### Magic
 All of Minecraft's gameplay loops are enhanced by these ways to power.
 
-- [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft) allows you to draw magic from physical objects in the form of Vis and reshape it to perform miracles.
+- [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery) allows you to draw magic from the stars in the form of Starlight.
+- [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft) allows you to draw magic from physical objects in the form of Vis.
 
 ### World Generation
 Providing for a more beautiful world.
