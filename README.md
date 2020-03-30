@@ -21,6 +21,24 @@ The Society of Silliness Minecraft Modpack is provided as a place to play and en
 
 You will now be able to launch the "SoSly" minecraft instance.  Loading will take several minutes, as we have a wide variety of mods.  You can then connect to the server, which should appear under the Multiplayer menu.    
 
+## Server Rules
+### Build Nearby
+Players are expected to collaborate and be a part of the server.  You must be able to see Fox Lake from your main base.  Do not build closer than 2 chunks from another player without their permission.
+
+### Specialization
+Each player is allowed to specialize in one kind of magic, and one kind of technology, to specialize in.  You may use objects from any magic or tech mod, if they are created by someone who has specialized in those things, but you cannot craft or research magic or tech outside of the options you have chosen.
+
+**Magic Options:**
+- Astrology (Astral Sorcery)
+- Druidism (Bewitchment+Roots+Natural Pledge)
+- Necromancy (Blood Magic+Corail's Tombstone)
+- Thaumaturgy (Thaumcraft)
+- Wizardry (Electroblob's Wizardry)
+
+**Technology Options:**
+- Botania
+- Embers
+
 ## Installed Mods
 The following mods are installed on this server.  If you would like to suggest an additional mod, please send a message to @Niv#0245 in the #minecraft channel on our discord with a link to the mod.
 
@@ -39,6 +57,8 @@ Dependencies required on by other mods.
 
 ### Gameplay
 New systems or changes to the base gameplay.
+
+- [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) adds new equipable slots for jewelry and accessories.
 
 ### Magic
 All of Minecraft's gameplay loops are enhanced by these ways to power.
