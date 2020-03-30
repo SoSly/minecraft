@@ -1,7 +1,7 @@
-.minecraft/crash-reports
-.minecraft/logs
-.minecraft/saves
-.minecraft/screenshots
-.minecraft/usercache.json
-.minecraft/usernamecache.json
-instance.cfg
+/.minecraft/crash-reports
+/.minecraft/logs
+/.minecraft/saves
+/.minecraft/screenshots
+/.minecraft/usercache.json
+/.minecraft/usernamecache.json
+/instance.cfg
