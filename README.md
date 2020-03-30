@@ -37,7 +37,17 @@ Dependencies required on by other mods.
 
 - [LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary) is required for [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons).
 
+### Gameplay
+New systems or changes to the base gameplay.
+
+### Magic
+All of Minecraft's gameplay loops are enhanced by these ways to power.
+
+- [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft) allows you to draw magic from physical objects in the form of Vis and reshape it to perform miracles.
+
 ### World Generation
+Providing for a more beautiful world.
+
 - [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) adds dozens of new biomes to the world, along with new plants, flowers, and trees.
 - [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) allows us to generate the world before you explore it, to reduce lag.
 - [Geographicraft](https://www.curseforge.com/minecraft/mc-mods/climate-control-geographicraft) provides fine control over climate bands and river sizes.
