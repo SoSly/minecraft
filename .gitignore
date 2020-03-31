@@ -1,7 +1,12 @@
+/.minecraft/.mixin.out
+/.minecraft/astralsorcery
 /.minecraft/crash-reports
 /.minecraft/logs
 /.minecraft/saves
 /.minecraft/screenshots
+/.minecraft/mountains.txt
+/.minecraft/patchouli_books
+/.minecraft/patchouli_data.json
 /.minecraft/usercache.json
 /.minecraft/usernamecache.json
 /instance.cfg
