@@ -84,6 +84,12 @@ All of Minecraft's gameplay loops are enhanced by these ways to power.
     - [Thaumic Inventory Scanning](https://www.curseforge.com/minecraft/mc-mods/thaumcraft-inventory-scanning) is a quality of life improvement for Thaumaturges.
     - [Thaumic Periphery](https://www.curseforge.com/minecraft/mc-mods/thaumic-periphery) provides some interactions with Embers and Botania.
 
+### Technology
+New gameplay loops that bring appropriate levels of technology to the world of Minecraft.
+
+- [Embers Rekindled](https://www.curseforge.com/minecraft/mc-mods/embers-rekindled) rewards you for delving deeply and greedily, as the dwarves.
+    - [Mystical Mechanics](https://www.curseforge.com/minecraft/mc-mods/mysticalmechanics) adds more gears and axles and redstone controls to Ember.
+
 ### World Generation
 Providing for a more beautiful world.
 
