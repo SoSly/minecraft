@@ -54,7 +54,8 @@ New and exciting interactions in the world of Minecraft, including new mobs to f
 Dependencies required on by other mods.
 
 - [LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary), required by Ice and Fire.
-- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli), required by Bewitchment.
+- [MysticalLib](https://www.curseforge.com/minecraft/mc-mods/mysticallib), required by Roots.
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli), required by Bewitchment and Roots.
 
 ### Gameplay
 New systems or changes to the base gameplay.
@@ -65,7 +66,8 @@ New systems or changes to the base gameplay.
 All of Minecraft's gameplay loops are enhanced by these ways to power.
 
 - [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery) allows you to draw magic from the stars in the form of Starlight.
-- [Bewitchment](https://www.curseforge.com/minecraft/mc-mods/bewitchment)
+- [Bewitchment](https://www.curseforge.com/minecraft/mc-mods/bewitchment) finds magic in rituals contained in the Book of Shadows.
+- [Roots](https://www.curseforge.com/minecraft/mc-mods/roots) discovers the wild magic of the natural world.
 - [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft) allows you to draw magic from physical objects in the form of Vis.
 
 ### World Generation
@@ -74,5 +76,6 @@ Providing for a more beautiful world.
 - [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) adds dozens of new biomes to the world, along with new plants, flowers, and trees.
 - [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) allows us to generate the world before you explore it, to reduce lag.
 - [Geographicraft](https://www.curseforge.com/minecraft/mc-mods/climate-control-geographicraft) provides fine control over climate bands and river sizes.
+- [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world) provides new creatures, crops, and structures to bring our world to
 - [Realistic Terrain Generation](https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation) allows us to generate a beautiful world.
 - [YUNG's Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves) generates caves which are beautiful and exciting.

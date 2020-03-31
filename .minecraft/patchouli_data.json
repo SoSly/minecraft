@@ -36,6 +36,22 @@
         "bewitchment:magic_overview/altars_and_modifiers"
       ],
       "completedManualQuests": []
+    },
+    "roots:roots_guide": {
+      "viewedEntries": [
+        "roots:apparatus/component_pouch",
+        "roots:apparatus/knives",
+        "roots:resources/bark",
+        "roots:basics/letter"
+      ],
+      "bookmarks": [],
+      "history": [
+        "roots:basics/letter",
+        "roots:resources/bark",
+        "roots:apparatus/knives",
+        "roots:apparatus/component_pouch"
+      ],
+      "completedManualQuests": []
     }
   }
 }
