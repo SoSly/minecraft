@@ -71,6 +71,7 @@ All of Minecraft's gameplay loops are enhanced by these ways to power.
 - [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic) harvests magical power from the blood of the fallen.
     - [Animus](https://www.curseforge.com/minecraft/mc-mods/animus) adds new rituals and sigils for the blood mage to draw on.
     - [Blood Arsenal](https://www.curseforge.com/minecraft/mc-mods/blood-arsenal) expands on Blood Magic, and makes it easier to get started.
+- [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone) keeps you from losing your belongings on death, and explores the magic of the soul.
 - [Roots](https://www.curseforge.com/minecraft/mc-mods/roots) discovers the wild magic of the natural world.
 - [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft) allows you to draw magic from physical objects in the form of Vis.
 
