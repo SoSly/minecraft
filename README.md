@@ -62,6 +62,8 @@ Dependencies required on by other mods.
 New systems or changes to the base gameplay.
 
 - [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) adds new equipable slots for jewelry and accessories.
+- [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) provides information about what you're looking at.
+    - [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons) adds TOP integration for several other mods.
 
 ### Magic
 All of Minecraft's gameplay loops are enhanced by these ways to power.
@@ -72,6 +74,7 @@ All of Minecraft's gameplay loops are enhanced by these ways to power.
     - [Animus](https://www.curseforge.com/minecraft/mc-mods/animus) adds new rituals and sigils for the blood mage to draw on.
     - [Blood Arsenal](https://www.curseforge.com/minecraft/mc-mods/blood-arsenal) expands on Blood Magic, and makes it easier to get started.
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone) keeps you from losing your belongings on death, and explores the magic of the soul.
+- [Electroblob's Wizardry](https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry) allows you to find magic through exploration and battle.
 - [Roots](https://www.curseforge.com/minecraft/mc-mods/roots) discovers the wild magic of the natural world.
 - [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft) allows you to draw magic from physical objects in the form of Vis.
 
@@ -79,8 +82,12 @@ All of Minecraft's gameplay loops are enhanced by these ways to power.
 Providing for a more beautiful world.
 
 - [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) adds dozens of new biomes to the world, along with new plants, flowers, and trees.
-- [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) allows us to generate the world before you explore it, to reduce lag.
 - [Geographicraft](https://www.curseforge.com/minecraft/mc-mods/climate-control-geographicraft) provides fine control over climate bands and river sizes.
 - [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world) provides new creatures, crops, and structures to bring our world to
 - [Realistic Terrain Generation](https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation) allows us to generate a beautiful world.
 - [YUNG's Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves) generates caves which are beautiful and exciting.
+
+### Adminsitration Mods
+Make it easier for us to administer the server.
+
+- [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) allows us to generate the world before you explore it, to reduce lag.
