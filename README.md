@@ -53,6 +53,7 @@ New and exciting interactions in the world of Minecraft, including new mobs to f
 ### Dependencies
 Dependencies required on by other mods.
 
+- [GuideAPI](https://www.curseforge.com/minecraft/mc-mods/guide-api), required by Blood Magic.
 - [LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary), required by Ice and Fire.
 - [MysticalLib](https://www.curseforge.com/minecraft/mc-mods/mysticallib), required by Roots.
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli), required by Bewitchment and Roots.
@@ -67,6 +68,9 @@ All of Minecraft's gameplay loops are enhanced by these ways to power.
 
 - [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery) allows you to draw magic from the stars in the form of Starlight.
 - [Bewitchment](https://www.curseforge.com/minecraft/mc-mods/bewitchment) finds magic in rituals contained in the Book of Shadows.
+- [Blood Magic](https://www.curseforge.com/minecraft/mc-mods/blood-magic) harvests magical power from the blood of the fallen.
+    - [Animus](https://www.curseforge.com/minecraft/mc-mods/animus) adds new rituals and sigils for the blood mage to draw on.
+    - [Blood Arsenal](https://www.curseforge.com/minecraft/mc-mods/blood-arsenal) expands on Blood Magic, and makes it easier to get started.
 - [Roots](https://www.curseforge.com/minecraft/mc-mods/roots) discovers the wild magic of the natural world.
 - [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft) allows you to draw magic from physical objects in the form of Vis.
 
