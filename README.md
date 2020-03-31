@@ -75,6 +75,7 @@ All of Minecraft's gameplay loops are enhanced by these ways to power.
     - [Blood Arsenal](https://www.curseforge.com/minecraft/mc-mods/blood-arsenal) expands on Blood Magic, and makes it easier to get started.
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone) keeps you from losing your belongings on death, and explores the magic of the soul.
 - [Electroblob's Wizardry](https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry) allows you to find magic through exploration and battle.
+    - [Arcane Essentials](https://www.curseforge.com/minecraft/mc-mods/arcane-essentials) adds more spells for wizards.
 - [Roots](https://www.curseforge.com/minecraft/mc-mods/roots) discovers the wild magic of the natural world.
 - [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft) allows you to draw magic from physical objects in the form of Vis.
     - [Enchanting with Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/enchanting-with-thaumcraft) allows Thaumaturges create enchanting books.
