@@ -77,6 +77,11 @@ All of Minecraft's gameplay loops are enhanced by these ways to power.
 - [Electroblob's Wizardry](https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry) allows you to find magic through exploration and battle.
 - [Roots](https://www.curseforge.com/minecraft/mc-mods/roots) discovers the wild magic of the natural world.
 - [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft) allows you to draw magic from physical objects in the form of Vis.
+    - [Enchanting with Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/enchanting-with-thaumcraft) allows Thaumaturges create enchanting books.
+    - [Thaumic Augmentation](https://www.curseforge.com/minecraft/mc-mods/thaumic-augmentation) adds research into wards and locks, as well as the emptiness behind dimensional fractures.
+    - [Thaumic Brewing](https://www.curseforge.com/minecraft/mc-mods/thaumic-brewing) allows Thaumaturges to brew with Essentia.
+    - [Thaumic Inventory Scanning](https://www.curseforge.com/minecraft/mc-mods/thaumcraft-inventory-scanning) is a quality of life improvement for Thaumaturges.
+    - [Thaumic Periphery](https://www.curseforge.com/minecraft/mc-mods/thaumic-periphery) provides some interactions with Embers and Botania.
 
 ### World Generation
 Providing for a more beautiful world.
