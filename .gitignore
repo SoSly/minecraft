@@ -8,6 +8,7 @@
 /.minecraft/mountains.txt
 /.minecraft/patchouli_books
 /.minecraft/patchouli_data.json
+/.minecraft/textures_*
 /.minecraft/usercache.json
 /.minecraft/usernamecache.json
 /instance.cfg

@@ -57,16 +57,19 @@ Dependencies required on by other mods.
 - [CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api), required by Animania.
 - [Forgelin](https://www.curseforge.com/minecraft/mc-mods/forgelin), required by LibrarianLib.
 - [GuideAPI](https://www.curseforge.com/minecraft/mc-mods/guide-api), required by Blood Magic.
+- [Guidebook](https://www.curseforge.com/minecraft/mc-mods/guidebook), required by Arcane Archives.
 - [LibrarianLib](https://www.curseforge.com/minecraft/mc-mods/librarianlib), required by Botania.
 - [LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary), required by Ice and Fire.
-- [MysticalLib](https://www.curseforge.com/minecraft/mc-mods/mysticallib), required by Roots.
+- [MysticalLib](https://www.curseforge.com/minecraft/mc-mods/mysticallib), required by Roots and Arcane Archives.
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli), required by Bewitchment and Roots.
 
 ### Gameplay
 New systems or changes to the base gameplay.
 
 - [Animania](https://www.curseforge.com/minecraft/mc-mods/animania) replaces and improves passive animals.
+- [Arcane Archives](https://www.curseforge.com/minecraft/mc-mods/arcane-archives) is a storage mod with a magical flair.
 - [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) adds new equipable slots for jewelry and accessories.
+- [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) lets you pick up items in the world and carry them around.
 - [Hunger Overhaul](https://www.curseforge.com/minecraft/mc-mods/hunger-overhaul) tweaks the hunger mechanics to be more of an interesting challenge.
 - [Pam's Harvestcraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft) adds new crops and fish to provide diversity of food.
 - [The Spice of Life](https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life) encourages dietary variety through diminishing returns.
