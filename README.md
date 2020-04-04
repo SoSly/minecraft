@@ -53,6 +53,7 @@ New and exciting interactions in the world of Minecraft, including new mobs to f
 ### Dependencies
 Dependencies required on by other mods.
 
+- [CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api), required by Animania.
 - [Forgelin](https://www.curseforge.com/minecraft/mc-mods/forgelin), required by LibrarianLib.
 - [GuideAPI](https://www.curseforge.com/minecraft/mc-mods/guide-api), required by Blood Magic.
 - [LibrarianLib](https://www.curseforge.com/minecraft/mc-mods/librarianlib), required by Botania.
@@ -63,6 +64,7 @@ Dependencies required on by other mods.
 ### Gameplay
 New systems or changes to the base gameplay.
 
+- [Animania](https://www.curseforge.com/minecraft/mc-mods/animania) replaces and improves passive animals.
 - [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) adds new equipable slots for jewelry and accessories.
 - [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) provides information about what you're looking at.
     - [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons) adds TOP integration for several other mods.
