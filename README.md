@@ -53,6 +53,7 @@ New and exciting interactions in the world of Minecraft, including new mobs to f
 ### Dependencies
 Dependencies required on by other mods.
 
+- [AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore), required by Hunger Overhaul and Spice of Life.
 - [CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api), required by Animania.
 - [Forgelin](https://www.curseforge.com/minecraft/mc-mods/forgelin), required by LibrarianLib.
 - [GuideAPI](https://www.curseforge.com/minecraft/mc-mods/guide-api), required by Blood Magic.
@@ -66,8 +67,9 @@ New systems or changes to the base gameplay.
 
 - [Animania](https://www.curseforge.com/minecraft/mc-mods/animania) replaces and improves passive animals.
 - [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) adds new equipable slots for jewelry and accessories.
-- [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) provides information about what you're looking at.
-    - [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons) adds TOP integration for several other mods.
+- [Hunger Overhaul](https://www.curseforge.com/minecraft/mc-mods/hunger-overhaul) tweaks the hunger mechanics to be more of an interesting challenge.
+- [Pam's Harvestcraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft) adds new crops and fish to provide diversity of food.
+- [The Spice of Life](https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life) encourages dietary variety through diminishing returns.
 
 ### Magic
 All of Minecraft's gameplay loops are enhanced by these ways to power.
@@ -95,6 +97,13 @@ New gameplay loops that bring appropriate levels of technology to the world of M
 - [Botania](https://www.curseforge.com/minecraft/mc-mods/botania) is a form of natural technology, drawing power from the flowers.
 - [Embers Rekindled](https://www.curseforge.com/minecraft/mc-mods/embers-rekindled) rewards you for delving deeply and greedily, as the dwarves.
     - [Mystical Mechanics](https://www.curseforge.com/minecraft/mc-mods/mysticalmechanics) adds more gears and axles and redstone controls to Ember.
+
+### User Interface
+Changes to the way the game overlay and interface works.
+
+- [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) improves the visualization of saturation and exhaustion.
+- [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) provides information about what you're looking at.
+    - [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons) adds TOP integration for several other mods.
 
 ### World Generation
 Providing for a more beautiful world.
