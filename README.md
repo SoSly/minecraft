@@ -53,7 +53,9 @@ New and exciting interactions in the world of Minecraft, including new mobs to f
 ### Dependencies
 Dependencies required on by other mods.
 
+- [Forgelin](https://www.curseforge.com/minecraft/mc-mods/forgelin), required by LibrarianLib.
 - [GuideAPI](https://www.curseforge.com/minecraft/mc-mods/guide-api), required by Blood Magic.
+- [LibrarianLib](https://www.curseforge.com/minecraft/mc-mods/librarianlib), required by Botania.
 - [LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary), required by Ice and Fire.
 - [MysticalLib](https://www.curseforge.com/minecraft/mc-mods/mysticallib), required by Roots.
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli), required by Bewitchment and Roots.
@@ -76,6 +78,7 @@ All of Minecraft's gameplay loops are enhanced by these ways to power.
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone) keeps you from losing your belongings on death, and explores the magic of the soul.
 - [Electroblob's Wizardry](https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry) allows you to find magic through exploration and battle.
     - [Arcane Essentials](https://www.curseforge.com/minecraft/mc-mods/arcane-essentials) adds more spells for wizards.
+- [Natural Pledge](https://www.curseforge.com/minecraft/mc-mods/natural-pledge) uses divine magic.  You must use Botania to access this form of magic.
 - [Roots](https://www.curseforge.com/minecraft/mc-mods/roots) discovers the wild magic of the natural world.
 - [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft) allows you to draw magic from physical objects in the form of Vis.
     - [Enchanting with Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/enchanting-with-thaumcraft) allows Thaumaturges create enchanting books.
@@ -87,6 +90,7 @@ All of Minecraft's gameplay loops are enhanced by these ways to power.
 ### Technology
 New gameplay loops that bring appropriate levels of technology to the world of Minecraft.
 
+- [Botania](https://www.curseforge.com/minecraft/mc-mods/botania) is a form of natural technology, drawing power from the flowers.
 - [Embers Rekindled](https://www.curseforge.com/minecraft/mc-mods/embers-rekindled) rewards you for delving deeply and greedily, as the dwarves.
     - [Mystical Mechanics](https://www.curseforge.com/minecraft/mc-mods/mysticalmechanics) adds more gears and axles and redstone controls to Ember.
 
