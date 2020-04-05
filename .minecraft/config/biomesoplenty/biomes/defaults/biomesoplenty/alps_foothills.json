@@ -92,7 +92,8 @@
       "amountPerChunk": 0.5,
       "enable": true,
       "generators": {}
-    }
+    },
+    "emerald": {}
   },
   "weights": {}
 }

@@ -97,7 +97,8 @@
       "amountPerChunk": 40.0,
       "enable": true,
       "generators": {}
-    }
+    },
+    "emerald": {}
   },
   "weights": {
     "tropical": 2

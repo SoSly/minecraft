@@ -105,7 +105,8 @@
       "generationAttempts": 64,
       "amountPerChunk": 4.0,
       "enable": true
-    }
+    },
+    "emerald": {}
   },
   "weights": {
     "cold_swamp": 2
