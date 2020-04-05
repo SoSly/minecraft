@@ -120,4 +120,6 @@ Providing for a more beautiful world.
 ### Adminsitration Mods
 Make it easier for us to administer the server.
 
+- [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) allows us to create custom item recipes.
+    - [CraftTweaker Utils](https://www.curseforge.com/minecraft/mc-mods/crafttweaker-utils) adds valuable additions to CraftTweaker.
 - [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) allows us to generate the world before you explore it, to reduce lag.
