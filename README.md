@@ -130,3 +130,8 @@ Dependencies required on by other mods.
 - [MMDLib](https://www.curseforge.com/minecraft/mc-mods/mmdlib), required by Base Metals.
 - [MysticalLib](https://www.curseforge.com/minecraft/mc-mods/mysticallib), required by Roots and Arcane Archives.
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli), required by Bewitchment and Roots.
+
+### Performance
+Mods to improve server and client performance.
+
+- [Born in a Barn](https://www.curseforge.com/minecraft/mc-mods/born-in-a-barn) fixes a Minecraft bug where village doors keep chunks loaded.
