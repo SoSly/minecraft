@@ -50,19 +50,6 @@ New and exciting interactions in the world of Minecraft, including new mobs to f
 - [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) adds a host of exciting adventure to the overworld, including Dragons, Hippogryphs, Sirens, and more.
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) adds a simple compass to find whatever biome you're looking for.
 
-### Dependencies
-Dependencies required on by other mods.
-
-- [AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore), required by Hunger Overhaul and Spice of Life.
-- [CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api), required by Animania.
-- [Forgelin](https://www.curseforge.com/minecraft/mc-mods/forgelin), required by LibrarianLib.
-- [GuideAPI](https://www.curseforge.com/minecraft/mc-mods/guide-api), required by Blood Magic.
-- [Guidebook](https://www.curseforge.com/minecraft/mc-mods/guidebook), required by Arcane Archives.
-- [LibrarianLib](https://www.curseforge.com/minecraft/mc-mods/librarianlib), required by Botania.
-- [LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary), required by Ice and Fire.
-- [MysticalLib](https://www.curseforge.com/minecraft/mc-mods/mysticallib), required by Roots and Arcane Archives.
-- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli), required by Bewitchment and Roots.
-
 ### Gameplay
 New systems or changes to the base gameplay.
 
@@ -73,6 +60,11 @@ New systems or changes to the base gameplay.
 - [Hunger Overhaul](https://www.curseforge.com/minecraft/mc-mods/hunger-overhaul) tweaks the hunger mechanics to be more of an interesting challenge.
 - [Pam's Harvestcraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft) adds new crops and fish to provide diversity of food.
 - [The Spice of Life](https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life) encourages dietary variety through diminishing returns.
+- [Spartan Weaponry](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry) expands the list of available weapons in the game.
+    - [Shiny Gear](https://www.curseforge.com/minecraft/mc-mods/shiny-gear) adds gemic spartan weaponry.
+    - [Spartan BaseMetals](https://www.curseforge.com/minecraft/mc-mods/spartan-basemetals) adds compatibility with some of the more interesting ores in our world.
+    - [Spartan Shields](https://www.curseforge.com/minecraft/mc-mods/spartan-shields) adds additional shields in the same vein.
+    - [Spartan Weaponry Arcana](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry-arcana) provides compatibility for some magical metals.
 
 ### Magic
 All of Minecraft's gameplay loops are enhanced by these ways to power.
@@ -111,6 +103,7 @@ Changes to the way the game overlay and interface works.
 ### World Generation
 Providing for a more beautiful world.
 
+- [Base Metals](https://www.curseforge.com/minecraft/mc-mods/base-metals) adds additional ores and alloys to the game.
 - [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) adds dozens of new biomes to the world, along with new plants, flowers, and trees.
 - [Geographicraft](https://www.curseforge.com/minecraft/mc-mods/climate-control-geographicraft) provides fine control over climate bands and river sizes.
 - [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world) provides new creatures, crops, and structures to bring our world to
@@ -123,3 +116,17 @@ Make it easier for us to administer the server.
 - [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) allows us to create custom item recipes.
     - [CraftTweaker Utils](https://www.curseforge.com/minecraft/mc-mods/crafttweaker-utils) adds valuable additions to CraftTweaker.
 - [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) allows us to generate the world before you explore it, to reduce lag.
+
+### Dependencies
+Dependencies required on by other mods.
+
+- [AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore), required by Hunger Overhaul and Spice of Life.
+- [CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api), required by Animania.
+- [Forgelin](https://www.curseforge.com/minecraft/mc-mods/forgelin), required by LibrarianLib.
+- [GuideAPI](https://www.curseforge.com/minecraft/mc-mods/guide-api), required by Blood Magic.
+- [Guidebook](https://www.curseforge.com/minecraft/mc-mods/guidebook), required by Arcane Archives.
+- [LibrarianLib](https://www.curseforge.com/minecraft/mc-mods/librarianlib), required by Botania.
+- [LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary), required by Ice and Fire.
+- [MMDLib](https://www.curseforge.com/minecraft/mc-mods/mmdlib), required by Base Metals.
+- [MysticalLib](https://www.curseforge.com/minecraft/mc-mods/mysticallib), required by Roots and Arcane Archives.
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli), required by Bewitchment and Roots.
