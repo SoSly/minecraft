@@ -65,6 +65,8 @@ New systems or changes to the base gameplay.
 - [Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks) adds versatile equippable backpacks.
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus) is a sleep vote system.
 - [Netherbound](https://www.curseforge.com/minecraft/mc-mods/netherbound) prevents the Wither from spawning outside of the nether.
+- [NetherPortalFix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) ensures players leave the Nether by the same portal they enter.
+- [NoMoreRecipeConflict](https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict) allows conflicting recipes to go-exist.
 - [Pam's Harvestcraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft) adds new crops and fish to provide diversity of food.
 - [The Spice of Life](https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life) encourages dietary variety through diminishing returns.
 - [Spartan Weaponry](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry) expands the list of available weapons in the game.
