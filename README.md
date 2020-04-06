@@ -63,6 +63,7 @@ New systems or changes to the base gameplay.
 - [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads) adds a seed market for streamlined farming.
 - [Hunger Overhaul](https://www.curseforge.com/minecraft/mc-mods/hunger-overhaul) tweaks the hunger mechanics to be more of an interesting challenge.
 - [Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks) adds versatile equippable backpacks.
+- [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus) a sleep vote system.
 - [Pam's Harvestcraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft) adds new crops and fish to provide diversity of food.
 - [The Spice of Life](https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life) encourages dietary variety through diminishing returns.
 - [Spartan Weaponry](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry) expands the list of available weapons in the game.
@@ -109,7 +110,6 @@ Changes to the way the game overlay and interface works.
     - [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/) JEI support for mob drops and other resources.
     - [Thaumic JEI](https://www.curseforge.com/minecraft/mc-mods/thaumic-jei) JEI Thaumcraft compat.
     - [Thaumcraft 6 Aspects for JEI](https://www.curseforge.com/minecraft/mc-mods/thaumcraft-6-aspects-for-jei) More JEI Thaumcraft compat.
-    
 - [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) provides information about what you're looking at.
     - [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons) adds TOP integration for several other mods.
 
