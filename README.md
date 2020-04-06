@@ -120,6 +120,7 @@ Changes to the way the game overlay and interface works.
     - [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/) JEI support for mob drops and other resources.
     - [Thaumic JEI](https://www.curseforge.com/minecraft/mc-mods/thaumic-jei) JEI Thaumcraft compat.
     - [Thaumcraft 6 Aspects for JEI](https://www.curseforge.com/minecraft/mc-mods/thaumcraft-6-aspects-for-jei) More JEI Thaumcraft compat.
+- [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters) adds reverb to caves and other immersive sounds.
 - [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) provides information about what you're looking at.
     - [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons) adds TOP integration for several other mods.
 
@@ -132,6 +133,7 @@ Providing for a more beautiful world.
 - [Geographicraft](https://www.curseforge.com/minecraft/mc-mods/climate-control-geographicraft) provides fine control over climate bands and river sizes.
 - [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world) provides new creatures, crops, and structures to bring our world to
 - [Realistic Terrain Generation](https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation) allows us to generate a beautiful world.
+- [Save My Stronghold!](https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold) prevents worldgen from tearing through the Ender Stronghold.
 - [YUNG's Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves) generates caves which are beautiful and exciting.
 
 ### Adminsitration Mods
