@@ -59,6 +59,8 @@ New systems or changes to the base gameplay.
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) lets you pick up items in the world and carry them around.
 - [Controlled Burn](https://www.curseforge.com/minecraft/mc-mods/controlled-burn) allows customization of fire spread.
 - [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers) allows customization of creeper behavior and impact.
+- [Exotic Birds](https://www.curseforge.com/minecraft/mc-mods/exotic-birds) adds many fun and colorful birds.
+- [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads) adds a seed market for streamlined farming.
 - [Hunger Overhaul](https://www.curseforge.com/minecraft/mc-mods/hunger-overhaul) tweaks the hunger mechanics to be more of an interesting challenge.
 - [Pam's Harvestcraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft) adds new crops and fish to provide diversity of food.
 - [The Spice of Life](https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life) encourages dietary variety through diminishing returns.
