@@ -47,8 +47,11 @@ Wherever possible, a link to the Mod's description is provided, along with a lin
 ### Adventure and Exploration
 New and exciting interactions in the world of Minecraft, including new mobs to fight or places to explore.
 
+- [Exotic Birds](https://www.curseforge.com/minecraft/mc-mods/exotic-birds) adds many fun and colorful birds.
 - [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) adds a host of exciting adventure to the overworld, including Dragons, Hippogryphs, Sirens, and more.
+    - [ISeeDragons](https://www.curseforge.com/minecraft/mc-mods/iseedragons) fixes several problems with dragons not rendering or waking up.A
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) adds a simple compass to find whatever biome you're looking for.
+- [Shipwrecks!](https://www.curseforge.com/minecraft/mc-mods/shipwrecks) adds shipwreck structures to the game.
 
 ### Gameplay
 New systems or changes to the base gameplay.
@@ -59,7 +62,6 @@ New systems or changes to the base gameplay.
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) lets you pick up items in the world and carry them around.
 - [Controlled Burn](https://www.curseforge.com/minecraft/mc-mods/controlled-burn) allows customization of fire spread.
 - [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers) allows customization of creeper behavior and impact.
-- [Exotic Birds](https://www.curseforge.com/minecraft/mc-mods/exotic-birds) adds many fun and colorful birds.
 - [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads) adds a seed market for streamlined farming.
 - [Hunger Overhaul](https://www.curseforge.com/minecraft/mc-mods/hunger-overhaul) tweaks the hunger mechanics to be more of an interesting challenge.
 - [Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks) adds versatile equippable backpacks.
@@ -80,7 +82,6 @@ New systems or changes to the base gameplay.
     - [Spartan BaseMetals](https://www.curseforge.com/minecraft/mc-mods/spartan-basemetals) adds compatibility with some of the more interesting ores in our world.
     - [Spartan Shields](https://www.curseforge.com/minecraft/mc-mods/spartan-shields) adds additional shields in the same vein.
     - [Spartan Weaponry Arcana](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry-arcana) provides compatibility for some magical metals.
-- [Shipwrecks!](https://www.curseforge.com/minecraft/mc-mods/shipwrecks) adds shipwreck structures to the game.
 
 ### Magic
 All of Minecraft's gameplay loops are enhanced by these ways to power.
@@ -133,8 +134,8 @@ Providing for a more beautiful world.
 - [Geographicraft](https://www.curseforge.com/minecraft/mc-mods/climate-control-geographicraft) provides fine control over climate bands and river sizes.
 - [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world) provides new creatures, crops, and structures to bring our world to
 - [Realistic Terrain Generation](https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation) allows us to generate a beautiful world.
-- [Save My Stronghold!](https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold) prevents worldgen from tearing through the Ender Stronghold.
 - [YUNG's Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves) generates caves which are beautiful and exciting.
+    - [Save My Stronghold!](https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold) prevents worldgen from tearing through the Ender Stronghold.
 
 ### Adminsitration Mods
 Make it easier for us to administer the server.
