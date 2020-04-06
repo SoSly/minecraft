@@ -141,4 +141,5 @@ Mods to improve server and client performance.
 - [Born in a Barn](https://www.curseforge.com/minecraft/mc-mods/born-in-a-barn) fixes a Minecraft bug where village doors keep chunks loaded.
 - [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) clumps XP orbs into groups to reduce lag.
 - [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) speeds up the decay of leaf blocks after cutting down a tree.
-- [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) is a memory optimization mod.g
+- [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) is a memory optimization mod.
+- [Gotta Go Fast](https://www.curseforge.com/minecraft/mc-mods/gotta-go-fast) removes the server-side check for moving too fast.
