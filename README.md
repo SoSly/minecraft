@@ -1,7 +1,7 @@
 # SoSly Minecraft Modpack
 **Version:** 4.0.0<br />
-**Seed:** Undetermined<br />
-**Starting Coordinates:** Undetermined
+**Seed:** Eclipse<br />
+**Starting Coordinates:** x: -11 z: -756 y: 62
 
 The Society of Silliness Minecraft Modpack is provided as a place to play and enjoy the game. 
 
@@ -113,6 +113,7 @@ New gameplay loops that bring appropriate levels of technology to the world of M
 Changes to the way the game overlay and interface works.
 
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) improves the visualization of saturation and exhaustion.
+- [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) is a map with a minimap hud and placeable markers.
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) adds information and recipes to the inventory screen.
     - [JEI Integration](https://www.curseforge.com/minecraft/mc-mods/jei-integration) JEI addon.
     - [JEI Villagers](https://www.curseforge.com/minecraft/mc-mods/jei-villagers) JEI support for villager trades.
