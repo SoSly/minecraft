@@ -70,6 +70,10 @@ New systems or changes to the base gameplay.
 - [NotEnoughScaffold](https://www.curseforge.com/minecraft/mc-mods/notenoughscaffold) adds scaffold blocks.
 - [Pam's Harvestcraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft) adds new crops and fish to provide diversity of food.
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) adds various interesting content to the game.
+- [Rustic](https://www.curseforge.com/minecraft/mc-mods/rustic) adds rustic decorations and some brewing.
+    - [Rustic BOP Woods](https://www.curseforge.com/minecraft/mc-mods/rustic-bop-woods) BOP and Rustic compat.
+    - [Rustic Thaumatagy](https://www.curseforge.com/minecraft/mc-mods/rustic-thaumaturgy) TC and Rustic compat.
+    - [Rustic Witchcraft](https://www.curseforge.com/minecraft/mc-mods/rusticwitchcraft) Bewitchment and Rustic compat.
 - [The Spice of Life](https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life) encourages dietary variety through diminishing returns.
 - [Spartan Weaponry](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry) expands the list of available weapons in the game.
     - [Shiny Gear](https://www.curseforge.com/minecraft/mc-mods/shiny-gear) adds gemic spartan weaponry.
