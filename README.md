@@ -158,3 +158,4 @@ Mods to improve server and client performance.
 - [FoamFix](https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod) is a memory optimization mod.
 - [Gotta Go Fast](https://www.curseforge.com/minecraft/mc-mods/gotta-go-fast) removes the server-side check for moving too fast.
 - [JustEnoughIDs](https://www.curseforge.com/minecraft/mc-mods/jeid) raises the object ID limit.
+- [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor-forge) improves Minecraft's lighting engine.
