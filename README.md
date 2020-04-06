@@ -135,3 +135,4 @@ Dependencies required on by other mods.
 Mods to improve server and client performance.
 
 - [Born in a Barn](https://www.curseforge.com/minecraft/mc-mods/born-in-a-barn) fixes a Minecraft bug where village doors keep chunks loaded.
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) clumps XP orbs into groups to reduce lag.
