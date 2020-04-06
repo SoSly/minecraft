@@ -48,6 +48,7 @@ Wherever possible, a link to the Mod's description is provided, along with a lin
 New and exciting interactions in the world of Minecraft, including new mobs to fight or places to explore.
 
 - [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) adds a host of exciting adventure to the overworld, including Dragons, Hippogryphs, Sirens, and more.
+    - [ISeeDragons](https://www.curseforge.com/minecraft/mc-mods/iseedragons) fixes several problems with dragons not rendering or waking up.
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) adds a simple compass to find whatever biome you're looking for.
 
 ### Gameplay
