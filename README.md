@@ -102,8 +102,17 @@ New gameplay loops that bring appropriate levels of technology to the world of M
 Changes to the way the game overlay and interface works.
 
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) improves the visualization of saturation and exhaustion.
+- [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) adds information and recipes to the inventory screen.
+    - [JEI Integration](https://www.curseforge.com/minecraft/mc-mods/jei-integration) JEI addon.
+    - [JEI Villagers](https://www.curseforge.com/minecraft/mc-mods/jei-villagers) JEI support for villager trades.
+    - [Just Enough Harvestcraft](https://www.curseforge.com/minecraft/mc-mods/just-enough-harvestcraft) JEI Harvestcraft compat.
+    - [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/) JEI support for mob drops and other resources.
+    - [Thaumic JEI](https://www.curseforge.com/minecraft/mc-mods/thaumic-jei) JEI Thaumcraft compat.
+    - [Thaumcraft 6 Aspects for JEI](https://www.curseforge.com/minecraft/mc-mods/thaumcraft-6-aspects-for-jei) More JEI Thaumcraft compat.
+    
 - [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) provides information about what you're looking at.
     - [TOP Addons](https://www.curseforge.com/minecraft/mc-mods/top-addons) adds TOP integration for several other mods.
+
 
 ### World Generation
 Providing for a more beautiful world.
