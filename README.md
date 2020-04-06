@@ -142,12 +142,16 @@ Make it easier for us to administer the server.
 - [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) allows us to create custom item recipes.
     - [CraftTweaker Utils](https://www.curseforge.com/minecraft/mc-mods/crafttweaker-utils) adds valuable additions to CraftTweaker.
 - [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) allows us to generate the world before you explore it, to reduce lag.
+- [Game Stages](https://www.curseforge.com/minecraft/mc-mods/game-stages) allows us to modify the gameplay rules.
+    - [Item Stages](https://www.curseforge.com/minecraft/mc-mods/item-stages) provides modifications to item rules.
+    - [Recipe Stages](https://www.curseforge.com/minecraft/mc-mods/recipe-stages) provides modifications to recipe rules.
 
 ### Dependencies
 Dependencies required on by other mods.
 
 - [AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore), required by Hunger Overhaul and Spice of Life.
 - [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib), required by Quark.
+- [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf), required by GameStages.
 - [CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api), required by Animania.
 - [Forgelin](https://www.curseforge.com/minecraft/mc-mods/forgelin), required by LibrarianLib.
 - [GuideAPI](https://www.curseforge.com/minecraft/mc-mods/guide-api), required by Blood Magic.
