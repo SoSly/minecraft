@@ -14,6 +14,7 @@ events.onCommand(function(event as CommandEvent) {
         return;
     }
 
+    event.cancel();
     if (player.hasGameStage("magic")) {
         player.sendChat("You cannot learn another school of magic.");
         return;
