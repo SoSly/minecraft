@@ -97,6 +97,7 @@ All of Minecraft's gameplay loops are enhanced by these ways to power.
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone) keeps you from losing your belongings on death, and explores the magic of the soul.
 - [Electroblob's Wizardry](https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry) allows you to find magic through exploration and battle.
     - [Arcane Essentials](https://www.curseforge.com/minecraft/mc-mods/arcane-essentials) adds more spells for wizards.
+- [Metamorph](https://www.curseforge.com/minecraft/mc-mods/metamorph) allows Druids to transform into animals.
 - [Natural Pledge](https://www.curseforge.com/minecraft/mc-mods/natural-pledge) uses divine magic.  You must use Botania to access this form of magic.
 - [Roots](https://www.curseforge.com/minecraft/mc-mods/roots) discovers the wild magic of the natural world.
 - [Thaumcraft](https://www.curseforge.com/minecraft/mc-mods/thaumcraft) allows you to draw magic from physical objects in the form of Vis.
@@ -150,6 +151,7 @@ Make it easier for us to administer the server.
 - [Game Stages](https://www.curseforge.com/minecraft/mc-mods/game-stages) allows us to modify the gameplay rules.
     - [Item Stages](https://www.curseforge.com/minecraft/mc-mods/item-stages) provides modifications to item rules.
     - [Recipe Stages](https://www.curseforge.com/minecraft/mc-mods/recipe-stages) provides modifications to recipe rules.
+- [NBT Tooltip](https://www.curseforge.com/minecraft/mc-mods/nbt-tooltip) allows us to lookup NBT tags on items in the game.
 
 ### Dependencies
 Dependencies required on by other mods.
@@ -163,6 +165,7 @@ Dependencies required on by other mods.
 - [Guidebook](https://www.curseforge.com/minecraft/mc-mods/guidebook), required by Arcane Archives.
 - [LibrarianLib](https://www.curseforge.com/minecraft/mc-mods/librarianlib), required by Botania.
 - [LLibrary](https://www.curseforge.com/minecraft/mc-mods/llibrary), required by Ice and Fire.
+- [McHorse's McLib](https://www.curseforge.com/minecraft/mc-mods/mchorses-mclib), required by Metamorph.
 - [MMDLib](https://www.curseforge.com/minecraft/mc-mods/mmdlib), required by Base Metals.
 - [MysticalLib](https://www.curseforge.com/minecraft/mc-mods/mysticallib), required by Roots and Arcane Archives.
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli), required by Bewitchment and Roots.
