@@ -21,19 +21,22 @@ The Society of Silliness Minecraft Modpack is provided as a place to play and en
 
 You will now be able to launch the "SoSly" minecraft instance.  Loading will take several minutes, as we have a wide variety of mods.  You can then connect to the server, which should appear under the Multiplayer menu.    
 
-## Server Rules
+## Player Rules
+### No Griefing
+Do not grief another player's build.  If you break it, please fix it.
+
 ### Build Nearby
-Players are expected to collaborate and be a part of the server.  You must be able to see Fox Lake from your main base.  Do not build closer than 2 chunks from another player without their permission.
+Players are expected to collaborate and be a part of the server, and all players are expected to build somewhere near Fox Lake.  Please give other players at least 2 chunks (32 blocks) of distance, and do not build more than 12 chunks (192 blocks) away from other players near the lake.  A
 
 ### Specialization
-Each player is allowed to specialize in one kind of magic, and one kind of technology, to specialize in.  You may use objects from any magic or tech mod, if they are created by someone who has specialized in those things, but you cannot craft or research magic or tech outside of the options you have chosen.
+Each player is allowed to specialize in one kind of magic, and one kind of technology.  You may use objects from any magic or tech mod, if they were created by someone who has specialized in those things, but you cannot craft or research magic or tech outside of the options you have chosen.
 
 **Magic Options:**
 - Astrology (Astral Sorcery)
-- Druidism (Bewitchment+Roots+Natural Pledge)
+- Druidism (Morph+Natural Pledge+Roots)
 - Necromancy (Blood Magic+Corail's Tombstone)
 - Thaumaturgy (Thaumcraft)
-- Wizardry (Electroblob's Wizardry)
+- Wizardry (Bewitchment+Electroblob's Wizardry)
 
 **Technology Options:**
 - Botania
