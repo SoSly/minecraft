@@ -33,7 +33,7 @@ Each player is allowed to specialize in one kind of magic, and one kind of techn
 
 **Magic Options:**
 - Astrology (Astral Sorcery)
-- Druidism (Morph+Natural Pledge+Roots)
+- Druidcraft (Metamorph+Natural Pledge+Roots)
 - Necromancy (Blood Magic+Corail's Tombstone)
 - Thaumaturgy (Thaumcraft)
 - Wizardry (Bewitchment+Electroblob's Wizardry)
@@ -41,6 +41,11 @@ Each player is allowed to specialize in one kind of magic, and one kind of techn
 **Technology Options:**
 - Botania
 - Embers
+
+#### Selection
+To select your magic option, type: `/ct magic <school>` where school is one of astrology, druidcraft, necromancy, thaumaturgy, or wizardry.
+
+To select your tech option, type: `/ct tech <style>` where style is either botania or embers.
 
 ## Installed Mods
 The following mods are installed on this server.  If you would like to suggest an additional mod, please send a message to @Niv#0245 in the #minecraft channel on our discord with a link to the mod.
