@@ -36,7 +36,6 @@ events.onCommand(function(event as CommandEvent) {
 Recipes.setRecipeStageByMod("astrology", "astralsorcery");
 
 // Druidcraft
-Recipes.setRecipeStageByMod("druidcraft", "bewitchment");
 Recipes.setRecipeStageByMod("druidcraft", "naturalpledge");
 Recipes.setRecipeStageByMod("druidcraft", "roots");
 
@@ -48,4 +47,5 @@ Recipes.setRecipeStageByMod("necromancy", "tombstone");
 Recipes.setRecipeStageByMod("thaumaturgy", "thaumcraft");
 
 // Wizardry
+Recipes.setRecipeStageByMod("wizardry", "bewitchment");
 Recipes.setRecipeStageByMod("wizardry", "ebwizardry");
