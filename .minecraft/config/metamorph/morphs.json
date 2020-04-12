@@ -1,1 +1,33 @@
-{}
+{
+    "animania:ferret_grey": {
+        "health": 8,
+        "speed": 0.1
+    },
+    "animania:buck_lop": {
+        "abilities": ["jumping"],
+        "action": "jump",
+        "health": 4,
+        "speed": 0.35
+    },
+    "minecraft:ocelot": {
+        "abilities": ["climb", "night_vision"],
+        "health": 10,
+        "speed": 0.15
+    },
+    "bewitchment:raven": {
+        "abilities": ["jumping", "fly"],
+        "health": 4,
+        "speed": 0.05
+    },
+    "minecraft:squid": {
+        "abilities": ["night_vision", "swim", "water_breath"],
+        "health": 8,
+        "speed": 0.15
+    },
+    "minecraft:wolf": {
+        "abilities": ["night_vision"],
+        "attack": "knockback",
+        "health": 20,
+        "speed": 0.15
+    }
+}
