@@ -1,0 +1,445 @@
+{
+	"populate": {
+		"FabulousGems": {
+			"distribution": "cave",
+			"generator": [
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 1
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 2
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 3
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 4
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 5
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 6
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 7
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "emerald_ore",
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "mysticalworld:amethyst_ore",
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+			],
+			"cluster-count": 1
+			"chunk-chance": 3,
+			"ceiling": true,
+			"ground-level": 28,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"FabulousGems2": {
+			"distribution": "cave",
+			"generator": [
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 1
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 2
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 3
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 4
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 5
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 6
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 7
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "emerald_ore",
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "mysticalworld:amethyst_ore",
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+			],
+			"cluster-count": 1
+			"chunk-chance": 3,
+			"ceiling": false,
+			"ground-level": 25,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"FabulousGems3": {
+			"distribution": "cave",
+			"generator": [
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 1
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 2
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 3
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 4
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 5
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 6
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 7
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "emerald_ore",
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+				{
+					"block": [
+						{
+							"name": "mysticalworld:amethyst_ore",
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 3
+				},
+			],
+			"cluster-count": 1
+			"chunk-chance": 3,
+			"ceiling": false,
+			"ground-level": 25,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"cinnabar": {
+			"distribution": "cave",
+			"generator": {
+				"type": "large-vein",
+				"block": "thaumcraft:ore_cinnabar",
+				"material": "minecraft:stone",
+				"cluster-size": 8
+			},
+			"cluster-count": {
+				"min": 1,
+				"max": 3
+			},
+			"ground-level": 42,
+			"chunk-chance": 2,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"tc-quartz": {
+			"distribution": "cave",
+			"generator": {
+				"type": "large-vein",
+				"block": "thaumcraft:ore_quartz",
+				"material": "minecraft:stone",
+				"cluster-size": 5
+			},
+			"cluster-count": {
+				"min": 1,
+				"max": 3
+			},
+			"ground-level": 20,
+			"chunk-chance": 2,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+		"AS-Crystals": {
+			"distribution": "cave",
+			"generator": 
+			{
+				"type": "large-vein",
+				"block": "astralsorcery:blockcustomore",
+				"material": "minecraft:stone",
+				"cluster-size": 2
+			}
+			"cluster-count": {
+				"min": 1,
+				"max": 3
+			},
+			"ground-level": 20,
+			"chunk-chance": 5,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+		"EB-Crystals": {
+			"distribution": "cave",
+			"generator": 
+			{
+				"type": "large-vein",
+				"block": "ebwizardry:crystal_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 10
+			}
+			"cluster-count": {
+				"min": 1,
+				"max": 5
+			},
+			"ground-level": 20,
+			"chunk-chance": 2,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+		"EB-Crystals-high": {
+			"distribution": "cave",
+			"generator": 
+			{
+				"type": "large-vein",
+				"block": "ebwizardry:crystal_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 12
+			}
+			"cluster-count": {
+				"min": 1,
+				"max": 5
+			},
+			"ground-level": 42,
+			"chunk-chance": 3,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

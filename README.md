@@ -61,6 +61,12 @@ New and exciting interactions in the world of Minecraft, including new mobs to f
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) adds a simple compass to find whatever biome you're looking for.
 - [Shipwrecks!](https://www.curseforge.com/minecraft/mc-mods/shipwrecks) adds shipwreck structures to the game.
 
+### Beautification
+Mods which make your builds a more beautiful.
+
+- [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) allows you to change the look of your blocks.
+- [Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm) blends some materials across blocks.
+
 ### Gameplay
 New systems or changes to the base gameplay.
 
@@ -141,8 +147,11 @@ Providing for a more beautiful world.
 
 - [Base Metals](https://www.curseforge.com/minecraft/mc-mods/base-metals) adds additional ores and alloys to the game.
 - [Biomes o' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) adds dozens of new biomes to the world, along with new plants, flowers, and trees.
+- [CoFH World](https://www.curseforge.com/minecraft/mc-mods/cofh-world) controls the generation of ores and gems.
+- [Earthworks](http://curseforge.com/minecraft/mc-mods/earthworks) adds new materials to the world.
 - [Geographicraft](https://www.curseforge.com/minecraft/mc-mods/climate-control-geographicraft) provides fine control over climate bands and river sizes.
-- [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world) provides new creatures, crops, and structures to bring our world to
+- [Mystical World](https://www.curseforge.com/minecraft/mc-mods/mystical-world) provides new creatures, crops, and structures to bring our world to.
+- [Netherending Ores](https://www.curseforge.com/minecraft/mc-mods/netherending-ores) adds a new reason to be in the Nether.
 - [Realistic Terrain Generation](https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation) allows us to generate a beautiful world.
 - [YUNG's Better Caves](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves) generates caves which are beautiful and exciting.
     - [Save My Stronghold!](https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold) prevents worldgen from tearing through the Ender Stronghold.

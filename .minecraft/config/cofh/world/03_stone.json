@@ -1,0 +1,142 @@
+{
+	"populate": {
+		"marble": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "astralsorcery:blockmarble",
+				"material": "minecraft:stone",
+				"cluster-size": 30,
+			},
+			"cluster-count": {
+				"min": 2,
+				"max": 3
+			},
+			"min-height": 1,
+			"max-height": 120,
+			"chunk-chance": 2,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"limestone": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "plate",
+				"block": [
+					{
+						"name": "chisel:limestone2",
+						"metadata": 7
+					}
+				],
+				"material": "minecraft:stone",
+				"radius": 3,
+				"height": {
+				"min": 1,
+				"max": 2
+				},
+				"slim": true
+			},
+			"cluster-count": {
+				"min": 2,
+				"max": 4
+			},
+			"min-height": 1,
+			"max-height": 120,
+			"chunk-chance": 2,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"slate": {
+			"distribution": "uniform",
+			"generator": [
+				{
+					"type": "plate",
+					"block": "earthworks:block_slate"
+					"material": "minecraft:stone",
+					"radius": 4,
+					"height": {
+					"min": 1,
+					"max": 4
+					},
+					"slim": true
+				},
+				{
+					"type": "plate",
+					"block": "earthworks:block_slate_green"
+					"material": "minecraft:stone",
+					"radius": 4,
+					"height": {
+					"min": 1,
+					"max": 4
+					},
+					"slim": true
+				},
+				{
+					"type": "plate",
+					"block": "earthworks:block_slate_purple"
+					"material": "minecraft:stone",
+					"radius": 4,
+					"height": {
+					"min": 1,
+					"max": 4
+					},
+					"slim": true
+				},
+				],
+			"cluster-count": {
+				"min": 2,
+				"max": 6
+			},
+			"min-height": 1,
+			"max-height": 120,
+			"chunk-chance": 2,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"chalk": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "large-vein",
+				"block": "earthworks:block_chalk",
+				"material": "minecraft:stone",
+				"cluster-size": 18
+			},
+			"cluster-count": {
+				"min": 2,
+				"max": 3
+			},
+			"chunk-chance": 3,
+			"min-height": 1,
+			"max-height": 120,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+	}
+}

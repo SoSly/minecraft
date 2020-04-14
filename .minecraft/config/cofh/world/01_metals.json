@@ -1,0 +1,334 @@
+{
+	"populate": {
+		"copper": {
+			"distribution": "cave",
+			"generator": {
+				"type": "large-vein",
+				"block": [
+					{
+						"name": "embers:ore_copper",
+						"weight": 97
+					},
+					{
+						"name": "embers:ore_nickel",
+						"weight": 3
+					},
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 8,
+			},
+			"cluster-count": {
+				"min": 1,
+				"max": 3
+			},
+			"ground-level": 90,
+			"retrogen": false,
+			"ceiling": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"copper-c": {
+			"distribution": "cave",
+			"generator": {
+				"type": "large-vein",
+				"block": [
+					{
+						"name": "embers:ore_copper",
+						"weight": 100
+					},
+					{
+						"name": "embers:ore_nickel",
+						"weight": 3
+					},
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 8,
+			},
+			"cluster-count": {
+				"min": 1,
+				"max": 3
+			},
+			"ground-level": 90,
+			"retrogen": false,
+			"ceiling": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"copperfree": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "large-vein",
+				"block": [
+					{
+						"name": "embers:ore_copper",
+						"weight": 100
+					},
+					{
+						"name": "embers:ore_nickel",
+						"weight": 3
+					},
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 6
+			},
+			"cluster-count": {
+				"min": 4,
+				"max": 6
+			},
+			"min-height": 30,
+			"max-height": 70,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"tin": {
+			"distribution": "cave",
+			"generator": {
+				"type": "large-vein",
+				"block": "embers:ore_tin",
+				"material": "minecraft:stone",
+				"cluster-size": 10,
+			},
+			"cluster-count": {
+				"min": 1,
+				"max": 2
+			},
+			"ground-level": 90,
+			"retrogen": false,
+			"ceiling": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"tin-c": {
+			"distribution": "cave",
+			"generator": {
+				"type": "large-vein",
+				"block": "embers:ore_tin",
+				"material": "minecraft:stone",
+				"cluster-size": 7,
+			},
+			"cluster-count": {
+				"min": 1,
+				"max": 2
+			},
+			"ground-level": 90,
+			"retrogen": false,
+			"ceiling": true,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"tinfree": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "large-vein",
+				"block": "embers:ore_tin",
+				"material": "minecraft:stone",
+				"cluster-size": 4
+			},
+			"cluster-count": {
+				"min": 2,
+				"max": 5
+			},
+			"min-height": 35,
+			"max-height": 90,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"Zinc": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "large-vein",
+				"block": "basemetals:zinc_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 4
+			},
+			"cluster-count": {
+				"min": 1,
+				"max": 4
+			},
+			"min-height": 50,
+			"max-height": 160,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"Zinc-c": {
+			"distribution": "cave",
+			"generator": {
+				"type": "large-vein",
+				"block": "basemetals:zinc_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 8
+			},
+			"cluster-count": {
+				"min": 1,
+				"max": 2
+			},
+			"ground-level": 100,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"lead-silv": {
+			"distribution": "cave",
+			"generator": {
+				"type": "large-vein",
+				"block": [
+					{
+						"name": "embers:ore_lead",
+						"weight": 65
+					},
+					{
+						"name": "embers:ore_silver",
+						"weight": 35
+					},
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 6,
+			},
+			"cluster-count": {
+				"min": 1,
+				"max": 3
+			},
+			"ground-level": 42,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"lead-silv-c": {
+			"distribution": "cave",
+			"generator": {
+				"type": "large-vein",
+				"block": [
+					{
+						"name": "embers:ore_lead",
+						"weight": 60
+					},
+					{
+						"name": "embers:ore_silver",
+						"weight": 40
+					},
+				],
+				"material": "minecraft:stone",
+				"cluster-size": 6,
+			},
+			"cluster-count": {
+				"min": 2,
+				"max": 3
+			},
+			"ground-level": 42,
+			"ceiling": true,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"Platinum": {
+			"distribution": "cave",
+			"generator": {
+				"block": "basemetals:platinum_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 3
+			},
+			"cluster-count": {
+				"min": 1,
+				"max": 2
+			},
+			"chunk-chance": 8,
+			"ground-level": 22,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+		"Platinum2": {
+			"distribution": "cave",
+			"generator": {
+				"block": "basemetals:platinum_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 3
+			},
+			"cluster-count": {
+				"min": 1,
+				"max": 2
+			},
+			"chunk-chance": 8,
+			"ceiling": true,
+			"ground-level": 22,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
+	}
+}
