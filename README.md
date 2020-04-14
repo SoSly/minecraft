@@ -91,6 +91,7 @@ New systems or changes to the base gameplay.
     - [Rustic Thaumatagy](https://www.curseforge.com/minecraft/mc-mods/rustic-thaumaturgy) TC and Rustic compat.
     - [Rustic Witchcraft](https://www.curseforge.com/minecraft/mc-mods/rusticwitchcraft) Bewitchment and Rustic compat.
 - [The Spice of Life](https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life) encourages dietary variety through diminishing returns.
+- [Treecapitator](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) makes punching wood a lot easier.
 - [Spartan Weaponry](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry) expands the list of available weapons in the game.
     - [Shiny Gear](https://www.curseforge.com/minecraft/mc-mods/shiny-gear) adds gemic spartan weaponry.
     - [Spartan BaseMetals](https://www.curseforge.com/minecraft/mc-mods/spartan-basemetals) adds compatibility with some of the more interesting ores in our world.
@@ -172,6 +173,7 @@ Dependencies required on by other mods.
 
 - [AppleCore](https://www.curseforge.com/minecraft/mc-mods/applecore), required by Hunger Overhaul and Spice of Life.
 - [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib), required by Quark.
+- [bspkrsCore](https://www.curseforge.com/minecraft/mc-mods/bspkrscore-updated), required by Treecapitator.
 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf), required by GameStages.
 - [CraftStudio API](https://www.curseforge.com/minecraft/mc-mods/craftstudio-api), required by Animania.
 - [Forgelin](https://www.curseforge.com/minecraft/mc-mods/forgelin), required by LibrarianLib.
