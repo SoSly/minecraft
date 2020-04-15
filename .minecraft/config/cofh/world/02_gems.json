@@ -391,6 +391,44 @@
 				]
 			}
 		}
+		"BW-Gems": {
+			"distribution": "cave",
+			"generator": [
+				{
+					"block": [
+						{
+							"name": "bewitchment:garnet_ore",
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 5
+				},
+				{
+					"block": [
+						{
+							"name": "bewitchment:opal_ore",
+						}
+					],
+					"material": "minecraft:stone",
+					"cluster-size": 5
+				},
+			],
+			"cluster-count": {
+				"min": 2,
+				"max": 5
+			},
+			"ground-level": 20,
+			"chunk-chance": 7,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
 		"EB-Crystals": {
 			"distribution": "cave",
 			"generator": 
@@ -441,5 +479,28 @@
 				]
 			}
 		}
+		"salt": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "bewitchment:salt_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 8,
+			},
+			"cluster-count": {
+				"min": 5,
+				"max": 12
+			},
+			"min-height": 28,
+			"max-height": 128,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
 	}
 }

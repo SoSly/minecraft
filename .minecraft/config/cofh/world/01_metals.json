@@ -87,7 +87,7 @@
 				"min": 4,
 				"max": 6
 			},
-			"min-height": 30,
+			"min-height": 40,
 			"max-height": 70,
 			"retrogen": false,
 			"biome": "all",
@@ -159,7 +159,7 @@
 				"min": 2,
 				"max": 5
 			},
-			"min-height": 35,
+			"min-height": 45,
 			"max-height": 90,
 			"retrogen": false,
 			"biome": "all",
