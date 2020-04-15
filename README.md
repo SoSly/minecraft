@@ -93,7 +93,6 @@ New systems or changes to the base gameplay.
 - [The Spice of Life](https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life) encourages dietary variety through diminishing returns.
 - [Treecapitator](https://www.curseforge.com/minecraft/mc-mods/treecapitator-updated) makes punching wood a lot easier.
 - [Spartan Weaponry](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry) expands the list of available weapons in the game.
-    - [Shiny Gear](https://www.curseforge.com/minecraft/mc-mods/shiny-gear) adds gemic spartan weaponry.
     - [Spartan BaseMetals](https://www.curseforge.com/minecraft/mc-mods/spartan-basemetals) adds compatibility with some of the more interesting ores in our world.
     - [Spartan Shields](https://www.curseforge.com/minecraft/mc-mods/spartan-shields) adds additional shields in the same vein.
     - [Spartan Weaponry Arcana](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry-arcana) provides compatibility for some magical metals.
