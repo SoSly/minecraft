@@ -6,29 +6,39 @@ var crystal = <ebwizardry:magic_crystal:*>;
 // A book is a writeable book from minecraft (ink + feather + book)
 var book = <minecraft:writable_book>;
 
-// A nugget is a gold nugget
-var nugget = <minecraft:gold_nugget>;
+// Any wand is used for the novice recipes
+var any_wand = <ebwizardry:magic_wand>|<ebwizardry:apprentice_wand>|<ebwizardry:advanced_wand>|<ebwizardry:master_wand>
+             | <ebwizardry:novice_fire_wand>|<ebwizardry:apprentice_fire_wand>|<ebwizardry:advanced_fire_wand>|<ebwizardry:master_fire_wand>
+             | <ebwizardry:novice_ice_wand>|<ebwizardry:apprentice_ice_wand>|<ebwizardry:advanced_ice_wand>|<ebwizardry:master_ice_wand>
+             | <ebwizardry:novice_lightning_wand>|<ebwizardry:apprentice_lightning_wand>|<ebwizardry:advanced_lightning_wand>|<ebwizardry:master_lightning_wand>
+             | <ebwizardry:novice_earth_wand>|<ebwizardry:apprentice_earth_wand>|<ebwizardry:advanced_earth_wand>|<ebwizardry:master_earth_wand>
+             | <ebwizardry:novice_necromancy_wand>|<ebwizardry:apprentice_necromancy_wand>|<ebwizardry:advanced_necromancy_wand>|<ebwizardry:master_necromancy_wand>
+             | <ebwizardry:novice_healing_wand>|<ebwizardry:apprentice_healing_wand>|<ebwizardry:advanced_healing_wand>|<ebwizardry:master_healing_wand>
+             | <ebwizardry:novice_sorcery_wand>|<ebwizardry:apprentice_sorcery_wand>|<ebwizardry:advanced_sorcery_wand>|<ebwizardry:master_sorcery_wand>;
 
-// A wand is any apprentice wand from EB Wizardry
-var wand = <ebwizardry:apprentice_wand:*>;
+// Novice recipe
+recipes.addShapeless("randomnovicespellbook", 
+    <ebwizardry:spell_book>, 
+    [crystal, book, any_wand.reuse()], 
+    function(output, input, cInfo) {
+        var recipes = [1,178,2,111,3,4,5,6,200,112,7,194,141,8,9,113,142,143,10,11,12,144,145] as int[];
 
-// Adds a shapeless recipe to get a random spellbook from a nugget, a book, and a crystal.
-// Requires an apprentice wand (not consumed during the crafting).
-recipes.addShapeless("random spellbook", <ebwizardry:spell_book>, [crystal, nugget, book, wand.giveBack()], function(output, input, cInfo) {
-    // Requires wizardry
-    if (!cInfo.player.hasGameStage("wizardry")) {
-        cInfo.player.sendChat("Only wizards can craft random spells.");
-        return null;
+        // Requires wizardry
+        if (!cInfo.player.hasGameStage("wizardry")) {
+            cInfo.player.sendChat("Only wizards can craft random spells.");
+            return null;
+        }
+        // Requires 5 levels
+        if (cInfo.player.xp < 5) { 
+            cInfo.player.sendChat("You require 5 levels to craft a random spellbook.");
+            return null; 
+        }
+        var len = recipes.length;
+        var rand = Math.floor(Math.random()*len);
+        var value = recipes[rand];
+        return output.definition.makeStack(value);
+    }, function(output, cInfo, player) {
+        if (player.world.isRemote()) { return; }
+        player.removeXP(5);
     }
-    // Requires 1 level
-    if (cInfo.player.xp < 1) { 
-        cInfo.player.sendChat("You require a level to craft a random spellbook.");
-        return null; 
-    }
-    var len = output.definition.subItems.length;
-    var rand = Math.floor(Math.random()*len);
-    return output.definition.makeStack(rand);
-}, function(output, cInfo, player) {
-    if (player.world.isRemote()) { return; }
-    player.removeXP(1);
-});
+);
