@@ -10,16 +10,16 @@ recipes.addShapeless('morphwolf1',
             cInfo.player.sendChat("Only druids can craft morphs.");
             return null;
         }
-        // Requires 2 Levels
-        if (cInfo.player.xp < 2) { 
-            cInfo.player.sendChat("You require 2 levels to craft the Wolf morph.");
+        // Requires 10 Levels
+        if (cInfo.player.xp < 10) { 
+            cInfo.player.sendChat("You require 10 levels to craft the Wolf morph.");
             return null; 
         }
         return output;
     },
     function(output, cInfo, player) {
         if (player.world.isRemote()) { return; }
-        player.removeXP(2);
+        player.removeXP(10);
         var command = '/acquire_morph ' + player.name + ' minecraft:wolf';
         server.commandManager.executeCommand(server, command);
     }
