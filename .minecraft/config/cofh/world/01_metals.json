@@ -59,7 +59,7 @@
 				"cluster-size": 8,
 			},
 			"cluster-count": {
-				"min": 1,
+				"min": 2,
 				"max": 3
 			},
 			"ground-level": 90,
@@ -96,7 +96,7 @@
 				"cluster-size": 6
 			},
 			"cluster-count": {
-				"min": 4,
+				"min": 3,
 				"max": 6
 			},
 			"min-height": 30,
@@ -249,7 +249,7 @@
 			},
 			"cluster-count": {
 				"min": 1,
-				"max": 3
+				"max": 2
 			},
 			"ground-level": 42,
 			"retrogen": false,
@@ -281,7 +281,7 @@
 			},
 			"cluster-count": {
 				"min": 1,
-				"max": 3
+				"max": 2
 			},
 			"ground-level": 42,
 			"ceiling": true,

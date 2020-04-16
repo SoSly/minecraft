@@ -102,7 +102,7 @@
 			],
 			"cluster-count": {
 				"min": 1,
-				"max": 3
+				"max": 2
 			},
 			"chunk-chance": 2,
 			"ceiling": true,
@@ -343,7 +343,7 @@
 			],
 			"cluster-count": {
 				"min": 1,
-				"max": 3
+				"max": 2
 			},
 			"chunk-chance": 3,
 			"ceiling": true,
@@ -455,12 +455,9 @@
 				"material": "minecraft:stone",
 				"cluster-size": 2
 			}
-			"cluster-count": {
-				"min": 1,
-				"max": 3
-			},
+			"cluster-count": 1
 			"ground-level": 20,
-			"chunk-chance": 5,
+			"chunk-chance": 6,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
@@ -555,8 +552,8 @@
 				"min": 5,
 				"max": 12
 			},
-			"min-height": 28,
-			"max-height": 128,
+			"min-height": 24,
+			"max-height": 90,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {

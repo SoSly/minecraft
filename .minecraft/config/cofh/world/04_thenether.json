@@ -13,7 +13,12 @@
 					{
 						"name": "netherendingores:ore_nether_modded_1",
 						"metadata": 5
-						"weight": 35
+						"weight": 30
+					},
+					{
+						"name": "netherendingores:ore_nether_modded_1",
+						"metadata": 0
+						"weight": 15
 					},
 				],
 				"material": "minecraft:netherrack",
@@ -50,14 +55,19 @@
 					{
 						"name": "netherendingores:ore_nether_modded_1",
 						"metadata": 5
-						"weight": 35
+						"weight": 30
+					},
+					{
+						"name": "netherendingores:ore_nether_modded_1",
+						"metadata": 0
+						"weight": 15
 					},
 				],
 				"material": "minecraft:netherrack",
 				"cluster-size": 8,
 			},
 			"cluster-count": {
-				"min": 2,
+				"min": 1,
 				"max": 3
 			},
 			"ground-level": 120,
@@ -94,8 +104,8 @@
 				"cluster-size": 8,
 			},
 			"cluster-count": {
-				"min": 2,
-				"max": 3
+				"min": 1,
+				"max": 2
 			},
 			"ground-level": 120,
 			"chunk-chance": 2,
@@ -132,8 +142,8 @@
 				"cluster-size": 8,
 			},
 			"cluster-count": {
-				"min": 2,
-				"max": 3
+				"min": 1,
+				"max": 2
 			},
 			"ground-level": 120,
 			"chunk-chance": 2,
@@ -192,8 +202,8 @@
 				"cluster-size": 8,
 			},
 			"cluster-count": {
-				"min": 2,
-				"max": 5
+				"min": 1,
+				"max": 2
 			},
 			"ground-level": 120,
 			"retrogen": false,
@@ -247,10 +257,7 @@
 				"material": "minecraft:netherrack",
 				"cluster-size": 4,
 			},
-			"cluster-count": {
-				"min": 1,
-				"max": 2
-			},
+			"cluster-count": 1,
 			"ground-level": 120,
 			"chunk-chance": 3,
 			"retrogen": false,
@@ -304,10 +311,7 @@
 				"material": "minecraft:netherrack",
 				"cluster-size": 5,
 			},
-			"cluster-count": {
-				"min": 1,
-				"max": 2
-			},
+			"cluster-count": 1,
 			"ground-level": 120,
 			"chunk-chance": 2,
 			"retrogen": false,
@@ -412,6 +416,7 @@
 				"max": 3
 			},
 			"ground-level": 120,
+			"chunk-chance": 2,
 			"retrogen": false,
 			"ceiling": false,
 			"biome": {
@@ -531,7 +536,7 @@
 				"max": 2
 			},
 			"ground-level": 120,
-			"chunk-chance": 5,
+			"chunk-chance": 7,
 			"retrogen": false,
 			"ceiling": true,
 			"biome": {
