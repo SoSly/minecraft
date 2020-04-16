@@ -157,13 +157,36 @@
 				]
 			}
 		},
+		"lowcoal": {
+			"distribution": "cave",
+			"generator": {
+				"block": "coal_ore",
+				"material": "minecraft:stone",
+				"cluster-size": 12,
+			},
+			"cluster-count": {
+				"min": 2,
+				"max": 4
+			},
+			"min-height": 8,
+			"max-height": 42,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		},
 		"iron": {
 			"distribution": "cave",
 			"generator": {
 				"type": "large-vein",
 				"block": "iron_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 6,
+				"cluster-size": 7,
 			},
 			"cluster-count": {
 				"min": 2,
@@ -187,13 +210,13 @@
 				"type": "large-vein",
 				"block": "iron_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 6,
+				"cluster-size": 7,
 			},
 			"cluster-count": {
 				"min": 2,
-				"max": 3
+				"max": 4
 			},
-			"ground-level": 90,
+			"ground-level": 70,
 			"retrogen": false,
 			"ceiling": true,
 			"biome": "all",
@@ -218,6 +241,7 @@
 				"max": 3
 			},
 			"ground-level": 32,
+			"chunk-chance": 2,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
@@ -261,7 +285,7 @@
 				"cluster-size": 10,
 			},
 			"cluster-count": 1,
-			"chunk-chance": 10,
+			"chunk-chance": 15,
 			"ground-level": 30,
 			"retrogen": false,
 			"biome": "all",
@@ -279,7 +303,7 @@
 				"type": "large-vein",
 				"block": "redstone_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 20
+				"cluster-size": 18
 			},
 			"cluster-count": {
 				"min": 1,
@@ -303,13 +327,14 @@
 				"type": "large-vein",
 				"block": "redstone_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 20
+				"cluster-size": 18
 			},
 			"cluster-count": {
 				"min": 1,
 				"max": 2
 			},
 			"ground-level": 30,
+			"chunk-chance": 2,
 			"ceiling": true,
 			"retrogen": false,
 			"biome": "all",
@@ -326,7 +351,7 @@
 			"generator": {
 				"block": "diamond_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 3,
+				"cluster-size": 4,
 			},
 			"cluster-count": 1,
 			"chunk-chance": 6,
@@ -346,11 +371,12 @@
 			"generator": {
 				"block": "diamond_ore",
 				"material": "minecraft:stone",
-				"cluster-size": 3,
+				"cluster-size": 4,
 			},
 			"cluster-count": 1,
-			"chunk-chance": 5,
-			"ground-level": 23,
+			"chunk-chance": 4,
+			"ceiling": true,
+			"ground-level": 20,
 			"retrogen": false,
 			"biome": "all",
 			"dimension": {
