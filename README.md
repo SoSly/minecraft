@@ -1,7 +1,7 @@
 # SoSly Minecraft Modpack
 **Version:** 4.0.0<br />
 **Seed:** Eclipse<br />
-**Starting Coordinates:** x: -11 z: -756 y: 62
+**Starting Coordinates:** -11 62 -756
 
 The Society of Silliness Minecraft Modpack is provided as a place to play and enjoy the game. 
 
@@ -67,6 +67,7 @@ Mods which make your builds a more beautiful.
 - [BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft) adds useful bookshelves and furniture.
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) allows you to change the look of your blocks.
 - [Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm) blends some materials across blocks.
+- [Cosmetic Armor](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor) allows you to change the look of what you're wearing.
 
 ### Gameplay
 New systems or changes to the base gameplay.
