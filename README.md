@@ -22,6 +22,9 @@ The Society of Silliness Minecraft Modpack is provided as a place to play and en
 You will now be able to launch the "SoSly" minecraft instance.  Loading will take several minutes, as we have a wide variety of mods.  You can then connect to the server, which should appear under the Multiplayer menu.    
 
 ## Player Rules
+### Spawn
+Don't take anything from the barrow that you first spawn in except food.  Those items are there for decoration, not your own advancement.
+
 ### No Griefing
 Do not grief another player's build.  If you break it, please fix it.
 
