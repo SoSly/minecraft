@@ -88,6 +88,7 @@ New systems or changes to the base gameplay.
 - [NotEnoughScaffold](https://www.curseforge.com/minecraft/mc-mods/notenoughscaffold) adds scaffold blocks.
 - [Pam's Harvestcraft](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft) adds new crops and fish to provide diversity of food.
 - [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) adds various interesting content to the game.
+    - [Charm](https://www.curseforge.com/minecraft/mc-mods/charm) adds even more.
 - [Rustic](https://www.curseforge.com/minecraft/mc-mods/rustic) adds rustic decorations and some brewing.
     - [Rustic BOP Woods](https://www.curseforge.com/minecraft/mc-mods/rustic-bop-woods) BOP and Rustic compat.
     - [Rustic Thaumatagy](https://www.curseforge.com/minecraft/mc-mods/rustic-thaumaturgy) TC and Rustic compat.
