@@ -6,6 +6,10 @@ var crystal = <ebwizardry:magic_crystal:*>;
 // A book is a writeable book from minecraft (ink + feather + book)
 var book = <minecraft:writable_book>;
 
+/***************************************
+ * RANDOM SPELLBOOKS
+ ***************************************/
+
 // Any wand is used for the novice recipes
 var any_wand = <ebwizardry:magic_wand>|<ebwizardry:apprentice_wand>|<ebwizardry:advanced_wand>|<ebwizardry:master_wand>
              | <ebwizardry:novice_fire_wand>|<ebwizardry:apprentice_fire_wand>|<ebwizardry:advanced_fire_wand>|<ebwizardry:master_fire_wand>
@@ -42,3 +46,14 @@ recipes.addShapeless("randomnovicespellbook",
         player.removeXP(5);
     }
 );
+
+/***************************************
+ * MAGIC CRYSTALS
+ ***************************************/
+recipes.addShapeless("fierycrystal", <ebwizardry:magic_crystal:1>, [<ebwizardry:magic_crystal:0>, <ore:salt>, <ore:coal>, <bewitchment:droplet_of_wisdom>, any_wand.reuse()]);
+recipes.addShapeless("icycrystal", <ebwizardry:magic_crystal:2>, [<ebwizardry:magic_crystal:0>, <ore:salt>, <minecraft:snowball>, <bewitchment:droplet_of_wisdom>, any_wand.reuse()]);
+recipes.addShapeless("stormycrystal", <ebwizardry:magic_crystal:3>, [<ebwizardry:magic_crystal:0>, <ore:salt>, <ore:feather>, <bewitchment:droplet_of_wisdom>, any_wand.reuse()]);
+recipes.addShapeless("darkcrystal", <ebwizardry:magic_crystal:4>, [<ebwizardry:magic_crystal:0>, <ore:salt>, <minecraft:rotten_flesh>|<thaumcraft:brain>, <bewitchment:droplet_of_wisdom>, any_wand.reuse()]);
+recipes.addShapeless("verdantcrystal", <ebwizardry:magic_crystal:5>, [<ebwizardry:magic_crystal:0>, <ore:salt>, <ore:treeSapling>, <bewitchment:droplet_of_wisdom>, any_wand.reuse()]);
+recipes.addShapeless("mysticalcrystal", <ebwizardry:magic_crystal:6>, [<ebwizardry:magic_crystal:0>, <ore:salt>, <thaumcraft:crystal_essence>, <bewitchment:droplet_of_wisdom>, any_wand.reuse()]);
+recipes.addShapeless("radiantcrystal", <ebwizardry:magic_crystal:7>, [<ebwizardry:magic_crystal:0>, <ore:salt>, <ore:listAllseed>, <bewitchment:droplet_of_wisdom>, any_wand.reuse()]);
