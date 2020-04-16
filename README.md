@@ -64,6 +64,7 @@ New and exciting interactions in the world of Minecraft, including new mobs to f
 ### Beautification
 Mods which make your builds a more beautiful.
 
+- [BiblioCraft](https://www.curseforge.com/minecraft/mc-mods/bibliocraft) adds useful bookshelves and furniture.
 - [Chisel](https://www.curseforge.com/minecraft/mc-mods/chisel) allows you to change the look of your blocks.
 - [Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm) blends some materials across blocks.
 
