@@ -1,7 +1,7 @@
 # SoSly Minecraft Modpack
 **Version:** 4.0.0<br />
 **Seed:** Eclipse<br />
-**Starting Coordinates:** -11 62 -756
+**Starting Coordinates:**  
 
 The Society of Silliness Minecraft Modpack is provided as a place to play and enjoy the game. 
 
@@ -26,7 +26,7 @@ You will now be able to launch the "SoSly" minecraft instance.  Loading will tak
 Do not grief another player's build.  If you break it, please fix it.
 
 ### Build Nearby
-Players are expected to collaborate and be a part of the server, and all players are expected to build somewhere near Fox Lake.  Please give other players at least 2 chunks (32 blocks) of distance, and do not build more than 12 chunks (192 blocks) away from other players near the lake.  A
+Players are expected to collaborate and be a part of the server, and all players are expected to build somewhere near Fox Lake.  Please give other players at least 2 chunks (32 blocks) of distance, and do not build more than 12 chunks (192 blocks) away from other players near the lake.
 
 ### Specialization
 Each player is allowed to specialize in one kind of magic, and one kind of technology.  You may use objects from any magic or tech mod, if they were created by someone who has specialized in those things, but you cannot craft or research magic or tech outside of the options you have chosen.
@@ -43,9 +43,9 @@ Each player is allowed to specialize in one kind of magic, and one kind of techn
 - Embers
 
 #### Selection
-To select your magic option, type: `/ct magic <school>` where school is one of astrology, druidcraft, necromancy, thaumaturgy, or wizardry.
+To select your magic option, type: `/me magic <school>` where school is one of astrology, druidcraft, necromancy, thaumaturgy, or wizardry.
 
-To select your tech option, type: `/ct tech <style>` where style is either botania or embers.
+To select your tech option, type: `/me tech <style>` where style is either botania or embers.
 
 ## Installed Mods
 The following mods are installed on this server.  If you would like to suggest an additional mod, please send a message to @Niv#0245 in the #minecraft channel on our discord with a link to the mod.

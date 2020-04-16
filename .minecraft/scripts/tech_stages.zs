@@ -9,7 +9,7 @@ events.onCommand(function(event as CommandEvent) {
     var player as IPlayer = event.commandSender;
     
     var command = event.command;
-    if (isNull(command) || command.name != "crafttweaker" || event.parameters.length == 0 || event.parameters[0] != "tech") {
+    if (isNull(command) || command.name != "me" || event.parameters.length == 0 || event.parameters[0] != "tech") {
         // Not our command. Bail out.
         return;
     }
