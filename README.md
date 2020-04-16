@@ -77,6 +77,7 @@ New systems or changes to the base gameplay.
 - [Baubles](https://www.curseforge.com/minecraft/mc-mods/baubles) adds new equipable slots for jewelry and accessories.
 - [Carry On](https://www.curseforge.com/minecraft/mc-mods/carry-on) lets you pick up items in the world and carry them around.
 - [Controlled Burn](https://www.curseforge.com/minecraft/mc-mods/controlled-burn) allows customization of fire spread.
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) provides sleeping bags for exploring.
 - [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers) allows customization of creeper behavior and impact.
 - [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads) adds a seed market for streamlined farming.
 - [Hunger Overhaul](https://www.curseforge.com/minecraft/mc-mods/hunger-overhaul) tweaks the hunger mechanics to be more of an interesting challenge.
