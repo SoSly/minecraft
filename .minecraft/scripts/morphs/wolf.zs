@@ -19,8 +19,9 @@ recipes.addShapeless('morphwolf1',
     },
     function(output, cInfo, player) {
         if (player.world.isRemote()) { return; }
-        player.removeXP(10);
-        var command = '/acquire_morph ' + player.name + ' minecraft:wolf';
-        server.commandManager.executeCommand(server, command);
+        var xpCommand = '/xp -10L ' + player.name;
+        server.commandManager.executeCommand(server, xpCommand);
+        var morphCommand = '/acquire_morph ' + player.name + ' minecraft:wolf';
+        server.commandManager.executeCommand(server, morphCommand);
     }
 );

@@ -19,8 +19,9 @@ recipes.addShapeless('morphsquid1',
     },
     function(output, cInfo, player) {
         if (player.world.isRemote()) { return; }
-        player.removeXP(20);
-        var command = '/acquire_morph ' + player.name + ' minecraft:squid';
-        server.commandManager.executeCommand(server, command);
+        var xpCommand = '/xp -20L ' + player.name;
+        server.commandManager.executeCommand(server, xpCommand);
+        var morphCommand = '/acquire_morph ' + player.name + ' minecraft:squid';
+        server.commandManager.executeCommand(server, morphCommand);
     }
 );

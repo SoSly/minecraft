@@ -37,7 +37,8 @@ recipes.addShapeless("randomapprenticenecromancyspellbook",
         return output.definition.makeStack(value);
     }, function(output, cInfo, player) {
         if (player.world.isRemote()) { return; }
-        player.removeXP(10);
+        var xpCommand = '/xp -10L ' + player.name;
+        server.commandManager.executeCommand(server, xpCommand);
     }
 );
 
@@ -67,7 +68,8 @@ recipes.addShapeless("randomadvancednecromancyspellbook",
         return output.definition.makeStack(value);
     }, function(output, cInfo, player) {
         if (player.world.isRemote()) { return; }
-        player.removeXP(15);
+        var xpCommand = '/xp -15L ' + player.name;
+        server.commandManager.executeCommand(server, xpCommand);
     }
 );
 
@@ -97,6 +99,7 @@ recipes.addShapeless("randommasternecromancyspellbook",
         return output.definition.makeStack(value);
     }, function(output, cInfo, player) {
         if (player.world.isRemote()) { return; }
-        player.removeXP(20);
+        var xpCommand = '/xp -20L ' + player.name;
+        server.commandManager.executeCommand(server, xpCommand);
     }
 );

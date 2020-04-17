@@ -19,8 +19,9 @@ recipes.addShapeless('morphrabbit1',
     },
     function(output, cInfo, player) {
         if (player.world.isRemote()) { return; }
-        player.removeXP(5);
-        var command = '/acquire_morph ' + player.name + ' animania:buck_lop';
-        server.commandManager.executeCommand(server, command);
+        var xpCommand = '/xp -5L ' + player.name;
+        server.commandManager.executeCommand(server, xpCommand);
+        var morphCommand = '/acquire_morph ' + player.name + ' animania:buck_lop';
+        server.commandManager.executeCommand(server, morphCommand);
     }
 );

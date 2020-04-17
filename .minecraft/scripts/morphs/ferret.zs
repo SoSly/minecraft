@@ -3,7 +3,7 @@ import crafttweaker.command.ICommandSender;
 // Ferret
 recipes.addShapeless('morphferret1',
     <minecraft:name_tag>.withDisplayName('Ferret Morph'), 
-    [<minecraft:egg>, <minecraft:rabbit>, <roots:staff>.reuse()],
+    [<minecraft:egg>, <minecraft:wool:8>, <roots:staff>.reuse()],
     function(output, input, cInfo) {
         // Requires druidcraft
         if (!cInfo.player.hasGameStage("druidcraft")) {
@@ -19,8 +19,9 @@ recipes.addShapeless('morphferret1',
     },
     function(output, cInfo, player) {
         if (player.world.isRemote()) { return; }
-        player.removeXP(5);
-        var command = '/acquire_morph ' + player.name + ' animania:ferret_grey';
-        server.commandManager.executeCommand(server, command);
+        var xpCommand = '/xp -5L ' + player.name;
+        server.commandManager.executeCommand(server, xpCommand);
+        var morphCommand = '/acquire_morph ' + player.name + ' animania:ferret_grey';
+        server.commandManager.executeCommand(server, morphCommand);
     }
 );

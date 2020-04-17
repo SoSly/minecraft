@@ -43,7 +43,8 @@ recipes.addShapeless("randomnovicespellbook",
         return output.definition.makeStack(value);
     }, function(output, cInfo, player) {
         if (player.world.isRemote()) { return; }
-        player.removeXP(5);
+        var xpCommand = '/xp -5L ' + player.name;
+        server.commandManager.executeCommand(server, xpCommand);
     }
 );
 
