@@ -39,7 +39,8 @@ Recipes.setRecipeStageByMod("astrology", "astralsorcery");
 
 // Druidcraft
 Recipes.setRecipeStageByMod("druidcraft", "naturalpledge");
-Recipes.setRecipeStageByMod("druidcraft", "roots");
+Recipes.setRecipeStage("druidcraft", <patchouli:guide_book>.withTag({"patchouli:book":"roots:roots_guide"}));
+ItemStages.addItemStage("druidcraft", <roots:staff>);
 
 // Necromancy
 Recipes.setRecipeStageByMod("necromancy", "bloodmagic");
