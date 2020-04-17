@@ -12,7 +12,7 @@ var book = <minecraft:writable_book>;
 var gem = <ore:gemPeridot>;
 
 // An apprentice_necromancy_wand is required for apprentice necromancy spells
-var apprentice_necromancy_wand = <ebwizardry:apprentice_necromancy_wand>|<ebwizardry:advanced_necromancy_wand>|<ebwizardry:master_necromancy_wand>;
+var apprentice_necromancy_wand = <ebwizardry:apprentice_necromancy_wand:*>|<ebwizardry:advanced_necromancy_wand:*>|<ebwizardry:master_necromancy_wand:*>;
 
 // Apprentice necromancy recipe
 recipes.addShapeless("randomapprenticenecromancyspellbook", 
@@ -43,7 +43,7 @@ recipes.addShapeless("randomapprenticenecromancyspellbook",
 );
 
 // An advanced_necromancy_wand is required for advanced necromancy spells
-var advanced_necromancy_wand = <ebwizardry:advanced_necromancy_wand>|<ebwizardry:master_necromancy_wand>;
+var advanced_necromancy_wand = <ebwizardry:advanced_necromancy_wand:*>|<ebwizardry:master_necromancy_wand:*>;
 
 // Advanced necromancy recipe
 recipes.addShapeless("randomadvancednecromancyspellbook", 
@@ -74,7 +74,7 @@ recipes.addShapeless("randomadvancednecromancyspellbook",
 );
 
 // A master_necromancy_wand is required for master necromancy spells
-var master_necromancy_wand = <ebwizardry:master_necromancy_wand>;
+var master_necromancy_wand = <ebwizardry:master_necromancy_wand:*>;
 
 // Master necromancy recipe
 recipes.addShapeless("randommasternecromancyspellbook", 

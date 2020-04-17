@@ -12,7 +12,7 @@ var book = <minecraft:writable_book>;
 var gem = <ore:gemAmethyst>;
 
 // An apprentice_sorcery_wand is required for apprentice earth spells
-var apprentice_sorcery_wand = <ebwizardry:apprentice_sorcery_wand>|<ebwizardry:advanced_sorcery_wand>|<ebwizardry:master_sorcery_wand>;
+var apprentice_sorcery_wand = <ebwizardry:apprentice_sorcery_wand:*>|<ebwizardry:advanced_sorcery_wand:*>|<ebwizardry:master_sorcery_wand:*>;
 
 // Apprentice sorcery recipe
 recipes.addShapeless("randomapprenticesorceryspellbook", 
@@ -43,7 +43,7 @@ recipes.addShapeless("randomapprenticesorceryspellbook",
 );
 
 // An advanced_sorcery_wand is required for advanced earth spells
-var advanced_sorcery_wand = <ebwizardry:advanced_sorcery_wand>|<ebwizardry:master_sorcery_wand>;
+var advanced_sorcery_wand = <ebwizardry:advanced_sorcery_wand:*>|<ebwizardry:master_sorcery_wand:*>;
 
 // Advanced sorcery recipe
 recipes.addShapeless("randomadvancedsorceryspellbook", 
@@ -74,7 +74,7 @@ recipes.addShapeless("randomadvancedsorceryspellbook",
 );
 
 // A master_sorcery_wand is required for master earth spells
-var master_sorcery_wand = <ebwizardry:master_sorcery_wand>;
+var master_sorcery_wand = <ebwizardry:master_sorcery_wand:*>;
 
 // Master sorcery recipe
 recipes.addShapeless("randommastersorceryspellbook", 

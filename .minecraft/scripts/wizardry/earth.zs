@@ -12,7 +12,7 @@ var book = <minecraft:writable_book>;
 var gem = <ore:gemMalachite>;
 
 // An apprentice_earth_wand is required for apprentice earth spells
-var apprentice_earth_wand = <ebwizardry:apprentice_earth_wand>|<ebwizardry:advanced_earth_wand>|<ebwizardry:master_earth_wand>;
+var apprentice_earth_wand = <ebwizardry:apprentice_earth_wand:*>|<ebwizardry:advanced_earth_wand:*>|<ebwizardry:master_earth_wand:*>;
 
 // Apprentice earth recipe
 recipes.addShapeless("randomapprenticeearthspellbook", 
@@ -43,7 +43,7 @@ recipes.addShapeless("randomapprenticeearthspellbook",
 );
 
 // An advanced_earth_wand is required for advanced earth spells
-var advanced_earth_wand = <ebwizardry:advanced_earth_wand>|<ebwizardry:master_earth_wand>;
+var advanced_earth_wand = <ebwizardry:advanced_earth_wand:*>|<ebwizardry:master_earth_wand:*>;
 
 // Advanced earth recipe
 recipes.addShapeless("randomadvancedearthspellbook", 
@@ -74,7 +74,7 @@ recipes.addShapeless("randomadvancedearthspellbook",
 );
 
 // A master_earth_wand is required for master earth spells
-var master_earth_wand = <ebwizardry:master_earth_wand>;
+var master_earth_wand = <ebwizardry:master_earth_wand:*>;
 
 // Master earth recipe
 recipes.addShapeless("randommasterearthspellbook", 

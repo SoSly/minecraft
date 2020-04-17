@@ -3,7 +3,7 @@ import crafttweaker.command.ICommandSender;
 // Ferret
 recipes.addShapeless('morphferret1',
     <minecraft:name_tag>.withDisplayName('Ferret Morph'), 
-    [<minecraft:egg>, <minecraft:wool:8>, <roots:staff>.reuse()],
+    [<ore:egg>, <minecraft:wool:8>, <roots:staff>.reuse()],
     function(output, input, cInfo) {
         // Requires druidcraft
         if (!cInfo.player.hasGameStage("druidcraft")) {

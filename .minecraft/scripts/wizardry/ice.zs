@@ -12,7 +12,7 @@ var book = <minecraft:writable_book>;
 var gem = <ore:gemSapphire>;
 
 // An apprentice_ice_wand is required for apprentice ice spells
-var apprentice_ice_wand = <ebwizardry:apprentice_ice_wand>|<ebwizardry:advanced_ice_wand>|<ebwizardry:master_ice_wand>;
+var apprentice_ice_wand = <ebwizardry:apprentice_ice_wand:*>|<ebwizardry:advanced_ice_wand:*>|<ebwizardry:master_ice_wand:*>;
 
 // Apprentice ice recipe
 recipes.addShapeless("randomapprenticeicespellbook", 
@@ -43,7 +43,7 @@ recipes.addShapeless("randomapprenticeicespellbook",
 );
 
 // An advanced_ice_wand is required for advanced ice spells
-var advanced_ice_wand = <ebwizardry:advanced_ice_wand>|<ebwizardry:master_ice_wand>;
+var advanced_ice_wand = <ebwizardry:advanced_ice_wand:*>|<ebwizardry:master_ice_wand:*>;
 
 // Advanced ice recipe
 recipes.addShapeless("randomadvancedicespellbook", 
@@ -74,7 +74,7 @@ recipes.addShapeless("randomadvancedicespellbook",
 );
 
 // A master_ice_wand is required for master ice spells
-var master_ice_wand = <ebwizardry:master_ice_wand>;
+var master_ice_wand = <ebwizardry:master_ice_wand:*>;
 
 // Master ice recipe
 recipes.addShapeless("randommastericespellbook", 

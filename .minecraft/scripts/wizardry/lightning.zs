@@ -12,7 +12,7 @@ var book = <minecraft:writable_book>;
 var gem = <ore:gemTopaz>;
 
 // An apprentice_lightning_wand is required for apprentice lightning spells
-var apprentice_lightning_wand = <ebwizardry:apprentice_lightning_wand>|<ebwizardry:advanced_lightning_wand>|<ebwizardry:master_lightning_wand>;
+var apprentice_lightning_wand = <ebwizardry:apprentice_lightning_wand:*>|<ebwizardry:advanced_lightning_wand:*>|<ebwizardry:master_lightning_wand:*>;
 
 // Apprentice lightning recipe
 recipes.addShapeless("randomapprenticelightningspellbook", 
@@ -43,7 +43,7 @@ recipes.addShapeless("randomapprenticelightningspellbook",
 );
 
 // An advanced_lightning_wand is required for advanced lightning spells
-var advanced_lightning_wand = <ebwizardry:advanced_lightning_wand>|<ebwizardry:master_lightning_wand>;
+var advanced_lightning_wand = <ebwizardry:advanced_lightning_wand:*>|<ebwizardry:master_lightning_wand:*>;
 
 // Advanced lightning recipe
 recipes.addShapeless("randomadvancedlightningspellbook", 
@@ -74,7 +74,7 @@ recipes.addShapeless("randomadvancedlightningspellbook",
 );
 
 // A master_lightning_wand is required for master lightning spells
-var master_lightning_wand = <ebwizardry:master_lightning_wand>;
+var master_lightning_wand = <ebwizardry:master_lightning_wand:*>;
 
 // Master lightning recipe
 recipes.addShapeless("randommasterlightningspellbook", 

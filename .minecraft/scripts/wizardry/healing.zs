@@ -12,7 +12,7 @@ var book = <minecraft:writable_book>;
 var gem = <ore:gemOpal>;
 
 // An apprentice_healing_wand is required for apprentice healing spells
-var apprentice_healing_wand = <ebwizardry:apprentice_healing_wand>|<ebwizardry:advanced_healing_wand>|<ebwizardry:master_healing_wand>;
+var apprentice_healing_wand = <ebwizardry:apprentice_healing_wand:*>|<ebwizardry:advanced_healing_wand:*>|<ebwizardry:master_healing_wand:*>;
 
 // Apprentice healing recipe
 recipes.addShapeless("randomapprenticehealingspellbook", 
@@ -43,7 +43,7 @@ recipes.addShapeless("randomapprenticehealingspellbook",
 );
 
 // An advanced_healing_wand is required for advanced healing spells
-var advanced_healing_wand = <ebwizardry:advanced_healing_wand>|<ebwizardry:master_healing_wand>;
+var advanced_healing_wand = <ebwizardry:advanced_healing_wand:*>|<ebwizardry:master_healing_wand:*>;
 
 // Advanced healing recipe
 recipes.addShapeless("randomadvancedhealingspellbook", 
@@ -74,7 +74,7 @@ recipes.addShapeless("randomadvancedhealingspellbook",
 );
 
 // A master_healing_wand is required for master healing spells
-var master_healing_wand = <ebwizardry:master_healing_wand>;
+var master_healing_wand = <ebwizardry:master_healing_wand:*>;
 
 // Master healing recipe
 recipes.addShapeless("randommasterhealingspellbook", 

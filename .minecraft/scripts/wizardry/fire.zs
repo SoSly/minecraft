@@ -12,7 +12,7 @@ var book = <minecraft:writable_book>;
 var gem = <ore:gemRuby>;
 
 // An apprentice_fire_wand is required for apprentice fire spells
-var apprentice_fire_wand = <ebwizardry:apprentice_fire_wand>|<ebwizardry:advanced_fire_wand>|<ebwizardry:master_fire_wand>;
+var apprentice_fire_wand = <ebwizardry:apprentice_fire_wand:*>|<ebwizardry:advanced_fire_wand:*>|<ebwizardry:master_fire_wand:*>;
 
 // Apprentice fire recipe
 recipes.addShapeless("randomapprenticefirespellbook", 
@@ -43,7 +43,7 @@ recipes.addShapeless("randomapprenticefirespellbook",
 );
 
 // An advanced_fire_wand is required for advanced fire spells
-var advanced_fire_wand = <ebwizardry:advanced_fire_wand>|<ebwizardry:master_fire_wand>;
+var advanced_fire_wand = <ebwizardry:advanced_fire_wand:*>|<ebwizardry:master_fire_wand:*>;
 
 // Advanced fire recipe
 recipes.addShapeless("randomadvancedfirespellbook", 
@@ -74,7 +74,7 @@ recipes.addShapeless("randomadvancedfirespellbook",
 );
 
 // A master_fire_wand is required for master fire spells
-var master_fire_wand = <ebwizardry:master_fire_wand>;
+var master_fire_wand = <ebwizardry:master_fire_wand:*>;
 
 // Master fire recipe
 recipes.addShapeless("randommasterfirespellbook", 
