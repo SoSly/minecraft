@@ -1,6 +1,7 @@
 import crafttweaker.event.CommandEvent;
 import crafttweaker.events.IEventManager;
 import crafttweaker.player.IPlayer;
+import mods.ItemStages;
 import mods.recipestages.Recipes;
 
 events.onCommand(function(event as CommandEvent) {
@@ -33,7 +34,8 @@ events.onCommand(function(event as CommandEvent) {
 });
 
 // Botania
-Recipes.setRecipeStageByMod("botania", "botania");
+Recipes.setRecipeStage("botania", <botania:altar:*>);
+ItemStages.addItemStage("botania", <botania:twigwand:*>);
 
 // Embers
 Recipes.setRecipeStageByMod("embers", "embers");

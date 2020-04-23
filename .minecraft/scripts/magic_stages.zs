@@ -54,7 +54,6 @@ ItemStages.addItemStage("thaumaturgy", <thaumcraft:thaumonomicon>);
 // Wizardry
 Recipes.setRecipeStageByMod("wizardry", "bewitchment");
 Recipes.setRecipeStageByMod("wizardry", "ebwizardry");
-// Only wizards can use wands
 var any_wand = <ebwizardry:magic_wand:*>|<ebwizardry:apprentice_wand:*>|<ebwizardry:advanced_wand:*>|<ebwizardry:master_wand:*>
              | <ebwizardry:novice_fire_wand:*>|<ebwizardry:apprentice_fire_wand:*>|<ebwizardry:advanced_fire_wand:*>|<ebwizardry:master_fire_wand:*>
              | <ebwizardry:novice_ice_wand:*>|<ebwizardry:apprentice_ice_wand:*>|<ebwizardry:advanced_ice_wand:*>|<ebwizardry:master_ice_wand:*>
