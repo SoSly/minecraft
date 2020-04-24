@@ -85,6 +85,7 @@ New systems or changes to the base gameplay.
 - [Environmental Creepers](https://www.curseforge.com/minecraft/mc-mods/environmental-creepers) allows customization of creeper behavior and impact.
 - [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads) adds a seed market for streamlined farming.
 - [Hunger Overhaul](https://www.curseforge.com/minecraft/mc-mods/hunger-overhaul) tweaks the hunger mechanics to be more of an interesting challenge.
+- [Idō](https://www.curseforge.com/minecraft/mc-mods/ido) brings 1.13 and 1.14 movement like swimming and crawling into 1.12.2.
 - [Improved Backpacks](https://www.curseforge.com/minecraft/mc-mods/improvedbackpacks) adds versatile equippable backpacks.
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus) is a sleep vote system.
 - [Netherbound](https://www.curseforge.com/minecraft/mc-mods/netherbound) prevents the Wither from spawning outside of the nether.
