@@ -136,6 +136,7 @@ New gameplay loops that bring appropriate levels of technology to the world of M
 Changes to the way the game overlay and interface works.
 
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) improves the visualization of saturation and exhaustion.
+- [InventoryTweaks](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks) makes it easier to keep your inventory and chests well sorted.
 - [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) is a map with a minimap hud and placeable markers.
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) adds information and recipes to the inventory screen.
     - [JEI Integration](https://www.curseforge.com/minecraft/mc-mods/jei-integration) JEI addon.
