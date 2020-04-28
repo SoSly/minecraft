@@ -62,6 +62,7 @@ New and exciting interactions in the world of Minecraft, including new mobs to f
 - [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) adds a host of exciting adventure to the overworld, including Dragons, Hippogryphs, Sirens, and more.
     - [ISeeDragons](https://www.curseforge.com/minecraft/mc-mods/iseedragons) fixes several problems with dragons not rendering or waking up.A
 - [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) adds a simple compass to find whatever biome you're looking for.
+- [Outfox](https://www.curseforge.com/minecraft/mc-mods/outfox) adds tamable foxes to the world!
 - [Shipwrecks!](https://www.curseforge.com/minecraft/mc-mods/shipwrecks) adds shipwreck structures to the game.
 
 ### Beautification
