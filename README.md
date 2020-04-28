@@ -58,6 +58,7 @@ Wherever possible, a link to the Mod's description is provided, along with a lin
 ### Adventure and Exploration
 New and exciting interactions in the world of Minecraft, including new mobs to fight or places to explore.
 
+- [Bear With Me](https://www.curseforge.com/minecraft/mc-mods/bear-with-me) adds bears to the world.
 - [Exotic Birds](https://www.curseforge.com/minecraft/mc-mods/exotic-birds) adds many fun and colorful birds.
 - [Ice and Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons) adds a host of exciting adventure to the overworld, including Dragons, Hippogryphs, Sirens, and more.
     - [ISeeDragons](https://www.curseforge.com/minecraft/mc-mods/iseedragons) fixes several problems with dragons not rendering or waking up.A
