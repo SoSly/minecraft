@@ -74,6 +74,7 @@ Mods which make your builds a more beautiful.
 - [Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm) blends some materials across blocks.
 - [Cosmetic Armor](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor) allows you to change the look of what you're wearing.
 - [Double Slabs](https://www.curseforge.com/minecraft/mc-mods/double-slabs) lets you place slabs of different types atop one another.
+- [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings) adds to the visual and audible experience of Minecraft, without altering game mechanics.
 
 ### Gameplay
 New systems or changes to the base gameplay.
@@ -195,6 +196,7 @@ Dependencies required on by other mods.
 - [McHorse's McLib](https://www.curseforge.com/minecraft/mc-mods/mchorses-mclib), required by Metamorph.
 - [MMDLib](https://www.curseforge.com/minecraft/mc-mods/mmdlib), required by Base Metals.
 - [MysticalLib](https://www.curseforge.com/minecraft/mc-mods/mysticallib), required by Roots and Arcane Archives.
+- [OreLib](https://www.curseforge.com/minecraft/mc-mods/orelib), required by Dynamic Surroundings.
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli), required by Bewitchment and Roots.
 
 ### Performance
