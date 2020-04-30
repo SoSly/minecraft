@@ -108,6 +108,7 @@ New systems or changes to the base gameplay.
     - [Spartan BaseMetals](https://www.curseforge.com/minecraft/mc-mods/spartan-basemetals) adds compatibility with some of the more interesting ores in our world.
     - [Spartan Shields](https://www.curseforge.com/minecraft/mc-mods/spartan-shields) adds additional shields in the same vein.
     - [Spartan Weaponry Arcana](https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry-arcana) provides compatibility for some magical metals.
+- [Super Sound Muffler: Revived](https://www.curseforge.com/minecraft/mc-mods/super-sound-muffler-revived) allows you to muffle annoying sounds near a sound muffler block or with a bauble.
 
 ### Magic
 All of Minecraft's gameplay loops are enhanced by these ways to power.
