@@ -1,0 +1,79 @@
+{
+	"populate": {
+		"enderameythst": {
+			"distribution": "uniform",
+			"generator": {
+					"block": [
+						{
+							"name": "biomesoplenty:gem_ore",
+							"metadata": 0
+						}
+					],
+				"material": "minecraft:end_stone",
+				"cluster-size": 4
+			},
+			"cluster-count": {
+				"min": 6,
+				"max": 8
+			},
+			"min-height": 0,
+			"max-height": 256,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					1,
+				]
+			}
+		},
+		"starsteel": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "basemetals:starsteel_ore",
+				"material": "minecraft:end_stone",
+				"cluster-size": 8
+			},
+			"cluster-count": {
+				"min": 6,
+				"max": 10
+			},
+			"min-height": 0,
+			"max-height": 256,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					1,
+				]
+			}
+		},
+		"enderglowstone": {
+			"distribution": "uniform",
+			"generator": {
+				"type": "stalactite"
+				"block": "biomesoplenty:crystal",
+				"material": "minecraft:end_stone",
+				"min-height": 5,
+				"height-variance": 2,
+				"size-variance": 2,
+				"alt-sinc": true,
+			},
+			"cluster-count": {
+				"min": 2,
+				"max": 4
+			},
+			"min-height": 0,
+			"max-height": 256,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					1,
+				]
+			}
+		},
+	}
+}
