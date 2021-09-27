@@ -8,7 +8,7 @@
   "needReviveItem": false,
   "consumeReviveItem": false,
   "healthAfterRevive": 2,
-  "affectFood": true,
+  "affectFood": false,
   "foodAfterRevive": 6,
   "exhaustion": 0.5,
   "banPlayerAfterDeath": false,

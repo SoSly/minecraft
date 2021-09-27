@@ -15,7 +15,7 @@
 	IncludeMiners = true
 	#Players below this Y level will be counted as miners
 	#Range: 1 ~ 255
-	GroundLevel = 64
+	GroundLevel = 60
 	#Allow players to set their spawn point using a bed during the day
 	AllowSetSpawnDaytime = true
 

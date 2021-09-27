@@ -10,7 +10,7 @@ disableOptifineNagScreen = false
 #Client only: Controls for the Loading screen
 ["Loading Screen"]
 	#Wobble the Loading icon. Has no performance impact at all. For those who don't like fun.
-	enable = true
+	enable = false
 	#How many ticks between each loading screen change. Set to 0 to not cycle at all.
 	#Range: > 0
 	cycleLoadingScreenFrequency = 0

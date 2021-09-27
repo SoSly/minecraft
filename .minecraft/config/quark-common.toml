@@ -283,8 +283,8 @@
 		"Valid Enchantments" = ["minecraft:feather_falling", "minecraft:thorns", "minecraft:sharpness", "minecraft:smite", "minecraft:bane_of_arthropods", "minecraft:knockback", "minecraft:fire_aspect", "minecraft:looting", "minecraft:sweeping", "minecraft:efficiency", "minecraft:unbreaking", "minecraft:fortune", "minecraft:power", "minecraft:punch", "minecraft:luck_of_the_sea", "minecraft:lure", "minecraft:loyalty", "minecraft:riptide", "minecraft:impaling", "minecraft:piercing"]
 
 	[tools.bottled_cloud]
-		"Cloud Level Bottom" = 127
-		"Cloud Level Top" = 132
+		"Cloud Level Bottom" = 227
+		"Cloud Level Top" = 232
 
 	[tools.color_runes]
 		"Dungeon Weight" = 10

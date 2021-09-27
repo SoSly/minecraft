@@ -1,5 +1,8 @@
-crash-reports/*
-journeymap/*
-logs/*
-saves/*
-screenshots/*
+crash-reports/
+dumps/
+journeymap/
+logs/
+saves/
+screenshots/
+
+options.txt
