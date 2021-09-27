@@ -3,7 +3,7 @@
 	#Animate the HUD Quiver showing and hiding.
 	ANIMATE = true
 	#Hide the HUD Quiver when not selecting a shootable item.
-	HIDE = false
+	HIDE = true
 	#The margin on the left of the HUD Quiver.
 	#Range: 16 ~ 1000
 	HORIZONTAL_OFFSET = 16
