@@ -420,28 +420,28 @@
   },
   "rivers": {
     "seedOffset": 0,
-    "riverCount": 14,
+    "riverCount": 24,
     "mainRivers": {
-      "bedDepth": 5,
+      "bedDepth": 8,
       "minBankHeight": 1,
       "maxBankHeight": 4,
-      "bedWidth": 5,
-      "bankWidth": 20,
+      "bedWidth": 8,
+      "bankWidth": 32,
       "fade": 0.504
     },
     "branchRivers": {
-      "bedDepth": 3,
+      "bedDepth": 6,
       "minBankHeight": 1,
       "maxBankHeight": 2,
-      "bedWidth": 4,
-      "bankWidth": 12,
+      "bedWidth": 6,
+      "bankWidth": 16,
       "fade": 0.5
     },
     "lakes": {
       "chance": 0.671,
       "minStartDistance": 0.0,
       "maxStartDistance": 0.028,
-      "depth": 8,
+      "depth": 32,
       "sizeMin": 75,
       "sizeMax": 150,
       "minBankHeight": 2,
