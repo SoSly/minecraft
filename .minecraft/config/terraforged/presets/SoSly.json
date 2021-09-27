@@ -56,74 +56,74 @@
         "disabled": false
       },
       "blue_skies:gatekeeper_house": {
-        "spacing": 36,
+        "spacing": 54,
         "separation": 12,
         "salt": 708855296,
         "disabled": false
       },
       "blue_skies:village": {
-        "spacing": 15,
-        "separation": 5,
+        "spacing": 16,
+        "separation": 4,
         "salt": 1306458496,
         "disabled": false
       },
       "iceandfire:gorgon_temple": {
-        "spacing": 16,
-        "separation": 8,
+        "spacing": 128,
+        "separation": 32,
         "salt": 342226464,
         "disabled": false
       },
       "iceandfire:graveyard": {
-        "spacing": 48,
+        "spacing": 64,
         "separation": 24,
         "salt": 342226432,
         "disabled": false
       },
       "iceandfire:mausoleum": {
-        "spacing": 30,
-        "separation": 15,
+        "spacing": 128,
+        "separation": 16,
         "salt": 342226464,
         "disabled": false
       },
       "kobolds:kobold_den_large": {
-        "spacing": 18,
-        "separation": 12,
+        "spacing": 32,
+        "separation": 8,
         "salt": 998721472,
         "disabled": false
       },
       "kobolds:kobold_den_mountain": {
-        "spacing": 26,
-        "separation": 18,
+        "spacing": 32,
+        "separation": 8,
         "salt": 128768296,
         "disabled": false
       },
       "kobolds:kobold_den_pirate": {
-        "spacing": 26,
-        "separation": 18,
+        "spacing": 32,
+        "separation": 8,
         "salt": 778910464,
         "disabled": false
       },
       "kobolds:kobold_den_small": {
-        "spacing": 12,
-        "separation": 6,
+        "spacing": 32,
+        "separation": 8,
         "salt": 432676512,
         "disabled": false
       },
       "kobolds:kobold_dungeon_desert": {
-        "spacing": 21,
-        "separation": 12,
+        "spacing": 32,
+        "separation": 8,
         "salt": 536872576,
         "disabled": false
       },
       "kobolds:kobold_dungeon_ocean": {
         "spacing": 32,
-        "separation": 16,
+        "separation": 8,
         "salt": 672473536,
         "disabled": false
       },
       "kobolds:kobold_dungeon_swamp": {
-        "spacing": 21,
-        "separation": 12,
+        "spacing": 32,
+        "separation": 8,
         "salt": 157945728,
         "disabled": false
       },
