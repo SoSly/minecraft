@@ -1,7 +1,3 @@
-import crafttweaker.api.tag.MCTag;
-import crafttweaker.api.item.IItemStack;
-import crafttweaker.api.item.IIngredient;
-
 // Granite Bricks
 craftingTable.addShapedMirrored("granite_bricks", <item:quark:granite_bricks>*4, [
     [<item:minecraft:polished_granite>, <item:minecraft:polished_granite>, <item:minecraft:air>],
