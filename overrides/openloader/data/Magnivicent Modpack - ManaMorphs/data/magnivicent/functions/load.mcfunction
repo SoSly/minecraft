@@ -1,0 +1,3 @@
+gamerule preventLookat true
+gamerule doMorphDrops false
+gamerule morphAggroDuration 40

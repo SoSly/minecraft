@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "mana-and-artifice:arcanist_ink"
+        },
+        {
+            "item": "minecraft:ink_sac"
+        },
+        {
+            "item": "mana-and-artifice:vinteum_dust"
+        }
+    ],
+    "result": {
+        "item": "mana-and-artifice:arcanist_ink"
+    }
+}

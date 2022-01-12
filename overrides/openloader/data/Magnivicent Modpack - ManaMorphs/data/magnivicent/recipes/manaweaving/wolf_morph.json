@@ -1,0 +1,19 @@
+{
+    "type": "mana-and-artifice:manaweaving-recipe",
+    "tier": 2,
+    "output": "minecraft:wolf_spawn_egg",
+    "enchant": "minecraft:loyalty",
+    "magnitude": 1,
+    "items": [
+        "minecraft:diamond",
+        "minecraft:bone",
+        "minecraft:bone",
+        "mana-and-artifice:mote_arcane",
+        "mana-and-artifice:mote_earth"
+    ],
+    "patterns": [
+        "mana-and-artifice:circle",
+        "mana-and-artifice:knot",
+        "mana-and-artifice:diamond"
+    ]
+}

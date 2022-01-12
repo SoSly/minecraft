@@ -1,0 +1,20 @@
+{
+    "type": "mana-and-artifice:manaweaving-recipe",
+    "tier": 3,
+    "output": "minecraft:squid_spawn_egg",
+    "enchant": "minecraft:loyalty",
+    "magnitude": 1,
+    "items": [
+        "minecraft:diamond",
+        "minecraft:ink_sac",
+        "minecraft:ink_sac",
+        "mana-and-artifice:mote_water",
+        "mana-and-artifice:mote_water"
+    ],
+    "patterns": [
+        "mana-and-artifice:knot",
+        "mana-and-artifice:diamond",
+        "mana-and-artifice:backslash",
+        "mana-and-artifice:knot4"
+    ]
+}

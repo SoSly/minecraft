@@ -1,0 +1,26 @@
+{
+    "criteria": {
+        "magnivicent": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:pig_spawn_egg",
+                        "enchantments": [
+                            {
+                                "enchantment": "minecraft:loyalty",
+                                "levels": {
+                                    "min": 1,
+                                    "max": 1
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "function": "magnivicent:pig_morph"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "mana-and-artifice:manaweaving-recipe",
+    "tier": 2,
+    "output": "minecraft:fox_spawn_egg",
+    "enchant": "minecraft:loyalty",
+    "magnitude": 1,
+    "items": [
+        "minecraft:diamond",
+        "minecraft:sweet_berries",
+        "minecraft:sweet_berries",
+        "mana-and-artifice:mote_ender",
+        "mana-and-artifice:mote_arcane"
+    ],
+    "patterns": [
+        "mana-and-artifice:knot",
+        "mana-and-artifice:knot3",
+        "mana-and-artifice:circle"
+    ]
+}

@@ -1,0 +1,12 @@
+
+["Happy Trail Control Values"]
+	#Debug Level: 0 = Off, 1 = Log, 2 = Chat+Log
+	#Range: 0 ~ 2
+	debugLevel = 0
+	#Particles On: [true] / false
+	particlesOn = true
+
+["Trail Values 6464"]
+	#Trail Block String 6464
+	defaultTrailBlocksActual = "minecraft:grass_path,2;minecraft:sand,-1;inspirations:rock_path,2;inspirations:round_path,2;inspirations:tile_path,2;inspirations:brick_path,2;environmental:podzol_path,2;environmental:mycelium_path,2;byg:meadow_grass_path,2"
+

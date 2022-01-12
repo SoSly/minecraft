@@ -1,0 +1,20 @@
+{
+    "type": "mana-and-artifice:manaweaving-recipe",
+    "tier": 3,
+    "output": "minecraft:bat_spawn_egg",
+    "enchant": "minecraft:loyalty",
+    "magnitude": 1,
+    "items": [
+        "minecraft:diamond",
+        "animals_plus:batwing",
+        "animals_plus:batwing",
+        "mana-and-artifice:mote_air",
+        "mana-and-artifice:mote_ender"
+    ],
+    "patterns": [
+        "mana-and-artifice:knot2",
+        "mana-and-artifice:slash",
+        "mana-and-artifice:split_triangle",
+        "mana-and-artifice:knot2"
+    ]
+}
