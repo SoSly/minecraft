@@ -65,6 +65,13 @@
             "required": true
         },
         {
+            "name": "CreativeCore",
+            "projectID": 257814,
+            "fileID": 3569157,
+            "version": "v2.4.1",
+            "required": true
+        },
+        {
             "name": "Curios API",
             "projectID": 309927,
             "fileID": 3607674,
@@ -86,6 +93,20 @@
             "required": true
         },
         {
+            "name": "FallingTree",
+            "projectID": 349559,
+            "fileID": 3603118,
+            "version": "3.1.0",
+            "required": true
+        },
+        {
+            "name": "Farmer's Delight",
+            "projectID": 398521,
+            "fileID": 3608961,
+            "version": "1.0.2a",
+            "required": true
+        },
+        {
             "name": "Flywheel",
             "projectID": 486392,
             "fileID": 3600401,
@@ -100,6 +121,13 @@
             "required": true
         },
         {
+            "name": "mutil",
+            "projectID": 351914,
+            "fileID": 3591744,
+            "version": "4.1.0",
+            "required": true
+        },
+        {
             "name": "Open Loader",
             "projectID": 354339,
             "fileID": 3586548,
@@ -107,10 +135,24 @@
             "required": true
         },
         {
+            "name": "PlayerRevive",
+            "projectID": 266890,
+            "fileID": 3604329,
+            "version": "v2.0.0-pre06",
+            "required": true
+        },
+        {
             "name": "TerraForged",
             "projectID": 363820,
             "fileID": 3584577,
             "version": "0.3.0-ALPHA-2",
+            "required": true
+        },
+        {
+            "name": "HT's TreeChop",
+            "projectID": 421377,
+            "fileID": 3480882,
+            "version": "0.14.6-fixed",
             "required": true
         }
     ]
