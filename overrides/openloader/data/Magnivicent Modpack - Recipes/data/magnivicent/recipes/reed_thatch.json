@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:smelting",
-    "ingredient": {
-        "item": "environmental:cattail_thatch"
-    },
-    "result": "byg:reed_thatch",
-    "experience": 0,
-    "cookingtime": 200
-}

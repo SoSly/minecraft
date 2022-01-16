@@ -16,6 +16,97 @@
     "author": "nivthefox",
     "files": [
         {
+            "name": "Appleskin",
+            "projectID": 248787,
+            "fileID": 3549846,
+            "version": "2.2.0",
+            "required": true
+        },
+        {
+            "name": "Caelus API",
+            "projectID": 308989,
+            "fileID": 3551173,
+            "version": "3.0.0.1",
+            "required": true
+        },
+        {
+            "name": "Carry On",
+            "projectID": 274259,
+            "fileID": 3601938,
+            "version": "1.17.0.7",
+            "required": true
+        },
+        {
+            "name": "Comforts",
+            "projectID": 276951,
+            "fileID": 3551239,
+            "version": "5.0.0.1",
+            "required": true
+        },
+        {
+            "name": "Controlling",
+            "projectID": 250398,
+            "fileID": 3599014,
+            "version": "9.0.0.11",
+            "required": true
+        },
+        {
+            "name": "Cosmetic Armor Reworked",
+            "projectID": 237307,
+            "fileID": 3595626,
+            "version": "1.18.1-v1a",
+            "required": true
+        },
+        {
+            "name": "Create",
+            "projectID": 328085,
+            "fileID": 3600402,
+            "version": "v0.4c",
+            "required": true
+        },
+        {
+            "name": "Curios API",
+            "projectID": 309927,
+            "fileID": 3607674,
+            "version": "5.0.5.2",
+            "required": true
+        },
+        {
+            "name": "Curious Elytra",
+            "projectID": 317716,
+            "fileID": 3601975,
+            "version": "5.0.1.0",
+            "required": true
+        },
+        {
+            "name": "Dynamic View",
+            "projectID": 366140,
+            "fileID": 3548215,
+            "version": "2.3",
+            "required": true
+        },
+        {
+            "name": "Flywheel",
+            "projectID": 486392,
+            "fileID": 3600401,
+            "version": "0.5.1",
+            "required": true
+        },
+        {
+            "name": "JourneyMap",
+            "projectID": 32274,
+            "fileID": 3605663,
+            "version": "5.5.0beta8",
+            "required": true
+        },
+        {
+            "name": "Open Loader",
+            "projectID": 354339,
+            "fileID": 3586548,
+            "version": "11.0.3",
+            "required": true
+        },
+        {
             "name": "TerraForged",
             "projectID": 363820,
             "fileID": 3584577,
