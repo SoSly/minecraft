@@ -1,6 +1,0 @@
-{
-    "schema_version": "imm_ptl:v1",
-    "from": ["minecraft:overworld"],"to": "blue_skies:everbright",
-    "form": {"type": "imm_ptl:convert_conventional_portal","portal_block": "blue_skies:everbright_portal"},
-    "trigger": {"type": "imm_ptl:conventional_dimension_change"}
-  }
