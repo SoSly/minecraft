@@ -2,7 +2,7 @@
   "logical_height": 1024,
   "infiniburn": "minecraft:infiniburn_overworld",
   "effects": "terraforged:overworld",
-  "ambient_light": 8.0,
+  "ambient_light": 0,
   "respawn_anchor_works": false,
   "has_raids": true,
   "min_y": -64,
