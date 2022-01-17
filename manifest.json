@@ -30,6 +30,13 @@
             "required": true
         },
         {
+            "name": "Builder's Addition",
+            "projectID": 389697,
+            "fileID": 3554342,
+            "version": "20211208a",
+            "required": true
+        },
+        {
             "name": "Caelus API",
             "projectID": 308989,
             "fileID": 3551173,
