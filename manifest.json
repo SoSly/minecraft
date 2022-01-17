@@ -72,6 +72,13 @@
             "required": true
         },
         {
+            "name": "CraftPresence",
+            "projectID": 297038,
+            "fileID": 3561106,
+            "version": "v1.8.8",
+            "required": true
+        },
+        {
             "name": "Create",
             "projectID": 328085,
             "fileID": 3600402,
