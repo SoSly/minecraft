@@ -16,6 +16,20 @@
     "author": "nivthefox",
     "files": [
         {
+            "name": "Better Azalea",
+            "projectID": 517564,
+            "fileID": 3548155,
+            "version": "3.0.0",
+            "required": true
+        },
+        {
+            "name": "BlockUI",
+            "projectID": 522992,
+            "fileID": 3561693,
+            "version": "0.0.34-ALPHA",
+            "required": true
+        },
+        {
             "name": "Caelus API",
             "projectID": 308989,
             "fileID": 3551173,
@@ -79,6 +93,13 @@
             "required": true
         },
         {
+            "name": "Domum Ornamentum",
+            "projectID": 527361,
+            "fileID": 3608666,
+            "version": "1.0.39-ALPHA-universal",
+            "required": true
+        },
+        {
             "name": "Dynamic View",
             "projectID": 366140,
             "fileID": 3548215,
@@ -100,10 +121,38 @@
             "required": true
         },
         {
+            "name": "Grass Slabs, Carpets & Stairs",
+            "projectID": 565833,
+            "fileID": 3601095,
+            "version": "1.1",
+            "required": true
+        },
+        {
+            "name": "Just Enough Items (JEI)",
+            "projectID": 238222,
+            "fileID": 3599262,
+            "version": "9.2.1.69",
+            "required": true
+        },
+        {
             "name": "JourneyMap",
             "projectID": 32274,
             "fileID": 3605663,
             "version": "5.5.0beta8",
+            "required": true
+        },
+        {
+            "name": "MineColonies",
+            "projectID": 245506,
+            "fileID": 3606103,
+            "version": "1.0.351-ALPHA",
+            "required": true
+        },
+        {
+            "name": "Multi-Piston",
+            "projectID": 303278,
+            "fileID": 3543720,
+            "version": "1.2.2-ALPHA",
             "required": true
         },
         {
@@ -128,6 +177,13 @@
             "required": true
         },
         {
+            "name": "Structurize",
+            "projectID": 298744,
+            "fileID": 3608686,
+            "version": "1.0.326-ALPHA",
+            "required": true
+        },
+        {
             "name": "TerraForged",
             "projectID": 363820,
             "fileID": 3584577,
@@ -139,6 +195,13 @@
             "projectID": 289712,
             "fileID": 3591751,
             "version": "4.3.0",
+            "required": true
+        },
+        {
+            "name": "TreeChop",
+            "projectID": 421377,
+            "fileID": 3609307,
+            "version": "0.15.2",
             "required": true
         }
     ]
