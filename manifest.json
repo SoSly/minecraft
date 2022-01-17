@@ -65,6 +65,13 @@
             "required": true
         },
         {
+            "name": "Corpse",
+            "projectID": 316582,
+            "fileID": 3602236,
+            "version": "1.0.2",
+            "required": true
+        },
+        {
             "name": "Cosmetic Armor Reworked",
             "projectID": 237307,
             "fileID": 3595626,

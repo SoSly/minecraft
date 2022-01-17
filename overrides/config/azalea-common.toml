@@ -1,0 +1,8 @@
+#Should bonemealing the vanilla Azalea Bush grow the modded Azalea tree instead of the vanilla one?
+overrideVanillaTree = true
+#Should the modded azalea tree generate in the world naturally?
+generateTreeNaturally = true
+#Multiply the chance that azalea trees generate
+#Range: 0.1 ~ 50.0
+treeSpawnChanceMultiplier = 1.0
+
