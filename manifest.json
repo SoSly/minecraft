@@ -107,6 +107,13 @@
             "required": true
         },
         {
+            "name": "Drink Beer",
+            "projectID": 534161,
+            "fileID": 3571682,
+            "version": "v2.3.5",
+            "required": true
+        },
+        {
             "name": "Dynamic View",
             "projectID": 366140,
             "fileID": 3548215,
@@ -139,6 +146,13 @@
             "projectID": 238222,
             "fileID": 3599262,
             "version": "9.2.1.69",
+            "required": true
+        },
+        {
+            "name": "Just Enough Keg",
+            "projectID": 543014,
+            "fileID": 3573847,
+            "version": "3.0.0",
             "required": true
         },
         {
