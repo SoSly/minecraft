@@ -16,6 +16,13 @@
     "author": "nivthefox",
     "files": [
         {
+            "name": "AutoRegLib",
+            "projectID": 250363,
+            "fileID": 3575622,
+            "version": "1.7-52",
+            "required": true
+        },
+        {
             "name": "Better Azalea",
             "projectID": 517564,
             "fileID": 3548155,
@@ -209,6 +216,13 @@
             "projectID": 266890,
             "fileID": 3604329,
             "version": "2.0.0-pre06",
+            "required": true
+        },
+        {
+            "name": "Quark",
+            "projectID": 243121,
+            "fileID": 3578106,
+            "version": "3.0-334",
             "required": true
         },
         {
