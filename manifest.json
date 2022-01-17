@@ -219,6 +219,13 @@
             "required": true
         },
         {
+            "name": "Tom's Simple Storage Mod",
+            "projectID": 378609,
+            "fileID": 3550443,
+            "version": "1.2.23",
+            "required": true
+        },
+        {
             "name": "TreeChop",
             "projectID": 421377,
             "fileID": 3609307,
