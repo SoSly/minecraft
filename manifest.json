@@ -3,7 +3,7 @@
         "version": "1.18.1",
         "modLoaders": [
             {
-                "id": "forge-39.0.18",
+                "id": "forge-39.0.43",
                 "primary": true
             }
         ],
@@ -137,8 +137,8 @@
         {
             "name": "Farmer's Delight",
             "projectID": 398521,
-            "fileID": 3608555,
-            "version": "1.0.2",
+            "fileID": 3608961,
+            "version": "1.0.2a",
             "required": true
         },
         {
@@ -158,8 +158,8 @@
         {
             "name": "Just Enough Items (JEI)",
             "projectID": 238222,
-            "fileID": 3599262,
-            "version": "9.2.1.69",
+            "fileID": 3607580,
+            "version": "9.2.3.78",
             "required": true
         },
         {
@@ -172,15 +172,15 @@
         {
             "name": "JourneyMap",
             "projectID": 32274,
-            "fileID": 3605663,
-            "version": "5.5.0beta8",
+            "fileID": 3608899,
+            "version": "5.5.0beta9",
             "required": true
         },
         {
             "name": "MineColonies",
             "projectID": 245506,
-            "fileID": 3606103,
-            "version": "1.0.351-ALPHA",
+            "fileID": 3610009,
+            "version": "1.0.354-ALPHA",
             "required": true
         },
         {
@@ -208,7 +208,7 @@
             "name": "PlayerRevive",
             "projectID": 266890,
             "fileID": 3604329,
-            "version": "11.0.3",
+            "version": "2.0.0-pre06",
             "required": true
         },
         {
