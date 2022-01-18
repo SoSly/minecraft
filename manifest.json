@@ -23,6 +23,13 @@
             "required": true
         },
         {
+            "name": "Better Advancements",
+            "projectID": 272515,
+            "fileID": 3575636,
+            "version": "0.1.2.122",
+            "required": true
+        },
+        {
             "name": "Better Azalea",
             "projectID": 517564,
             "fileID": 3548155,
@@ -69,13 +76,6 @@
             "projectID": 250398,
             "fileID": 3599014,
             "version": "9.0.0.11",
-            "required": true
-        },
-        {
-            "name": "Corpse",
-            "projectID": 316582,
-            "fileID": 3602236,
-            "version": "1.0.2",
             "required": true
         },
         {
@@ -160,6 +160,13 @@
             "projectID": 565833,
             "fileID": 3601095,
             "version": "1.1",
+            "required": true
+        },
+        {
+            "name": "GraveStone Mod",
+            "projectID": 238551,
+            "fileID": 3609526,
+            "version": "1.0.1",
             "required": true
         },
         {
