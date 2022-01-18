@@ -226,6 +226,13 @@
             "required": true
         },
         {
+            "name": "Polymorph (Forge)",
+            "projectID": 388800,
+            "fileID": 3604752,
+            "version": "0.36",
+            "required": true
+        },
+        {
             "name": "Quark",
             "projectID": 243121,
             "fileID": 3578106,
