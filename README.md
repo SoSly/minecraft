@@ -9,28 +9,25 @@ creativity, exploration, and danger.  You are invited to come and play!
 
 ## Server Rules
 1. This is Niv's personal world.
-  a. Suggestions and bug reports are welcome
-  b. Complaints about things you don't like are not welcome
-  c. Completing endgame content (such as bosses) without Niv is frowned upon
+   a. Suggestions and bug reports are welcome
+   b. Complaints about things you don't like are not welcome
+   c. Completing endgame content (such as bosses) without Niv is frowned upon
 2. Avoid lagging the server where possible
-  a. Don't leave extradimensional portals open
-  b. Don't spam the server with entities
-  c. Don't run laggy redstone contraptions
-  d. Don't build near 0 ~ 0 without permission.
+   a. Don't spam the server with entities
+   b. Don't run laggy redstone contraptions
+   c. Don't build near 0 ~ 0 without permission.
 3. Respect player properties
-  a. If you plan to build within 32 chunks of someone, make sure your build does not conflict
-     with their aesthetic, first.
-  b. Fix anything you break
-  c. Don't take resources without asking
-  d. If you spot a disabled mob spawner, don't destroy it
+   a. If you plan to build within 32 chunks of someone, make sure your build does not conflict with their aesthetic, first.
+   b. Fix anything you break
+   c. Don't take resources without asking
+   d. If you spot a disabled mob spawner, don't destroy it
 4. Don't destroy the world within 1,000 blocks of spawn
-  a. Don't summon the wither within that range
-  b. Don't destroy or strip villages or other surface structures within that range
-  c. Don't leave creeper holes lying around within that range
-  d. Don't terraform the surface within that range
+   a. Don't summon the wither within that range
+   b. Don't destroy or strip villages or other surface structures within that range
+   c. Don't leave creeper holes lying around within that range
+   d. Don't terraform the surface within that range
 5. Don't engage in intentional PvP Combat
-  a. Contained competitive games (such as spleef) where everyone involved has explicitly
-     agreed to the PvP are fine
+   a. Contained competitive games (such as spleef) where everyone involved has explicitly agreed to the PvP are fine
 6. If something seems easily abused or too good to be true, report it.  Don't abuse it.
 7. Do not share this modpack or the world details outside of the #minecraft channel on SoSly's Discord.
 
