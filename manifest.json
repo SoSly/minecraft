@@ -156,6 +156,13 @@
             "required": true
         },
         {
+            "name": "GeckoLib",
+            "projectID": 388172,
+            "fileID": 3611877,
+            "version": "3.0.7",
+            "required": true
+        },
+        {
             "name": "Grass Slabs, Carpets & Stairs",
             "projectID": 565833,
             "fileID": 3601095,
@@ -188,6 +195,13 @@
             "projectID": 32274,
             "fileID": 3608899,
             "version": "5.5.0beta9",
+            "required": true
+        },
+        {
+            "name": "Mana and Artifice",
+            "projectID": 406360,
+            "fileID": 3613079,
+            "version": "1.7.0.1",
             "required": true
         },
         {
