@@ -1,4 +1,6 @@
 {
   "minecraft:plains": 5,
-  "minecraft:sunflower_plains": 5
+  "minecraft:sunflower_plains": 5,
+  "minecraft:swamp": 5,
+  "hexerei:willow_swamp": 5
 }
