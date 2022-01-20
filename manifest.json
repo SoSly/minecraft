@@ -177,6 +177,13 @@
             "required": true
         },
         {
+            "name": "Hexerei",
+            "projectID": 548599,
+            "fileID": 3609629,
+            "version": "0.1.13",
+            "required": true
+        },
+        {
             "name": "Just Enough Items (JEI)",
             "projectID": 238222,
             "fileID": 3607580,

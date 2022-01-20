@@ -1,5 +1,7 @@
 {
   "minecraft:birch_forest": 5,
   "minecraft:old_growth_birch_forest": 5,
-  "terraforged:oak_forest": 5
+  "terraforged:oak_forest": 5,
+  "minecraft:swamp": 5,
+  "hexerei:willow_swamp": 5
 }
