@@ -221,8 +221,8 @@
         {
             "name": "MineColonies",
             "projectID": 245506,
-            "fileID": 3610009,
-            "version": "1.0.354-ALPHA",
+            "fileID": 3616095,
+            "version": "1.0.356-ALPHA",
             "required": true
         },
         {
@@ -279,6 +279,13 @@
             "projectID": 499980,
             "fileID": 3604965,
             "version": "1.12.0",
+            "required": true
+        },
+        {
+            "name": "Sound Physics Remastered",
+            "projectID": 535489,
+            "fileID": 3544891,
+            "version": "1.0.2",
             "required": true
         },
         {
