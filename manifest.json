@@ -16,6 +16,13 @@
     "author": "nivthefox",
     "files": [
         {
+            "name": "Amplified Nether",
+            "projectID": 552176,
+            "fileID": 3550750,
+            "version": "1.0.1",
+            "required": true
+        },
+        {
             "name": "AutoRegLib",
             "projectID": 250363,
             "fileID": 3575622,
@@ -216,6 +223,13 @@
             "projectID": 245506,
             "fileID": 3610009,
             "version": "1.0.354-ALPHA",
+            "required": true
+        },
+        {
+            "name": "MmmMmmMmmMmm (Target Dummy)",
+            "projectID": 225738,
+            "fileID": 3546593,
+            "version": "1.5.0",
             "required": true
         },
         {
