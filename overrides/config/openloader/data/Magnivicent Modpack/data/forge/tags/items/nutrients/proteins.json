@@ -1,0 +1,16 @@
+{
+    "replace": false,
+    "values": [
+        "farmersdelight:ham",
+        "farmersdelight:roast_chicken",
+        "farmersdelight:honey_glazed_ham",
+        "farmersdelight:shepherds_pie",
+        "minecolonies:milky_bread",
+        "sushigocrafting:cheese",
+        "sushigocrafting:imitation_crab",
+        "sushigocrafting:salmon_fillet",
+        "sushigocrafting:soy_sauce",
+        "sushigocrafting:tobiko",
+        "sushigocrafting:tuna_fillet"
+    ]
+}

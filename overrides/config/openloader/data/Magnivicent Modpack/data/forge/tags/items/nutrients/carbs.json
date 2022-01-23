@@ -1,0 +1,14 @@
+{
+    "replace": false,
+    "values": [
+        "farmersdelight:roast_chicken",
+        "farmersdelight:stuffed_pumpkin",
+        "farmersdelight:honey_glazed_ham",
+        "farmersdelight:shepherds_pie",
+        "minecolonies:chorus_bread",
+        "minecolonies:golden_bread",
+        "minecolonies:milky_bread",
+        "minecolonies:sugary_bread",
+        "sushigocrafting:cooked_rice"
+    ]
+}
