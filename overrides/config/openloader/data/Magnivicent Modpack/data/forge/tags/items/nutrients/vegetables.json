@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "farmersdelight:cabbage_leaf",
+        "farmersdelight:roast_chicken",
+        "farmersdelight:stuffed_pumpkin",
+        "farmersdelight:shepherds_pie",
+        "sushigocrafting:avocado_slices",
+        "sushigocrafting:cucumber_slices",
+        "sushigocrafting:sesame_seed",
+        "sushigocrafting:wasabi_paste"
+    ]
+}

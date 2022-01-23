@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "create:bar_of_chocolate",
+        "farmersdelight:honey_glazed_ham",
+        "hexerei:tallow_impurity",
+        "minecolonies:sugary_bread",
+        "mna:mana_coffee"
+    ]
+}
