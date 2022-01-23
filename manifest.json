@@ -373,6 +373,13 @@
             "required": true
         },
         {
+            "name": "Survive",
+            "projectID": 367337,
+            "fileID": 3597751,
+            "version": "6.1.2",
+            "required": true
+        },
+        {
             "name": "Sushi Go Crafting",
             "projectID": 452500,
             "fileID": 3618339,
@@ -413,6 +420,12 @@
             "fileID": 3609307,
             "version": "0.15.2",
             "required": true
+        },
+        {
+            "name": "UnionLib",
+            "projectID": 367806,
+            "fileID": 3585690,
+            "version": "6.1.7-Forge"
         }
     ]
 }
