@@ -72,6 +72,13 @@
             "required": true
         },
         {
+            "name": "Collective",
+            "projectID": 342584,
+            "fileID": 3559339,
+            "version": "3.8",
+            "required": true
+        },
+        {
             "name": "Comforts",
             "projectID": 276951,
             "fileID": 3551239,
@@ -205,6 +212,13 @@
             "required": true
         },
         {
+            "name": "Horse Tack",
+            "projectID": 385435,
+            "fileID": 3614032,
+            "version": "4.1",
+            "required": true
+        },
+        {
             "name": "Just Enough Items (JEI)",
             "projectID": 238222,
             "fileID": 3607580,
@@ -233,6 +247,13 @@
             "required": true
         },
         {
+            "name": "Market Crates",
+            "projectID": 443591,
+            "fileID": 3564787,
+            "version": "1.4.1",
+            "required": true
+        },
+        {
             "name": "MineColonies",
             "projectID": 245506,
             "fileID": 3616095,
@@ -258,6 +279,13 @@
             "projectID": 351914,
             "fileID": 3591744,
             "version": "4.1.0",
+            "required": true
+        },
+        {
+            "name": "Not Enough Animations",
+            "projectID": 433760,
+            "fileID": 3548349,
+            "version": "1.4.0",
             "required": true
         },
         {
@@ -300,6 +328,20 @@
             "projectID": 243121,
             "fileID": 3578106,
             "version": "3.0-334",
+            "required": true
+        },
+        {
+            "name": "Realistic Bees",
+            "projectID": 410743,
+            "fileID": 3561461,
+            "version": "2.4",
+            "required": true
+        },
+        {
+            "name":  "Realistic Horse Genetics",
+            "projectID": 339184,
+            "fileID": 3609753,
+            "version": "1.7.1",
             "required": true
         },
         {
