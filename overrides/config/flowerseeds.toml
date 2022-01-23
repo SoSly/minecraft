@@ -1,0 +1,29 @@
+
+["Flower Seeds"]
+	#CornFlower Seed Recipe
+	cornflowerseed = true
+	#Poppy Seed Recipe
+	poppyseed = true
+	#Azure Bluet Seed Recipe
+	azureseed = true
+	#Blue Orchid Seed Recipe
+	orchidseed = true
+	#White Tulip Seed Recipe
+	tulip_whiteseed = true
+	#Lily of The Valley Seed Recipe
+	lilyseed = true
+	#Allium Seed Recipe
+	alliumseed = true
+	#Dandelion Seed Recipe
+	dandelionseed = true
+	#Orange Tulip Seed Recipe
+	tulip_orangeseed = true
+	#Pink Tulip Seed Recipe
+	tulip_pinkseed = true
+	#Red Tulip Seed Recipe
+	tulip_redseed = true
+	#Oxeye Daisy Seed Recipe
+	oxeyeseed = true
+	#Wither Rose Seed Recipe
+	witherroseseed = true
+

@@ -156,6 +156,13 @@
             "required": true
         },
         {
+            "name": "Flower Seeds",
+            "projectID": 445955,
+            "fileID": 3557012,
+            "version": "2.0.0",
+            "required": true
+        },
+        {
             "name": "Flywheel",
             "projectID": 486392,
             "fileID": 3600401,
@@ -181,6 +188,13 @@
             "projectID": 238551,
             "fileID": 3609526,
             "version": "1.0.1",
+            "required": true
+        },
+        {
+            "name": "Habitat",
+            "projectID": 422972,
+            "fileID": 3618305,
+            "version": "1.1.2",
             "required": true
         },
         {
