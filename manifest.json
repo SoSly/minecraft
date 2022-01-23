@@ -247,10 +247,24 @@
             "required": true
         },
         {
+            "name": "Nutritional Balance",
+            "projectID": 448222,
+            "fileID": 3611665,
+            "version": "3.0.1",
+            "required": true
+        },
+        {
             "name": "Open Loader",
             "projectID": 354339,
             "fileID": 3586548,
             "version": "11.0.3",
+            "required": true
+        },
+        {
+            "name": "Patchouli",
+            "projectID": 306770,
+            "fileID": 3594394,
+            "version": "64",
             "required": true
         },
         {
@@ -284,8 +298,8 @@
         {
             "name": "Sound Physics Remastered",
             "projectID": 535489,
-            "fileID": 3544891,
-            "version": "1.0.2",
+            "fileID": 3599526,
+            "version": "1.0.4",
             "required": true
         },
         {
@@ -303,6 +317,13 @@
             "required": true
         },
         {
+            "name": "Sushi Go Crafting",
+            "projectID": 452500,
+            "fileID": 3618339,
+            "version": "0.3.2",
+            "required": true
+        },
+        {
             "name": "TerraForged",
             "projectID": 363820,
             "fileID": 3584577,
@@ -314,6 +335,13 @@
             "projectID": 289712,
             "fileID": 3591751,
             "version": "4.3.0",
+            "required": true
+        },
+        {
+            "name": "Titanium",
+            "projectID": 287342,
+            "fileID": 3581992,
+            "version": "3.4.0-27",
             "required": true
         },
         {
