@@ -22,6 +22,13 @@
             "required": true
         },
         {
+            "name": "Arcane Additions",
+            "projectID": 576150,
+            "fileID": 3636106,
+            "version": "0.1.0",
+            "required": true
+        },
+        {
             "name": "AutoRegLib",
             "projectID": 250363,
             "fileID": 3575622,
@@ -47,6 +54,13 @@
             "projectID": 522992,
             "fileID": 3623122,
             "version": "0.0.43-ALPHA",
+            "required": true
+        },
+        {
+            "name": "Budschie's Morph Mod",
+            "projectID": 476409,
+            "fileID": 3631615,
+            "version": "2.0.1",
             "required": true
         },
         {
