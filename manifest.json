@@ -3,11 +3,10 @@
         "version": "1.18.1",
         "modLoaders": [
             {
-                "id": "forge-39.0.43",
+                "id": "forge-39.0.66",
                 "primary": true
             }
-        ],
-        "seed": ""
+        ]
     },
     "manifestType": "minecraftModpack",
     "manifestVersion": 1,
@@ -39,22 +38,22 @@
         {
             "name": "Better Azalea",
             "projectID": 517564,
-            "fileID": 3548155,
-            "version": "3.0.0",
+            "fileID": 3621119,
+            "version": "3.1.1",
             "required": true
         },
         {
             "name": "BlockUI",
             "projectID": 522992,
-            "fileID": 3561693,
-            "version": "0.0.34-ALPHA",
+            "fileID": 3623122,
+            "version": "0.0.43-ALPHA",
             "required": true
         },
         {
             "name": "Builder's Addition",
             "projectID": 389697,
-            "fileID": 3554342,
-            "version": "20211208a",
+            "fileID": 3620249,
+            "version": "20220123a",
             "required": true
         },
         {
@@ -95,8 +94,8 @@
         {
             "name": "Controlling",
             "projectID": 250398,
-            "fileID": 3599014,
-            "version": "9.0.0.11",
+            "fileID": 3627070,
+            "version": "9.0+14",
             "required": true
         },
         {
@@ -107,31 +106,24 @@
             "required": true
         },
         {
-            "name": "CraftPresence",
-            "projectID": 297038,
-            "fileID": 3561106,
-            "version": "v1.8.8",
-            "required": true
-        },
-        {
             "name": "Create",
             "projectID": 328085,
-            "fileID": 3600402,
-            "version": "v0.4c",
+            "fileID": 3623348,
+            "version": "v0.4d",
             "required": true
         },
         {
             "name": "CreativeCore",
             "projectID": 257814,
-            "fileID": 3569157,
-            "version": "v2.4.1",
+            "fileID": 3632751,
+            "version": "v2.4.2",
             "required": true
         },
         {
             "name": "Curios API",
             "projectID": 309927,
-            "fileID": 3607674,
-            "version": "5.0.5.2",
+            "fileID": 3613028,
+            "version": "5.0.6.0",
             "required": true
         },
         {
@@ -157,16 +149,16 @@
         },
         {
             "name": "Dynamic View",
-            "projectID": 366140,
+            "projectID": 3634448,
             "fileID": 3548215,
-            "version": "2.3",
+            "version": "2.4",
             "required": true
         },
         {
             "name": "Farmer's Delight",
             "projectID": 398521,
-            "fileID": 3608961,
-            "version": "1.0.2a",
+            "fileID": 3615366,
+            "version": "1.0.3",
             "required": true
         },
         {
@@ -179,15 +171,15 @@
         {
             "name": "Flywheel",
             "projectID": 486392,
-            "fileID": 3600401,
-            "version": "0.5.1",
+            "fileID": 3623314,
+            "version": "0.6.0",
             "required": true
         },
         {
             "name": "GeckoLib",
             "projectID": 388172,
-            "fileID": 3611877,
-            "version": "3.0.7",
+            "fileID": 3629661,
+            "version": "3.0.11",
             "required": true
         },
         {
@@ -200,8 +192,8 @@
         {
             "name": "GraveStone Mod",
             "projectID": 238551,
-            "fileID": 3609526,
-            "version": "1.0.1",
+            "fileID": 3631821,
+            "version": "1.0.2",
             "required": true
         },
         {
@@ -214,22 +206,15 @@
         {
             "name": "Hexerei",
             "projectID": 548599,
-            "fileID": 3609629,
-            "version": "0.1.13",
-            "required": true
-        },
-        {
-            "name": "Horse Tack",
-            "projectID": 385435,
-            "fileID": 3614032,
-            "version": "4.1",
+            "fileID": 3635844,
+            "version": "0.1.14",
             "required": true
         },
         {
             "name": "Just Enough Items (JEI)",
             "projectID": 238222,
-            "fileID": 3607580,
-            "version": "9.2.3.78",
+            "fileID": 3629529,
+            "version": "9.2.3.84",
             "required": true
         },
         {
@@ -242,8 +227,8 @@
         {
             "name": "JourneyMap",
             "projectID": 32274,
-            "fileID": 3608899,
-            "version": "5.5.0beta9",
+            "fileID": 3634135,
+            "version": "5.8.0beta12",
             "required": true
         },
         {
@@ -263,8 +248,8 @@
         {
             "name": "MineColonies",
             "projectID": 245506,
-            "fileID": 3616095,
-            "version": "1.0.356-ALPHA",
+            "fileID": 3635552,
+            "version": "1.0.390-ALPHA",
             "required": true
         },
         {
@@ -284,8 +269,8 @@
         {
             "name": "mutil",
             "projectID": 351914,
-            "fileID": 3591744,
-            "version": "4.1.0",
+            "fileID": 3612472,
+            "version": "4.2.0",
             "required": true
         },
         {
@@ -305,22 +290,22 @@
         {
             "name": "Open Loader",
             "projectID": 354339,
-            "fileID": 3586548,
-            "version": "11.0.3",
+            "fileID": 3618465,
+            "version": "11.0.4",
             "required": true
         },
         {
             "name": "Patchouli",
             "projectID": 306770,
-            "fileID": 3594394,
-            "version": "64",
+            "fileID": 3630725,
+            "version": "65",
             "required": true
         },
         {
             "name": "PlayerRevive",
             "projectID": 266890,
-            "fileID": 3604329,
-            "version": "2.0.0-pre06",
+            "fileID": 3632749,
+            "version": "2.0.0-pre08",
             "required": true
         },
         {
@@ -345,13 +330,6 @@
             "required": true
         },
         {
-            "name":  "Realistic Horse Genetics",
-            "projectID": 339184,
-            "fileID": 3609753,
-            "version": "1.7.1",
-            "required": true
-        },
-        {
             "name": "Selene Lib",
             "projectID": 499980,
             "fileID": 3604965,
@@ -368,22 +346,22 @@
         {
             "name": "Structurize",
             "projectID": 298744,
-            "fileID": 3608686,
-            "version": "1.0.326-ALPHA",
+            "fileID": 3631957,
+            "version": "1.0.341-ALPHA",
             "required": true
         },
         {
             "name": "Supplementaries",
             "projectID": 412082,
-            "fileID": 3607437,
-            "version": "1.1.9",
+            "fileID": 3622554,
+            "version": "1.1.11",
             "required": true
         },
         {
             "name": "Survive",
             "projectID": 367337,
-            "fileID": 3597751,
-            "version": "6.1.2",
+            "fileID": 3624675,
+            "version": "6.1.4",
             "required": true
         },
         {
@@ -403,15 +381,15 @@
         {
             "name": "Tetra",
             "projectID": 289712,
-            "fileID": 3591751,
-            "version": "4.3.0",
+            "fileID": 3620466,
+            "version": "4.5.0",
             "required": true
         },
         {
             "name": "Titanium",
             "projectID": 287342,
-            "fileID": 3581992,
-            "version": "3.4.0-27",
+            "fileID": 3622220,
+            "version": "3.4.1-31",
             "required": true
         },
         {
@@ -424,8 +402,8 @@
         {
             "name": "TreeChop",
             "projectID": 421377,
-            "fileID": 3609307,
-            "version": "0.15.2",
+            "fileID": 3615278,
+            "version": "0.15.5",
             "required": true
         },
         {
