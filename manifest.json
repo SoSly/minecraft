@@ -99,6 +99,13 @@
             "required": true
         },
         {
+            "name": "Configured",
+            "projectID": 457570,
+            "fileID": 3640884,
+            "version": "1.5.3",
+            "required": true
+        },
+        {
             "name": "ConnectedTexturesMod",
             "projectID": 267602,
             "fileID": 3586556,
@@ -225,6 +232,13 @@
             "required": true
         },
         {
+            "name": "JourneyMap",
+            "projectID": 32274,
+            "fileID": 3647509,
+            "version": "5.8.0beta15",
+            "required": true
+        },
+        {
             "name": "Just Enough Items (JEI)",
             "projectID": 238222,
             "fileID": 3629529,
@@ -239,10 +253,10 @@
             "required": true
         },
         {
-            "name": "JourneyMap",
-            "projectID": 32274,
-            "fileID": 3634135,
-            "version": "5.8.0beta12",
+            "name": "Just Enough Resources (JER)",
+            "projectID": 240630,
+            "fileID": 3649333,
+            "version": "0.13.2.153",
             "required": true
         },
         {
@@ -351,6 +365,13 @@
             "required": true
         },
         {
+            "name": "Shutup Experimental Settings!",
+            "projectID": 407174,
+            "fileID": 3544525,
+            "version": "1.0.4",
+            "required": true
+        },
+        {
             "name": "Sound Physics Remastered",
             "projectID": 535489,
             "fileID": 3599526,
@@ -424,7 +445,15 @@
             "name": "UnionLib",
             "projectID": 367806,
             "fileID": 3585690,
-            "version": "6.1.7-Forge"
+            "version": "6.1.7-Forge",
+            "required": true
+        },
+        {
+            "name": "WorldEdit",
+            "projectID": 225608,
+            "fileID": 3631606,
+            "version": "7.2.9",
+            "required": true
         }
     ]
 }
