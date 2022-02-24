@@ -66,7 +66,7 @@
 	#See https://github.com/hammertater/treechop/#linear
 	[chopCounting.linear]
 		#The number of chops per block required to fell a tree; if chopsPerBlock = 0.5, it will take 50 chops to fell a 100 block tree
-		#Range: 0.0 ~ 1.0
+		#Range: 0.0 ~ 7.0
 		chopsPerBlock = 7.0
 		#The base number of chops required to fell a tree regardless of its size
 		#Range: -10000.0 ~ 10000.0
@@ -108,5 +108,5 @@
 	[compatibility.specific]
 		#Whether to enable compatibility with ProjectMMO; for example, award XP for chopping
 		#See https://www.curseforge.com/minecraft/mc-mods/project-mmo
-		projectMMO = true
+		projectMMO = false
 
