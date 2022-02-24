@@ -128,6 +128,12 @@
             "required": true
         },
         {
+            "name": "Connectible Chains",
+            "projectID": 418514,
+            "fileID": 3617079,
+            "required": true
+        },
+        {
             "name": "Controlling",
             "projectID": 250398,
             "fileID": 3648602,
@@ -167,6 +173,13 @@
             "projectID": 317716,
             "fileID": 3601975,
             "version": "5.0.6.1",
+            "required": true
+        },
+        {
+            "name": "Distant Horizons: A Level of Detail mod",
+            "projectID": 508933,
+            "fileID": 3651470,
+            "version": "alpha-1.6.2",
             "required": true
         },
         {
@@ -373,6 +386,13 @@
             "required": true
         },
         {
+            "name": "Pane in the Glass",
+            "projectID": 374529,
+            "fileID": 3602263,
+            "version": "2.0.2",
+            "required": true
+        },
+        {
             "name": "Patchouli",
             "projectID": 306770,
             "fileID": 3630725,
@@ -408,10 +428,24 @@
             "required": true
         },
         {
+            "name": "SecretRoomsMod",
+            "projectID": 59652,
+            "fileID": 3613983,
+            "version": "1.1.4",
+            "required": true
+        },
+        {
             "name": "Selene Lib",
             "projectID": 499980,
             "fileID": 3652852,
             "version": "1.13.0",
+            "required": true
+        },
+        {
+            "name": "Shield Mechanics",
+            "projectID": 476645,
+            "fileID": 3608284,
+            "version": "2.9",
             "required": true
         },
         {
