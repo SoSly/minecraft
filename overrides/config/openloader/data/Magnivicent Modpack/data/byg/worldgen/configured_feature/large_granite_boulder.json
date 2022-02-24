@@ -1,0 +1,67 @@
+{
+    "config": {
+      "verifies_height": false,
+      "pointed": false,
+      "belowSurfaceDepth": 2147483647,
+      "edge_features": [],
+      "2d_noise_chance": 0.25,
+      "radius_matcher": "NONE",
+      "squared_distance_check": true,
+      "use_scaled_noise_height": true,
+      "radius_divisor_per_stack": 1.0,
+      "noise_frequency": 0.04,
+      "fluid_start_y": -2147483648,
+      "fluidState": {
+        "Name": "minecraft:empty"
+      },
+      "block_provider": {
+        "entries": [
+          {
+            "data": {
+              "Name": "minecraft:granite"
+            },
+            "weight": 3
+          },
+          {
+            "data": {
+              "Name": "minecraft:polished_granite"
+            },
+            "weight": 2
+          }
+        ],
+        "type": "minecraft:weighted_state_provider"
+      },
+      "top_block_provider": {
+        "state": {
+          "Name": "minecraft:stone"
+        },
+        "type": "minecraft:simple_state_provider"
+      },
+      "stackHeight": 1,
+      "radius_settings": {
+        "x_radius": {
+          "type": "minecraft:biased_to_bottom",
+          "value": {
+            "min_inclusive": 4,
+            "max_inclusive": 8
+          }
+        },
+        "y_radius": {
+          "type": "minecraft:biased_to_bottom",
+          "value": {
+            "min_inclusive": 4,
+            "max_inclusive": 8
+          }
+        },
+        "upper_half_additional": 0,
+        "z_radius": {
+          "type": "minecraft:biased_to_bottom",
+          "value": {
+            "min_inclusive": 4,
+            "max_inclusive": 8
+          }
+        }
+      }
+    },
+    "type": "byg:sphere"
+  }
