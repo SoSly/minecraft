@@ -1,3 +1,2 @@
 gamerule disableElytraMovementCheck true
-gamerule playersSleepingPercentage 50
 gamerule spawnRadius 1
