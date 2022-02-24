@@ -30,6 +30,13 @@
             "required": true
         },
         {
+            "name": "AppleSkin",
+            "projectID": 248787,
+            "fileID": 3626712,
+            "version": "2.3.0",
+            "required": true
+        },
+        {
             "name": "Arcane Additions",
             "projectID": 576150,
             "fileID": 3642763,
