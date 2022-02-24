@@ -1,0 +1,11 @@
+{
+    "entity_type": "quark:shiba",
+    "grant":
+    [
+        "bmorph:all_food_insta_regen"
+    ],
+    "revoke":
+    [
+        
+    ]
+}
