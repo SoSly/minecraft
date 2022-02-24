@@ -198,6 +198,13 @@
             "required": true
         },
         {
+            "name": "Entity Culling",
+            "projectID": 448233,
+            "fileID": 3642142,
+            "version": "1.5.0",
+            "required": true
+        },
+        {
             "name": "Farmer's Delight",
             "projectID": 398521,
             "fileID": 3615366,
@@ -411,13 +418,6 @@
             "name": "Shutup Experimental Settings!",
             "projectID": 407174,
             "fileID": 3544525,
-            "version": "1.0.4",
-            "required": true
-        },
-        {
-            "name": "Sound Physics Remastered",
-            "projectID": 535489,
-            "fileID": 3599526,
             "version": "1.0.4",
             "required": true
         },
