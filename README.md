@@ -62,3 +62,6 @@ version of the modpack, follow these steps:
 2. Delete the `mods`, `config`, and `openloader` folders from your current instance
 3. Copy those folders from the temporary new instance to your current instance
 4. Delete the temporary instance
+
+## The Mod List
+You can find our [complete list of mods](/modlist.html) separately.
