@@ -3,7 +3,7 @@
         "version": "1.18.1",
         "modLoaders": [
             {
-                "id": "forge-39.0.66",
+                "id": "forge-39.0.85",
                 "primary": true
             }
         ]
@@ -24,15 +24,15 @@
         {
             "name": "Arcane Additions",
             "projectID": 576150,
-            "fileID": 3636106,
-            "version": "0.1.0",
+            "fileID": 3642763,
+            "version": "0.2.1",
             "required": true
         },
         {
             "name": "AutoRegLib",
             "projectID": 250363,
-            "fileID": 3575622,
-            "version": "1.7-52",
+            "fileID": 3642382,
+            "version": "1.7-53",
             "required": true
         },
         {
@@ -52,8 +52,8 @@
         {
             "name": "BlockUI",
             "projectID": 522992,
-            "fileID": 3623122,
-            "version": "0.0.43-ALPHA",
+            "fileID": 3659056,
+            "version": "0.0.44-ALPHA",
             "required": true
         },
         {
@@ -73,8 +73,8 @@
         {
             "name": "Caelus API",
             "projectID": 308989,
-            "fileID": 3551173,
-            "version": "3.0.0.1",
+            "fileID": 3650485,
+            "version": "3.0.0.2",
             "required": true
         },
         {
@@ -85,17 +85,10 @@
             "required": true
         },
         {
-            "name": "Collective",
-            "projectID": 342584,
-            "fileID": 3559339,
-            "version": "3.8",
-            "required": true
-        },
-        {
             "name": "Comforts",
             "projectID": 276951,
-            "fileID": 3551239,
-            "version": "5.0.0.1",
+            "fileID": 3650599,
+            "version": "5.0.0.2",
             "required": true
         },
         {
@@ -108,8 +101,8 @@
         {
             "name": "Controlling",
             "projectID": 250398,
-            "fileID": 3627070,
-            "version": "9.0+14",
+            "fileID": 3648602,
+            "version": "9.0+15",
             "required": true
         },
         {
@@ -129,22 +122,22 @@
         {
             "name": "CreativeCore",
             "projectID": 257814,
-            "fileID": 3632751,
-            "version": "v2.4.2",
+            "fileID": 3650213,
+            "version": "v2.5.0",
             "required": true
         },
         {
             "name": "Curios API",
             "projectID": 309927,
-            "fileID": 3613028,
-            "version": "5.0.6.0",
+            "fileID": 3648837,
+            "version": "5.0.6.1",
             "required": true
         },
         {
             "name": "Curious Elytra",
             "projectID": 317716,
             "fileID": 3601975,
-            "version": "5.0.1.0",
+            "version": "5.0.6.1",
             "required": true
         },
         {
@@ -234,8 +227,8 @@
         {
             "name": "Just Enough Items (JEI)",
             "projectID": 238222,
-            "fileID": 3629529,
-            "version": "9.2.3.84",
+            "fileID": 3659326,
+            "version": "9.4.1.106",
             "required": true
         },
         {
@@ -255,8 +248,8 @@
         {
             "name": "Mana and Artifice",
             "projectID": 406360,
-            "fileID": 3629739,
-            "version": "1.7.0.3",
+            "fileID": 3651868,
+            "version": "1.7.0.5",
             "required": true
         },
         {
@@ -269,15 +262,15 @@
         {
             "name": "MineColonies",
             "projectID": 245506,
-            "fileID": 3635552,
-            "version": "1.0.390-ALPHA",
+            "fileID": 3657246,
+            "version": "1.0.448-ALPHA",
             "required": true
         },
         {
             "name": "MmmMmmMmmMmm (Target Dummy)",
             "projectID": 225738,
-            "fileID": 3546593,
-            "version": "1.5.0",
+            "fileID": 3642328,
+            "version": "1.5.1",
             "required": true
         },
         {
@@ -290,8 +283,8 @@
         {
             "name": "mutil",
             "projectID": 351914,
-            "fileID": 3612472,
-            "version": "4.2.0",
+            "fileID": 3640643,
+            "version": "4.4.0",
             "required": true
         },
         {
@@ -339,29 +332,22 @@
         {
             "name": "Polymorph (Forge)",
             "projectID": 388800,
-            "fileID": 3604752,
-            "version": "0.36",
+            "fileID": 3640484,
+            "version": "0.37",
             "required": true
         },
         {
             "name": "Quark",
             "projectID": 243121,
-            "fileID": 3578106,
-            "version": "3.0-334",
-            "required": true
-        },
-        {
-            "name": "Realistic Bees",
-            "projectID": 410743,
-            "fileID": 3561461,
-            "version": "2.4",
+            "fileID": 3652951,
+            "version": "3.0-339",
             "required": true
         },
         {
             "name": "Selene Lib",
             "projectID": 499980,
-            "fileID": 3604965,
-            "version": "1.12.0",
+            "fileID": 3652852,
+            "version": "1.13.0",
             "required": true
         },
         {
@@ -381,8 +367,8 @@
         {
             "name": "Structurize",
             "projectID": 298744,
-            "fileID": 3631957,
-            "version": "1.0.341-ALPHA",
+            "fileID": 3647522,
+            "version": "1.0.346-ALPHA",
             "required": true
         },
         {
@@ -395,8 +381,8 @@
         {
             "name": "Survive",
             "projectID": 367337,
-            "fileID": 3624675,
-            "version": "6.1.4",
+            "fileID": 3655990,
+            "version": "6.1.9",
             "required": true
         },
         {
@@ -416,8 +402,8 @@
         {
             "name": "Tetra",
             "projectID": 289712,
-            "fileID": 3620466,
-            "version": "4.5.0",
+            "fileID": 3655213,
+            "version": "4.7.0",
             "required": true
         },
         {
@@ -430,8 +416,8 @@
         {
             "name": "TreeChop",
             "projectID": 421377,
-            "fileID": 3615278,
-            "version": "0.15.5",
+            "fileID": 3649620,
+            "version": "0.15.6",
             "required": true
         },
         {

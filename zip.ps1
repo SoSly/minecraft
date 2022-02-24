@@ -1,5 +1,5 @@
 ## Remove the old file
-rm ".\Magnivicent Modpack.zip"
+Remove-Item -Path ".\Magnivicent Modpack.zip"
 
 ## Discover files to be zipped
 $exclude = @("zip.ps1", ".git", ".gitignore");
