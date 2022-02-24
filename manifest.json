@@ -51,6 +51,13 @@
             "required": true
         },
         {
+            "name": "Balm",
+            "projectID": 531761,
+            "fileID": 3658029,
+            "version": "2.4.3+0",
+            "required": true
+        },
+        {
             "name": "Better Advancements",
             "projectID": 272515,
             "fileID": 3575636,
@@ -324,6 +331,13 @@
             "required": true
         },
         {
+            "name": "NetherPortalFix",
+            "projectID": 241160,
+            "fileID": 3549513,
+            "version": "9.0.0",
+            "required": true
+        },
+        {
             "name": "Not Enough Animations",
             "projectID": 433760,
             "fileID": 3548349,
@@ -380,6 +394,13 @@
             "required": true
         },
         {
+            "name": "Regrowth",
+            "projectID": 381597,
+            "fileID": 3635468,
+            "version": "1.39.0.26",
+            "required": true
+        },
+        {
             "name": "Selene Lib",
             "projectID": 499980,
             "fileID": 3652852,
@@ -426,6 +447,13 @@
             "projectID": 452500,
             "fileID": 3618339,
             "version": "0.3.2",
+            "required": true
+        },
+        {
+            "name": "SwingThroughGrass",
+            "projectID": 264353,
+            "fileID": 3578339,
+            "version": "1.8.0",
             "required": true
         },
         {
