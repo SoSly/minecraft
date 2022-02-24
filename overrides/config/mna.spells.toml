@@ -22,6 +22,46 @@
 		#Range: 0.0 ~ 9999.0
 		minimum = 16.0
 
+["arcaneadditions:components/polymorph"]
+	#Biome Blacklists - Biomes that this spell part cannot be cast in. Comma separated, no spaces.
+	biomeBlacklists = ""
+	#Dimension Blacklists - Dimensions that this spell part cannot be cast in. Comma separated, no spaces.
+	dimensionBlacklists = ""
+
+	["arcaneadditions:components/polymorph".MAGNITUDE]
+		#Default Value
+		#Range: 0.0 ~ 9999.0
+		default = 1.0
+		#Maximum Value
+		#Range: 0.0 ~ 9999.0
+		maximum = 4.0
+		#Complexity Value (how much does changing by one tick change the complexity)
+		#Range: 0.0 ~ 9999.0
+		step_complexity = 25.0
+		#Step Value (how much does one click in the inscription table change the value)
+		#Range: 0.0 ~ 9999.0
+		step = 1.0
+		#Minimum Value
+		#Range: 0.0 ~ 9999.0
+		minimum = 1.0
+
+	["arcaneadditions:components/polymorph".DELAY]
+		#Default Value
+		#Range: 0.0 ~ 9999.0
+		default = 0.0
+		#Maximum Value
+		#Range: 0.0 ~ 9999.0
+		maximum = 3.0
+		#Complexity Value (how much does changing by one tick change the complexity)
+		#Range: 0.0 ~ 9999.0
+		step_complexity = 0.5
+		#Step Value (how much does one click in the inscription table change the value)
+		#Range: 0.0 ~ 9999.0
+		step = 0.10000000149011612
+		#Minimum Value
+		#Range: 0.0 ~ 9999.0
+		minimum = 0.0
+
 ["mna:components/absorption"]
 	#Biome Blacklists - Biomes that this spell part cannot be cast in. Comma separated, no spaces.
 	biomeBlacklists = ""
@@ -1723,6 +1763,46 @@
 		#Minimum Value
 		#Range: 0.0 ~ 9999.0
 		minimum = 8.0
+
+["arcaneadditions:components/ice_block"]
+	#Biome Blacklists - Biomes that this spell part cannot be cast in. Comma separated, no spaces.
+	biomeBlacklists = ""
+	#Dimension Blacklists - Dimensions that this spell part cannot be cast in. Comma separated, no spaces.
+	dimensionBlacklists = ""
+
+	["arcaneadditions:components/ice_block".DELAY]
+		#Default Value
+		#Range: 0.0 ~ 9999.0
+		default = 0.0
+		#Maximum Value
+		#Range: 0.0 ~ 9999.0
+		maximum = 3.0
+		#Complexity Value (how much does changing by one tick change the complexity)
+		#Range: 0.0 ~ 9999.0
+		step_complexity = 0.5
+		#Step Value (how much does one click in the inscription table change the value)
+		#Range: 0.0 ~ 9999.0
+		step = 0.10000000149011612
+		#Minimum Value
+		#Range: 0.0 ~ 9999.0
+		minimum = 0.0
+
+	["arcaneadditions:components/ice_block".DURATION]
+		#Default Value
+		#Range: 0.0 ~ 9999.0
+		default = 10.0
+		#Maximum Value
+		#Range: 0.0 ~ 9999.0
+		maximum = 30.0
+		#Complexity Value (how much does changing by one tick change the complexity)
+		#Range: 0.0 ~ 9999.0
+		step_complexity = 2.0
+		#Step Value (how much does one click in the inscription table change the value)
+		#Range: 0.0 ~ 9999.0
+		step = 2.0
+		#Minimum Value
+		#Range: 0.0 ~ 9999.0
+		minimum = 2.0
 
 ["mna:components/crystallize"]
 	#Biome Blacklists - Biomes that this spell part cannot be cast in. Comma separated, no spaces.
