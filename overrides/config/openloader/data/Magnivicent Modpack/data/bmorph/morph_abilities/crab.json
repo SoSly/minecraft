@@ -1,0 +1,7 @@
+{
+    "entity_type": "quark:crab",
+    "grant": [
+        "bmorph:water_breathing"
+    ],
+    "revoke": []
+}

@@ -15,6 +15,13 @@
     "author": "nivthefox",
     "files": [
         {
+            "name": "Alex's Mobs",
+            "projectID": 426558,
+            "fileID": 3650308,
+            "version": "1.17.1",
+            "required": true
+        },
+        {
             "name": "Amplified Nether",
             "projectID": 552176,
             "fileID": 3550750,
@@ -82,6 +89,13 @@
             "projectID": 274259,
             "fileID": 3601938,
             "version": "1.17.0.7",
+            "required": true
+        },
+        {
+            "name": "Citadel",
+            "projectID": 331936,
+            "fileID": 3642713,
+            "version": "1.10.10",
             "required": true
         },
         {

@@ -1,0 +1,7 @@
+{
+    "entity_type": "quark:foxhound",
+    "grant": [
+        "bmorph:no_fire_damage"
+    ],
+    "revoke": []
+}

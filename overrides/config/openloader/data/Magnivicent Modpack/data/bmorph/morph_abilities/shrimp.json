@@ -1,0 +1,11 @@
+{
+    "entity_type": "sushigocrafting:shrimp",
+    "grant":
+    [
+        "bmorph:water_breathing"
+    ],
+    "revoke":
+    [
+        
+    ]
+}
