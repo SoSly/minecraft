@@ -176,6 +176,13 @@
             "required": true
         },
         {
+            "name": "Effective",
+            "projectID": 557796,
+            "fileID": 3575266,
+            "version": "1.001",
+            "required": true
+        },
+        {
             "name": "Farmer's Delight",
             "projectID": 398521,
             "fileID": 3615366,
@@ -221,6 +228,13 @@
             "name": "Habitat",
             "projectID": 422972,
             "fileID": 3618305,
+            "version": "1.1.2",
+            "required": true
+        },
+        {
+            "name": "Hedgehogs",
+            "projectID": 561115,
+            "fileID": 3633458,
             "version": "1.1.2",
             "required": true
         },
