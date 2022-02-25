@@ -90,10 +90,10 @@
 	#Raiders will spawn in the sky if this is enabled [Default: false]
 	skyraiders = false
 	#Will stop empty colonies from being generated in the world - Needs world Reload [Default: false]
-	disableemptycolonies = false
+	disableemptycolonies = true
 	#Average distance in chunks between 2 empty colonies [Default: 60, min: 10, max: 1000]
 	#Range: 10 ~ 1000
-	averageemptycolonydistance = 100
+	averageemptycolonydistance = 500
 
 #All configurations related to the research system
 [research]
