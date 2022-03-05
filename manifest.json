@@ -19,511 +19,463 @@
             "name": "Alex's Mobs",
             "projectID": 426558,
             "fileID": 3650308,
-            "version": "1.17.1",
-            "required": true
+            "version": "1.17.1"
         },
         {
             "name": "Amplified Nether",
             "projectID": 552176,
             "fileID": 3550750,
-            "version": "1.0.1",
-            "required": true
+            "version": "1.0.1"
         },
         {
             "name": "AppleSkin",
             "projectID": 248787,
             "fileID": 3626712,
-            "version": "2.3.0",
-            "required": true
+            "version": "2.3.0"
         },
         {
             "name": "Arcane Additions",
             "projectID": 576150,
             "fileID": 3665904,
-            "version": "0.3.0",
-            "required": true
+            "version": "0.3.0"
         },
         {
             "name": "AutoRegLib",
             "projectID": 250363,
             "fileID": 3642382,
-            "version": "1.7-53",
-            "required": true
+            "version": "1.7-53"
         },
         {
             "name": "Balm",
             "projectID": 531761,
             "fileID": 3658029,
-            "version": "2.4.3+0",
-            "required": true
+            "version": "2.4.3+0"
         },
         {
             "name": "Better Advancements",
             "projectID": 272515,
             "fileID": 3575636,
-            "version": "0.1.2.122",
-            "required": true
+            "version": "0.1.2.122"
         },
         {
             "name": "Better Azalea",
             "projectID": 517564,
             "fileID": 3621119,
-            "version": "3.1.1",
-            "required": true
+            "version": "3.1.1"
+        },
+        {
+            "name": "Better Quark Azalea",
+            "projectID": 584953,
+            "fileID": 3668450,
+            "version": "1.1"
         },
         {
             "name": "BlockUI",
             "projectID": 522992,
             "fileID": 3668705,
-            "version": "0.0.45-ALPHA",
-            "required": true
+            "version": "0.0.45-ALPHA"
+        },
+        {
+            "name": "Blueprint",
+            "projectID": 382216,
+            "fileID": 3645224,
+            "version": "5.1.1"
         },
         {
             "name": "Budschie's Morph Mod",
             "projectID": 476409,
             "fileID": 3631615,
-            "version": "2.0.1",
-            "required": true
+            "version": "2.0.1"
         },
         {
             "name": "Builder's Addition",
             "projectID": 389697,
             "fileID": 3620249,
-            "version": "20220123a",
-            "required": true
+            "version": "20220123a"
         },
         {
             "name": "Caelus API",
             "projectID": 308989,
             "fileID": 3650485,
-            "version": "3.0.0.2",
-            "required": true
+            "version": "3.0.0.2"
         },
         {
             "name": "Carry On",
             "projectID": 274259,
             "fileID": 3601938,
-            "version": "1.17.0.7",
-            "required": true
+            "version": "1.17.0.7"
         },
         {
             "name": "Citadel",
             "projectID": 331936,
             "fileID": 3642713,
-            "version": "1.10.10",
-            "required": true
+            "version": "1.10.10"
         },
         {
             "name": "Comforts",
             "projectID": 276951,
             "fileID": 3650599,
-            "version": "5.0.0.2",
-            "required": true
+            "version": "5.0.0.2"
         },
         {
             "name": "Configured",
             "projectID": 457570,
             "fileID": 3640884,
-            "version": "1.5.3",
-            "required": true
+            "version": "1.5.3"
         },
         {
             "name": "Connectible Chains",
             "projectID": 418514,
-            "fileID": 3617079,
-            "required": true
+            "fileID": 3617079
         },
         {
             "name": "Controlling",
             "projectID": 250398,
             "fileID": 3648602,
-            "version": "9.0+15",
-            "required": true
+            "version": "9.0+15"
         },
         {
             "name": "Cosmetic Armor Reworked",
             "projectID": 237307,
             "fileID": 3595626,
-            "version": "1.18.1-v1a",
-            "required": true
+            "version": "1.18.1-v1a"
         },
         {
             "name": "Create",
             "projectID": 328085,
             "fileID": 3623348,
-            "version": "v0.4d",
-            "required": true
+            "version": "v0.4d"
         },
         {
             "name": "CreativeCore",
             "projectID": 257814,
             "fileID": 3650213,
-            "version": "v2.5.0",
-            "required": true
+            "version": "v2.5.0"
+        },
+        {
+            "name": "Croptopia",
+            "path": "croptopia-fabric",
+            "projectID": 415438,
+            "fileID": 3656496,
+            "version": "forge-1.8.1"
         },
         {
             "name": "Curios API",
             "projectID": 309927,
             "fileID": 3661868,
-            "version": "5.0.6.2",
-            "required": true
+            "version": "5.0.6.2"
         },
         {
             "name": "Curious Elytra",
             "projectID": 317716,
             "fileID": 3601975,
-            "version": "5.0.6.1",
-            "required": true
+            "version": "5.0.6.1"
         },
         {
             "name": "Distant Horizons: A Level of Detail mod",
             "projectID": 508933,
             "fileID": 3651470,
-            "version": "alpha-1.6.2",
-            "required": true
+            "version": "alpha-1.6.2"
         },
         {
             "name": "Drink Beer",
             "projectID": 534161,
             "fileID": 3571682,
-            "version": "v2.3.5",
-            "required": true
+            "version": "v2.3.5"
         },
         {
             "name": "Domum Ornamentum",
             "projectID": 527361,
             "fileID": 3608666,
-            "version": "1.0.39-ALPHA-universal",
-            "required": true
+            "version": "1.0.39-ALPHA-universal"
         },
         {
             "name": "Dynamic View",
             "projectID": 3634448,
             "fileID": 3548215,
-            "version": "2.4",
-            "required": true
+            "version": "2.4"
         },
         {
             "name": "Effective",
             "projectID": 557796,
             "fileID": 3575266,
-            "version": "1.001",
-            "required": true
+            "version": "1.001"
         },
         {
             "name": "Entity Culling",
             "projectID": 448233,
             "fileID": 3642142,
-            "version": "1.5.0",
-            "required": true
+            "version": "1.5.0"
         },
         {
             "name": "Farmer's Delight",
             "projectID": 398521,
             "fileID": 3615366,
-            "version": "1.0.3",
-            "required": true
+            "version": "1.0.3"
+        },
+        {
+            "name": "Fast Leaf Decay",
+            "projectID": 230976,
+            "fileID": 3590415,
+            "version": "27.2"
         },
         {
             "name": "Flower Seeds",
             "projectID": 445955,
             "fileID": 3557012,
-            "version": "2.0.0",
-            "required": true
+            "version": "2.0.0"
         },
         {
             "name": "Flywheel",
             "projectID": 486392,
             "fileID": 3623314,
-            "version": "0.6.0",
-            "required": true
+            "version": "0.6.0"
         },
         {
             "name": "GeckoLib",
             "projectID": 388172,
             "fileID": 3629661,
-            "version": "3.0.11",
-            "required": true
+            "version": "3.0.11"
         },
         {
             "name": "Grass Slabs, Carpets & Stairs",
             "projectID": 565833,
             "fileID": 3601095,
-            "version": "1.1",
-            "required": true
+            "version": "1.1"
         },
         {
             "name": "GraveStone Mod",
             "projectID": 238551,
             "fileID": 3631821,
-            "version": "1.0.2",
-            "required": true
+            "version": "1.0.2"
         },
         {
             "name": "Habitat",
             "projectID": 422972,
             "fileID": 3618305,
-            "version": "1.1.2",
-            "required": true
+            "version": "1.1.2"
         },
         {
             "name": "Hedgehogs",
             "projectID": 561115,
             "fileID": 3633458,
-            "version": "1.1.2",
-            "required": true
+            "version": "1.1.2"
         },
         {
             "name": "Hexerei",
             "projectID": 548599,
             "fileID": 3635844,
-            "version": "0.1.14",
-            "required": true
+            "version": "0.1.14"
         },
         {
             "name": "JourneyMap",
             "projectID": 32274,
             "fileID": 3647509,
-            "version": "5.8.0beta15",
-            "required": true
+            "version": "5.8.0beta15"
         },
         {
             "name": "Just Enough Items (JEI)",
             "projectID": 238222,
             "fileID": 3670002,
-            "version": "9.4.1.112",
-            "required": true
+            "version": "9.4.1.112"
         },
         {
             "name": "Just Enough Keg",
             "projectID": 543014,
             "fileID": 3573847,
-            "version": "3.0.0",
-            "required": true
+            "version": "3.0.0"
         },
         {
             "name": "Just Enough Resources (JER)",
             "projectID": 240630,
             "fileID": 3649333,
-            "version": "0.13.2.153",
-            "required": true
+            "version": "0.13.2.153"
         },
         {
             "name": "Mana and Artifice",
             "projectID": 406360,
             "fileID": 3651868,
-            "version": "1.7.0.5",
-            "required": true
+            "version": "1.7.0.5"
         },
         {
             "name": "Market Crates",
             "projectID": 443591,
             "fileID": 3564787,
-            "version": "1.4.1",
-            "required": true
+            "version": "1.4.1"
         },
         {
             "name": "MineColonies",
             "projectID": 245506,
             "fileID": 3672309,
-            "version": "1.0.468-ALPHA",
-            "required": true
+            "version": "1.0.468-ALPHA"
         },
         {
             "name": "MmmMmmMmmMmm (Target Dummy)",
             "projectID": 225738,
             "fileID": 3642328,
-            "version": "1.5.1",
-            "required": true
+            "version": "1.5.1"
         },
         {
             "name": "Multi-Piston",
             "projectID": 303278,
             "fileID": 3543720,
-            "version": "1.2.2-ALPHA",
-            "required": true
+            "version": "1.2.2-ALPHA"
         },
         {
             "name": "mutil",
             "projectID": 351914,
             "fileID": 3640643,
-            "version": "4.4.0",
-            "required": true
+            "version": "4.4.0"
         },
         {
             "name": "NetherPortalFix",
             "projectID": 241160,
             "fileID": 3549513,
-            "version": "9.0.0",
-            "required": true
+            "version": "9.0.0"
         },
         {
             "name": "Not Enough Animations",
             "projectID": 433760,
             "fileID": 3548349,
-            "version": "1.4.0",
-            "required": true
+            "version": "1.4.0"
         },
         {
             "name": "Nutritional Balance",
             "projectID": 448222,
             "fileID": 3665536,
-            "version": "3.0.2",
-            "required": true
+            "version": "3.0.2"
         },
         {
             "name": "Oh the Biomes You'll Go",
             "projectID": 247560,
             "fileID": 3669462,
-            "version": "1.3.5.13",
-            "required": true
+            "version": "1.3.5.13"
         },
         {
             "name": "Open Loader",
             "projectID": 354339,
             "fileID": 3618465,
-            "version": "11.0.4",
-            "required": true
+            "version": "11.0.4"
         },
         {
             "name": "Pane in the Glass",
             "projectID": 374529,
             "fileID": 3602263,
-            "version": "2.0.2",
-            "required": true
+            "version": "2.0.2"
         },
         {
             "name": "Patchouli",
             "projectID": 306770,
             "fileID": 3630725,
-            "version": "65",
-            "required": true
+            "version": "65"
         },
         {
             "name": "PlayerRevive",
             "projectID": 266890,
             "fileID": 3632749,
-            "version": "2.0.0-pre08",
-            "required": true
+            "version": "2.0.0-pre08"
         },
         {
             "name": "Polymorph (Forge)",
             "projectID": 388800,
             "fileID": 3665627,
-            "version": "0.39",
-            "required": true
+            "version": "0.39"
         },
         {
             "name": "Quark",
             "projectID": 243121,
             "fileID": 3662309,
-            "version": "3.1-340",
-            "required": true
+            "version": "3.1-340"
         },
         {
             "name": "Regrowth",
             "projectID": 381597,
             "fileID": 3635468,
-            "version": "1.39.0.26",
-            "required": true
+            "version": "1.39.0.26"
         },
         {
             "name": "Selene Lib",
             "projectID": 499980,
             "fileID": 3668969,
-            "version": "1.13.2",
-            "required": true
+            "version": "1.13.2"
         },
         {
             "name": "Shield Mechanics",
             "projectID": 476645,
             "fileID": 3608284,
-            "version": "2.9",
-            "required": true
+            "version": "2.9"
         },
         {
             "name": "Shutup Experimental Settings!",
             "projectID": 407174,
             "fileID": 3544525,
-            "version": "1.0.4",
-            "required": true
+            "version": "1.0.4"
         },
         {
             "name": "Structurize",
             "projectID": 298744,
             "fileID": 3666521,
-            "version": "1.0.347-ALPHA",
-            "required": true
+            "version": "1.0.347-ALPHA"
         },
         {
             "name": "Supplementaries",
             "projectID": 412082,
             "fileID": 3668992,
-            "version": "1.2.2",
-            "required": true
+            "version": "1.2.2"
         },
         {
             "name": "Survive",
             "projectID": 367337,
             "fileID": 3666919,
-            "version": "6.1.11",
-            "required": true
+            "version": "6.1.11"
         },
         {
             "name": "Sushi Go Crafting",
             "projectID": 452500,
             "fileID": 3618339,
-            "version": "0.3.2",
-            "required": true
+            "version": "0.3.2"
         },
         {
             "name": "SwingThroughGrass",
             "projectID": 264353,
             "fileID": 3578339,
-            "version": "1.8.0",
-            "required": true
+            "version": "1.8.0"
         },
         {
             "name": "TerraBlender",
             "projectID": 563928,
             "fileID": 3651452,
-            "version": "1.1.0.77",
-            "required": true
+            "version": "1.1.0.77"
         },
         {
             "name": "Tetra",
             "projectID": 289712,
             "fileID": 3666819,
-            "version": "4.8.0",
-            "required": true
+            "version": "4.8.0"
         },
         {
             "name": "Titanium",
             "projectID": 287342,
             "fileID": 3622220,
-            "version": "3.4.1-31",
-            "required": true
+            "version": "3.4.1-31"
         },
         {
             "name": "TreeChop",
             "projectID": 421377,
             "fileID": 3649620,
-            "version": "0.15.6",
-            "required": true
+            "version": "0.15.6"
         },
         {
             "name": "UnionLib",
             "projectID": 367806,
             "fileID": 3585690,
-            "version": "6.1.7-Forge",
-            "required": true
+            "version": "6.1.7-Forge"
         },
         {
             "name": "WorldEdit",
             "projectID": 225608,
             "fileID": 3631606,
-            "version": "7.2.9",
-            "required": true
+            "version": "7.2.9"
         }
     ]
 }
