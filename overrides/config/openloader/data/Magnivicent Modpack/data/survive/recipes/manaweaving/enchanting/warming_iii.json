@@ -1,0 +1,19 @@
+{
+	"type": "mna:manaweaving-recipe",
+	"tier": 3,
+	"output": "mna:rune_fire",
+	"enchant": "survive:warming",
+	"magnitude": 3,
+	"items": [
+		"mna:rune_fire",
+		"mna:stone_rune_yellow",
+		"minecraft:white_wool",
+		"minecraft:campfire",
+		"minecraft:coal",
+		"minecraft:netherrack"
+	],
+	"patterns": [
+		"mna:triangle",
+		"mna:diamond"
+	]
+}

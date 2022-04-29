@@ -1,0 +1,15 @@
+{
+    "type": "mna:manaweaving-recipe",
+    "tier": 2,
+    "output": "minecraft:polished_blackstone_bricks",
+    "quantity": 4,
+    "items": [
+        "minecraft:cracked_polished_blackstone_bricks",
+        "minecraft:cracked_polished_blackstone_bricks",
+        "minecraft:cracked_polished_blackstone_bricks",
+        "minecraft:cracked_polished_blackstone_bricks"
+    ],
+    "patterns": [
+        "mna:square"
+    ]
+}

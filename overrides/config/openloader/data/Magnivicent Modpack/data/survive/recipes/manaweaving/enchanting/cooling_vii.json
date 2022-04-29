@@ -1,0 +1,22 @@
+{
+	"type": "mna:manaweaving-recipe",
+	"tier": 5,
+	"output": "mna:rune_water",
+	"enchant": "survive:cooling",
+	"magnitude": 6,
+	"items": [
+		"mna:rune_water",
+		"mna:stone_rune_light_blue",
+        "mna:greater_mote_water",
+		"survive:ice_cube",
+		"minecraft:honey",
+        "minecraft:snowball",
+        "minecraft:ice",
+		"minecraft:powder_snow_bucket",
+        "minecraft:amethyst_shard"
+	],
+	"patterns": [
+		"mna:square",
+		"mna:inverted_triangle"
+	]
+}
