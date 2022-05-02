@@ -18,8 +18,8 @@
         {
             "name": "Alex's Mobs",
             "projectID": 426558,
-            "fileID": 3650308,
-            "version": "1.17.1"
+            "fileID": 3709855,
+            "version": "1.17.4"
         },
         {
             "name": "Amplified Nether",
@@ -30,14 +30,14 @@
         {
             "name": "AppleSkin",
             "projectID": 248787,
-            "fileID": 3626712,
-            "version": "2.3.0"
+            "fileID": 3686482,
+            "version": "2.4.0"
         },
         {
             "name": "Arcane Additions",
             "projectID": 576150,
-            "fileID": 3665904,
-            "version": "0.3.0"
+            "fileID": 3777382,
+            "version": "0.3.1"
         },
         {
             "name": "AutoRegLib",
@@ -66,8 +66,8 @@
         {
             "name": "Better Quark Azalea",
             "projectID": 584953,
-            "fileID": 3668450,
-            "version": "1.1"
+            "fileID": 3732399,
+            "version": "1.3"
         },
         {
             "name": "BlockUI",
@@ -84,8 +84,8 @@
         {
             "name": "Budschie's Morph Mod",
             "projectID": 476409,
-            "fileID": 3631615,
-            "version": "2.0.1"
+            "fileID": 3727632,
+            "version": "3.0.0"
         },
         {
             "name": "Builder's Addition",
@@ -126,7 +126,8 @@
         {
             "name": "Connectible Chains",
             "projectID": 418514,
-            "fileID": 3617079
+            "fileID": 3617079,
+            "version": "2.0.1"
         },
         {
             "name": "Controlling",
@@ -143,8 +144,8 @@
         {
             "name": "Create",
             "projectID": 328085,
-            "fileID": 3623348,
-            "version": "v0.4d"
+            "fileID": 3706700,
+            "version": "v0.4f"
         },
         {
             "name": "CreativeCore",
@@ -156,8 +157,8 @@
             "name": "Croptopia",
             "path": "croptopia-fabric",
             "projectID": 415438,
-            "fileID": 3656496,
-            "version": "forge-1.8.1"
+            "fileID": 3707655,
+            "version": "forge-1.8.3"
         },
         {
             "name": "Curios API",
@@ -169,7 +170,7 @@
             "name": "Curious Elytra",
             "projectID": 317716,
             "fileID": 3601975,
-            "version": "5.0.6.1"
+            "version": "5.0.1.0"
         },
         {
             "name": "Distant Horizons: A Level of Detail mod",
@@ -178,22 +179,22 @@
             "version": "alpha-1.6.2"
         },
         {
-            "name": "Drink Beer",
-            "projectID": 534161,
-            "fileID": 3571682,
-            "version": "v2.3.5"
-        },
-        {
             "name": "Domum Ornamentum",
             "projectID": 527361,
             "fileID": 3608666,
             "version": "1.0.39-ALPHA-universal"
         },
         {
+            "name": "Drink Beer",
+            "projectID": 534161,
+            "fileID": 3571682,
+            "version": "v2.3.5"
+        },
+        {
             "name": "Dynamic View",
             "projectID": 3634448,
-            "fileID": 3548215,
-            "version": "2.4"
+            "fileID": 3740656,
+            "version": "2.7"
         },
         {
             "name": "Effective",
@@ -204,14 +205,14 @@
         {
             "name": "Entity Culling",
             "projectID": 448233,
-            "fileID": 3642142,
-            "version": "1.5.0"
+            "fileID": 3743929,
+            "version": "1.5.1"
         },
         {
             "name": "Farmer's Delight",
             "projectID": 398521,
-            "fileID": 3615366,
-            "version": "1.0.3"
+            "fileID": 3739915,
+            "version": "1.0.4"
         },
         {
             "name": "Fast Leaf Decay",
@@ -228,8 +229,8 @@
         {
             "name": "Flywheel",
             "projectID": 486392,
-            "fileID": 3623314,
-            "version": "0.6.0"
+            "fileID": 3687357,
+            "version": "0.6.1"
         },
         {
             "name": "GeckoLib",
@@ -264,26 +265,26 @@
         {
             "name": "Hexerei",
             "projectID": 548599,
-            "fileID": 3635844,
-            "version": "0.1.14"
+            "fileID": 3772719,
+            "version": "0.1.16"
         },
         {
             "name": "JourneyMap",
             "projectID": 32274,
-            "fileID": 3647509,
-            "version": "5.8.0beta15"
+            "fileID": 3756052,
+            "version": "5.8.1"
         },
         {
             "name": "Just Enough Items (JEI)",
             "projectID": 238222,
-            "fileID": 3670002,
-            "version": "9.4.1.112"
+            "fileID": 3723162,
+            "version": "9.4.1.172"
         },
         {
             "name": "Just Enough Keg",
             "projectID": 543014,
-            "fileID": 3573847,
-            "version": "3.0.0"
+            "fileID": 3728454,
+            "version": "3.0.1"
         },
         {
             "name": "Just Enough Resources (JER)",
@@ -306,8 +307,8 @@
         {
             "name": "MineColonies",
             "projectID": 245506,
-            "fileID": 3672309,
-            "version": "1.0.468-ALPHA"
+            "fileID": 3756633,
+            "version": "1.0.635-BETA"
         },
         {
             "name": "MmmMmmMmmMmm (Target Dummy)",
@@ -336,14 +337,14 @@
         {
             "name": "Not Enough Animations",
             "projectID": 433760,
-            "fileID": 3548349,
-            "version": "1.4.0"
+            "fileID": 3739668,
+            "version": "1.6.0"
         },
         {
             "name": "Nutritional Balance",
             "projectID": 448222,
-            "fileID": 3665536,
-            "version": "3.0.2"
+            "fileID": 3684434,
+            "version": "3.0.3"
         },
         {
             "name": "Oh the Biomes You'll Go",
@@ -378,8 +379,8 @@
         {
             "name": "Polymorph (Forge)",
             "projectID": 388800,
-            "fileID": 3665627,
-            "version": "0.39"
+            "fileID": 3726351,
+            "version": "0.41"
         },
         {
             "name": "Quark",
@@ -402,8 +403,8 @@
         {
             "name": "Shield Mechanics",
             "projectID": 476645,
-            "fileID": 3608284,
-            "version": "2.9"
+            "fileID": 3759446,
+            "version": "3.2"
         },
         {
             "name": "Shutup Experimental Settings!",
@@ -414,26 +415,14 @@
         {
             "name": "Structurize",
             "projectID": 298744,
-            "fileID": 3666521,
-            "version": "1.0.347-ALPHA"
+            "fileID": 3745310,
+            "version": "1.0.378-BETA"
         },
         {
             "name": "Supplementaries",
             "projectID": 412082,
-            "fileID": 3668992,
-            "version": "1.2.2"
-        },
-        {
-            "name": "Survive",
-            "projectID": 367337,
-            "fileID": 3666919,
-            "version": "6.1.11"
-        },
-        {
-            "name": "Sushi Go Crafting",
-            "projectID": 452500,
-            "fileID": 3618339,
-            "version": "0.3.2"
+            "fileID": 3717652,
+            "version": "1.2.5"
         },
         {
             "name": "SwingThroughGrass",
@@ -450,26 +439,14 @@
         {
             "name": "Tetra",
             "projectID": 289712,
-            "fileID": 3666819,
-            "version": "4.8.0"
-        },
-        {
-            "name": "Titanium",
-            "projectID": 287342,
-            "fileID": 3622220,
-            "version": "3.4.1-31"
+            "fileID": 3711077,
+            "version": "4.8.1"
         },
         {
             "name": "TreeChop",
             "projectID": 421377,
-            "fileID": 3649620,
-            "version": "0.15.6"
-        },
-        {
-            "name": "UnionLib",
-            "projectID": 367806,
-            "fileID": 3585690,
-            "version": "6.1.7-Forge"
+            "fileID": 3704499,
+            "version": "0.15.7"
         },
         {
             "name": "WorldEdit",
