@@ -11,28 +11,10 @@
     "manifestType": "minecraftModpack",
     "manifestVersion": 1,
     "name": "Magnivicent Modpack",
-    "version": "1.18.1-2.0.2",
+    "version": "1.18.1-2.1.0",
     "author": "nivthefox",
-    "seed": "1067978109202075915",
+    "seed": "-7925249249338563465",
     "files": [
-        {
-            "name": "Alex's Mobs",
-            "projectID": 426558,
-            "fileID": 3709855,
-            "version": "1.17.4"
-        },
-        {
-            "name": "Amplified Nether",
-            "projectID": 552176,
-            "fileID": 3550750,
-            "version": "1.0.1"
-        },
-        {
-            "name": "AppleSkin",
-            "projectID": 248787,
-            "fileID": 3686482,
-            "version": "2.4.0"
-        },
         {
             "name": "Arcane Additions",
             "projectID": 576150,
@@ -52,12 +34,6 @@
             "version": "2.4.3+0"
         },
         {
-            "name": "Better Advancements",
-            "projectID": 272515,
-            "fileID": 3575636,
-            "version": "0.1.2.122"
-        },
-        {
             "name": "Better Azalea",
             "projectID": 517564,
             "fileID": 3621119,
@@ -68,12 +44,6 @@
             "projectID": 584953,
             "fileID": 3732399,
             "version": "1.3"
-        },
-        {
-            "name": "BlockUI",
-            "projectID": 522992,
-            "fileID": 3668705,
-            "version": "0.0.45-ALPHA"
         },
         {
             "name": "Blueprint",
@@ -88,70 +58,16 @@
             "version": "3.0.0"
         },
         {
-            "name": "Builder's Addition",
-            "projectID": 389697,
-            "fileID": 3620249,
-            "version": "20220123a"
-        },
-        {
-            "name": "Caelus API",
-            "projectID": 308989,
-            "fileID": 3650485,
-            "version": "3.0.0.2"
-        },
-        {
             "name": "Carry On",
             "projectID": 274259,
             "fileID": 3601938,
             "version": "1.17.0.7"
         },
         {
-            "name": "Citadel",
-            "projectID": 331936,
-            "fileID": 3642713,
-            "version": "1.10.10"
-        },
-        {
-            "name": "Comforts",
-            "projectID": 276951,
-            "fileID": 3650599,
-            "version": "5.0.0.2"
-        },
-        {
-            "name": "Configured",
-            "projectID": 457570,
-            "fileID": 3640884,
-            "version": "1.5.3"
-        },
-        {
-            "name": "Connectible Chains",
-            "projectID": 418514,
-            "fileID": 3617079,
-            "version": "2.0.1"
-        },
-        {
-            "name": "Controlling",
-            "projectID": 250398,
-            "fileID": 3648602,
-            "version": "9.0+15"
-        },
-        {
-            "name": "Cosmetic Armor Reworked",
-            "projectID": 237307,
-            "fileID": 3595626,
-            "version": "1.18.1-v1a"
-        },
-        {
             "name": "Create",
             "projectID": 328085,
             "fileID": 3706700,
             "version": "v0.4f"
-        },
-        {
-            "name": "CreativeCore",
-            "projectID": 257814,
-            "fileID": 3650213,
-            "version": "v2.5.0"
         },
         {
             "name": "Croptopia",
@@ -167,48 +83,6 @@
             "version": "5.0.6.2"
         },
         {
-            "name": "Curious Elytra",
-            "projectID": 317716,
-            "fileID": 3601975,
-            "version": "5.0.1.0"
-        },
-        {
-            "name": "Distant Horizons: A Level of Detail mod",
-            "projectID": 508933,
-            "fileID": 3651470,
-            "version": "alpha-1.6.2"
-        },
-        {
-            "name": "Domum Ornamentum",
-            "projectID": 527361,
-            "fileID": 3608666,
-            "version": "1.0.39-ALPHA-universal"
-        },
-        {
-            "name": "Drink Beer",
-            "projectID": 534161,
-            "fileID": 3571682,
-            "version": "v2.3.5"
-        },
-        {
-            "name": "Dynamic View",
-            "projectID": 3634448,
-            "fileID": 3740656,
-            "version": "2.7"
-        },
-        {
-            "name": "Effective",
-            "projectID": 557796,
-            "fileID": 3575266,
-            "version": "1.001"
-        },
-        {
-            "name": "Entity Culling",
-            "projectID": 448233,
-            "fileID": 3743929,
-            "version": "1.5.1"
-        },
-        {
             "name": "Farmer's Delight",
             "projectID": 398521,
             "fileID": 3739915,
@@ -221,12 +95,6 @@
             "version": "27.2"
         },
         {
-            "name": "Flower Seeds",
-            "projectID": 445955,
-            "fileID": 3557012,
-            "version": "2.0.0"
-        },
-        {
             "name": "Flywheel",
             "projectID": 486392,
             "fileID": 3687357,
@@ -237,12 +105,6 @@
             "projectID": 388172,
             "fileID": 3629661,
             "version": "3.0.11"
-        },
-        {
-            "name": "Grass Slabs, Carpets & Stairs",
-            "projectID": 565833,
-            "fileID": 3601095,
-            "version": "1.1"
         },
         {
             "name": "GraveStone Mod",
@@ -281,12 +143,6 @@
             "version": "9.4.1.172"
         },
         {
-            "name": "Just Enough Keg",
-            "projectID": 543014,
-            "fileID": 3728454,
-            "version": "3.0.1"
-        },
-        {
             "name": "Just Enough Resources (JER)",
             "projectID": 240630,
             "fileID": 3649333,
@@ -297,30 +153,6 @@
             "projectID": 406360,
             "fileID": 3651868,
             "version": "1.7.0.5"
-        },
-        {
-            "name": "Market Crates",
-            "projectID": 443591,
-            "fileID": 3564787,
-            "version": "1.4.1"
-        },
-        {
-            "name": "MineColonies",
-            "projectID": 245506,
-            "fileID": 3756633,
-            "version": "1.0.635-BETA"
-        },
-        {
-            "name": "MmmMmmMmmMmm (Target Dummy)",
-            "projectID": 225738,
-            "fileID": 3642328,
-            "version": "1.5.1"
-        },
-        {
-            "name": "Multi-Piston",
-            "projectID": 303278,
-            "fileID": 3543720,
-            "version": "1.2.2-ALPHA"
         },
         {
             "name": "mutil",
@@ -335,18 +167,6 @@
             "version": "9.0.0"
         },
         {
-            "name": "Not Enough Animations",
-            "projectID": 433760,
-            "fileID": 3739668,
-            "version": "1.6.0"
-        },
-        {
-            "name": "Nutritional Balance",
-            "projectID": 448222,
-            "fileID": 3684434,
-            "version": "3.0.3"
-        },
-        {
             "name": "Oh the Biomes You'll Go",
             "projectID": 247560,
             "fileID": 3669462,
@@ -357,24 +177,6 @@
             "projectID": 354339,
             "fileID": 3618465,
             "version": "11.0.4"
-        },
-        {
-            "name": "Pane in the Glass",
-            "projectID": 374529,
-            "fileID": 3602263,
-            "version": "2.0.2"
-        },
-        {
-            "name": "Patchouli",
-            "projectID": 306770,
-            "fileID": 3630725,
-            "version": "65"
-        },
-        {
-            "name": "PlayerRevive",
-            "projectID": 266890,
-            "fileID": 3632749,
-            "version": "2.0.0-pre08"
         },
         {
             "name": "Polymorph (Forge)",
@@ -389,22 +191,10 @@
             "version": "3.1-340"
         },
         {
-            "name": "Regrowth",
-            "projectID": 381597,
-            "fileID": 3635468,
-            "version": "1.39.0.26"
-        },
-        {
             "name": "Selene Lib",
             "projectID": 499980,
             "fileID": 3668969,
             "version": "1.13.2"
-        },
-        {
-            "name": "Shield Mechanics",
-            "projectID": 476645,
-            "fileID": 3759446,
-            "version": "3.2"
         },
         {
             "name": "Shutup Experimental Settings!",
@@ -413,22 +203,10 @@
             "version": "1.0.4"
         },
         {
-            "name": "Structurize",
-            "projectID": 298744,
-            "fileID": 3745310,
-            "version": "1.0.378-BETA"
-        },
-        {
             "name": "Supplementaries",
             "projectID": 412082,
             "fileID": 3717652,
             "version": "1.2.5"
-        },
-        {
-            "name": "SwingThroughGrass",
-            "projectID": 264353,
-            "fileID": 3578339,
-            "version": "1.8.0"
         },
         {
             "name": "TerraBlender",
@@ -443,16 +221,16 @@
             "version": "4.8.1"
         },
         {
+            "name": "Tetra Pak",
+            "projectID": 463554,
+            "fileID": 3726132,
+            "version": "0.4.3"
+        },
+        {
             "name": "TreeChop",
             "projectID": 421377,
             "fileID": 3704499,
             "version": "0.15.7"
-        },
-        {
-            "name": "WorldEdit",
-            "projectID": 225608,
-            "fileID": 3631606,
-            "version": "7.2.9"
         }
     ]
 }
