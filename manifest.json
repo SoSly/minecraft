@@ -18,8 +18,8 @@
         {
             "name": "Arcane Additions",
             "projectID": 576150,
-            "fileID": 3777382,
-            "version": "0.3.1"
+            "fileID": 3790608,
+            "version": "1.0.0"
         },
         {
             "name": "AutoRegLib",
@@ -151,8 +151,8 @@
         {
             "name": "Mana and Artifice",
             "projectID": 406360,
-            "fileID": 3651868,
-            "version": "1.7.0.5"
+            "fileID": 3790424,
+            "version": "1.7.1.19"
         },
         {
             "name": "mutil",
