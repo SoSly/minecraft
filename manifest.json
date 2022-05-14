@@ -16,6 +16,12 @@
     "seed": "-7925249249338563465",
     "files": [
         {
+            "name": "AppleSkin",
+            "projectID": 248787,
+            "fileID": 3686482,
+            "version": "2.4.0"
+        },
+        {
             "name": "Arcane Additions",
             "projectID": 576150,
             "fileID": 3790608,
@@ -58,10 +64,28 @@
             "version": "3.0.0"
         },
         {
+            "name": "Builders Crafts & Additions (Forge)",
+            "projectID": 389697,
+            "fileID": 3620249,
+            "version": "20220123a"
+        },
+        {
             "name": "Carry On",
             "projectID": 274259,
             "fileID": 3601938,
             "version": "1.17.0.7"
+        },
+        {
+            "name": "Comforts",
+            "projectID": 276951,
+            "fileID": 3650599,
+            "version": "5.0.0.2"
+        },
+        {
+            "name": "Controlling",
+            "projectID": 250398,
+            "fileID": 3648602,
+            "version": "9.0+15"
         },
         {
             "name": "Create",
@@ -105,6 +129,12 @@
             "projectID": 388172,
             "fileID": 3629661,
             "version": "3.0.11"
+        },
+        {
+            "name": "Grass Slabs, Carpets & Stairs",
+            "projectID": 565833,
+            "fileID": 3601095,
+            "version": "1.1"
         },
         {
             "name": "GraveStone Mod",
@@ -177,6 +207,18 @@
             "projectID": 354339,
             "fileID": 3618465,
             "version": "11.0.4"
+        },
+        {
+            "name": "Patchouli",
+            "projectID": 306770,
+            "fileID": 3630725,
+            "version": "65"
+        },
+        {
+            "name": "PlayerRevive",
+            "projectID": 266890,
+            "fileID": 3632749,
+            "version": "2.0.0-pre08"
         },
         {
             "name": "Polymorph (Forge)",
