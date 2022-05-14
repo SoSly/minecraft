@@ -94,6 +94,12 @@
             "version": "v0.4f"
         },
         {
+            "name": "CreativeCore",
+            "projectID": 257814,
+            "fileID": 3650213,
+            "version": "v2.5.0"
+        },
+        {
             "name": "Croptopia",
             "path": "croptopia-fabric",
             "projectID": 415438,
