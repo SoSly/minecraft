@@ -1,4 +1,5 @@
 bluemap
+crash-reports
 journeymap
 logs
 patchouli_books
@@ -7,6 +8,7 @@ saves
 schematics
 screenshots
 simplebackups
+world
 
 .curseclient
 minecraftinstance.json
@@ -15,3 +17,9 @@ options.txt
 servers.dat
 usercache.json
 usernamecache.json
+
+config/byg/growing-patterns.json5
+config/byg/nether-biomes.json5
+config/byg/trades.json5
+
+config/spark/tmp
