@@ -1,0 +1,17 @@
+bluemap
+journeymap
+logs
+patchouli_books
+resourcepacks
+saves
+schematics
+screenshots
+simplebackups
+
+.curseclient
+minecraftinstance.json
+patchouli_data.json
+options.txt
+servers.dat
+usercache.json
+usernamecache.json
