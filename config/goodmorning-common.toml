@@ -1,0 +1,21 @@
+
+#General settings
+[general]
+	#Enable the mod
+	show = true
+	#Whether to add one day to the shown date.
+	#Default Minecraft starts at day 0
+	addOneDay = true
+	#If true, a day will start at 00:00 but not 06:00, (useful when the mod somnia loaded)
+	dayStartAtMidnight = true
+	#The first line of the shown information,
+	#Useful placeholders: @PLAYER@, @DATE@, @HOUR@, @MINUTE@
+	#\u will be replaced with §.
+	#You can add more than one random titles
+	title = ["Morning"]
+	#The second line of the shown information,
+	#Useful placeholders: @PLAYER@, @DATE@, @HOUR@, @MINUTE@
+	#\u will be replaced with §.
+	#You can add more than one random subtitles
+	subtitle = ["Day @DATE@"]
+
