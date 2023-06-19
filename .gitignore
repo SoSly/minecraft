@@ -21,5 +21,6 @@ usernamecache.json
 config/byg/growing-patterns.json5
 config/byg/nether-biomes.json5
 config/byg/trades.json5
+config/byg/backups/last_working_configs_backup.zip
 
 config/spark/tmp
