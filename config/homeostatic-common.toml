@@ -1,0 +1,7 @@
+#Show temperature debug info.
+debugEnabled = false
+#Show temperature values in HUD.
+showTemperatureValues = true
+#Require thermometer helmet enhancement to display temperature values.
+requireThermometer = true
+
