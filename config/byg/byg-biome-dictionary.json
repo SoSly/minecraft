@@ -144,7 +144,8 @@
     "byg:fragment_forest": [
       "OVERWORLD",
       "DENSE",
-      "PLATEAU"
+      "PLATEAU",
+      "RARE"
     ],
     "byg:cika_woods": [
       "FOREST",
