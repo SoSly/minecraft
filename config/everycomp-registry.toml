@@ -32,11 +32,6 @@
 		hawthorn = true
 		alder = true
 
-	[wood_type.environmental]
-		willow = true
-		cherry = true
-		wisteria = true
-
 	[wood_type.quark]
 		blossom = true
 		azalea = true
@@ -87,10 +82,6 @@
 		rowan = true
 		hawthorn = true
 		alder = true
-
-	[leaves_type.environmental]
-		willow = true
-		cherry = true
 
 	[leaves_type.ecologics]
 		coconut = true
