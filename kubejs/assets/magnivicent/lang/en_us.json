@@ -1,0 +1,10 @@
+{
+    "tetra.material.mna_chimerite": "Chimerite",
+    "tetra.material.mna_chimerite.prefix": "Chimerite",
+    "tetra.material.mna_purified_vinteum": "Purified Vinteum",
+    "tetra.material.mna_purified_vinteum.prefix": "Purified Vinteum",
+    
+    "tetra.variant.double_socket/chimerite": "Socket [§dChimerite§f]",
+    "tetra.variant.single_socket/chimerite": "Socket [§dChimerite§f]",
+    "tetra.variant.sword_socket/chimerite": "Socket [§dChimerite§f]"
+}

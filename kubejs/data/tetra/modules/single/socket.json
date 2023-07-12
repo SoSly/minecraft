@@ -1,0 +1,25 @@
+{
+    "replace": false,
+    "variants": [
+        {
+            "key": "single_socket/chimerite",
+            "category": "gem",
+            "durability": 30,
+            "integrity": -1,
+            "glyph": {
+                "tint": "f29000",
+                "textureX": 80,
+                "textureY": 16
+            },
+            "models": [
+                {
+                    "location": "tetra:items/module/single/binding/socket/default",
+                    "tint": "fcedf1"
+                }
+            ],
+            "effects": {
+                "manaRepair": [ 1, 0.0025 ]
+            }
+        }
+    ]
+}
