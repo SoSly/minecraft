@@ -1,0 +1,61 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jul 12, 2023, 9:59:37 AM
+
+#forge:experience
+- sophisticatedcore:xp_still
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- sliceanddice:flowing_fertilizer
+- sliceanddice:fertilizer
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#mantle:water
+- minecraft:water
+- minecraft:flowing_water
+
+#forge:tea
+- create:flowing_tea
+- create:tea
+
+#mantle:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#sliceanddice:moisturizing
+- minecraft:water
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#sliceanddice:fertilizer
+- sliceanddice:flowing_fertilizer
+- sliceanddice:fertilizer
+
+#create:bottomless/deny
+
+#homeostatic:purified_water
+- homeostatic:purified_water
+
+#forge:chocolate
+- create:flowing_chocolate
+- create:chocolate
+
+#create:bottomless/allow
+- minecraft:water
+- minecraft:lava
+
+#forge:honey
+- create:flowing_honey
+- create:honey
+
+#sliceanddice:burning
+- minecraft:lava
