@@ -166,7 +166,7 @@
 		rollerFillDepth = 12
 		#.
 		#Whether minecart contraptions can be picked up in survival mode.
-		survivalContraptionPickup = true
+		survivalContraptionPickup = false
 		#.
 		#Configure how Spawner blocks can be moved by contraptions.
 		#Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
