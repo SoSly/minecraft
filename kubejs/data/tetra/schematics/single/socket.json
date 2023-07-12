@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "outcomes": [
+        {
+            "material": {
+                "items": ["mna:chimerite"]
+            },
+            "experienceCost": 10,
+            "moduleKey": "single/socket",
+            "moduleVariant": "single_socket/chimerite"
+        }
+    ]
+}
