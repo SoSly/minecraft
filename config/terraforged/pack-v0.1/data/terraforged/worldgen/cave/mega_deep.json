@@ -1,6 +1,7 @@
 {
   "type": "unique",
   "max_y": 48,
+  "min_y": -60,
   "seed": 247699,
   "size": 36,
   "elevation": {

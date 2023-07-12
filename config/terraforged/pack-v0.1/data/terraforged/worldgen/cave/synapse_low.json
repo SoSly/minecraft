@@ -1,6 +1,7 @@
 {
   "type": "global",
   "max_y": 128,
+  "min_y": -60,
   "seed": 59189,
   "size": 18,
   "elevation": {
