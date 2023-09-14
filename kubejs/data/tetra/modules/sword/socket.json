@@ -2,24 +2,55 @@
     "replace": false,
     "variants": [
         {
-            "key": "sword_socket/chimerite",
+            "key": "sword_socket/butternite",
             "category": "gem",
             "durability": 30,
             "integrity": -1,
             "glyph": {
-                "tint": "f29000",
+                "tint": "b26edf",
                 "textureX": 80,
                 "textureY": 16
             },
             "models": [
                 {
-                    "location": "tetra:items/module/sword/guard/socket/default",
+                    "location": "tetra:items/module/sword/binding/socket/default",
+                    "tint": "b26edf"
+                }
+            ]
+        },
+        {
+            "key": "sword_socket/chimerite",
+            "category": "gem",
+            "durability": 30,
+            "integrity": -1,
+            "glyph": {
+                "tint": "fcedf1",
+                "textureX": 80,
+                "textureY": 16
+            },
+            "models": [
+                {
+                    "location": "tetra:items/module/sword/binding/socket/default",
                     "tint": "fcedf1"
                 }
-            ],
-            "effects": {
-                "manaRepair": [ 1, 0.0025 ]
-            }
+            ]
+        },
+        {
+            "key": "sword_socket/pearl",
+            "category": "gem",
+            "durability": 30,
+            "integrity": -1,
+            "glyph": {
+                "tint": "f8f8ee",
+                "textureX": 80,
+                "textureY": 16
+            },
+            "models": [
+                {
+                    "location": "tetra:items/module/sword/binding/socket/default",
+                    "tint": "f8f8ee"
+                }
+            ]
         }
     ]
 }

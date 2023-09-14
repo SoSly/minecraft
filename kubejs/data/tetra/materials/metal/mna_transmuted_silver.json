@@ -1,0 +1,27 @@
+{
+    "key" : "mna_transmuted_silver",
+    "category" : "metal",
+    "primary" : 4.5,
+    "secondary" : 4.0,
+    "tertiary" : 2.75,
+    "durability" : 215,
+    "integrityCost" : 1,
+    "integrityGain" : 5,
+    "magicCapacity" : 132,
+    "toolLevel" : "minecraft:gold",
+    "toolEfficiency" : 8,
+    "tints" : {
+        "glyph" : "ccdde0",
+        "texture" : "ccdde0"
+    },
+    "textures" : [ "metal", "default" ],
+    "material" : {
+        "items" : [ "mna:transmuted_silver" ]
+    },
+    "requiredTools" : {
+        "hammer_dig" : "minecraft:stone"
+    },
+    "improvements": {
+        "mna_mana_repair": 1
+    }
+}

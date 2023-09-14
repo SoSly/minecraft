@@ -3,11 +3,27 @@
     "outcomes": [
         {
             "material": {
+                "items": ["mna:butternite"]
+            },
+            "experienceCost": 10,
+            "moduleKey": "single/socket",
+            "moduleVariant": "single_socket/butternite"
+        },
+        {
+            "material": {
                 "items": ["mna:chimerite"]
             },
             "experienceCost": 10,
             "moduleKey": "single/socket",
             "moduleVariant": "single_socket/chimerite"
+        },
+        {
+            "material": {
+                "items": ["mna:pearl"]
+            },
+            "experienceCost": 10,
+            "moduleKey": "single/socket",
+            "moduleVariant": "single_socket/pearl"
         }
     ]
 }

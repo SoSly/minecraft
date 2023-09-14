@@ -3,11 +3,27 @@
     "outcomes": [
         {
             "material": {
+                "items": ["mna:butternite"]
+            },
+            "experienceCost": 10,
+            "moduleKey": "double/socket",
+            "moduleVariant": "double_socket/butternite"
+        },
+        {
+            "material": {
                 "items": ["mna:chimerite"]
             },
             "experienceCost": 10,
             "moduleKey": "double/socket",
             "moduleVariant": "double_socket/chimerite"
+        },
+        {
+            "material": {
+                "items": ["mna:pearl"]
+            },
+            "experienceCost": 10,
+            "moduleKey": "double/socket",
+            "moduleVariant": "double_socket/pearl"
         }
     ]
 }

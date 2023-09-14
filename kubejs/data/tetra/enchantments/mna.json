@@ -1,0 +1,12 @@
+
+[
+    {
+        "enchantment": "mna:mana-repair",
+        "improvement": "mna_mana_repair",
+        "extract": false
+    },
+    {
+        "enchantment": "mna:xp_to_souls",
+        "improvement": "mna_xp_to_souls"
+    }
+]

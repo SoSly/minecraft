@@ -4,15 +4,15 @@
     "primary": 5,
     "secondary": 2.7,
     "tertiary": 0,
-    "durability": 850,
+    "durability": 450,
     "integrityCost": 2,
     "integrityGain": 2,
-    "magicCapacity": 72,
+    "magicCapacity": 190,
     "toolLevel": "minecraft:iron",
     "toolEfficiency": 7,
     "tints": {
-        "glyph": "fcedf1",
-        "texture": "f4e7ea"
+        "glyph": "d3c6e7",
+        "texture": "d3c6e7"
     },
     "textures": [
         "shiny",

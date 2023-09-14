@@ -1,0 +1,31 @@
+{
+    "key": "mna_infused_silk",
+    "category": "fabric",
+    "primary": 1,
+    "secondary": 1,
+    "tertiary": 5,
+    "durability": 200,
+    "integrityCost": 1,
+    "integrityGain": 4,
+    "magicCapacity": 180,
+    "toolLevel": 0,
+    "toolEfficiency": 0,
+    "tints": {
+        "glyph": "ffffff",
+        "texture": "eeeeff"
+    },
+    "textures": [
+        "default"
+    ],
+    "material": {
+        "items": [
+            "mna:infused_silk"
+        ]
+    },
+    "requiredTools": {
+        "cut": "minecraft:gold"
+    },
+    "effects": {
+        "stabilizing": 5
+    },
+}

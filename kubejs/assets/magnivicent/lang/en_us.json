@@ -1,10 +1,32 @@
 {
+    "tetra.improvement.mna_mana_repair.name": "Mana Repair",
+    "tetra.improvement.mna_mana_repair.description": "Repairs items over time using your mana.",
+    
+    "tetra.material.crittersandcompanions_pearl": "Pearl",
+    "tetra.material.crittersandcompanions_pearl.prefix": "Pearl",
+    "tetra.material.lilwings_butternite": "Butternite",
+    "tetra.material.lilwings_butternite.prefix": "Butternite",
+    "tetra.material.mna_arcane_sandstone": "Arcane Sandstone",
+    "tetra.material.mna_arcane_sandstone.prefix": "Arcane Sandstone",
+    "tetra.material.mna_arcane_stone": "Arcane Stone",
+    "tetra.material.mna_arcane_stone.prefix": "Arcane Stone",
+    "tetra.material.mna_infused_silk": "Infused Silk",
+    "tetra.material.mna_infused_silk.prefix": "Infused Silk",
     "tetra.material.mna_chimerite": "Chimerite",
     "tetra.material.mna_chimerite.prefix": "Chimerite",
     "tetra.material.mna_purified_vinteum": "Purified Vinteum",
     "tetra.material.mna_purified_vinteum.prefix": "Purified Vinteum",
-    
+    "tetra.material.mna_runic_silk": "Runic Silk",
+    "tetra.material.mna_runic_silk.prefix": "Runic Silk",
+    "tetra.material.mna_transmuted_silver": "Transmuted Silver",
+    "tetra.material.mna_transmuted_silver.prefix": "Transmuted Silver",
+    "tetra.variant.double_socket/butternite": "Socket [§dButternite§f]",
+    "tetra.variant.single_socket/butternite": "Socket [§dButternite§f]",
+    "tetra.variant.sword_socket/butternite": "Socket [§dButternite§f]",
     "tetra.variant.double_socket/chimerite": "Socket [§dChimerite§f]",
     "tetra.variant.single_socket/chimerite": "Socket [§dChimerite§f]",
-    "tetra.variant.sword_socket/chimerite": "Socket [§dChimerite§f]"
+    "tetra.variant.sword_socket/chimerite": "Socket [§dChimerite§f]",
+    "tetra.variant.double_socket/pearl": "Socket [§dPearl§f]",
+    "tetra.variant.single_socket/pearl": "Socket [§dPearl§f]",
+    "tetra.variant.sword_socket/pearl": "Socket [§dPearl§f]"
 }

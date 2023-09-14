@@ -1,0 +1,14 @@
+[
+    {
+        "key": "mna_mana_repair",
+        "level": 1,
+        "enchantment": true,
+        "magicCapacity": -31.0
+    },
+    {
+        "key": "mna_xp_to_souls",
+        "level": 1,
+        "enchantment": true,
+        "magicCapacity": -31.0
+    }
+]

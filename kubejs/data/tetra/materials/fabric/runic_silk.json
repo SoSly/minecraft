@@ -1,0 +1,31 @@
+{
+    "key": "mna_runic_silk",
+    "category": "fabric",
+    "primary": 1,
+    "secondary": 1,
+    "tertiary": 5,
+    "durability": 200,
+    "integrityCost": 1,
+    "integrityGain": 4,
+    "magicCapacity": 240,
+    "toolLevel": 0,
+    "toolEfficiency": 0,
+    "tints": {
+        "glyph": "ffffff",
+        "texture": "ffeeee"
+    },
+    "textures": [
+        "default"
+    ],
+    "material": {
+        "items": [
+            "mna:runic_silk"
+        ]
+    },
+    "requiredTools": {
+        "cut": "minecraft:iron"
+    },
+    "improvements": {
+        "mna_mana_repair": 2
+    }
+}
