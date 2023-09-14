@@ -47,4 +47,6 @@
 	ma_multiblock_tip = false
 	ma_prettyblocks_tip = true
 	ma_bindwounds_tip = false
+	ma_buffcache_tip = false
+	ma_lenstype_tip = false
 
