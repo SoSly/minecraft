@@ -174,7 +174,8 @@
     "dynamicIcons": {
       "default": "https://via.placeholder.com/256.png",
       "Magnivicent": "https://mc-heads.net/avatar/cf14115e5cc74401a3ea8db513953512",
-      "10.0.74.112": "https://api.mcsrvstat.us/icon/10.0.74.112"
+      "10.0.74.112": "https://api.mcsrvstat.us/icon/10.0.74.112",
+      "minecraft.sosly.org": "https://api.mcsrvstat.us/icon/minecraft.sosly.org"
     },
     "dynamicVariables": {
       "default": "Example Text",
