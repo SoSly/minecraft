@@ -66,6 +66,9 @@
 		ether = true
 		imparius = true
 
+	[wood_type.wildbackport]
+		mangrove = true
+
 [leaves_type]
 
 	[leaves_type.minecraft]
@@ -153,4 +156,7 @@
 		pink_blossom = true
 		yellow_blossom = true
 		red_blossom = true
+
+	[leaves_type.wildbackport]
+		mangrove = true
 
