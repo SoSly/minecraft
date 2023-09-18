@@ -14,12 +14,12 @@
     "detectDimensionData": true,
     "detectWorldData": true,
     "clientId": "450485984333660181",
-    "defaultIcon": "grass",
+    "defaultIcon": "minecraft_server",
     "enableJoinRequests": false,
     "partyPrivacyLevel": 1,
     "preferredClientLevel": 3,
     "resetTimeOnInit": false,
-    "autoRegister": false
+    "autoRegister": true
   },
   "biomeSettings": {
     "fallbackBiomeIcon": "unknown",

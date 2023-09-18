@@ -40,7 +40,7 @@
 
 #Mana and Artifice // Help Tips Settings
 [ma_helptips]
-	ma_ritual_tip = false
+	ma_ritual_tip = true
 	ma_pin_tip = false
 	ma_modifier_tip = true
 	ma_damage_stacking_tip = false
