@@ -1,12 +1,12 @@
 #How many souls are players worth when killed?
 #Range: 1 ~ 20000
-playerSouls = 2500
+playerSouls = 1000
 #How many souls are villagers worth when killed?
 #Range: 1 ~ 20000
-villagerSouls = 250
+villagerSouls = 150
 #How many souls are enemy faction members worth when killed?
 #Range: 1 ~ 20000
-factionSouls = 250
+factionSouls = 500
 #How many souls are mobs worth when killed?
 #Range: 1 ~ 20000
 mobSouls = 150
@@ -18,12 +18,12 @@ animalSouls = 100
 undeadSouls = 50
 #How many ticks should it take for a player to fully regenerate their mana bar?  This doesn't take into account hunger, set bonuses, or other effects; this is the baseline value.
 #Range: > 1
-ticksForFullManaRegen = 1800
+ticksForFullManaRegen = 1200
 #How much brimstone is each heart worth?
 #Range: 1 ~ 20000
 brimstonePerHeart = 50
 #How much bonus health does each tier give?  Only up to the first five values will be used.  Reminder that a heart is TWO points.
-tier_health_boosts = [0, 2, 4, 6, 8]
+tier_health_boosts = [0, 0, 0, 0, 0]
 
 #Mana and Artifice // General Options
 [ma_general_options]

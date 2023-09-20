@@ -1865,7 +1865,7 @@
 		minimum = 5.0
 		#Maximum Value
 		#Range: 0.0 ~ 9999.0
-		maximum = 180.0
+		maximum = 300.0
 		#Default Value
 		#Range: 0.0 ~ 9999.0
 		default = 5.0
@@ -1882,7 +1882,7 @@
 		minimum = 1.0
 		#Maximum Value
 		#Range: 0.0 ~ 9999.0
-		maximum = 3.0
+		maximum = 10.0
 		#Default Value
 		#Range: 0.0 ~ 9999.0
 		default = 1.0
@@ -1891,7 +1891,7 @@
 		step = 1.0
 		#Complexity Value (how much does changing by one tick change the complexity)
 		#Range: 0.0 ~ 9999.0
-		step_complexity = 30.0
+		step_complexity = 15.0
 
 	["mna:components/shield".DELAY]
 		#Minimum Value
@@ -3195,7 +3195,7 @@
 		minimum = 15.0
 		#Maximum Value
 		#Range: 0.0 ~ 9999.0
-		maximum = 180.0
+		maximum = 300.0
 		#Default Value
 		#Range: 0.0 ~ 9999.0
 		default = 15.0
@@ -3212,7 +3212,7 @@
 		minimum = 1.0
 		#Maximum Value
 		#Range: 0.0 ~ 9999.0
-		maximum = 3.0
+		maximum = 10.0
 		#Default Value
 		#Range: 0.0 ~ 9999.0
 		default = 1.0
@@ -3252,7 +3252,7 @@
 		minimum = 15.0
 		#Maximum Value
 		#Range: 0.0 ~ 9999.0
-		maximum = 180.0
+		maximum = 300.0
 		#Default Value
 		#Range: 0.0 ~ 9999.0
 		default = 15.0
@@ -3269,7 +3269,7 @@
 		minimum = 1.0
 		#Maximum Value
 		#Range: 0.0 ~ 9999.0
-		maximum = 5.0
+		maximum = 10.0
 		#Default Value
 		#Range: 0.0 ~ 9999.0
 		default = 1.0
@@ -3326,7 +3326,7 @@
 		minimum = 15.0
 		#Maximum Value
 		#Range: 0.0 ~ 9999.0
-		maximum = 180.0
+		maximum = 300.0
 		#Default Value
 		#Range: 0.0 ~ 9999.0
 		default = 15.0
@@ -3383,7 +3383,7 @@
 		minimum = 15.0
 		#Maximum Value
 		#Range: 0.0 ~ 9999.0
-		maximum = 60.0
+		maximum = 300.0
 		#Default Value
 		#Range: 0.0 ~ 9999.0
 		default = 15.0
@@ -3400,7 +3400,7 @@
 		minimum = 1.0
 		#Maximum Value
 		#Range: 0.0 ~ 9999.0
-		maximum = 3.0
+		maximum = 10.0
 		#Default Value
 		#Range: 0.0 ~ 9999.0
 		default = 1.0
@@ -4508,13 +4508,13 @@
 		minimum = 0.0
 		#Maximum Value
 		#Range: 0.0 ~ 9999.0
-		maximum = 3.0
+		maximum = 10.0
 		#Default Value
 		#Range: 0.0 ~ 9999.0
 		default = 0.0
 		#Step Value (how much does one click in the inscription table change the value)
 		#Range: 0.0 ~ 9999.0
-		step = 0.10000000149011612
+		step = 0.1
 		#Complexity Value (how much does changing by one tick change the complexity)
 		#Range: 0.0 ~ 9999.0
 		step_complexity = 0.5
