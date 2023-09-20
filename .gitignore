@@ -13,6 +13,7 @@
 /minecraftinstance.json
 /patchouli_data.json
 /options.txt
+/server.properties
 /servers.dat
 /usercache.json
 /usernamecache.json
@@ -23,6 +24,8 @@
 /config/byg/nether-biomes.json5
 /config/byg/trades.json5
 /config/byg/backups/last_working_configs_backup.zip
+/config/jei/world/
+/config/oculus.properties
 /config/sound_physics_remastered/
 /config/spark/tmp
 /config/worldedit/worldedit.properties
