@@ -16,12 +16,14 @@ animalSouls = 100
 #How many souls are undead worth when killed?
 #Range: 1 ~ 20000
 undeadSouls = 50
-#How many ticks should it take for a player to fully regenerate their hunger bar?  This doesn't take into account hunger, set bonuses, or other effects; this is the baseline value.
+#How many ticks should it take for a player to fully regenerate their mana bar?  This doesn't take into account hunger, set bonuses, or other effects; this is the baseline value.
 #Range: > 1
 ticksForFullManaRegen = 1800
 #How much brimstone is each heart worth?
 #Range: 1 ~ 20000
 brimstonePerHeart = 50
+#How much bonus health does each tier give?  Only up to the first five values will be used.  Reminder that a heart is TWO points.
+tier_health_boosts = [0, 2, 4, 6, 8]
 
 #Mana and Artifice // General Options
 [ma_general_options]
@@ -33,7 +35,7 @@ brimstonePerHeart = 50
 	wardingCandleWhitelist = ""
 	#Change this to determine how many of a tier's tasks need to be completed before tiering up is allowed.  It is a percentage of the total tasks in the tier.  If you set this above 1, you cannot tier up through normal gameplay.  Use with caution.
 	#Range: 0.01 ~ 2.0
-	tierCompletePct = 0.8
+	tierCompletePct = 0.6
 	#What the mod considers 'melee distance' between two entities when one attacks the other.  This value is squared, so if you want 8 blocks put 64 in this config.
 	#Range: 1.0 ~ 4096.0
 	meleeDistance = 25.0
@@ -78,6 +80,26 @@ brimstonePerHeart = 50
 	#When a player gains a tier, should components X tiers below the current tier automatically be roted?  Set to 5 to disable.
 	#Range: 0 ~ 5
 	auto_rote_spells_below_tier = 3
+	#By default, jump boost in vanilla is, to put it politely, lacking.  If this is enabled, jumping while under the effects of jump boost will apply additional forward momentum.  This does not stack with the infernal armor set bonus.
+	fixJumpBoost = true
+	#What permission level should rituals run commands at?  The commands must be defined in the recipes.
+	#Range: 0 ~ 4
+	ritualPermissionLevel = 2
+	#Should confuse affect players?  It will invert their controls.
+	confuseAffectsPlayers = true
+	#Should the splash component create permanent water sources?  If false the sources it creates will be temporary.
+	splashCreatesSources = false
+	#Mess with mori?
+	messWithMori = true
+	#Maximum RTP distance for RTP portals.
+	#Range: > 100
+	rtpRange = 5000
+	#Should players be allowed to apply any enchantment on a Projection Rune at the Runic Anvil regardless of their tier?
+	projectionEnchantAnything = false
+	#What colors should various damage types be when displayed by insight?  Format is 'type_identifier;hex_color'.  Defaults to white if not specified here.
+	damageColors = ["inFire:0xff7400", "onFire:0xff7400", "lightningBolt:0xe5e51a", "lava:0xffffff", "hotFloor:0xff7400", "inWall:0xffffff", "cramming:0xffffff", "drown:0x3a92dc", "starve:0x03790e", "cactus:0x03790e", "fall:0xffffff", "flyIntoWall:0xffffff", "outOfWorld:0xffffff", "generic:0xffffff", "magic:0x871572", "wither:0x471b3f", "anvil:0xffffff", "fallingBlock:0xffffff", "dragonBreath:0x871572", "dryout:0xdbc88f", "sweetBerryBush:0x03790e", "freeze:0x18dee4", "fallingStalactite:0xffffff", "stalagmite:0xffffff", "ma-lightning:0xe5e51a", "ma-briars:0x03790e", "disperse:0x18dee4", "shuriken:0xffffff", "conflagrate:0xff7400"]
+	#What enchantments should disjunction not work on?
+	disjunctionBlacklist = ["mna:soulbound", "mna:fireproof"]
 
 #Mana and Artifice // Villager Modification
 [ma_villager_modification]
@@ -99,6 +121,9 @@ brimstonePerHeart = 50
 	raidSpawnAttempts = 100
 	#Should killing faction mobs increase ire, and eventually result in a raid?
 	factionKillIre = true
+	#How strong should forced raids be?  This is mostly for Moridrex's stream, you shouldn't need to mess with this.
+	#Range: 1 ~ 10000
+	forceRaidStrength = 180
 
 #Mana and Artifice // Worldgen Options
 [ma_worldgen_options]
@@ -160,6 +185,8 @@ brimstonePerHeart = 50
 	#When Tarma Root does spawn, how many should be in a clump on average?
 	#Range: 1 ~ 99
 	tarmaRootAmount = 4
+	#Should vinteum generate naturally in the world?  If this is false it will significantly impact the mod's progression.
+	generateVinteum = true
 
 #Mana and Artifice // Artifact Options
 [ma_artifact_options]
@@ -189,4 +216,10 @@ brimstonePerHeart = 50
 	#How much extra radius should members of the demon faction be able to put on their spells?
 	#Range: 0 ~ 3
 	demonBonusRadius = 1
+	#What percentage of souls should sleeping in a coffin restore for undead?
+	#Range: 0.0 ~ 1.0
+	undeadCoffinSoulsPct = 0.25
+	#How long should need to pass before undead will gain full souls again from sleeping in a coffin?
+	#Range: > 0
+	undeadCoffinSleepDelay = 18000
 

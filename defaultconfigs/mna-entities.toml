@@ -37,6 +37,14 @@
 		#Comma separated list of dimension ids that this mob type shouldn't spawn in
 		blacklist = ""
 
+	["Dimension-Level Blacklists"."mna:chatterer"]
+		#Comma separated list of dimension ids that this mob type shouldn't spawn in
+		blacklist = ""
+
+	["Dimension-Level Blacklists"."mna:faction_war"]
+		#Comma separated list of dimension ids that this mob type shouldn't spawn in
+		blacklist = ""
+
 [taiga]
 
 	[taiga."mna:demon_imp"]
@@ -137,6 +145,28 @@
 		#Max Pack Size
 		#Range: 1 ~ 5
 		maxPackSize = 3
+
+	[taiga."mna:chatterer"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 40
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 3
+
+	[taiga."mna:faction_war"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 80
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 1
 
 [extreme_hills]
 
@@ -239,6 +269,28 @@
 		#Range: 1 ~ 5
 		maxPackSize = 3
 
+	[extreme_hills."mna:chatterer"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 40
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 3
+
+	[extreme_hills."mna:faction_war"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 80
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 1
+
 [jungle]
 
 	[jungle."mna:demon_imp"]
@@ -339,6 +391,28 @@
 		#Max Pack Size
 		#Range: 1 ~ 5
 		maxPackSize = 3
+
+	[jungle."mna:chatterer"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 40
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 3
+
+	[jungle."mna:faction_war"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 80
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 1
 
 [mesa]
 
@@ -441,6 +515,28 @@
 		#Range: 1 ~ 5
 		maxPackSize = 3
 
+	[mesa."mna:chatterer"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 40
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 3
+
+	[mesa."mna:faction_war"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 80
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 1
+
 [plains]
 
 	[plains."mna:demon_imp"]
@@ -541,6 +637,28 @@
 		#Max Pack Size
 		#Range: 1 ~ 5
 		maxPackSize = 3
+
+	[plains."mna:chatterer"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 40
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 3
+
+	[plains."mna:faction_war"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 80
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 1
 
 [savanna]
 
@@ -643,6 +761,28 @@
 		#Range: 1 ~ 5
 		maxPackSize = 3
 
+	[savanna."mna:chatterer"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 40
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 3
+
+	[savanna."mna:faction_war"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 80
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 1
+
 [icy]
 
 	[icy."mna:demon_imp"]
@@ -743,6 +883,28 @@
 		#Max Pack Size
 		#Range: 1 ~ 5
 		maxPackSize = 3
+
+	[icy."mna:chatterer"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 40
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 3
+
+	[icy."mna:faction_war"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 80
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 1
 
 [beach]
 
@@ -845,6 +1007,28 @@
 		#Range: 1 ~ 5
 		maxPackSize = 3
 
+	[beach."mna:chatterer"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 40
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 3
+
+	[beach."mna:faction_war"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 80
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 1
+
 [forest]
 
 	[forest."mna:demon_imp"]
@@ -945,6 +1129,28 @@
 		#Max Pack Size
 		#Range: 1 ~ 5
 		maxPackSize = 3
+
+	[forest."mna:chatterer"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 40
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 3
+
+	[forest."mna:faction_war"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 80
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 1
 
 [ocean]
 
@@ -1047,6 +1253,28 @@
 		#Range: 1 ~ 5
 		maxPackSize = 3
 
+	[ocean."mna:chatterer"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 40
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 3
+
+	[ocean."mna:faction_war"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 80
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 1
+
 [desert]
 
 	[desert."mna:demon_imp"]
@@ -1147,6 +1375,28 @@
 		#Max Pack Size
 		#Range: 1 ~ 5
 		maxPackSize = 3
+
+	[desert."mna:chatterer"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 40
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 3
+
+	[desert."mna:faction_war"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 80
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 1
 
 [river]
 
@@ -1249,6 +1499,28 @@
 		#Range: 1 ~ 5
 		maxPackSize = 3
 
+	[river."mna:chatterer"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 40
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 3
+
+	[river."mna:faction_war"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 80
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 1
+
 [swamp]
 
 	[swamp."mna:demon_imp"]
@@ -1349,6 +1621,28 @@
 		#Max Pack Size
 		#Range: 1 ~ 5
 		maxPackSize = 3
+
+	[swamp."mna:chatterer"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 40
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 3
+
+	[swamp."mna:faction_war"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 80
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 1
 
 [nether]
 
@@ -1451,6 +1745,28 @@
 		#Range: 1 ~ 5
 		maxPackSize = 3
 
+	[nether."mna:chatterer"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 4
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 3
+
+	[nether."mna:faction_war"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 6
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 1
+
 [underground]
 
 	[underground."mna:demon_imp"]
@@ -1552,6 +1868,28 @@
 		#Range: 1 ~ 5
 		maxPackSize = 3
 
+	[underground."mna:chatterer"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 40
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 3
+
+	[underground."mna:faction_war"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 80
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 1
+
 [mountain]
 
 	[mountain."mna:demon_imp"]
@@ -1652,4 +1990,52 @@
 		#Max Pack Size
 		#Range: 1 ~ 5
 		maxPackSize = 3
+
+	[mountain."mna:chatterer"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 40
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 3
+
+	[mountain."mna:faction_war"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 80
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 1
+
+[the_end]
+
+	[the_end."mna:faction_war"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 40
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 1
+
+[mushroom]
+
+	[mushroom."mna:faction_war"]
+		#Spawn Weight (0 disables)
+		#Range: 0 ~ 9999
+		spawnWeight = 40
+		#Min Pack Size
+		#Range: 1 ~ 3
+		minPackSize = 1
+		#Max Pack Size
+		#Range: 1 ~ 5
+		maxPackSize = 1
 
