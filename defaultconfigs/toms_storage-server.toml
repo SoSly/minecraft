@@ -5,7 +5,7 @@ inventoryConnectorRange = 16
 onlyTrimsConnect = false
 #Inventory Cable Connector Maximum number of cables
 #Range: > 16
-invCableConnectorMaxScanSize = 2048
+invCableConnectorMaxScanSize = 10240
 #Wireless terminal reach
 #Range: 4 ~ 64
 wirelessReach = 16

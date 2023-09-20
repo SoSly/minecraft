@@ -128,7 +128,7 @@
 		#.
 		#Game ticks required for a Fan-based processing recipe to take effect.
 		#Range: > 0
-		fanProcessingTime = 150
+		fanProcessingTime = 140
 
 	#.
 	#Moving Contraptions
@@ -181,7 +181,7 @@
 		movableObsidian = "UNMOVABLE"
 		#.
 		#Whether items mined or harvested by contraptions should be placed in their mounted storage.
-		moveItemsToStorage = true
+		moveItemsToStorage = false
 		#.
 		#Whether harvesters should break crops that aren't fully grown.
 		harvestPartiallyGrown = false
