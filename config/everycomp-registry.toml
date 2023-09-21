@@ -160,3 +160,9 @@
 	[leaves_type.wildbackport]
 		mangrove = true
 
+	[leaves_type.croptopia]
+		cinnamon = true
+
+	[leaves_type.culturaldelights]
+		avocado = true
+

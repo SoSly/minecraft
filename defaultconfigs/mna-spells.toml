@@ -4491,7 +4491,7 @@
 		minimum = 5.0
 		#Maximum Value
 		#Range: 0.0 ~ 9999.0
-		maximum = 15.0
+		maximum = 60.0
 		#Default Value
 		#Range: 0.0 ~ 9999.0
 		default = 5.0
