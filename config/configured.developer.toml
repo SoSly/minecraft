@@ -3,7 +3,7 @@ broadcastLogs = true
 #A list of UUIDs of players who are developers for this server. The players will
 #additionally need to have operator permissions. Developers will have the ability to
 #edit server configs on your dedicated server. Only add players you trust.
-developers = []
+developers = ["cf14115e-5cc7-4401-a3ea-8db513953512"]
 #Developer mode. This enables the ability to edit server configs on dedicated servers.
 #You will have to restart your server for developer mode to be updated.
 ############# READ ME ################################################################
