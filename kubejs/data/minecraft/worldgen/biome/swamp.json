@@ -16,7 +16,7 @@
     "foliage_color": 6921269,
     "grass_color_modifier": "swamp"
   },
-  "category": "none",
+  "category": "swamp",
   "carvers": {
     "air": [
       "minecraft:cave",
