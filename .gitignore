@@ -30,9 +30,11 @@
 
 /config/bluemap
 /config/embeddium-fingerprint.json
+/config/everycomp-hazardous.properties
 /config/jei/ingredient-list-mod-sort-order.ini
 /config/jei/recipe-category-sort-order.ini
 /config/jei/world/
+/config/libraryferret_1.properties
 /config/oculus.properties
 /config/sound_physics_remastered/
 /config/spark/tmp
