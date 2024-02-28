@@ -2,6 +2,7 @@
 /blueprints
 /crash-reports
 /journeymap
+/local
 /logs
 /patchouli_books
 /saves
@@ -11,17 +12,21 @@
 /world
 
 /.curseclient
+/banned-ips.json
+/banned-players.json
+/eula.txt
 /minecraftinstance.json
-/patchouli_data.json
+/ops.json
 /options.txt
+/patchouli_data.json
 /server.properties
 /servers.dat
 /servers.dat_old
+/rhino.local.properties
+/toggle_client.bat
 /usercache.json
 /usernamecache.json
 /whitelist.json
-/toggle_client.bat
-/rhino.local.properties
 
 /config/bluemap
 /config/jei/ingredient-list-mod-sort-order.ini

@@ -20,7 +20,7 @@ undeadSouls = 50
 #Range: > 1
 ticksForFullManaRegen = 2400
 #How much bonus health does each tier give?  Only up to the first five values will be used.  Reminder that a heart is TWO points.
-tier_health_boosts = [0, 2, 4, 6, 8]
+tier_health_boosts = [0, 0, 0, 0, 0]
 #How much brimstone is each heart worth?
 #Range: 1 ~ 20000
 brimstonePerHeart = 50
@@ -30,22 +30,18 @@ brimstonePerHeart = 50
 	#Rituals of Aurora and Eventide by default will change time gradually for a prettier effect.  However this isn't without its performance impacts, and this can be toggled off by setting this to false, making the transition instant like the /time set commands. [true / false]
 	gradualTimeChange = true
 	#A comma separated list of entity IDs that the warding candle should ignore, regardless of detection (use this if it's stopping you from something you think it shouldn't; this isn't to expand what it will block)
-	wardingCandleBlacklist = ""
+	wardingCandleBlacklist = []
 	#A comma separated list of entity IDs that the warding candle should block (in addition to what it blocks by default); use this to expand what it will block.  Note that blacklist overrides this, so an entry in both will be blacklisted.
-	wardingCandleWhitelist = ""
+	wardingCandleWhitelist = []
 	#Change this to determine how many of a tier's tasks need to be completed before tiering up is allowed.  It is a percentage of the total tasks in the tier.  If you set this above 1, you cannot tier up through normal gameplay.  Use with caution.
 	#Range: 0.01 ~ 2.0
-	tierCompletePct = 0.6
+	tierCompletePct = 0.5
 	#What the mod considers 'melee distance' between two entities when one attacks the other.  This value is squared, so if you want 8 blocks put 64 in this config.
 	#Range: 1.0 ~ 4096.0
 	meleeDistance = 64.0
 	#What the mod considers to be the average manaweave cost when generating manaweaves automatically for the player.
 	#Range: 0 ~ 500
 	averageManaweaveCost = 25
-	#Comma separated list of dimension ids that spells can't be cast in.
-	spellDimensionBlacklist = []
-	#Comma separated list of biome ids that spells can't be cast in.
-	spellBiomeBlacklist = []
 	#Entity IDs in this list cannot be summoned regardless of other configured values.
 	summonBlacklist = ["occultism:possessed_skeleton", "occultism:possessed_ghast", "occultism:possessed_enderman", "occultism:possessed_endermite"]
 	#How much damage does the fortification effect set all damage to
@@ -82,8 +78,6 @@ brimstonePerHeart = 50
 	confuseAffectsPlayers = true
 	#Should the splash component create permanent water sources?  If false the sources it creates will be temporary.
 	splashCreatesSources = false
-	#Mess with mori?
-	messWithMori = true
 	#Maximum RTP distance for RTP portals.
 	#Range: > 100
 	rtpRange = 5000
@@ -138,59 +132,6 @@ brimstonePerHeart = 50
 	wellspringDistance = 500
 	#If true, wellsprings will generate with no affinity and the type of lens used will set the affinity of the node.
 	genericWellsprings = false
-	#Should vinteum generate naturally in the world?  If this is false it will significantly impact the mod's progression.
-	generateVinteum = true
-	#Size of vinteum veins.  They will generate at this size and at half this size.
-	#Range: 2 ~ 20
-	vinteumVeinSize = 9
-	#Relative frequency of vinteum veins in the lower region.  Region ranges are top/middle/bottom and are defined below.
-	#Range: 1 ~ 200
-	vinteumVeinCountUpper = 10
-	#Max Y-value of vinteum veins in the upper region.  Must be greater than vinteumVeinYValueUpperBottom.
-	#Range: -60 ~ 510
-	vinteumVeinYValueUpperTop = 384
-	#Min Y-value of vinteum veins in the upper region.  Must be lower than vinteumVeinYValueUpperTop.
-	#Range: -60 ~ 510
-	vinteumVeinYValueUpperBottom = 80
-	#Max Y-value of vinteum veins in the mid region.  Must be greater than vinteumVeinYValueMidBottom.
-	#Range: -60 ~ 510
-	vinteumVeinYValueMidTop = 56
-	#Min Y-value of vinteum veins in the mid region.  Must be lower than vinteumVeinYValueMidTop.
-	#Range: -60 ~ 510
-	vinteumVeinYValueMidBottom = -24
-	#Max Y-value of vinteum veins in the lower region.  The lower region always extends from this value to the bottom of Deepslate.
-	#Range: -60 ~ 510
-	vinteumVeinYValueLowerTop = 72
-	#How common is Desert Nova in the biomes it spawns in (higher is more frequent)?  This is easiest to think of as 'on average one flower every x blocks' when in the correct biome.
-	#Range: 1 ~ 255
-	desertNovaRarity = 8
-	#When Desert Nova does spawn, how many should be in a clump on average?
-	#Range: 1 ~ 99
-	desertNovaAmount = 4
-	#How common is Wakebloom in the biomes it spawns in (higher is more frequent)?  This is easiest to think of as 'on average one flower every x blocks' when in the correct biome.
-	#Range: 1 ~ 255
-	wakebloomRarity = 2
-	#When Wakebloom does spawn, how many should be in a clump on average?
-	#Range: 1 ~ 99
-	wakebloomAmount = 4
-	#How common is Aum in the biomes it spawns in (higher is more frequent)?  This is easiest to think of as 'on average one flower every x blocks' when in the correct biome.
-	#Range: 1 ~ 255
-	aumRarity = 12
-	#When Aum does spawn, how many should be in a clump on average?
-	#Range: 1 ~ 99
-	aumAmount = 4
-	#How common is Cerublossom in the biomes it spawns in (higher is more frequent)?  This is easiest to think of as 'on average one flower every x blocks' when in the correct biome.
-	#Range: 1 ~ 255
-	cerublossomRarity = 16
-	#When Cerublossom does spawn, how many should be in a clump on average?
-	#Range: 1 ~ 99
-	cerublossomAmount = 4
-	#How common is Tarma Root in the biomes it spawns in (higher is more frequent)?  This is easiest to think of as 'on average one flower every x blocks' when in the correct biome.
-	#Range: 1 ~ 255
-	tarmaRootRarity = 16
-	#When Tarma Root does spawn, how many should be in a clump on average?
-	#Range: 1 ~ 99
-	tarmaRootAmount = 4
 
 #Mana and Artifice // Artifact Options
 [ma_artifact_options]

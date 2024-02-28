@@ -1,3 +1,7 @@
+#Comma separated list of dimension ids that spells can't be cast in.
+spellDimensionBlacklist = []
+#Comma separated list of biome ids that spells can't be cast in.
+spellBiomeBlacklist = []
 
 ["mna:shapes/touch"]
 	#Biome Blacklists - Biomes that this spell part cannot be cast in.
@@ -3661,6 +3665,23 @@
 		#Complexity Value (how much does changing by one tick change the complexity)
 		#Range: 0.0 ~ 9999.0
 		step_complexity = 25.0
+
+	["mna:components/recall".MAGNITUDE]
+		#Minimum Value
+		#Range: 0.0 ~ 9999.0
+		minimum = 1.0
+		#Maximum Value
+		#Range: 0.0 ~ 9999.0
+		maximum = 3.0
+		#Default Value
+		#Range: 0.0 ~ 9999.0
+		default = 1.0
+		#Step Value (how much does one click in the inscription table change the value)
+		#Range: 0.0 ~ 9999.0
+		step = 1.0
+		#Complexity Value (how much does changing by one tick change the complexity)
+		#Range: 0.0 ~ 9999.0
+		step_complexity = 10.0
 
 	["mna:components/recall".DELAY]
 		#Minimum Value

@@ -28,37 +28,6 @@
 				cactus = true
 				cactus_extra = true
 
-			[general.types.wood_type.ecologics]
-				flowering_azalea = true
-				azalea = true
-				coconut = true
-				walnut = true
-
-			[general.types.wood_type.bloomingnature]
-				larch = true
-				baobab = true
-				swamp_oak = true
-				aspen = true
-				palm = true
-				fir = true
-				swamp_cypress = true
-				ebony = true
-				chestnut = true
-
-			[general.types.wood_type.meadow]
-				pine = true
-
-			[general.types.wood_type.quark]
-				azalea = true
-				ancient = true
-				blossom = true
-
-			[general.types.wood_type.iceandfire]
-				dreadwood = true
-
-			[general.types.wood_type.rats]
-				pirat = true
-
 			[general.types.wood_type.biomesoplenty]
 				fir = true
 				redwood = true
@@ -71,17 +40,67 @@
 				umbran = true
 				hellbark = true
 
+			[general.types.wood_type.ecologics]
+				flowering_azalea = true
+				azalea = true
+				coconut = true
+				walnut = true
+
+			[general.types.wood_type.meadow]
+				pine = true
+
+			[general.types.wood_type.bloomingnature]
+				larch = true
+				baobab = true
+				swamp_oak = true
+				aspen = true
+				palm = true
+				fir = true
+				swamp_cypress = true
+				ebony = true
+				chestnut = true
+
+			[general.types.wood_type.rats]
+				pirat = true
+
+			[general.types.wood_type.quark]
+				azalea = true
+				ancient = true
+				blossom = true
+
+			[general.types.wood_type.iceandfire]
+				dreadwood = true
+
 			[general.types.wood_type.betterarcheology]
 				rotten = true
 
 		[general.types.leaves_type]
 
+			[general.types.leaves_type.biomesoplenty]
+				origin = true
+				flowering_oak = true
+				maple = true
+				orange_autumn = true
+				yellow_autumn = true
+				rainbow_birch = true
+				snowblossom = true
+				fir = true
+				redwood = true
+				mahogany = true
+				jacaranda = true
+				palm = true
+				willow = true
+				dead = true
+				magic = true
+				umbran = true
+				hellbark = true
+
 			[general.types.leaves_type.ecologics]
 				coconut = true
 				walnut = true
 
-			[general.types.leaves_type.croptopia]
-				cinnamon = true
+			[general.types.leaves_type.meadow]
+				pine = true
 
 			[general.types.leaves_type.vinery]
 				grapevine = true
@@ -99,16 +118,26 @@
 				ebony = true
 				chestnut = true
 
-			[general.types.leaves_type.meadow]
-				pine = true
+			[general.types.leaves_type.fruitsdelight]
+				pear = true
+				hawberry = true
+				lychee = true
+				mango = true
+				persimmon = true
+				peach = true
+				orange = true
+				apple = true
+				mangosteen = true
+				bayberry = true
+				kiwi = true
+				fig = true
+				durian = true
 
-			[general.types.leaves_type.quark]
-				ancient = true
-				blue_blossom = true
-				lavender_blossom = true
-				orange_blossom = true
-				yellow_blossom = true
-				red_blossom = true
+			[general.types.leaves_type.croptopia]
+				cinnamon = true
+
+			[general.types.leaves_type.rats]
+				pirat = true
 
 			[general.types.leaves_type.chipped]
 				apple_acacia = true
@@ -178,42 +207,13 @@
 				red_spruce = true
 				white_flower_spruce = true
 
-			[general.types.leaves_type.rats]
-				pirat = true
-
-			[general.types.leaves_type.biomesoplenty]
-				origin = true
-				flowering_oak = true
-				maple = true
-				orange_autumn = true
-				yellow_autumn = true
-				rainbow_birch = true
-				snowblossom = true
-				fir = true
-				redwood = true
-				mahogany = true
-				jacaranda = true
-				palm = true
-				willow = true
-				dead = true
-				magic = true
-				umbran = true
-				hellbark = true
-
-			[general.types.leaves_type.fruitsdelight]
-				pear = true
-				hawberry = true
-				lychee = true
-				mango = true
-				persimmon = true
-				peach = true
-				orange = true
-				apple = true
-				mangosteen = true
-				bayberry = true
-				kiwi = true
-				fig = true
-				durian = true
+			[general.types.leaves_type.quark]
+				ancient = true
+				blue_blossom = true
+				lavender_blossom = true
+				orange_blossom = true
+				yellow_blossom = true
+				red_blossom = true
 
 	#Disables specific entries
 	[general.entries]
@@ -222,20 +222,6 @@
 
 			[general.entries.wood_type.farmersdelight]
 				cabinet = true
-
-			[general.entries.wood_type.create]
-				window_pane = true
-				window = true
-
-			[general.entries.wood_type.quark]
-				vertical_planks = true
-				ladder = true
-				post = true
-				trapped_chest = true
-				chest = true
-				hollow_log = true
-				bookshelf = true
-				stripped_post = true
 
 			[general.entries.wood_type.chipped]
 				fine_planks = true
@@ -347,6 +333,16 @@
 				tile_windowed_door = true
 				golden_barred_trapdoor = true
 
+			[general.entries.wood_type.quark]
+				vertical_planks = true
+				ladder = true
+				post = true
+				trapped_chest = true
+				chest = true
+				hollow_log = true
+				bookshelf = true
+				stripped_post = true
+
 			[general.entries.wood_type.buildersaddition]
 				chair = true
 				counter_granite = true
@@ -366,6 +362,10 @@
 				shelf = true
 				vertical_slab = true
 				counter_andesite = true
+
+			[general.entries.wood_type.create]
+				window_pane = true
+				window = true
 
 		[general.entries.leaves_type]
 

@@ -1,18 +1,21 @@
 {
         "type": "minecraft:crafting_shaped",
+        "category": "misc",
         "pattern": [
-                "LH",
-                "L"
+                "LL ",
+                "LH ",
+                "  L"
         ],
         "key": {
                 "L": {
                         "item": "minecraft:leather"
                 },
                 "H": {
-                        "item": "minecraft:honey"
+                        "item": "minecraft:honey_bottle"
                 }
         },
         "result": {
                 "item": "minecrfaft:lead"
-        }
+        },
+        "show_notification": true
 }

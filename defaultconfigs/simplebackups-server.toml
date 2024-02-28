@@ -2,3 +2,4 @@
 commandsCheatsDisabled = false
 #Should all users receive the backup message? Disable to only have users with permission level 2 and higher receive them.
 messagesForEveryone = true
+
