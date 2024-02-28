@@ -1,0 +1,98 @@
+
+[systems]
+	#Causes enabled systems to only become active for players that are wearing modular armor
+	opt_in_features = false
+
+	[systems.energy]
+		#Enable/disable the energy system
+		enable = true
+		#The number of ticks between updates for the energy system
+		#Range: > 1
+		tick_rate = 4
+		#The amount of ticks before a players energy instance gets purged
+		#Range: > 1
+		purge_delay = 1200
+		#The amount of max energy gained per point of agility
+		#Range: 0.0 ~ 1.7976931348623157E308
+		max_agility_bonus = 0.1
+		#The amount of energy system ticks of not using energy a player needs to start regenerating energy,  multiply this by tick_rate to get the actual delay
+		#Range: > 0
+		regen_delay = 15
+		#The base amount of energy regenerated per tick
+		#Range: 0.0 ~ 1.7976931348623157E308
+		regen_base = 0.05
+		#The amount of energy regeneration gained per point of agility
+		#Range: 0.0 ~ 1.7976931348623157E308
+		regen_agility_bonus = 0.0025
+
+		[systems.energy.temperature_modifiers]
+			#Configure how player temperature affects its energy
+			#Energy multiplier for players in hot conditions
+			#Range: 0.0 ~ 1.7976931348623157E308
+			max_hot_multiplier = 0.7
+			#Energy multiplier for players in searing conditions
+			#Range: 0.0 ~ 1.7976931348623157E308
+			max_searing_multiplier = 0.4
+			#Energy regeneration multiplier for players in cold conditions
+			#Range: 0.0 ~ 1.7976931348623157E308
+			regen_cold_multiplier = 0.5
+			#Energy regeneration multiplier for players in freezing conditions
+			#Range: 0.0 ~ 1.7976931348623157E308
+			regen_freezing_multiplier = 0.25
+
+		[systems.energy.bonus]
+			#Configure bonuses gained from using energy
+			#Mining speed multiplier applied when having energy, set to 1 to disable
+			#Range: 0.0 ~ 1.7976931348623157E308
+			mining_multiplier = 2.0
+			#Energy drained per tick while mining, set to -1 to prevent mining from interrupting energy regeneration
+			#Range: 0.0 ~ 1.7976931348623157E308
+			mining_cost = 0.05
+
+	[systems.temperature]
+		#Enable/disable the temperature system
+		enable = true
+
+	[systems.dodge]
+		#Enable/disable the dodge system
+		enable = false
+		#Horizontal strength of a dodge
+		#Range: 0.0 ~ 1.7976931348623157E308
+		horizontal_strength = 0.5
+		#Vertical strength of a dodge
+		#Range: 0.0 ~ 1.7976931348623157E308
+		vertical_strength = 0.3
+		#The amount of energy drained per dodge
+		#Range: 0.0 ~ 1.7976931348623157E308
+		energy_cost = 1.0
+		#The amount of saturation drained per dodge
+		#Range: 0.0 ~ 1.7976931348623157E308
+		saturation_cost = 2.0
+
+#Control honing progression values for modular armor, see base tetra config for better descriptions
+[module_progression]
+	#Base value for helmet honing
+	#Range: > -2147483648
+	hone_helmet_base = 110
+	#Integrity multiplier for helmet honing
+	#Range: > -2147483648
+	hone_helmet_integrity_multiplier = 65
+	#Base value for chest honing
+	#Range: > -2147483648
+	hone_chest_base = 110
+	#Integrity multiplier for chest honing
+	#Range: > -2147483648
+	hone_chest_integrity_multiplier = 65
+	#Base value for leggings honing
+	#Range: > -2147483648
+	hone_leggings_base = 110
+	#Integrity multiplier for leggings honing
+	#Range: > -2147483648
+	hone_leggings_integrity_multiplier = 65
+	#Base value for boots honing
+	#Range: > -2147483648
+	hone_boots_base = 110
+	#Integrity multiplier for boots honing
+	#Range: > -2147483648
+	hone_boots_integrity_multiplier = 65
+
