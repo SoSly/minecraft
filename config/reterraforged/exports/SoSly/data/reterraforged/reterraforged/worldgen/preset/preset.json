@@ -1,0 +1,613 @@
+{
+  "caves": {
+    "caveCarverProbability": 0.14285715,
+    "cheeseCaveDepthOffset": 1.5625,
+    "cheeseCaveProbability": 1.0,
+    "deepCaveCarverProbability": 0.07,
+    "entranceCaveProbability": 0.0010309279,
+    "largeOreVeins": true,
+    "legacyCarverDistribution": false,
+    "noodleCaveProbability": 1.0,
+    "ravineCarverProbability": 0.0,
+    "spaghettiCaveProbability": 1.0
+  },
+  "climate": {
+    "biomeEdgeShape": {
+      "type": "SIMPLEX",
+      "gain": 0.66907215,
+      "lacunarity": 2.65,
+      "octaves": 5,
+      "scale": 384,
+      "strength": 62
+    },
+    "biomeShape": {
+      "biomeSize": 768,
+      "biomeWarpScale": 256,
+      "biomeWarpStrength": 189,
+      "macroNoiseSize": 16
+    },
+    "moisture": {
+      "bias": 0.070103094,
+      "falloff": 1,
+      "max": 1.0,
+      "min": 0.0,
+      "scale": 8,
+      "seedOffset": 0
+    },
+    "temperature": {
+      "bias": -0.1185567,
+      "falloff": 1,
+      "max": 0.98,
+      "min": 0.0,
+      "scale": 13,
+      "seedOffset": 0
+    }
+  },
+  "filters": {
+    "erosion": {
+      "depositeRate": 0.5,
+      "dropletLifetime": 28,
+      "dropletVelocity": 0.7,
+      "dropletVolume": 0.9709053,
+      "dropletsPerChunk": 174,
+      "erosionRate": 0.5
+    },
+    "smoothing": {
+      "iterations": 2,
+      "smoothingRadius": 1.8,
+      "smoothingRate": 0.9
+    }
+  },
+  "miscellaneous": {
+    "customBiomeFeatures": true,
+    "erosionDecorator": true,
+    "mountainBiomeUsage": 0.66744363,
+    "naturalSnowDecorator": true,
+    "oreCompatibleStoneOnly": true,
+    "plainStoneErosion": false,
+    "smoothLayerDecorator": true,
+    "strataDecorator": false,
+    "strataRegionSize": 612,
+    "vanillaLavaLakes": false,
+    "vanillaLavaSprings": false,
+    "vanillaSprings": false,
+    "volcanoBiomeUsage": 0.66667926
+  },
+  "rivers": {
+    "branchRivers": {
+      "bankWidth": 14,
+      "bedDepth": 4,
+      "bedWidth": 5,
+      "fade": 0.975,
+      "maxBankHeight": 4,
+      "minBankHeight": 1
+    },
+    "lakes": {
+      "chance": 0.3,
+      "depth": 10,
+      "maxBankHeight": 10,
+      "maxStartDistance": 0.7675783,
+      "minBankHeight": 2,
+      "minStartDistance": 0.0,
+      "sizeMax": 500,
+      "sizeMin": 75
+    },
+    "mainRivers": {
+      "bankWidth": 20,
+      "bedDepth": 7,
+      "bedWidth": 8,
+      "fade": 0.75,
+      "maxBankHeight": 6,
+      "minBankHeight": 2
+    },
+    "riverCount": 12,
+    "seedOffset": 0,
+    "wetlands": {
+      "chance": 0.6,
+      "sizeMax": 225,
+      "sizeMin": 175
+    }
+  },
+  "structures": {
+    "structures": {
+      "aquamirae:ice_maze": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 0,
+        "spacing": 64
+      },
+      "aquamirae:outpost": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 10,
+        "spacing": 64
+      },
+      "aquamirae:shelter": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 20,
+        "spacing": 64
+      },
+      "aquamirae:ship": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 32,
+        "spacing": 128
+      },
+      "bakery:bakery": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 64,
+        "spacing": 128
+      },
+      "bakery:oat_field": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 60,
+        "spacing": 128
+      },
+      "berries_and_cherries:cherry_tree_structure": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 6,
+        "spacing": 12
+      },
+      "berries_and_cherries:raspberry_bush_structure": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 6,
+        "spacing": 12
+      },
+      "betterarcheology:archeology_sites": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 32,
+        "spacing": 512
+      },
+      "betterarcheology:fossil_sites": {
+        "disabled": false,
+        "salt": 990880771,
+        "separation": 12,
+        "spacing": 24
+      },
+      "betterarcheology:underwater_ruins": {
+        "disabled": false,
+        "salt": 990880772,
+        "separation": 12,
+        "spacing": 512
+      },
+      "betterdeserttemples:desert_temples": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 256,
+        "spacing": 1000
+      },
+      "betterdungeons:skeleton_dungeons": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 23,
+        "spacing": 64
+      },
+      "betterdungeons:small_dungeons": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 6,
+        "spacing": 32
+      },
+      "betterdungeons:spider_dungeons": {
+        "disabled": true,
+        "salt": 7445,
+        "separation": 22,
+        "spacing": 44
+      },
+      "betterdungeons:zombie_dungeons": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 24,
+        "spacing": 128
+      },
+      "betterjungletemples:jungle_temples": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 8,
+        "spacing": 512
+      },
+      "bettermineshafts:mineshafts": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 0,
+        "spacing": 128
+      },
+      "betteroceanmonuments:ocean_monument": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 256,
+        "spacing": 1000
+      },
+      "betterstrongholds:stronghold": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 50,
+        "spacing": 512
+      },
+      "betterwitchhuts:witch_circle": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 10,
+        "spacing": 128
+      },
+      "betterwitchhuts:witch_hut": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 8,
+        "spacing": 128
+      },
+      "bloomingnature:beach_ruin": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 9,
+        "spacing": 64
+      },
+      "bloomingnature:cave": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 11,
+        "spacing": 32
+      },
+      "bloomingnature:cottage": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 64,
+        "spacing": 128
+      },
+      "bloomingnature:little_house": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 22,
+        "spacing": 64
+      },
+      "bloomingnature:oasis": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 14,
+        "spacing": 128
+      },
+      "bloomingnature:swamp_hut": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 12,
+        "spacing": 128
+      },
+      "bloomingnature:swamp_ruin_1": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 6,
+        "spacing": 64
+      },
+      "bloomingnature:swamp_ruin_2": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 6,
+        "spacing": 64
+      },
+      "bloomingnature:swamp_ruin_3": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 6,
+        "spacing": 64
+      },
+      "bloomingnature:tree_house": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 12,
+        "spacing": 64
+      },
+      "bloomingnature:tree_stump": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 18,
+        "spacing": 24
+      },
+      "brewery:brewfest_tent": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 64,
+        "spacing": 1000
+      },
+      "iceandfire:gorgon_temple": {
+        "disabled": true,
+        "salt": 7445,
+        "separation": 12,
+        "spacing": 32
+      },
+      "iceandfire:graveyard": {
+        "disabled": true,
+        "salt": 7445,
+        "separation": 8,
+        "spacing": 28
+      },
+      "iceandfire:mausoleum": {
+        "disabled": true,
+        "salt": 7445,
+        "separation": 12,
+        "spacing": 32
+      },
+      "letsdoaddon-structures:barn": {
+        "disabled": false,
+        "salt": 2969420,
+        "separation": 16,
+        "spacing": 128
+      },
+      "letsdoaddon-structures:illager_camp": {
+        "disabled": false,
+        "salt": 6942098,
+        "separation": 12,
+        "spacing": 256
+      },
+      "letsdoaddon-structures:illager_mine": {
+        "disabled": false,
+        "salt": 20983156,
+        "separation": 12,
+        "spacing": 256
+      },
+      "letsdoaddon-structures:vinery": {
+        "disabled": false,
+        "salt": 2969420,
+        "separation": 16,
+        "spacing": 42
+      },
+      "meadow:chalet": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 16,
+        "spacing": 64
+      },
+      "meadow:observation_post": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 10,
+        "spacing": 256
+      },
+      "minecolonies:empty_colony": {
+        "disabled": true,
+        "salt": 7445,
+        "separation": 256,
+        "spacing": 1000
+      },
+      "minecraft:ancient_cities": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 8,
+        "spacing": 512
+      },
+      "minecraft:buried_treasures": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 0,
+        "spacing": 16
+      },
+      "minecraft:desert_pyramids": {
+        "disabled": true,
+        "salt": 7445,
+        "separation": 128,
+        "spacing": 512
+      },
+      "minecraft:igloos": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 8,
+        "spacing": 64
+      },
+      "minecraft:jungle_temples": {
+        "disabled": true,
+        "salt": 7445,
+        "separation": 8,
+        "spacing": 128
+      },
+      "minecraft:mineshafts": {
+        "disabled": true,
+        "salt": 7445,
+        "separation": 0,
+        "spacing": 1
+      },
+      "minecraft:ocean_monuments": {
+        "disabled": true,
+        "salt": 7445,
+        "separation": 5,
+        "spacing": 32
+      },
+      "minecraft:ocean_ruins": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 256,
+        "spacing": 1000
+      },
+      "minecraft:pillager_outposts": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 8,
+        "spacing": 256
+      },
+      "minecraft:ruined_portals": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 16,
+        "spacing": 512
+      },
+      "minecraft:shipwrecks": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 4,
+        "spacing": 256
+      },
+      "minecraft:swamp_huts": {
+        "disabled": true,
+        "salt": 7445,
+        "separation": 8,
+        "spacing": 32
+      },
+      "minecraft:trail_ruins": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 8,
+        "spacing": 256
+      },
+      "minecraft:village_meadow": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 8,
+        "spacing": 64
+      },
+      "minecraft:villages": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 8,
+        "spacing": 64
+      },
+      "minecraft:woodland_mansions": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 256,
+        "spacing": 1000
+      },
+      "mna:boss_structures": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 256,
+        "spacing": 1000
+      },
+      "mna:faction_strongholds": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 256,
+        "spacing": 1000
+      },
+      "mna:manaweave_caches": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 16,
+        "spacing": 64
+      },
+      "mna:scatter": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 16,
+        "spacing": 128
+      },
+      "supplementaries:way_signs": {
+        "disabled": true,
+        "salt": 7445,
+        "separation": 10,
+        "spacing": 19
+      },
+      "tetra:forged_ruins": {
+        "disabled": false,
+        "salt": 7445,
+        "separation": 256,
+        "spacing": 1000
+      },
+      "vsrevamped:village_cherry": {
+        "disabled": false,
+        "salt": 1218123376,
+        "separation": 8,
+        "spacing": 64
+      }
+    }
+  },
+  "surface": {
+    "erosion": {
+      "dirtMin": 95,
+      "dirtSteepness": 0.475,
+      "dirtVariance": 40,
+      "rockMin": 140,
+      "rockSteepness": 0.65,
+      "rockVariance": 30,
+      "screeSteepness": 0.4
+    }
+  },
+  "terrain": {
+    "badlands": {
+      "baseScale": 1.0,
+      "horizontalScale": 1.0,
+      "verticalScale": 1.0,
+      "weight": 1.0
+    },
+    "dales": {
+      "baseScale": 1.0,
+      "horizontalScale": 1.0,
+      "verticalScale": 1.0,
+      "weight": 1.5
+    },
+    "general": {
+      "fancyMountains": true,
+      "globalHorizontalScale": 2.5060797,
+      "globalVerticalScale": 1.0,
+      "legacyMountainScaling": false,
+      "terrainRegionSize": 1024,
+      "terrainSeedOffset": 0
+    },
+    "hills": {
+      "baseScale": 1.0,
+      "horizontalScale": 1.0,
+      "verticalScale": 1.0,
+      "weight": 2.0
+    },
+    "mountains": {
+      "baseScale": 1.0,
+      "horizontalScale": 1.0,
+      "verticalScale": 1.0,
+      "weight": 3.418147
+    },
+    "plains": {
+      "baseScale": 1.0,
+      "horizontalScale": 1.0,
+      "verticalScale": 1.0,
+      "weight": 2.0
+    },
+    "plateau": {
+      "baseScale": 1.0,
+      "horizontalScale": 1.0,
+      "verticalScale": 1.0,
+      "weight": 1.5
+    },
+    "steppe": {
+      "baseScale": 1.0,
+      "horizontalScale": 1.0,
+      "verticalScale": 1.0,
+      "weight": 1.0
+    },
+    "torridonian": {
+      "baseScale": 1.0,
+      "horizontalScale": 1.0,
+      "verticalScale": 1.0,
+      "weight": 2.0
+    },
+    "volcano": {
+      "baseScale": 1.0,
+      "horizontalScale": 1.0,
+      "verticalScale": 1.0,
+      "weight": 5.0
+    }
+  },
+  "world": {
+    "continent": {
+      "continentJitter": 0.9655786,
+      "continentScale": 3960,
+      "continentSizeVariance": 0.75,
+      "continentSkipping": 0.38079846,
+      "continentType": "MULTI_IMPROVED"
+    },
+    "controlPoints": {
+      "beach": 0.327,
+      "coast": 0.448,
+      "deepOcean": 0.10867665,
+      "inland": 0.502,
+      "shallowOcean": 0.25
+    },
+    "properties": {
+      "seaLevel": 63,
+      "spawnType": "CONTINENT_CENTER",
+      "worldHeight": 512
+    }
+  }
+}

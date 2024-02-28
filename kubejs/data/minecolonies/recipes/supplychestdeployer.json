@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "B": {
+            "tag": "minecraft:boats"
+        },
+        "E": {
+            "item": "minecraft:dragon_egg"
+        }
+    },
+    "pattern": [
+        "   ",
+        "BEB",
+        "BBB"
+    ],
+    "result": {
+        "item": "minecolonies:supplychestdeployer"
+    },
+    "show_notification": true
+}

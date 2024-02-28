@@ -1,0 +1,15 @@
+[
+    {
+        "mob": "minecraft:enderman",
+        "persecond": 0.5,
+        "attempts": 20,
+        "amount": {
+            "minimum": 1,
+            "maximum": 3
+        },
+        "conditions": {
+            "dimension": "minecraft:the_nether",
+            "maxthis": 10
+        }
+    }
+]

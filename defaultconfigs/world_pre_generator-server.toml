@@ -1,0 +1,23 @@
+#Shall a pre generation feedback send to all online players?
+send_feedback = true
+
+#Parameters for generation
+[generation]
+	#Type of generation
+	#SERIAL: Every chunk one after another is generated.
+	#SEMI_PARALLEL: Multiple chunk generation tasks are created, but the generation is still serial (speed up the chunk generation).
+	#Allowed Values: SERIAL, SEMI_PARALLEL
+	type = "SERMI_PARALLEL"
+	#How many chunk generation tasks shall be start in parallel? If the value is "0", the number of processor cores is used.
+	#Range: 0 ~ 32
+	semi_parallel_task_count = 0
+
+#Delays of the print and save tasks
+[delays]
+	#Time between 2 status prints
+	#Range: > 1
+	print = 30
+	#Time between 2 saving events
+	#Range: > 1
+	save = 180
+

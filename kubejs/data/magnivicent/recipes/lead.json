@@ -1,0 +1,18 @@
+{
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+                "LH",
+                "L"
+        ],
+        "key": {
+                "L": {
+                        "item": "minecraft:leather"
+                },
+                "H": {
+                        "item": "minecraft:honey"
+                }
+        },
+        "result": {
+                "item": "minecrfaft:lead"
+        }
+}

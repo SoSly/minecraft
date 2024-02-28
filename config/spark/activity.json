@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Magnivicent",
+      "uniqueId": "cf14115e-5cc7-4401-a3ea-8db513953512"
+    },
+    "time": 1708301396674,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/axb1GbmTEy"
+    }
+  }
+]

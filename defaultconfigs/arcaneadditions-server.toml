@@ -1,0 +1,22 @@
+
+#Server settings
+[server]
+
+	#Polymorph settings
+	[server.polymorph]
+		#If true, players will be able to cast spells while polymorphed.
+		allowSpellcastingWhilePolymorphed = false
+		#A list of polymorph tiers, each of which is a list of entity IDs and their corresponding polymorph spell IDs.
+		morphTiers = [["minecraft:cat", "minecraft:chicken", "minecraft:cow", "minecraft:donkey", "minecraft:fox", "minecraft:goat", "minecraft:horse", "minecraft:llama", "minecraft:mule", "minecraft:ocelot", "minecraft:panda", "minecraft:pig", "minecraft:rabbit", "minecraft:sheep", "minecraft:spider", "minecraft:wolf"], ["minecraft:axolotl", "minecraft:bat", "minecraft:bee", "minecraft:cave_spider", "minecraft:cod", "minecraft:dolphin", "minecraft:mooshroom", "minecraft:parrot", "minecraft:pufferfish", "minecraft:salmon", "minecraft:polar_bear", "minecraft:squid", "minecraft:tropical_fish", "minecraft:turtle"], ["minecraft:creeper", "minecraft:drowned", "minecraft:glow_squid", "minecraft:husk", "minecraft:iron_golem", "minecraft:piglin", "minecraft:ravager", "minecraft:silverfish", "minecraft:skeleton", "minecraft:skeleton_horse", "minecraft:slime", "minecraft:snow_golem", "minecraft:stray", "minecraft:strider", "minecraft:zombie", "minecraft:zombie_horse", "minecraft:zombified_piglin"], ["minecraft:blaze", "minecraft:enderman", "minecraft:endermite", "minecraft:ghast", "minecraft:giant", "minecraft:guardian", "minecraft:hoglin", "minecraft:magma_cube", "minecraft:phantom", "minecraft:piglin_brute", "minecraft:shulker", "minecraft:vex", "minecraft:wither_skeleton", "minecraft:zoglin"]]
+
+	#Soul Searcher's Lens settings
+	[server.soulsearchers_lens]
+		#An (optional) list of modifiers for specific creatures health values for determining the XP required to study that creature
+		creatureModifiers = ["minecraft:villager,1.5"]
+		#For every multiple of this number that a creature has in max health, the player must spend a level to progress their phylactery progress.
+		#Range: > 1
+		healthPerLevel = 20
+		#This setting determines how many blocks away the player can be as they continue to study their target.
+		#Range: 1 ~ 32
+		maxDistance = 10
+

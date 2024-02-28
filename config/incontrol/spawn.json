@@ -1,0 +1,13 @@
+[
+    {
+        "mob": "minecraft:enderman",
+        "dimension": "minecraft:the_nether",
+        "biome": "minecraft:warped_forest",
+        "result": "default"
+    },
+    {
+        "mob": "minecraft:enderman",
+        "incontrol": true,
+        "result": "deny"
+    }
+]
