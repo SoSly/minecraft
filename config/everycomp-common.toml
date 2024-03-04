@@ -118,21 +118,6 @@
 				ebony = true
 				chestnut = true
 
-			[general.types.leaves_type.fruitsdelight]
-				pear = true
-				hawberry = true
-				lychee = true
-				mango = true
-				persimmon = true
-				peach = true
-				orange = true
-				apple = true
-				mangosteen = true
-				bayberry = true
-				kiwi = true
-				fig = true
-				durian = true
-
 			[general.types.leaves_type.croptopia]
 				cinnamon = true
 
@@ -215,13 +200,25 @@
 				yellow_blossom = true
 				red_blossom = true
 
+			[general.types.leaves_type.fruitsdelight]
+				pear = true
+				hawberry = true
+				lychee = true
+				mango = true
+				persimmon = true
+				peach = true
+				orange = true
+				apple = true
+				mangosteen = true
+				bayberry = true
+				kiwi = true
+				fig = true
+				durian = true
+
 	#Disables specific entries
 	[general.entries]
 
 		[general.entries.wood_type]
-
-			[general.entries.wood_type.farmersdelight]
-				cabinet = true
 
 			[general.entries.wood_type.chipped]
 				fine_planks = true
@@ -366,6 +363,9 @@
 			[general.entries.wood_type.create]
 				window_pane = true
 				window = true
+
+			[general.entries.wood_type.farmersdelight]
+				cabinet = true
 
 		[general.entries.leaves_type]
 

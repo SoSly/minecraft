@@ -1,0 +1,9 @@
+{
+    "type": "smelting",
+    "ingredient": {
+        "item": "rats:garbage_pile"
+    },
+    "result": "rats:plastic_waste",
+    "experience": 1.0,
+    "cookingtime": 100
+}
