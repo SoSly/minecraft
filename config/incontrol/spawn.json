@@ -7,7 +7,16 @@
     },
     {
         "mob": "minecraft:enderman",
+        "dimension": "minecraft:overworld",
+        "result": "default"
+    },
+    {
+        "mob": "minecraft:enderman",
         "incontrol": true,
+        "result": "deny"
+    },
+    {
+        "mob": "iceandfire:cockatrice",
         "result": "deny"
     }
 ]
