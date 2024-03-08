@@ -221,7 +221,7 @@
 		#How high stymphalian birds can fly, in Y height.
 		#Range: > 10
 		"Max Stymphalian Bird Flight Height" = 1024
-        #True if stymphalian birds can drop items registered in the ore dictionary to ingotCopper, ingotBronze, nuggetCopper, nuggetBronze.
+		#True if stymphalian birds can drop items registered in the ore dictionary to ingotCopper, ingotBronze, nuggetCopper, nuggetBronze.
 		"Stymphalian Birds drop ore dict items" = true
 		#True if stymphalian birds are allowed to target and attack animals
 		"Stymphalian Birds Target Animals" = true
