@@ -42,3 +42,11 @@
 /config/worldedit/.archive-unpack
 
 *.bak
+
+/mods/Ding*
+/mods/MouseTweaks*
+/mods/PresenceFootsteps*
+/mods/embeddium*
+/mods/farsight*
+/mods/lootbeams*
+/mods/oculus*
