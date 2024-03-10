@@ -47,6 +47,7 @@
 
 *.bak
 
+/mods/blur*
 /mods/Ding*
 /mods/MouseTweaks*
 /mods/PresenceFootsteps*
