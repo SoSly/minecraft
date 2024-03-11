@@ -1,6 +1,6 @@
 {
   "dumpTagMap": false,
-  "dumpDuplicates": false,
+  "dumpDuplicates": true,
   "dumpUnification": false,
   "dumpOverview": false,
   "dumpRecipes": false
