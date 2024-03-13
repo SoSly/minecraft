@@ -45,6 +45,7 @@
 /config/sound_physics_remastered
 /config/spark/tmp
 /config/worldedit/.archive-unpack
+/config/worldedit/worldedit.properties
 
 *.bak
 
