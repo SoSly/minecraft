@@ -1,6 +1,8 @@
 #!/bin/bash
 rm -r bluemap
 rm -r world
+rm -r crash-reports
+rm -r logs
 mkdir -p world/datapacks
 cp ~/SoSly.zip world/datapacks/
 cp ~/resourcepacks/idasbop* world/datapacks
