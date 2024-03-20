@@ -30,7 +30,7 @@
     },
     "Counter": {
       "Description": "You can choose which counter you want to use. You can choose between: vanilla, mod",
-      "Counter": "vanilla"
+      "Counter": "mod"
     },
     "Days": {
       "Description": "You can choose which day(s) to show. You can choose between: player, server",

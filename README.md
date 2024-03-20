@@ -49,7 +49,6 @@
 - BlueMap
 - Day Counter
 - FPS Monitor
-- Not Enough Recipe Book [NERB]
 - Yeetus Experimentus
 - Better Animations Collection
 - Cosmetic Armor Reworked
@@ -208,3 +207,8 @@
 - Unusual Delight
 - WorldEdit
 - YUNG's Extras
+- EveryCompat
+- Universal Sawmill
+- Immersive Weathering
+- Vertical Slabs Compat
+- V-Tweaks

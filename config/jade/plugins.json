@@ -54,6 +54,9 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "supplementaries": {
+    "hat_stand": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -61,5 +64,16 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
+  },
+  "create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "crafting_blueprint": true,
+    "goggles.detailed": false,
+    "placard": true
   }
 }
