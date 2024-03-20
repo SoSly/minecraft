@@ -77,7 +77,7 @@
 - Tectonic*
 - Biome Replacer*
 - William Wyther's Overhauled Overworld*
-- Simply Improved Terrain*=
+- Simply Improved Terrain*
 - Deeper Oceans
 - Ecologics
 - Biomes O' Plenty
@@ -159,6 +159,7 @@
 - Enchantment Descriptions
 - Floral Enchantment
 - Fabulous Fletching
+- Simply Steel
 
 ### Decoration
 - Supplementaries

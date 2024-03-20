@@ -42,9 +42,9 @@
     },
     "Texts": {
       "Description": "You can customize the texts here. Every text except Title Text what use JSON is using normal color codes.",
-      "Title Text": "[{\"text\":\"Day \",\"bold\":true}, {\"text\":\"$day$\",\"bold\":true,\"color\":\"gold\"}] ",
+      "Title Text": "[{\"text\":\"Day \",\"bold\":true}, {\"text\":\"$day$\",\"bold\":true,\"color\":\"gold\"}]",
       "Disabled Feature Text": "�6�l[�b�lDay Counter�6�l] �fThis feature is �c�ldisabled �fin the config!",
-      "Chat show day(s) Text": "�6�l[�b�lDay Counter�6�l] �fThis the �b�l$day$�f. Day!",
+      "Chat show day(s) Text": "Day $day$.",
       "Command add (player)": "�6�l[�b�lDay Counter�6�l] �fYou have added �b�l$day$�f day(s) to �6�l$player$ �fday(s). Now: �e$newday$",
       "Command add (server)": "�6�l[�b�lDay Counter�6�l] �fYou have added �b�l$day$�f day(s) to �6�lSERVER �fday(s). Now: �e$newday$",
       "Command set (player)": "�6�l[�b�lDay Counter�6�l] �fYou set �b�l$day$�f day(s) of �6�l$player$ �fday(s).",
