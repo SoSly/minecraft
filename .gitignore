@@ -49,12 +49,32 @@
 
 *.bak
 
-/mods/blur*
-/mods/Ding*
-/mods/MouseTweaks*
-/mods/PresenceFootsteps*
-/mods/embeddium*
-/mods/farsight*
-/mods/lootbeams*
-/mods/oculus*
-/mods/textrues_embeddium_options*
+# ui mods
+/mods/appleskin-*
+/mods/BetterAdvancements-*
+/mods/BetterAnimationsCollection-*
+/mods/blur-*
+/mods/configured-*
+/mods/Controlling-*
+/mods/Ding-*
+/mods/DistantHorizons-*
+/mods/dynamiclightsreforged-*
+/mods/embeddium-*
+/mods/fps-shower*
+/mods/Jade-*
+/mods/JadeAddons-*
+/mods/jei-*
+/mods/JustEnoughProfessions-*
+/mods/JustEnoughResources-*
+/mods/MouseTweaks-*
+/mods/nerb-*
+/mods/oculus-*
+/mods/overloadedarmorbar-*
+/mods/polymorph-*
+/mods/PresenceFootsteps-*
+/mods/radiantgear-*
+/mods/Searchables-*
+/mods/sound-physics-remastered-*
+/mods/textrues_embeddium_options-*
+/mods/TravelersTitles-*
+/mods/YeetusExperimentus-*
