@@ -1,7 +1,0 @@
-#List of blocks that should be affected by the adjusted water physics. If you want to have all blocks affected, just include "*" in the list.
-affectedBlocks = ["minecraft:sand", "minecraft:red_sand", "minecraft:gravel", "biomesoplenty:white_sand", "biomesoplenty:orange_sand", "biomesoplenty:black_sand"]
-#Whether buckets should be able to retrieve infinite water without destroying sources as well.
-infiniteBucketWater = true
-#Whether the flooding of adjacent air blocks should be animated or instant.
-animatedFlooding = true
-
