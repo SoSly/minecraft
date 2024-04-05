@@ -4,7 +4,9 @@
     "minecraft:area_effect_cloud",
     "minecraft:firework_rocket",
     "minecraft:interaction",
-    "minecraft:text_display"
+    "minecraft:text_display",
+    "mna:rising_block_entity",
+    "mna:ritual_entity"
   ],
   "version": 1
 }
