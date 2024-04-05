@@ -9,7 +9,7 @@
 [desert]
 	#How often (in percentage) should prickly pears grow when a cactus reaches full height? Set it to 0.0 to disable this.
 	#Range: 0.0 ~ 1.0
-	pricklyPearGrowthChance = 1.0
+	pricklyPearGrowthChance = 0.2
 
 #Lush Caves Update
 [lush_caves]
