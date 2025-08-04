@@ -26,12 +26,12 @@
 	"Village Pet Shop Weight" = 15
 	#Defines how often Pet Shops should spawn in zombie villages. A higher number means Pet Shops will spawn more often.
 	#Range: 0 ~ 100
-	"Zombie Village Pet Shop Weight" = 10
+	"Zombie Village Pet Shop Weight" = 15
 	#True if garbage heaps can spawn in villages
 	"Village Garbage Heap" = true
 	#Defines how often Garbage Heaps should spawn in villages. A higher number means Garbage Heaps will spawn more often.
 	#Range: 0 ~ 100
-	"Village Garbage Heap Weight" = 1
+	"Village Garbage Heap Weight" = 5
 	#Defines how often Garbage Heaps should spawn in villages. A higher number means Garbage Heaps will spawn more often.
 	#Range: 0 ~ 100
 	"Zombie Village Garbage Heap Weight" = 5
