@@ -36,7 +36,7 @@
 - Embeddium
 - TexTrue's Embeddium Options
 - Oculus
-- Farsight (and/or Distant Horizons)
+- Distant Horizons
 - Mouse Tweaks
 - JourneyMap
 - Jade
@@ -61,6 +61,7 @@
 - Farmer's Delight
 - Tetra
 - Croptopia
+- Better Days
 - Better Combat
     - Tetratic Combat Expanded
 - Create
@@ -68,6 +69,8 @@
 - Quark
 - Integrated Stronghold
 - Rats
+- Serene Seasons
+    - Serene Seasons Extended
 - Weather, Storms & Tornadoes
 - KubeJS
     - KubeJS Create
@@ -81,8 +84,6 @@
 - Oh the Biomes We've Gone
 - Oh the Trees You'll Grow
 - Tax' Village Architect
-
-\* These mods may be replaced by Reterraforged
 
 ### Server Performance
 - In Control!
