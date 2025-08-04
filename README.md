@@ -79,6 +79,7 @@
 - Ecologics
 - Biomes O' Plenty
 - Oh the Biomes We've Gone
+- Oh the Trees You'll Grow
 - Tax' Village Architect
 
 \* These mods may be replaced by Reterraforged
