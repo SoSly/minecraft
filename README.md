@@ -73,14 +73,12 @@
     - KubeJS Create
 
 ### World Generation
-- Continents*
-- Tectonic*
-- Biome Replacer*
-- William Wyther's Overhauled Overworld*
-- Simply Improved Terrain*
+- Reterraforged
+- William Wyther's Overhauled Overworld
 - Deeper Oceans
 - Ecologics
 - Biomes O' Plenty
+- Oh the Biomes We've Gone
 - Tax' Village Architect
 
 \* These mods may be replaced by Reterraforged
