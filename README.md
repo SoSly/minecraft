@@ -87,7 +87,6 @@
 
 ### Server Performance
 - In Control!
-- Dynamic View
 - Connectivity
 - AttributeFix
 - FerriteCore
