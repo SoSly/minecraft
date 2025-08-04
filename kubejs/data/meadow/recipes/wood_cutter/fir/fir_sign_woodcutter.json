@@ -1,8 +1,0 @@
-{
-  "type": "meadow:woodcutting",
-  "inputItem": {
-    "tag": "biomesoplenty:fir_logs"
-  },
-  "outputItem": "biomesoplenty:fir_sign",
-  "outputAmount": 2
-}

@@ -120,7 +120,7 @@
 [wobbly_creeper]
 	#Different directional behaviour modes for the walking animation.
 	#Allowed Values: SIDE, FRONT, CIRCLE, RANDOM
-	wobble_direction = "SIDE"
+	wobble_direction = "RANDOM"
 
 [wobbly_cow_udder]
 	#Animation swing speed of utter when the cow is walking.
@@ -150,7 +150,7 @@
 	#Range: 1 ~ 20
 	animation_speed = 5
 	#Flail arms while carrying a block.
-	fail_while_carrying = true
+	fail_while_carrying = false
 
 [curly_cat_tail]
 	#Define tail length.
