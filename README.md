@@ -57,7 +57,8 @@
 - Simple Backups
 - Mana & Artifice
     - Arcane Additions
-- MineColonies
+- Villager Recruits
+- Villager Workers
 - Farmer's Delight
 - Tetra
 - Croptopia
