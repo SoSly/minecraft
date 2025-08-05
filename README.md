@@ -84,6 +84,7 @@
 - Oh the Biomes We've Gone
 - Oh the Trees You'll Grow
 - Tax' Village Architect
+- Integrated Villages
 
 ### Server Performance
 - In Control!
@@ -111,6 +112,7 @@
 - Hopo Better Underwater Ruins
 - Ice & Fire Dragons
 - Naturalist
+- Integrated Stronghold
 
 ### Gameplay
 - MmmMmmMmmMmm (Target Dummy)
