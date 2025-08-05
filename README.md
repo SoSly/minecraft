@@ -103,7 +103,7 @@
 
 ### Adventure
 - Aquaculture 2
-- Aquamirae
+- ~~Aquamirae~~
 - Yung's Better Ocean Monuments
 - YUNG's Better Desert Temples
 - YUNG's Better Jungle Temples
@@ -111,7 +111,7 @@
 - Hopo Better Mineshaft (or YUNG's Better Mineshafts)
 - Hopo Better Ruined Portals
 - Hopo Better Underwater Ruins
-- Ice & Fire Dragons
+- ~~Ice & Fire Dragons~~
 - Naturalist
 - Integrated Stronghold
 
