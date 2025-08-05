@@ -4,7 +4,7 @@
       "Description 1": "The Hud Texts should be enabled by default?",
       "Enabled": false,
       "Description 2": "Here you can disable/enable the chat messages which appears when a player joins to the world.",
-      "Send": true
+      "Send": false
     },
     "Ui": {
       "Example": {
@@ -79,7 +79,7 @@
         "Line2 Icon": "minecraft:textures/item/iron_chestplate.png",
         "Line2": "Health: $c$$player_health$$4$/$c$$player_max_health$ $f$Armor: $9$$player_armor$",
         "Line3 Icon": "minecraft:textures/item/apple.png",
-        "Line3": "Food: §6$player_food_level$",
+        "Line3": "Food: ï¿½6$player_food_level$",
         "Additional X": 0,
         "Additional Y": 0,
         "Item": ""
