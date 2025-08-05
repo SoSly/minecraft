@@ -164,6 +164,7 @@
 - Simply Steel
 
 ### Decoration
+- Copper and Tuff Backport
 - Supplementaries
 - Supplementaries Squared
 - Beautify!
