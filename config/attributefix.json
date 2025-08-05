@@ -55,6 +55,17 @@
         "value": 64
       }
     },
+    "obscure_api:resilience": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
     "forge:entity_gravity": {
       "enabled": false,
       "min": {
@@ -75,17 +86,6 @@
       "max": {
         "default": 1024,
         "value": 1024
-      }
-    },
-    "obscure_api:resilience": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
       }
     },
     "tetra:ability_damage": {
@@ -187,17 +187,6 @@
         "value": 100
       }
     },
-    "forge:entity_reach": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "obscure_api:magic_resistance": {
       "enabled": false,
       "min": {
@@ -207,6 +196,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "forge:entity_reach": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
       }
     },
     "obscure_api:magic_damage": {
