@@ -16,10 +16,112 @@
   },
   "structures": {
     "structures": {
-      "minecraft:trail_ruins": {
-        "spacing": 128,
+      "tetra:forged_ruins": {
+        "spacing": 256,
+        "separation": 64,
+        "salt": 746218233,
+        "disabled": false
+      },
+      "integrated_villages:air_villages": {
+        "spacing": 768,
+        "separation": 512,
+        "salt": 1982700828,
+        "disabled": false
+      },
+      "minecraft:ocean_monuments": {
+        "spacing": 512,
+        "separation": 256,
+        "salt": 10387313,
+        "disabled": false
+      },
+      "supplementaries:way_signs": {
+        "spacing": 16,
+        "separation": 8,
+        "salt": 431041527,
+        "disabled": false
+      },
+      "betterwitchhuts:witch_hut": {
+        "spacing": 32,
+        "separation": 8,
+        "salt": 79297177,
+        "disabled": false
+      },
+      "mna:scatter": {
+        "spacing": 64,
         "separation": 16,
-        "salt": 83469867,
+        "salt": 64916713,
+        "disabled": false
+      },
+      "minecraft:ocean_ruins": {
+        "spacing": 20,
+        "separation": 8,
+        "salt": 14357621,
+        "disabled": false
+      },
+      "minecraft:buried_treasures": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0,
+        "disabled": false
+      },
+      "minecraft:shipwrecks": {
+        "spacing": 32,
+        "separation": 8,
+        "salt": 165745295,
+        "disabled": false
+      },
+      "betterjungletemples:jungle_temples": {
+        "spacing": 32,
+        "separation": 8,
+        "salt": 996971851,
+        "disabled": false
+      },
+      "mna:manaweave_caches": {
+        "spacing": 64,
+        "separation": 16,
+        "salt": 1567486,
+        "disabled": false
+      },
+      "minecraft:ruined_portals": {
+        "spacing": 64,
+        "separation": 16,
+        "salt": 34222645,
+        "disabled": false
+      },
+      "betterdeserttemples:desert_temples": {
+        "spacing": 32,
+        "separation": 16,
+        "salt": 92746251,
+        "disabled": false
+      },
+      "minecraft:swamp_huts": {
+        "spacing": 32,
+        "separation": 8,
+        "salt": 14357620,
+        "disabled": false
+      },
+      "bettermineshafts:mineshafts": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 593751784,
+        "disabled": false
+      },
+      "mna:faction_strongholds": {
+        "spacing": 512,
+        "separation": 128,
+        "salt": 7346154,
+        "disabled": false
+      },
+      "minecraft:pillager_outposts": {
+        "spacing": 128,
+        "separation": 8,
+        "salt": 165745296,
+        "disabled": false
+      },
+      "betterwitchhuts:witch_circle": {
+        "spacing": 32,
+        "separation": 8,
+        "salt": 19797254,
         "disabled": false
       },
       "minecraft:villages": {
@@ -34,64 +136,28 @@
         "salt": 68173563,
         "disabled": false
       },
-      "integrated_villages:air_villages": {
-        "spacing": 768,
-        "separation": 512,
+      "integrated_villages:regular_villages": {
+        "spacing": 256,
+        "separation": 128,
         "salt": 1982700828,
         "disabled": false
       },
-      "supplementaries:way_signs": {
-        "spacing": 16,
-        "separation": 8,
-        "salt": 431041527,
-        "disabled": false
-      },
-      "minecraft:shipwrecks": {
+      "minecraft:igloos": {
         "spacing": 32,
         "separation": 8,
-        "salt": 165745295,
+        "salt": 14357618,
         "disabled": false
       },
-      "mna:scatter": {
-        "spacing": 64,
+      "mna:boss_structures": {
+        "spacing": 160,
+        "separation": 64,
+        "salt": 80248143,
+        "disabled": false
+      },
+      "minecraft:trail_ruins": {
+        "spacing": 128,
         "separation": 16,
-        "salt": 64916713,
-        "disabled": false
-      },
-      "minecraft:swamp_huts": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 14357620,
-        "disabled": false
-      },
-      "minecraft:ocean_ruins": {
-        "spacing": 20,
-        "separation": 8,
-        "salt": 14357621,
-        "disabled": false
-      },
-      "minecraft:mineshafts": {
-        "spacing": 1,
-        "separation": 0,
-        "salt": 0,
-        "disabled": false
-      },
-      "minecraft:woodland_mansions": {
-        "spacing": 256,
-        "separation": 128,
-        "salt": 10387319,
-        "disabled": false
-      },
-      "minecraft:ruined_portals": {
-        "spacing": 64,
-        "separation": 16,
-        "salt": 34222645,
-        "disabled": false
-      },
-      "minecraft:jungle_temples": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 14357619,
+        "salt": 83469867,
         "disabled": false
       },
       "minecraft:desert_pyramids": {
@@ -106,64 +172,34 @@
         "salt": 20083232,
         "disabled": false
       },
-      "mna:manaweave_caches": {
-        "spacing": 64,
-        "separation": 16,
-        "salt": 1567486,
+      "betteroceanmonuments:ocean_monument": {
+        "spacing": 512,
+        "separation": 256,
+        "salt": 784827271,
         "disabled": false
       },
-      "integrated_villages:regular_villages": {
+      "minecraft:mineshafts": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0,
+        "disabled": false
+      },
+      "minecraft:woodland_mansions": {
         "spacing": 256,
         "separation": 128,
-        "salt": 1982700828,
+        "salt": 10387319,
+        "disabled": false
+      },
+      "minecraft:jungle_temples": {
+        "spacing": 32,
+        "separation": 8,
+        "salt": 14357619,
         "disabled": false
       },
       "vsrevamped:village_cherry": {
         "spacing": 96,
         "separation": 64,
         "salt": 1218123376,
-        "disabled": false
-      },
-      "minecraft:buried_treasures": {
-        "spacing": 1,
-        "separation": 0,
-        "salt": 0,
-        "disabled": false
-      },
-      "tetra:forged_ruins": {
-        "spacing": 14,
-        "separation": 8,
-        "salt": 746218233,
-        "disabled": false
-      },
-      "minecraft:pillager_outposts": {
-        "spacing": 128,
-        "separation": 8,
-        "salt": 165745296,
-        "disabled": false
-      },
-      "minecraft:ocean_monuments": {
-        "spacing": 512,
-        "separation": 256,
-        "salt": 10387313,
-        "disabled": false
-      },
-      "mna:boss_structures": {
-        "spacing": 160,
-        "separation": 64,
-        "salt": 80248143,
-        "disabled": false
-      },
-      "mna:faction_strongholds": {
-        "spacing": 512,
-        "separation": 128,
-        "salt": 7346154,
-        "disabled": false
-      },
-      "minecraft:igloos": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 14357618,
         "disabled": false
       }
     }
