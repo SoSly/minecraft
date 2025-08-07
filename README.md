@@ -103,6 +103,10 @@ Magivnicent World includes the following mods:
 1. [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios) - Equipment slots API
 2. [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) - Resolves recipe conflicts
 
+### World Generation
+
+1. **ReTerraforged** - Custom compiled version for advanced terrain generation
+
 ### Technical/Backend Mods
 
 1. [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity) - Connection error handling

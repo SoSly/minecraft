@@ -15,6 +15,7 @@
 /server
 /simplebackups
 /world
+/ESM
 
 /.curseclient
 /banned-ips.json
