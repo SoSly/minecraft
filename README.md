@@ -4,10 +4,98 @@ A fresh Minecraft 1.20.1 modpack built on Forge.
 
 ## Status
 
-🚧 **Under Construction** - No mods have been added yet. This is a clean slate.
+🚧 **Under Construction** - Initial mod import in progress. This modpack is actively being developed.
 
 ## Requirements
 
 - Minecraft 1.20.1
 - Forge 47.4.4
 - Java 17+
+
+## Current Mod List
+
+The following mods have been imported and configured:
+
+### Library/Core Mods (Dependencies)
+
+1. [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) - Library for Enchantment Descriptions
+2. [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore) - Core library for AmbientSounds
+3. [Iceberg](https://www.curseforge.com/minecraft/mc-mods/iceberg) - Library for LegendaryTooltips and Prism
+4. [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) - Library framework
+5. [Balm](https://www.curseforge.com/minecraft/mc-mods/balm) - Library for various mods
+6. [Konkrete](https://www.curseforge.com/minecraft/mc-mods/konkrete) - Library for FancyMenu
+7. [Melody](https://www.curseforge.com/minecraft/mc-mods/melody) - Library for FancyMenu
+8. [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard) - Library framework
+
+### Performance & Optimization Mods
+
+1. [Adaptive Performance Tweaks (Core)](https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-core) - Dynamic performance optimization
+2. [Adaptive Performance Tweaks (Mods)](https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks-mods) - Performance tweaks addon
+3. [Better Fps - Render Distance](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance) - FPS improvements
+4. [Canary](https://www.curseforge.com/minecraft/mc-mods/canary) - Performance optimizations
+5. [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium) - Sodium port for Forge (rendering optimization)
+6. [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) - Culls entities not in view
+7. [Fastload](https://www.curseforge.com/minecraft/mc-mods/fastload) - Faster world loading
+8. [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) - Memory usage reduction
+9. [FPS Reducer 2](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) - Reduces FPS when idle
+10. [fix GPU memory leak](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak) - Fixes GPU memory leaks
+11. [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) - Rendering optimizations
+12. [Memory Settings](https://www.curseforge.com/minecraft/mc-mods/memory-settings) - Memory management
+13. [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) - Various performance fixes
+14. [Saturn](https://www.curseforge.com/minecraft/mc-mods/saturn) - Memory optimizations
+15. [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) - Performance profiler
+
+### Visual Enhancement Mods
+
+1. [Ambient Environment](https://www.curseforge.com/minecraft/mc-mods/ambient-environment) - Environmental effects
+2. [AmbientSounds 6](https://www.curseforge.com/minecraft/mc-mods/ambientsounds) - Ambient sound system
+3. [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person) - Improved third person camera
+4. [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons) - Increased render distance
+5. [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) - Falling leaf particles
+6. [First-person Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model) - First person model rendering
+7. [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) - Enhanced tooltips
+8. [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) - More player animations
+9. [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) - Shader support (Iris port)
+10. [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - Dynamic footstep sounds
+11. [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib) - Text formatting library
+12. [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes) - Animated capes
+
+### UI/Menu Mods
+
+1. [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu) - Custom menu screens
+2. [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) - Keybind management
+3. [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) - Mouse interaction improvements
+4. [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) - Toast notification control
+
+### Utility & Information Mods
+
+1. [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) - Food/hunger information
+2. [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) - Enchantment tooltips
+3. [Highlighter](https://www.curseforge.com/minecraft/mc-mods/highlighter) - Block highlighting
+4. [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) - WAILA alternative (block info)
+5. [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons) - Additional Jade integrations
+6. [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) - Recipe viewer
+7. [Just Enough Effect Descriptions (JEED)](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed) - JEI enchantment descriptions
+8. [Just Enough Breeding](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding) - Breeding information for JEI
+9. [Just Enough Professions (JEP)](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep) - Villager profession info for JEI
+10. [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) - Resource information for JEI
+11. [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) - Map and waypoints
+12. [Loot Journal](https://www.curseforge.com/minecraft/mc-mods/loot-journal) - Loot tracking
+13. [Passive Search Bar](https://www.curseforge.com/minecraft/mc-mods/passive-searchbar) - Search bar functionality
+14. [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) - Searchable containers
+
+### Client-side Feature Mods
+
+1. [Client Crafting](https://www.curseforge.com/minecraft/mc-mods/client-crafting) - Client-side crafting preview
+2. [Client Tweaks](https://www.curseforge.com/minecraft/mc-mods/client-tweaks) - Various client improvements
+3. [Extreme Sound Muffler](https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler) - Sound control
+
+### Technical/Backend Mods
+
+1. [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity) - Connection error handling
+2. [Euphoria Patches](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches) - Compatibility patches
+3. [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) - Render distance improvements
+
+## Coming Soon
+
+Additional content mods, worldgen enhancements, and gameplay features will be added as development continues.
