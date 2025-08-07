@@ -51,13 +51,14 @@ Magivnicent World includes the following mods:
 15. [Player Animation Lib](https://www.curseforge.com/minecraft/mc-mods/playeranimator) - Animation library for combat mods
 16. [Mob Player Animator](https://www.curseforge.com/minecraft/mc-mods/mobplayeranimator) - Animation framework for mobs and players
 17. [EpheroLib](https://www.curseforge.com/minecraft/mc-mods/epherolib) - Library for Croptopia
-18. [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) - Configuration library
-19. [VMinus](https://www.curseforge.com/minecraft/mc-mods/vminus) - Library for Farmer's Delight compatibility mods (removes duplicate items)
-20. [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api) - Cross-platform mod development library
-21. [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta) - Library for Quark mod
-22. [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) - JavaScript engine for KubeJS
-23. [Integrated API](https://www.curseforge.com/minecraft/mc-mods/integrated-api) - API for Integrated mods
-24. [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib) - Text formatting and coloring library
+18. [Corgilib](https://www.curseforge.com/minecraft/mc-mods/corgilib) - Library for various mods
+19. [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) - Configuration library
+20. [VMinus](https://www.curseforge.com/minecraft/mc-mods/vminus) - Library for Farmer's Delight compatibility mods (removes duplicate items)
+21. [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api) - Cross-platform mod development library
+22. [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta) - Library for Quark mod
+23. [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) - JavaScript engine for KubeJS
+24. [Integrated API](https://www.curseforge.com/minecraft/mc-mods/integrated-api) - API for Integrated mods
+25. [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib) - Text formatting and coloring library
 
 ### Performance & Optimization Mods
 
@@ -149,8 +150,10 @@ Magivnicent World includes the following mods:
 9. [Create: Horsepower](https://www.curseforge.com/minecraft/mc-mods/create-horsepower) - Animal-powered machines for Create
 10. [Create: Maintenance](https://www.curseforge.com/minecraft/mc-mods/create-maintenance) - Maintenance mechanics for Create
 11. [Molten Metals](https://www.curseforge.com/minecraft/mc-mods/molten-metals) - Liquid metal mechanics
-12. [Recruits](https://www.curseforge.com/minecraft/mc-mods/recruits) - Recruit and manage NPC companions for automation
-13. [Workers](https://www.curseforge.com/minecraft/mc-mods/workers) - Hire workers to automate tasks
+12. [BOP Create Mod Rose Quartz](https://www.curseforge.com/minecraft/mc-mods/bop-create-mod-rose-quartz) - Biomes O' Plenty rose quartz integration for Create
+13. [Create OTBWG Compat](https://www.curseforge.com/minecraft/mc-mods/create-otbwg-compat) - Create and Oh The Biomes We've Gone compatibility
+14. [Recruits](https://www.curseforge.com/minecraft/mc-mods/recruits) - Recruit and manage NPC companions for automation
+15. [Workers](https://www.curseforge.com/minecraft/mc-mods/workers) - Hire workers to automate tasks
 
 ### Magic & Adventure Mods
 
@@ -195,6 +198,7 @@ Magivnicent World includes the following mods:
 19. [Compat Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/compat-farmers-delight) - Compatibility patches for Farmer's Delight
 20. [Farmer'd Naturalist Compat](https://www.curseforge.com/minecraft/mc-mods/farmerd-naturalist-compat) - Naturalist and Farmer's Delight compatibility
 21. [Quark Delight](https://www.curseforge.com/minecraft/mc-mods/quark-delight) - Quark and Farmer's Delight integration
+22. [Farmers Cutting Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/farmers-cutting-biomes-o-plenty) - Farmer's Delight cutting board support for BOP woods
 
 ### Building & Decoration Mods
 
@@ -207,6 +211,15 @@ Magivnicent World includes the following mods:
 1. **ReTerraforged** - Custom compiled version for advanced terrain generation
 2. [Integrated Villages](https://www.curseforge.com/minecraft/mc-mods/integrated-villages) - Improved village generation
 3. [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist) - Adds new animals and wildlife
+4. [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) - Adds over 75 new biomes
+5. [Oh The Biomes We've Gone](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone) - Over 200 new biomes and sub-biomes
+6. [Oh The Trees You'll Grow](https://www.curseforge.com/minecraft/mc-mods/oh-the-trees-youll-grow) - Custom tree structures and growth
+7. [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender) - Biome generation library
+8. [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) - Vanilla-style biome additions
+9. [Deeper Oceans](https://www.curseforge.com/minecraft/mc-mods/deeper-oceans) - Enhanced ocean depth and features
+10. [Lithostitched](https://www.curseforge.com/minecraft/mc-mods/lithostitched) - World generation customization
+11. [Biome Replacer](https://www.curseforge.com/minecraft/mc-mods/biome-replacer) - Biome replacement and configuration
+12. [Tax' Village Architect](https://www.curseforge.com/minecraft/mc-mods/tax-village-architect) - Enhanced village structures
 
 ### Technical/Backend Mods
 
