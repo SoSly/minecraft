@@ -53,6 +53,11 @@ Magivnicent World includes the following mods:
 17. [EpheroLib](https://www.curseforge.com/minecraft/mc-mods/epherolib) - Library for Croptopia
 18. [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) - Configuration library
 19. [VMinus](https://www.curseforge.com/minecraft/mc-mods/vminus) - Library for Farmer's Delight compatibility mods (removes duplicate items)
+20. [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api) - Cross-platform mod development library
+21. [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta) - Library for Quark mod
+22. [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) - JavaScript engine for KubeJS
+23. [Integrated API](https://www.curseforge.com/minecraft/mc-mods/integrated-api) - API for Integrated mods
+24. [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib) - Text formatting and coloring library
 
 ### Performance & Optimization Mods
 
@@ -71,6 +76,7 @@ Magivnicent World includes the following mods:
 13. [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) - Various performance fixes
 14. [Saturn](https://www.curseforge.com/minecraft/mc-mods/saturn) - Memory optimizations
 15. [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) - Performance profiler
+16. [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons) - Increased render distance with LOD
 
 ### Visual Enhancement Mods
 
@@ -80,16 +86,12 @@ Magivnicent World includes the following mods:
 4. [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person) - Improved third person camera
 5. [Blur](https://www.curseforge.com/minecraft/mc-mods/blur) - Adds blur effect to background of GUI
 6. [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) - Cosmetic armor system
-7. [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons) - Increased render distance
-8. [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) - Falling leaf particles
-9. [First-person Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model) - First person model rendering
-10. [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) - Enhanced tooltips
-11. [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) - More player animations
-12. [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) - Shader support (Iris port)
-13. [Overloaded Armor Bar](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar) - Enhanced armor bar display
-14. [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - Dynamic footstep sounds
-15. [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib) - Text formatting library
-16. [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes) - Animated capes
+7. [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) - Falling leaf particles
+8. [First-person Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model) - First person model rendering
+9. [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) - More player animations
+10. [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) - Shader support (Iris port)
+11. [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - Dynamic footstep sounds
+12. [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes) - Animated capes
 
 ### UI/Menu Mods
 
@@ -101,6 +103,7 @@ Magivnicent World includes the following mods:
 6. [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) - Mouse interaction improvements
 7. [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) - Toast notification control
 8. [Traveler's Titles](https://www.curseforge.com/minecraft/mc-mods/travelers-titles) - Biome and dimension titles
+9. [Overloaded Armor Bar](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar) - Enhanced armor bar display
 
 ### Utility & Information Mods
 
@@ -118,6 +121,8 @@ Magivnicent World includes the following mods:
 12. [Loot Journal](https://www.curseforge.com/minecraft/mc-mods/loot-journal) - Loot tracking
 13. [Passive Search Bar](https://www.curseforge.com/minecraft/mc-mods/passive-searchbar) - Search bar functionality
 14. [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) - Searchable containers
+15. [Quark Ponders](https://www.curseforge.com/minecraft/mc-mods/quark-ponders) - Visual guides for Quark features
+16. [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) - Enhanced item tooltips with borders
 
 ### Client-side Feature Mods
 
@@ -129,6 +134,7 @@ Magivnicent World includes the following mods:
 
 1. [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios) - Equipment slots API
 2. [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) - Resolves recipe conflicts
+3. [Better Days](https://www.curseforge.com/minecraft/mc-mods/better-days) - Longer day/night cycles and time progression
 
 ### Technology & Automation Mods
 
@@ -143,11 +149,16 @@ Magivnicent World includes the following mods:
 9. [Create: Horsepower](https://www.curseforge.com/minecraft/mc-mods/create-horsepower) - Animal-powered machines for Create
 10. [Create: Maintenance](https://www.curseforge.com/minecraft/mc-mods/create-maintenance) - Maintenance mechanics for Create
 11. [Molten Metals](https://www.curseforge.com/minecraft/mc-mods/molten-metals) - Liquid metal mechanics
+12. [Recruits](https://www.curseforge.com/minecraft/mc-mods/recruits) - Recruit and manage NPC companions for automation
+13. [Workers](https://www.curseforge.com/minecraft/mc-mods/workers) - Hire workers to automate tasks
 
 ### Magic & Adventure Mods
 
 1. [Mana and Artifice](https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice) - Comprehensive magic system with rituals and spells
 2. [Arcane Additions](https://www.curseforge.com/minecraft/mc-mods/arcane-additions) - Additional magical items and enchantments for Mana and Artifice
+3. [End Remastered](https://www.curseforge.com/minecraft/mc-mods/endremastered) - Overhauls End dimension access with 12 unique eyes
+4. [Integrated Stronghold](https://www.curseforge.com/minecraft/mc-mods/integrated-stronghold) - Enhanced stronghold structures
+5. [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships) - Build and sail custom ships
 
 ### Combat & Weapons Mods
 
@@ -160,15 +171,6 @@ Magivnicent World includes the following mods:
 7. [Tetra's Delight](https://www.curseforge.com/minecraft/mc-mods/tetras-delight) - Farmer's Delight integration for Tetra
 8. [Tetratic Combat Expanded](https://www.curseforge.com/minecraft/mc-mods/tetratic-combat-expanded) - Enhanced combat features for Tetra
 9. [Secrets of Forging Revelations](https://www.curseforge.com/minecraft/mc-mods/secrets-of-forging-revelations) - Advanced smithing mechanics
-
-### NPCs & Villages Mods
-
-1. [Recruits](https://www.curseforge.com/minecraft/mc-mods/recruits) - Recruit and manage NPC companions
-2. [Workers](https://www.curseforge.com/minecraft/mc-mods/workers) - Hire workers to automate tasks
-
-### Creatures & Wildlife Mods
-
-1. [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist) - Adds new animals and wildlife
 
 ### Food & Farming Mods
 
@@ -192,17 +194,29 @@ Magivnicent World includes the following mods:
 18. [Farmer's Croptopia](https://www.curseforge.com/minecraft/mc-mods/farmers-croptopia) - Farmer's Delight and Croptopia integration
 19. [Compat Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/compat-farmers-delight) - Compatibility patches for Farmer's Delight
 20. [Farmer'd Naturalist Compat](https://www.curseforge.com/minecraft/mc-mods/farmerd-naturalist-compat) - Naturalist and Farmer's Delight compatibility
+21. [Quark Delight](https://www.curseforge.com/minecraft/mc-mods/quark-delight) - Quark and Farmer's Delight integration
 
-### Transportation Mods
+### Building & Decoration Mods
 
-1. [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships) - Build and sail custom ships
+1. [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) - Vanilla-style improvements and additions
+2. [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) - Decorative blocks and utilities
+3. [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments) - Additions to vanilla features
 
-### World Generation
+### World, Wildlife & Structures
 
 1. **ReTerraforged** - Custom compiled version for advanced terrain generation
+2. [Integrated Villages](https://www.curseforge.com/minecraft/mc-mods/integrated-villages) - Improved village generation
+3. [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist) - Adds new animals and wildlife
 
 ### Technical/Backend Mods
 
 1. [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity) - Connection error handling
 2. [Euphoria Patches](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches) - Compatibility patches
 3. [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) - Render distance improvements
+4. [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) - JavaScript-based game scripting and customization
+5. [KubeJS Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) - Create mod integration for KubeJS
+6. [KubeJS Additions](https://www.curseforge.com/minecraft/mc-mods/kubejs-additions) - Additional features for KubeJS
+7. [KubeJS Delight](https://www.curseforge.com/minecraft/mc-mods/kubejs-delight) - Farmer's Delight integration for KubeJS
+8. [KubeJS Curios](https://www.curseforge.com/minecraft/mc-mods/kubejs-curios) - Curios API integration for KubeJS
+9. [LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs) - Loot table modification via JavaScript
+10. [MnaJS](https://www.curseforge.com/minecraft/mc-mods/mnajs) - Mana and Artifice integration for KubeJS
