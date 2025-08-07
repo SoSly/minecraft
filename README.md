@@ -50,6 +50,9 @@ Magivnicent World includes the following mods:
 14. [MUtil](https://www.curseforge.com/minecraft/mc-mods/mutil) - Utility library for Tetra mod
 15. [Player Animation Lib](https://www.curseforge.com/minecraft/mc-mods/playeranimator) - Animation library for combat mods
 16. [Mob Player Animator](https://www.curseforge.com/minecraft/mc-mods/mobplayeranimator) - Animation framework for mobs and players
+17. [EpheroLib](https://www.curseforge.com/minecraft/mc-mods/epherolib) - Library for Croptopia
+18. [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) - Configuration library
+19. [VMinus](https://www.curseforge.com/minecraft/mc-mods/vminus) - Library for Farmer's Delight compatibility mods (removes duplicate items)
 
 ### Performance & Optimization Mods
 
@@ -163,9 +166,32 @@ Magivnicent World includes the following mods:
 1. [Recruits](https://www.curseforge.com/minecraft/mc-mods/recruits) - Recruit and manage NPC companions
 2. [Workers](https://www.curseforge.com/minecraft/mc-mods/workers) - Hire workers to automate tasks
 
+### Creatures & Wildlife Mods
+
+1. [Naturalist](https://www.curseforge.com/minecraft/mc-mods/naturalist) - Adds new animals and wildlife
+
 ### Food & Farming Mods
 
 1. [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) - Cooking and farming expansion
+2. [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia) - Adds over 200 new crops and food items
+3. [Chef's Delight](https://www.curseforge.com/minecraft/mc-mods/chefs-delight) - Professional cooking expansion for Farmer's Delight
+4. [Cuisine Delight](https://www.curseforge.com/minecraft/mc-mods/cuisine-delight) - International cuisine additions
+5. [Cultural Delights](https://www.curseforge.com/minecraft/mc-mods/cultural-delights) - Cultural food variety
+6. [Crabber's Delight](https://www.curseforge.com/minecraft/mc-mods/crabbers-delight) - Seafood and crab dishes
+7. [Ocean's Delight](https://www.curseforge.com/minecraft/mc-mods/oceans-delight) - Ocean-themed food additions
+8. [Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/nethers-delight) - Nether-themed cooking
+9. [Miner's Delight](https://www.curseforge.com/minecraft/mc-mods/miners-delight) - Food for mining expeditions
+10. [More Delight](https://www.curseforge.com/minecraft/mc-mods/more-delight) - Additional recipes and ingredients
+11. [Fruits Delight](https://www.curseforge.com/minecraft/mc-mods/fruits-delight) - Fruit cultivation and recipes
+12. [Haunted Harvest](https://www.curseforge.com/minecraft/mc-mods/haunted-harvest) - Spooky seasonal foods
+13. [Vanilla Delight](https://www.curseforge.com/minecraft/mc-mods/vanilla-delight) - Vanilla-friendly food additions
+14. [Vintage Delight](https://www.curseforge.com/minecraft/mc-mods/vintage-delight) - Classic and aged foods
+15. [Storage Delight](https://www.curseforge.com/minecraft/mc-mods/storage-delight) - Food storage solutions
+16. [Egg Delight](https://www.curseforge.com/minecraft/mc-mods/egg-delight) - Egg-based recipes
+17. [Seed Delight](https://www.curseforge.com/minecraft/mc-mods/seed-delight) - Seed cultivation and uses
+18. [Farmer's Croptopia](https://www.curseforge.com/minecraft/mc-mods/farmers-croptopia) - Farmer's Delight and Croptopia integration
+19. [Compat Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/compat-farmers-delight) - Compatibility patches for Farmer's Delight
+20. [Farmer'd Naturalist Compat](https://www.curseforge.com/minecraft/mc-mods/farmerd-naturalist-compat) - Naturalist and Farmer's Delight compatibility
 
 ### Transportation Mods
 

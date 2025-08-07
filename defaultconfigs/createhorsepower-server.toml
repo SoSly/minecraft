@@ -28,6 +28,6 @@
 	#Valid "Small" creatures
 	small_creatures = ["minecraft:wolf", "minecraft:pig", "minecraft:goat"]
 	#Valid "Medium" creatures
-	medium_creatures = ["minecraft:horse", "minecraft:donkey", "minecraft:cow", "minecraft:llama", "minecraft:camel", "minecraft:mooshroom", "minecraft:sniffer"]
+	medium_creatures = ["minecraft:horse", "minecraft:donkey", "minecraft:cow", "minecraft:llama", "minecraft:camel", "minecraft:mooshroom", "minecraft:sniffer", "naturalist:zebra"]
 	#Valid "Large" creatures
-	large_creatures = ["minecraft:mule"]
+	large_creatures = ["minecraft:mule", "naturalist:elephant"]
