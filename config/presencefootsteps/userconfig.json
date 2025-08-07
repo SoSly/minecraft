@@ -5,7 +5,7 @@
   "runningVolumeIncrease": 0,
   "wetSoundsVolume": 50,
   "maxSteppingEntities": 50,
-  "stance": "UNKNOWN",
+  "stance": "BIPEDAL",
   "multiplayer": true,
   "global": true,
   "targetEntities": "ALL"
