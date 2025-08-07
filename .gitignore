@@ -16,6 +16,9 @@
 /simplebackups
 /world
 /ESM
+/modernfix
+/.vscode
+/.claude
 
 /.curseclient
 /banned-ips.json
