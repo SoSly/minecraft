@@ -59,6 +59,7 @@ Magivnicent World includes the following mods:
 23. [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) - JavaScript engine for KubeJS
 24. [Integrated API](https://www.curseforge.com/minecraft/mc-mods/integrated-api) - API for Integrated mods
 25. [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib) - Text formatting and coloring library
+26. [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil) - Utility library for various mods
 
 ### Performance & Optimization Mods
 
@@ -78,6 +79,14 @@ Magivnicent World includes the following mods:
 14. [Saturn](https://www.curseforge.com/minecraft/mc-mods/saturn) - Memory optimizations
 15. [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) - Performance profiler
 16. [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons) - Increased render distance with LOD
+17. [Bad Optimizations](https://www.curseforge.com/minecraft/mc-mods/badoptimizations) - Miscellaneous performance optimizations
+18. [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) - Groups XP orbs for better performance
+19. [Fast Async World Save](https://www.curseforge.com/minecraft/mc-mods/fast-async-world-save) - Asynchronous world saving for less lag
+20. [Smooth Chunk](https://www.curseforge.com/minecraft/mc-mods/smooth-chunk-save) - Smoother chunk loading and saving
+21. [Too Fast](https://www.curseforge.com/minecraft/mc-mods/toofast) - Optimizations for faster game performance
+22. [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) - Leaves decay faster for better performance
+23. [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) - Fixes attribute system performance issues
+24. [Structure Essentials](https://www.curseforge.com/minecraft/mc-mods/structure-essentials) - Structure generation performance improvements
 
 ### Visual Enhancement Mods
 
@@ -93,6 +102,7 @@ Magivnicent World includes the following mods:
 10. [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) - Shader support (Iris port)
 11. [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - Dynamic footstep sounds
 12. [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes) - Animated capes
+13. [Fusion](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures) - Connected textures support
 
 ### UI/Menu Mods
 
@@ -124,6 +134,7 @@ Magivnicent World includes the following mods:
 14. [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) - Searchable containers
 15. [Quark Ponders](https://www.curseforge.com/minecraft/mc-mods/quark-ponders) - Visual guides for Quark features
 16. [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) - Enhanced item tooltips with borders
+17. [What Are They Up To (WATUT)](https://www.curseforge.com/minecraft/mc-mods/watut) - Shows when other players are in menus
 
 ### Client-side Feature Mods
 
@@ -233,3 +244,4 @@ Magivnicent World includes the following mods:
 8. [KubeJS Curios](https://www.curseforge.com/minecraft/mc-mods/kubejs-curios) - Curios API integration for KubeJS
 9. [LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs) - Loot table modification via JavaScript
 10. [MnaJS](https://www.curseforge.com/minecraft/mc-mods/mnajs) - Mana and Artifice integration for KubeJS
+11. [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) - Fixes nether portal linking bugs
