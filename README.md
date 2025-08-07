@@ -12,6 +12,23 @@ A fresh Minecraft 1.20.1 modpack built on Forge.
 - Forge 47.4.4
 - Java 17+
 
+## Server Economy
+
+The server uses **Gold Coins** (`createdeco:gold_coin`) as the primary currency. 
+
+**Exchange Rate:** 10 gold coins = 1 real-life day's wages for Villagers
+
+This currency system is integrated with:
+- **Recruits mod** - Hire and pay NPC companions
+- **Workers mod** - Pay workers for automated tasks
+
+### Planned Economy Features
+- Multi-tier coin system using all Create Deco coins (Copper, Iron, Industrial Iron, Gold, Zinc, Netherite)
+- Coin Exchanger NPC for converting between currency tiers
+- Gemcutter NPC for purchasing gems with coins
+- Complete overhaul of villager trading to use coins instead of emeralds
+- Tier-appropriate trades based on villager profession level
+
 ## Mod List
 Magivnicent World includes the following mods:
 
@@ -29,6 +46,10 @@ Magivnicent World includes the following mods:
 10. [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib) - Animation library for various mods
 11. [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/moonlight) - Library framework for various mods
 12. [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) - Rendering engine for Create mod
+13. [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config) - Configuration library for various mods
+14. [MUtil](https://www.curseforge.com/minecraft/mc-mods/mutil) - Utility library for Tetra mod
+15. [Player Animation Lib](https://www.curseforge.com/minecraft/mc-mods/playeranimator) - Animation library for combat mods
+16. [Mob Player Animator](https://www.curseforge.com/minecraft/mc-mods/mobplayeranimator) - Animation framework for mobs and players
 
 ### Performance & Optimization Mods
 
@@ -124,6 +145,31 @@ Magivnicent World includes the following mods:
 
 1. [Mana and Artifice](https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice) - Comprehensive magic system with rituals and spells
 2. [Arcane Additions](https://www.curseforge.com/minecraft/mc-mods/arcane-additions) - Additional magical items and enchantments for Mana and Artifice
+
+### Combat & Weapons Mods
+
+1. [Better Combat](https://www.curseforge.com/minecraft/mc-mods/better-combat) - Enhanced combat mechanics with weapon combos
+2. [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) - Modular tool and weapon crafting system
+3. [Tetra GUI Compat](https://www.curseforge.com/minecraft/mc-mods/tetra-gui-compat) - GUI compatibility for Tetra
+4. [Tetra Re-Enlarged](https://www.curseforge.com/minecraft/mc-mods/tetra-re-enlarged) - Additional Tetra content
+5. [Tetra Tables](https://www.curseforge.com/minecraft/mc-mods/tetra-tables) - Crafting tables for Tetra
+6. [Tetranomicon](https://www.curseforge.com/minecraft/mc-mods/tetranomicon) - Guidebook for Tetra
+7. [Tetra's Delight](https://www.curseforge.com/minecraft/mc-mods/tetras-delight) - Farmer's Delight integration for Tetra
+8. [Tetratic Combat Expanded](https://www.curseforge.com/minecraft/mc-mods/tetratic-combat-expanded) - Enhanced combat features for Tetra
+9. [Secrets of Forging Revelations](https://www.curseforge.com/minecraft/mc-mods/secrets-of-forging-revelations) - Advanced smithing mechanics
+
+### NPCs & Villages Mods
+
+1. [Recruits](https://www.curseforge.com/minecraft/mc-mods/recruits) - Recruit and manage NPC companions
+2. [Workers](https://www.curseforge.com/minecraft/mc-mods/workers) - Hire workers to automate tasks
+
+### Food & Farming Mods
+
+1. [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) - Cooking and farming expansion
+
+### Transportation Mods
+
+1. [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships) - Build and sail custom ships
 
 ### World Generation
 

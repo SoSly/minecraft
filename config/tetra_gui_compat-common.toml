@@ -1,0 +1,39 @@
+
+#You can change these values to adjust the position of the modular in the holosphere GUI.
+#If you change the value of 'Enable' into 'false', the modular will not be displayed in the holosphere GUI.
+#Also you can change the texture path but it must be a valid path to a texture file in your resource pack.
+#The path will be 'tetra_gui_compat:<your path>'
+#Default: textures/gui/gui_compat_holo.png
+[" Tetra GUI Compat Config "]
+	"Texture Path" = "textures/gui/gui_compat_holo.png"
+
+[" Artifact "]
+	#Default: true
+	"Enable Artifact" = true
+	#Default: 121
+	#Range: -256 ~ 256
+	X = 121
+	#Default: 0
+	#Range: -256 ~ 256
+	Y = 0
+
+[" Emblem "]
+	#Default: true
+	"Enable Emblem" = true
+	#Default: 161
+	#Range: -256 ~ 256
+	X = 161
+	#Default: -40
+	#Range: -256 ~ 256
+	Y = -40
+
+[" Polearm "]
+	#Default: true
+	"Enable Polearm" = true
+	#Default: -119
+	#Range: -256 ~ 256
+	X = -119
+	#Default: 0
+	#Range: -256 ~ 256
+	Y = 0
+
