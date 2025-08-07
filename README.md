@@ -12,9 +12,8 @@ A fresh Minecraft 1.20.1 modpack built on Forge.
 - Forge 47.4.4
 - Java 17+
 
-## Current Mod List
-
-The following mods have been imported and configured:
+## Mod List
+Magivnicent World includes the following mods:
 
 ### Library/Core Mods (Dependencies)
 
@@ -23,9 +22,7 @@ The following mods have been imported and configured:
 3. [Iceberg](https://www.curseforge.com/minecraft/mc-mods/iceberg) - Library for LegendaryTooltips and Prism
 4. [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) - Library framework
 5. [Balm](https://www.curseforge.com/minecraft/mc-mods/balm) - Library for various mods
-6. [Konkrete](https://www.curseforge.com/minecraft/mc-mods/konkrete) - Library for FancyMenu
-7. [Melody](https://www.curseforge.com/minecraft/mc-mods/melody) - Library for FancyMenu
-8. [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard) - Library framework
+6. [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard) - Library framework
 
 ### Performance & Optimization Mods
 
@@ -62,7 +59,7 @@ The following mods have been imported and configured:
 
 ### UI/Menu Mods
 
-1. [FancyMenu](https://www.curseforge.com/minecraft/mc-mods/fancymenu) - Custom menu screens
+1. [BetterF3+](https://www.curseforge.com/minecraft/mc-mods/betterf3plus) - Enhanced F3 debug screen
 2. [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) - Keybind management
 3. [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) - Mouse interaction improvements
 4. [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) - Toast notification control
@@ -95,7 +92,3 @@ The following mods have been imported and configured:
 1. [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity) - Connection error handling
 2. [Euphoria Patches](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches) - Compatibility patches
 3. [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) - Render distance improvements
-
-## Coming Soon
-
-Additional content mods, worldgen enhancements, and gameplay features will be added as development continues.
