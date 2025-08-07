@@ -26,6 +26,9 @@ Magivnicent World includes the following mods:
 7. [iChunUtil](https://www.curseforge.com/minecraft/mc-mods/ichunutil) - Core library for iChun's mods
 8. [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib) - Library for various mods
 9. [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api) - API for YUNG's mods
+10. [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib) - Animation library for various mods
+11. [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/moonlight) - Library framework for various mods
+12. [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) - Rendering engine for Create mod
 
 ### Performance & Optimization Mods
 
@@ -102,6 +105,25 @@ Magivnicent World includes the following mods:
 
 1. [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios) - Equipment slots API
 2. [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) - Resolves recipe conflicts
+
+### Technology & Automation Mods
+
+1. [Create](https://www.curseforge.com/minecraft/mc-mods/create) - Mechanical contraptions and automation
+2. [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco) - Decorative blocks for Create
+3. [Create Encased](https://www.curseforge.com/minecraft/mc-mods/create-encased) - Additional encased blocks for Create
+4. [Create: Copycats+](https://www.curseforge.com/minecraft/mc-mods/copycats) - Copycat blocks for Create
+5. [Create: Picky Wheels](https://www.curseforge.com/minecraft/mc-mods/create-picky-wheels) - Selective item transport for Create
+6. [Create: Oxidized](https://www.curseforge.com/minecraft/mc-mods/create-oxidized) - Copper oxidation mechanics for Create
+7. [Create: Rustic Structures](https://www.curseforge.com/minecraft/mc-mods/create-rustic-structures) - Pre-built structures for Create
+8. [Create: Better FPS](https://www.curseforge.com/minecraft/mc-mods/create-better-fps) - Performance optimizations for Create
+9. [Create: Horsepower](https://www.curseforge.com/minecraft/mc-mods/create-horsepower) - Animal-powered machines for Create
+10. [Create: Maintenance](https://www.curseforge.com/minecraft/mc-mods/create-maintenance) - Maintenance mechanics for Create
+11. [Molten Metals](https://www.curseforge.com/minecraft/mc-mods/molten-metals) - Liquid metal mechanics
+
+### Magic & Adventure Mods
+
+1. [Mana and Artifice](https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice) - Comprehensive magic system with rituals and spells
+2. [Arcane Additions](https://www.curseforge.com/minecraft/mc-mods/arcane-additions) - Additional magical items and enchantments for Mana and Artifice
 
 ### World Generation
 

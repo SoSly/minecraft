@@ -1,0 +1,33 @@
+
+#General Settings
+[general]
+	#Base rpm creatures can spin the horse crank.
+	#Range: > 1
+	creatureRPMRange = 16
+	#How much stress small creatures can produce for the horse crank.
+	#Range: > 1
+	smallCreatureStressRange = 128
+	#How much stress medium creatures can produce for the horse crank.
+	#Range: > 1
+	mediumCreatureStressRange = 256
+	#How much stress large creatures can produce for the horse crank.
+	#Range: > 1
+	largeCreatureStressRange = 512
+
+#Path Category
+[paths]
+	#Types of blocks valid as "Poor" quality,
+	poor_path_block = ["minecraft:dirt", "minecraft:grass_block"]
+	#Types of blocks valid as "Normal" quality,
+	normal_path_block = ["minecraft:dirt_path", "minecraft:gravel"]
+	#Types of blocks valid as "Great" quality,
+	great_path_block = ["minecraft:ice", "minecraft:packed_ice", "minecraft:blue_ice"]
+
+#Creature Category
+[workers]
+	#Valid "Small" creatures
+	small_creatures = ["minecraft:wolf", "minecraft:pig", "minecraft:goat"]
+	#Valid "Medium" creatures
+	medium_creatures = ["minecraft:horse", "minecraft:donkey", "minecraft:cow", "minecraft:llama", "minecraft:camel", "minecraft:mooshroom", "minecraft:sniffer"]
+	#Valid "Large" creatures
+	large_creatures = ["minecraft:mule"]
