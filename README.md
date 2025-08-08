@@ -143,6 +143,10 @@ Magivnicent World includes the following mods:
 19. [Ping Wheel](https://www.curseforge.com/minecraft/mc-mods/ping-wheel) - Radial menu for marking and pinging locations
 20. [Passable Foliage](https://www.curseforge.com/minecraft/mc-mods/passablefoliage) - Walk through leaves and other foliage
 21. [Scaffolding Drops Nearby](https://www.curseforge.com/minecraft/mc-mods/scaffolding-drops-nearby) - Scaffolding drops at player location
+22. [Bundle Craft Plus](https://www.curseforge.com/minecraft/mc-mods/bundlecraftplus) - Enhanced bundle crafting and functionality
+23. [CHA-S](https://www.curseforge.com/minecraft/mc-mods/cha-s) - Craftable horse armor and saddles
+24. [Craftable Chainmail](https://www.curseforge.com/minecraft/mc-mods/craftable-chainmail) - Craft chainmail armor with chains
+25. [Wool to String](https://www.curseforge.com/minecraft/mc-mods/wool-to-string) - Convert wool back to string
 
 ### Client-side Feature Mods
 
