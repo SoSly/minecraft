@@ -61,6 +61,8 @@ Magivnicent World includes the following mods:
 25. [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib) - Text formatting and coloring library
 26. [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil) - Utility library for various mods
 27. [Let's Do API](https://www.curseforge.com/minecraft/mc-mods/do-api) - API for Let's Do mod series
+28. [Collective](https://www.curseforge.com/minecraft/mc-mods/collective) - Common library for Serilum's mods
+29. [Kiwi](https://www.curseforge.com/minecraft/mc-mods/kiwi) - Library for various mods
 
 ### Performance & Optimization Mods
 
@@ -116,6 +118,7 @@ Magivnicent World includes the following mods:
 7. [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) - Toast notification control
 8. [Traveler's Titles](https://www.curseforge.com/minecraft/mc-mods/travelers-titles) - Biome and dimension titles
 9. [Overloaded Armor Bar](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar) - Enhanced armor bar display
+10. [Enchanted Book Redesign](https://www.curseforge.com/minecraft/mc-mods/enchanted-book-redesign) - Visual redesign of enchanted books
 
 ### Utility & Information Mods
 
@@ -138,6 +141,8 @@ Magivnicent World includes the following mods:
 17. [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) - Enhanced item tooltips with borders
 18. [What Are They Up To (WATUT)](https://www.curseforge.com/minecraft/mc-mods/watut) - Shows when other players are in menus
 19. [Ping Wheel](https://www.curseforge.com/minecraft/mc-mods/ping-wheel) - Radial menu for marking and pinging locations
+20. [Passable Foliage](https://www.curseforge.com/minecraft/mc-mods/passablefoliage) - Walk through leaves and other foliage
+21. [Scaffolding Drops Nearby](https://www.curseforge.com/minecraft/mc-mods/scaffolding-drops-nearby) - Scaffolding drops at player location
 
 ### Client-side Feature Mods
 
@@ -154,6 +159,8 @@ Magivnicent World includes the following mods:
 5. [Better Safe Bed](https://www.curseforge.com/minecraft/mc-mods/better-safe-bed) - Bed safety improvements and spawn protection
 6. [Gravestone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) - Creates gravestones on death to preserve items
 7. [Gravestone Curios Compat](https://www.curseforge.com/minecraft/mc-mods/gravestone-curios-compat) - Compatibility between Gravestone and Curios API
+8. [Charm of Undying](https://www.curseforge.com/minecraft/mc-mods/charm-of-undying) - Totem of Undying as a Curios charm
+9. [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) - Sleeping bags and hammocks for on-the-go rest
 
 ### Technology & Automation Mods
 
@@ -172,6 +179,8 @@ Magivnicent World includes the following mods:
 13. [Create OTBWG Compat](https://www.curseforge.com/minecraft/mc-mods/create-otbwg-compat) - Create and Oh The Biomes We've Gone compatibility
 14. [Recruits](https://www.curseforge.com/minecraft/mc-mods/recruits) - Recruit and manage NPC companions for automation
 15. [Workers](https://www.curseforge.com/minecraft/mc-mods/workers) - Hire workers to automate tasks
+16. [AstikorCarts](https://www.curseforge.com/minecraft/mc-mods/astikorcarts) - Horse-drawn carts and transportation
+17. [Simply Steel](https://www.curseforge.com/minecraft/mc-mods/simply-steel) - Steel production and tools
 
 ### Magic & Adventure Mods
 
@@ -204,6 +213,7 @@ Magivnicent World includes the following mods:
 9. [Secrets of Forging Revelations](https://www.curseforge.com/minecraft/mc-mods/secrets-of-forging-revelations) - Advanced smithing mechanics
 10. [Dummmmmmy](https://www.curseforge.com/minecraft/mc-mods/dummmmmmy) - Target dummy for testing combat damage and DPS
 11. [Better Farmer's Combat](https://www.curseforge.com/minecraft/mc-mods/better-farmers-combat) - Farmer's Delight weapons with Better Combat compatibility
+12. [Fabulous Fletching](https://www.curseforge.com/minecraft/mc-mods/fabulous-fletching) - Enhanced arrow crafting and fletching table functionality
 
 ### Food & Farming Mods
 
@@ -246,6 +256,9 @@ Magivnicent World includes the following mods:
 1. [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) - Vanilla-style improvements and additions
 2. [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) - Decorative blocks and utilities
 3. [Amendments](https://www.curseforge.com/minecraft/mc-mods/amendments) - Additions to vanilla features
+4. [Fairy Lights](https://www.curseforge.com/minecraft/mc-mods/fairylights) - Decorative string lights
+5. [Floral Enchantment](https://www.curseforge.com/minecraft/mc-mods/floral-enchantment) - Decorative flowers and floral arrangements
+6. [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes) - Decorative wind chimes with ambient sounds
 
 ### World, Wildlife & Structures
 
