@@ -172,6 +172,16 @@ Magivnicent World includes the following mods:
 2. [Arcane Additions](https://www.curseforge.com/minecraft/mc-mods/arcane-additions) - Additional magical items and enchantments for Mana and Artifice
 3. [End Remastered](https://www.curseforge.com/minecraft/mc-mods/endremastered) - Overhauls End dimension access with 12 unique eyes
 4. [Integrated Stronghold](https://www.curseforge.com/minecraft/mc-mods/integrated-stronghold) - Enhanced stronghold structures
+5. [YUNG's Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples) - Complete desert temple overhaul
+6. [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons) - Improved dungeon generation
+7. [YUNG's Better End Island](https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island) - Enhanced End dimension island
+8. [YUNG's Better Jungle Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples) - Redesigned jungle temples
+9. [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts) - Enhanced mineshaft structures
+10. [YUNG's Better Nether Fortresses](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses) - Improved Nether fortress generation
+11. [YUNG's Better Ocean Monuments](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments) - Redesigned ocean monuments
+12. [YUNG's Better Witch Huts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts) - Enhanced witch hut structures
+13. [Hopo Better Ruined Portals](https://www.curseforge.com/minecraft/mc-mods/hopo-better-ruined-portals) - Enhanced ruined portal structures
+14. [Hopo Better Underwater Ruins](https://www.curseforge.com/minecraft/mc-mods/hopo-better-underwater-ruins) - Improved underwater ruins
 5. [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships) - Build and sail custom ships
 
 ### Combat & Weapons Mods
@@ -210,6 +220,7 @@ Magivnicent World includes the following mods:
 20. [Farmer'd Naturalist Compat](https://www.curseforge.com/minecraft/mc-mods/farmerd-naturalist-compat) - Naturalist and Farmer's Delight compatibility
 21. [Quark Delight](https://www.curseforge.com/minecraft/mc-mods/quark-delight) - Quark and Farmer's Delight integration
 22. [Farmers Cutting Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/farmers-cutting-biomes-o-plenty) - Farmer's Delight cutting board support for BOP woods
+23. [Aquaculture Delight](https://www.curseforge.com/minecraft/mc-mods/aquaculture-delight) - Aquaculture and Farmer's Delight integration
 
 ### Building & Decoration Mods
 
@@ -231,6 +242,8 @@ Magivnicent World includes the following mods:
 10. [Lithostitched](https://www.curseforge.com/minecraft/mc-mods/lithostitched) - World generation customization
 11. [Biome Replacer](https://www.curseforge.com/minecraft/mc-mods/biome-replacer) - Biome replacement and configuration
 12. [Tax' Village Architect](https://www.curseforge.com/minecraft/mc-mods/tax-village-architect) - Enhanced village structures
+13. [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture) - Expands fishing and water content
+14. [YUNG's Cave Biomes](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes) - Adds underground biome variety
 
 ### Technical/Backend Mods
 
