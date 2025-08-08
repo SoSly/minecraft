@@ -60,6 +60,7 @@ Magivnicent World includes the following mods:
 24. [Integrated API](https://www.curseforge.com/minecraft/mc-mods/integrated-api) - API for Integrated mods
 25. [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib) - Text formatting and coloring library
 26. [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil) - Utility library for various mods
+27. [Let's Do API](https://www.curseforge.com/minecraft/mc-mods/do-api) - API for Let's Do mod series
 
 ### Performance & Optimization Mods
 
@@ -119,23 +120,24 @@ Magivnicent World includes the following mods:
 ### Utility & Information Mods
 
 1. [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) - Food/hunger information
-2. [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) - Enchantment tooltips
-3. [Highlighter](https://www.curseforge.com/minecraft/mc-mods/highlighter) - Block highlighting
-4. [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) - WAILA alternative (block info)
-5. [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons) - Additional Jade integrations
-6. [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) - Recipe viewer
-7. [Just Enough Effect Descriptions (JEED)](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed) - JEI enchantment descriptions
-8. [Just Enough Breeding](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding) - Breeding information for JEI
-9. [Just Enough Professions (JEP)](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep) - Villager profession info for JEI
-10. [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) - Resource information for JEI
-11. [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) - Map and waypoints
-12. [Loot Journal](https://www.curseforge.com/minecraft/mc-mods/loot-journal) - Loot tracking
-13. [Passive Search Bar](https://www.curseforge.com/minecraft/mc-mods/passive-searchbar) - Search bar functionality
-14. [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) - Searchable containers
-15. [Quark Ponders](https://www.curseforge.com/minecraft/mc-mods/quark-ponders) - Visual guides for Quark features
-16. [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) - Enhanced item tooltips with borders
-17. [What Are They Up To (WATUT)](https://www.curseforge.com/minecraft/mc-mods/watut) - Shows when other players are in menus
-18. [Ping Wheel](https://www.curseforge.com/minecraft/mc-mods/ping-wheel) - Radial menu for marking and pinging locations
+2. [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs) - Break only half of double slabs
+3. [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) - Enchantment tooltips
+4. [Highlighter](https://www.curseforge.com/minecraft/mc-mods/highlighter) - Block highlighting
+5. [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) - WAILA alternative (block info)
+6. [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons) - Additional Jade integrations
+7. [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) - Recipe viewer
+8. [Just Enough Effect Descriptions (JEED)](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed) - JEI enchantment descriptions
+9. [Just Enough Breeding](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding) - Breeding information for JEI
+10. [Just Enough Professions (JEP)](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep) - Villager profession info for JEI
+11. [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) - Resource information for JEI
+12. [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) - Map and waypoints
+13. [Loot Journal](https://www.curseforge.com/minecraft/mc-mods/loot-journal) - Loot tracking
+14. [Passive Search Bar](https://www.curseforge.com/minecraft/mc-mods/passive-searchbar) - Search bar functionality
+15. [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) - Searchable containers
+16. [Quark Ponders](https://www.curseforge.com/minecraft/mc-mods/quark-ponders) - Visual guides for Quark features
+17. [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) - Enhanced item tooltips with borders
+18. [What Are They Up To (WATUT)](https://www.curseforge.com/minecraft/mc-mods/watut) - Shows when other players are in menus
+19. [Ping Wheel](https://www.curseforge.com/minecraft/mc-mods/ping-wheel) - Radial menu for marking and pinging locations
 
 ### Client-side Feature Mods
 
@@ -201,6 +203,7 @@ Magivnicent World includes the following mods:
 8. [Tetratic Combat Expanded](https://www.curseforge.com/minecraft/mc-mods/tetratic-combat-expanded) - Enhanced combat features for Tetra
 9. [Secrets of Forging Revelations](https://www.curseforge.com/minecraft/mc-mods/secrets-of-forging-revelations) - Advanced smithing mechanics
 10. [Dummmmmmy](https://www.curseforge.com/minecraft/mc-mods/dummmmmmy) - Target dummy for testing combat damage and DPS
+11. [Better Farmer's Combat](https://www.curseforge.com/minecraft/mc-mods/better-farmers-combat) - Farmer's Delight weapons with Better Combat compatibility
 
 ### Food & Farming Mods
 
@@ -227,6 +230,16 @@ Magivnicent World includes the following mods:
 21. [Quark Delight](https://www.curseforge.com/minecraft/mc-mods/quark-delight) - Quark and Farmer's Delight integration
 22. [Farmers Cutting Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/farmers-cutting-biomes-o-plenty) - Farmer's Delight cutting board support for BOP woods
 23. [Aquaculture Delight](https://www.curseforge.com/minecraft/mc-mods/aquaculture-delight) - Aquaculture and Farmer's Delight integration
+24. [Let's Do: Bakery](https://www.curseforge.com/minecraft/mc-mods/lets-do-bakery) - Baking and bakery-themed content
+25. [Let's Do: Brewery](https://www.curseforge.com/minecraft/mc-mods/lets-do-brewery) - Brewing and beverage crafting
+26. [Let's Do: Candlelight](https://www.curseforge.com/minecraft/mc-mods/lets-do-candlelight) - Decorative lighting and dining (disabled)
+27. [Let's Do: Farm & Charm](https://www.curseforge.com/minecraft/mc-mods/lets-do-farm-and-charm) - Farming decorations and furniture
+28. [Let's Do: Furniture](https://www.curseforge.com/minecraft/mc-mods/lets-do-furniture) - Various furniture pieces
+29. [Let's Do: Herbal Brews](https://www.curseforge.com/minecraft/mc-mods/lets-do-herbal-brews) - Tea brewing and herbal drinks
+30. [Let's Do: Meadow](https://www.curseforge.com/minecraft/mc-mods/lets-do-meadow) - Cheese making and meadow content
+31. [Let's Do: Vinery](https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery) - Wine making and vineyard content
+32. [Let's Do: Applewood](https://www.curseforge.com/minecraft/mc-mods/lets-do-applewood) - Apple-themed content (disabled)
+33. [Let's Do Compat](https://www.curseforge.com/minecraft/mc-mods/lets-do-compat) - Compatibility patches for Let's Do mod series
 
 ### Building & Decoration Mods
 
