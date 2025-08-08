@@ -135,6 +135,7 @@ Magivnicent World includes the following mods:
 15. [Quark Ponders](https://www.curseforge.com/minecraft/mc-mods/quark-ponders) - Visual guides for Quark features
 16. [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) - Enhanced item tooltips with borders
 17. [What Are They Up To (WATUT)](https://www.curseforge.com/minecraft/mc-mods/watut) - Shows when other players are in menus
+18. [Ping Wheel](https://www.curseforge.com/minecraft/mc-mods/ping-wheel) - Radial menu for marking and pinging locations
 
 ### Client-side Feature Mods
 
@@ -147,6 +148,10 @@ Magivnicent World includes the following mods:
 1. [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios) - Equipment slots API
 2. [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph) - Resolves recipe conflicts
 3. [Better Days](https://www.curseforge.com/minecraft/mc-mods/better-days) - Longer day/night cycles and time progression
+4. [Player Revive](https://www.curseforge.com/minecraft/mc-mods/player-revive) - Allows players to revive each other after being downed
+5. [Better Safe Bed](https://www.curseforge.com/minecraft/mc-mods/better-safe-bed) - Bed safety improvements and spawn protection
+6. [Gravestone](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) - Creates gravestones on death to preserve items
+7. [Gravestone Curios Compat](https://www.curseforge.com/minecraft/mc-mods/gravestone-curios-compat) - Compatibility between Gravestone and Curios API
 
 ### Technology & Automation Mods
 
@@ -195,6 +200,7 @@ Magivnicent World includes the following mods:
 7. [Tetra's Delight](https://www.curseforge.com/minecraft/mc-mods/tetras-delight) - Farmer's Delight integration for Tetra
 8. [Tetratic Combat Expanded](https://www.curseforge.com/minecraft/mc-mods/tetratic-combat-expanded) - Enhanced combat features for Tetra
 9. [Secrets of Forging Revelations](https://www.curseforge.com/minecraft/mc-mods/secrets-of-forging-revelations) - Advanced smithing mechanics
+10. [Dummmmmmy](https://www.curseforge.com/minecraft/mc-mods/dummmmmmy) - Target dummy for testing combat damage and DPS
 
 ### Food & Farming Mods
 
