@@ -14,20 +14,29 @@ A fresh Minecraft 1.20.1 modpack built on Forge.
 
 ## Server Economy
 
-The server uses **Gold Coins** (`createdeco:gold_coin`) as the primary currency. 
+The server uses a tiered coin-based economy powered by Create Deco coins and custom KubeJS scripts.
 
-**Exchange Rate:** 10 gold coins = 1 real-life day's wages for Villagers
+### Currency Tiers
+The economy follows a 10:1 exchange ratio between tiers:
+- **Copper Coins** - Base currency (Novice villagers)
+- **Iron Coins** - 10 copper = 1 iron (Apprentice villagers)
+- **Gold Coins** - 10 iron = 1 gold (Journeyman villagers)
+- **Brass Coins** - 10 gold = 1 brass (Expert/Master villagers)
+- **Diamonds** - 10 brass = 1 diamond (trade commodity, not a coin)
+- **Netherite Coins** - 10 diamonds = 1 netherite (end-game currency)
+
+### Economy Features
+- **Automatic Trade Conversion** - All emerald trades are automatically converted to tier-appropriate coins
+- **Banker Villager** (VLP mod) - Exchanges coins between tiers with a 10% service fee
+  - Upgrading: Pay 11 lower coins to get 1 higher coin
+  - Downgrading: Pay 1 higher coin to get 8 lower coins
+- **Coin Minting** - Players can craft coins from ingots using Create Deco recipes
+- **Villager Integration** - Villagers now buy/sell with coins based on their profession level
 
 This currency system is integrated with:
 - **Recruits mod** - Hire and pay NPC companions
 - **Workers mod** - Pay workers for automated tasks
-
-### Planned Economy Features
-- Multi-tier coin system using all Create Deco coins (Copper, Iron, Industrial Iron, Gold, Zinc, Netherite)
-- Coin Exchanger NPC for converting between currency tiers
-- Gemcutter NPC for purchasing gems with coins
-- Complete overhaul of villager trading to use coins instead of emeralds
-- Tier-appropriate trades based on villager profession level
+- **Villager Literacy Program (VLP)** - Adds the banker profession and expanded villager functionality
 
 ## Mod List
 Magivnicent World includes the following mods:

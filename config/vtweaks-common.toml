@@ -22,7 +22,7 @@
 	#If enabled, all bees will always be half-sized. Does not affect breeding or hitboxes
 	enableSmallBees = true
 	#Enable colored particles for challenger mobs (dependent on particle setting as well)
-	enableChallengerMobParticles = true
+	enableChallengerMobParticles = false
 
 [entity]
 	#If set to "OWNER", this will prevent owners of pets from attacking their own pet. If set to "ALL", this prevents all players from attacking anyone's pet
@@ -40,7 +40,7 @@
 
 	[entity.challengers]
 		#A data-driven way to make some special mobs with abilities, effects, specialized loot and more!
-		enableChallengerMobs = true
+		enableChallengerMobs = false
 		#This controls the overall chance for V-Tweaks to attempt converting a monster to a Challenger.
 		#This chance is applied before any Challenger Mob weights or entity filters.
 		#Range: 0.0 ~ 1.0

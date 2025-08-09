@@ -1,0 +1,4 @@
+#The number of ticks between each level up for villagers
+#Range: > 20
+level_up_time = 24000
+
