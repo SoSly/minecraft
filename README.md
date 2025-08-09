@@ -321,3 +321,15 @@ Magivnicent World includes the following mods:
 10. [LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs) - Loot table modification via JavaScript
 11. [MnaJS](https://www.curseforge.com/minecraft/mc-mods/mnajs) - Mana and Artifice integration for KubeJS
 12. [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) - Fixes nether portal linking bugs
+
+## Resource Packs
+
+The following resource packs are included to enhance the visual experience:
+
+1. **Apples Revamped** - Enhanced apple textures and variations
+2. **Fusion 3D Items** v1.0.0 - Adds 3D models to various items for more realistic appearance
+3. **Fusion Block Transitions** v1.0.1 - Smooth transitions between connected blocks
+4. **Fusion Connected Blocks** v1.0.1 - Connected textures for various blocks
+5. **Fusion Connected Glass** v1.0.0 - Seamless connected glass textures
+6. **Fusion Stacking Items** v1.0.0 - Visual stacking effects for dropped items
+7. **Quark Programmer Art** - Classic programmer art style textures for Quark mod content
