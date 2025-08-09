@@ -130,33 +130,34 @@ Magivnicent World includes the following mods:
 ### Utility & Information Mods
 
 1. [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) - Food/hunger information
-2. [Bundle Craft Plus](https://www.curseforge.com/minecraft/mc-mods/bundlecraftplus) - Enhanced bundle crafting and functionality
-3. [CHA-S](https://www.curseforge.com/minecraft/mc-mods/cha-s) - Craftable horse armor and saddles
-4. [Craftable Chainmail](https://www.curseforge.com/minecraft/mc-mods/craftable-chainmail) - Craft chainmail armor with chains
-5. [Crafter Port](https://www.curseforge.com/minecraft/mc-mods/crafter-port) - Backports the crafter block
-6. [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) - Enchantment tooltips
-7. [Highlighter](https://www.curseforge.com/minecraft/mc-mods/highlighter) - Block highlighting
-8. [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) - WAILA alternative (block info)
-9. [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons) - Additional Jade integrations
-10. [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) - Map and waypoints
-11. [Just Enough Breeding](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding) - Breeding information for JEI
-12. [Just Enough Effect Descriptions (JEED)](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed) - JEI enchantment descriptions
-13. [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) - Recipe viewer
-14. [Just Enough Professions (JEP)](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep) - Villager profession info for JEI
-15. [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) - Resource information for JEI
-16. [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs) - Break only half of double slabs
-17. [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) - Enhanced item tooltips with borders
-18. [Loot Journal](https://www.curseforge.com/minecraft/mc-mods/loot-journal) - Loot tracking
-19. [Passable Foliage](https://www.curseforge.com/minecraft/mc-mods/passablefoliage) - Walk through leaves and other foliage
-20. [Passive Search Bar](https://www.curseforge.com/minecraft/mc-mods/passive-searchbar) - Search bar functionality
-21. [Path Under Gates](https://www.curseforge.com/minecraft/mc-mods/path-under-gates) - Walk under fence gates
-22. [Ping Wheel](https://www.curseforge.com/minecraft/mc-mods/ping-wheel) - Radial menu for marking and pinging locations
-23. [Quark Ponders](https://www.curseforge.com/minecraft/mc-mods/quark-ponders) - Visual guides for Quark features
-24. [Scaffolding Drops Nearby](https://www.curseforge.com/minecraft/mc-mods/scaffolding-drops-nearby) - Scaffolding drops at player location
-25. [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) - Searchable containers
-26. [VTweaks](https://www.curseforge.com/minecraft/mc-mods/vtweaks) - Various vanilla tweaks and improvements
-27. [What Are They Up To (WATUT)](https://www.curseforge.com/minecraft/mc-mods/watut) - Shows when other players are in menus
-28. [Wool to String](https://www.curseforge.com/minecraft/mc-mods/wool-to-string) - Convert wool back to string
+2. [BlueMap](https://www.curseforge.com/minecraft/mc-mods/bluemap) - 3D web-based world map (disabled by default)
+3. [Bundle Craft Plus](https://www.curseforge.com/minecraft/mc-mods/bundlecraftplus) - Enhanced bundle crafting and functionality
+4. [CHA-S](https://www.curseforge.com/minecraft/mc-mods/cha-s) - Craftable horse armor and saddles
+5. [Craftable Chainmail](https://www.curseforge.com/minecraft/mc-mods/craftable-chainmail) - Craft chainmail armor with chains
+6. [Crafter Port](https://www.curseforge.com/minecraft/mc-mods/crafter-port) - Backports the crafter block
+7. [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions) - Enchantment tooltips
+8. [Highlighter](https://www.curseforge.com/minecraft/mc-mods/highlighter) - Block highlighting
+9. [Jade](https://www.curseforge.com/minecraft/mc-mods/jade) - WAILA alternative (block info)
+10. [Jade Addons](https://www.curseforge.com/minecraft/mc-mods/jade-addons) - Additional Jade integrations
+11. [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) - Map and waypoints
+12. [Just Enough Breeding](https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding) - Breeding information for JEI
+13. [Just Enough Effect Descriptions (JEED)](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed) - JEI enchantment descriptions
+14. [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei) - Recipe viewer
+15. [Just Enough Professions (JEP)](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep) - Villager profession info for JEI
+16. [Just Enough Resources (JER)](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) - Resource information for JEI
+17. [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs) - Break only half of double slabs
+18. [Legendary Tooltips](https://www.curseforge.com/minecraft/mc-mods/legendary-tooltips) - Enhanced item tooltips with borders
+19. [Loot Journal](https://www.curseforge.com/minecraft/mc-mods/loot-journal) - Loot tracking
+20. [Passable Foliage](https://www.curseforge.com/minecraft/mc-mods/passablefoliage) - Walk through leaves and other foliage
+21. [Passive Search Bar](https://www.curseforge.com/minecraft/mc-mods/passive-searchbar) - Search bar functionality
+22. [Path Under Gates](https://www.curseforge.com/minecraft/mc-mods/path-under-gates) - Walk under fence gates
+23. [Ping Wheel](https://www.curseforge.com/minecraft/mc-mods/ping-wheel) - Radial menu for marking and pinging locations
+24. [Quark Ponders](https://www.curseforge.com/minecraft/mc-mods/quark-ponders) - Visual guides for Quark features
+25. [Scaffolding Drops Nearby](https://www.curseforge.com/minecraft/mc-mods/scaffolding-drops-nearby) - Scaffolding drops at player location
+26. [Searchables](https://www.curseforge.com/minecraft/mc-mods/searchables) - Searchable containers
+27. [VTweaks](https://www.curseforge.com/minecraft/mc-mods/vtweaks) - Various vanilla tweaks and improvements
+28. [What Are They Up To (WATUT)](https://www.curseforge.com/minecraft/mc-mods/watut) - Shows when other players are in menus
+29. [Wool to String](https://www.curseforge.com/minecraft/mc-mods/wool-to-string) - Convert wool back to string
 
 ### Client-side Feature Mods
 
@@ -249,7 +250,7 @@ Magivnicent World includes the following mods:
 12. [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) - Cooking and farming expansion
 13. [Fruits Delight](https://www.curseforge.com/minecraft/mc-mods/fruits-delight) - Fruit cultivation and recipes
 14. [Haunted Harvest](https://www.curseforge.com/minecraft/mc-mods/haunted-harvest) - Spooky seasonal foods
-15. [Let's Do Compat](https://www.curseforge.com/minecraft/mc-mods/lets-do-compat) - Compatibility patches for Let's Do mod series
+15. [Let's Do Compat](https://www.curseforge.com/minecraft/mc-mods/lets-do-addon-compat) - Compatibility patches for Let's Do mod series
 16. [Let's Do: Applewood](https://www.curseforge.com/minecraft/mc-mods/lets-do-applewood) - Apple-themed content (disabled)
 17. [Let's Do: Bakery](https://www.curseforge.com/minecraft/mc-mods/lets-do-bakery) - Baking and bakery-themed content
 18. [Let's Do: Brewery](https://www.curseforge.com/minecraft/mc-mods/lets-do-brewery) - Brewing and beverage crafting
@@ -320,7 +321,8 @@ Magivnicent World includes the following mods:
 9. [KubeJS Delight](https://www.curseforge.com/minecraft/mc-mods/kubejs-delight) - Farmer's Delight integration for KubeJS
 10. [LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs) - Loot table modification via JavaScript
 11. [MnaJS](https://www.curseforge.com/minecraft/mc-mods/mnajs) - Mana and Artifice integration for KubeJS
-12. [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) - Fixes nether portal linking bugs
+12. [MoreJS](https://www.curseforge.com/minecraft/mc-mods/morejs) - Extended JavaScript capabilities for KubeJS
+13. [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) - Fixes nether portal linking bugs
 
 ## Resource Packs
 
@@ -333,3 +335,10 @@ The following resource packs are included to enhance the visual experience:
 5. **Fusion Connected Glass** v1.0.0 - Seamless connected glass textures
 6. **Fusion Stacking Items** v1.0.0 - Visual stacking effects for dropped items
 7. **Quark Programmer Art** - Classic programmer art style textures for Quark mod content
+
+## Shader Packs
+
+Enhanced visual effects through Oculus shader support:
+
+1. **Complementary Unbound** r5.5.1 - High-quality shader pack with realistic lighting and atmospheric effects
+2. **Euphoria Patches** 1.6.5 - Compatibility patches for enhanced shader performance (active with Complementary Unbound)
