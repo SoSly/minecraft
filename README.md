@@ -63,6 +63,11 @@ Magivnicent World includes the following mods:
 27. [Let's Do API](https://www.curseforge.com/minecraft/mc-mods/do-api) - API for Let's Do mod series
 28. [Collective](https://www.curseforge.com/minecraft/mc-mods/collective) - Common library for Serilum's mods
 29. [Kiwi](https://www.curseforge.com/minecraft/mc-mods/kiwi) - Library for various mods
+30. [InsaneLib](https://www.curseforge.com/minecraft/mc-mods/insanelib) - Library for progressive bosses and other mods
+31. [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourcefullib) - Library for various mods
+32. [Caelus](https://www.curseforge.com/minecraft/mc-mods/caelus) - Elytra slot API
+33. [Crafted Core](https://www.curseforge.com/minecraft/mc-mods/crafted-core) - Core library for various mods
+34. [Athena](https://www.curseforge.com/minecraft/mc-mods/athena) - Baked model loader with connected textures support
 
 ### Performance & Optimization Mods
 
@@ -106,6 +111,8 @@ Magivnicent World includes the following mods:
 11. [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - Dynamic footstep sounds
 12. [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes) - Animated capes
 13. [Fusion](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures) - Connected textures support
+14. [Immersive Paintings](https://www.curseforge.com/minecraft/mc-mods/immersive-paintings) - Custom paintings system
+15. [Area Effect Cloud 3D](https://www.curseforge.com/minecraft/mc-mods/area-effect-cloud-3d) - 3D area effect clouds
 
 ### UI/Menu Mods
 
@@ -147,6 +154,9 @@ Magivnicent World includes the following mods:
 23. [CHA-S](https://www.curseforge.com/minecraft/mc-mods/cha-s) - Craftable horse armor and saddles
 24. [Craftable Chainmail](https://www.curseforge.com/minecraft/mc-mods/craftable-chainmail) - Craft chainmail armor with chains
 25. [Wool to String](https://www.curseforge.com/minecraft/mc-mods/wool-to-string) - Convert wool back to string
+26. [VTweaks](https://www.curseforge.com/minecraft/mc-mods/vtweaks) - Various vanilla tweaks and improvements
+27. [Path Under Gates](https://www.curseforge.com/minecraft/mc-mods/path-under-gates) - Walk under fence gates
+28. [Crafter Port](https://www.curseforge.com/minecraft/mc-mods/crafter-port) - Backports the crafter block
 
 ### Client-side Feature Mods
 
@@ -165,6 +175,10 @@ Magivnicent World includes the following mods:
 7. [Gravestone Curios Compat](https://www.curseforge.com/minecraft/mc-mods/gravestone-curios-compat) - Compatibility between Gravestone and Curios API
 8. [Charm of Undying](https://www.curseforge.com/minecraft/mc-mods/charm-of-undying) - Totem of Undying as a Curios charm
 9. [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) - Sleeping bags and hammocks for on-the-go rest
+10. [Elytra Slot](https://www.curseforge.com/minecraft/mc-mods/elytraslot) - Adds dedicated elytra equipment slot
+11. [Progressive Bosses](https://www.curseforge.com/minecraft/mc-mods/progressive-bosses) - Bosses get stronger as players progress
+12. [Walkers](https://www.curseforge.com/minecraft/mc-mods/walkers) - Transform into and play as mobs
+13. [Bad Wither No Cookie - Reloaded](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded) - Removes server-wide boss sounds
 
 ### Technology & Automation Mods
 
@@ -263,6 +277,17 @@ Magivnicent World includes the following mods:
 4. [Fairy Lights](https://www.curseforge.com/minecraft/mc-mods/fairylights) - Decorative string lights
 5. [Floral Enchantment](https://www.curseforge.com/minecraft/mc-mods/floral-enchantment) - Decorative flowers and floral arrangements
 6. [Chimes](https://www.curseforge.com/minecraft/mc-mods/chimes) - Decorative wind chimes with ambient sounds
+7. [Additional Banners](https://www.curseforge.com/minecraft/mc-mods/additional-banners) - More banner patterns and designs
+8. [All The Wood We've Got](https://www.curseforge.com/minecraft/mc-mods/all-the-wood-weve-got) - Wood variants for all items
+9. [Beautify](https://www.curseforge.com/minecraft/mc-mods/beautify) - Decorative blocks and furniture
+10. [Bedspreads](https://www.curseforge.com/minecraft/mc-mods/bedspreads) - Decorative bed covers
+11. [Chipped](https://www.curseforge.com/minecraft/mc-mods/chipped) - Thousands of block variants via workbenches
+12. [Create Chipped](https://www.curseforge.com/minecraft/mc-mods/create-chipped) - Create and Chipped mod integration
+13. [Copper and Tuff Backport](https://www.curseforge.com/minecraft/mc-mods/copper-and-tuff-backport) - Backports copper and tuff features
+14. [Handcrafted](https://www.curseforge.com/minecraft/mc-mods/handcrafted) - Decorative furniture and blocks
+15. [Immersive Weathering](https://www.curseforge.com/minecraft/mc-mods/immersive-weathering) - Block weathering and aging mechanics
+16. [Perfect Plushies](https://www.curseforge.com/minecraft/mc-mods/perfect-plushies) - Collectible plushie toys
+17. [Supplementaries Squared](https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared) - Additional content for Supplementaries
 
 ### World, Wildlife & Structures
 
@@ -280,6 +305,7 @@ Magivnicent World includes the following mods:
 12. [Tax' Village Architect](https://www.curseforge.com/minecraft/mc-mods/tax-village-architect) - Enhanced village structures
 13. [Aquaculture 2](https://www.curseforge.com/minecraft/mc-mods/aquaculture) - Expands fishing and water content
 14. [YUNG's Cave Biomes](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes) - Adds underground biome variety
+15. [Pretty Beaches](https://www.curseforge.com/minecraft/mc-mods/pretty-beaches) - Enhanced beach generation
 
 ### Technical/Backend Mods
 
@@ -294,3 +320,4 @@ Magivnicent World includes the following mods:
 9. [LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs) - Loot table modification via JavaScript
 10. [MnaJS](https://www.curseforge.com/minecraft/mc-mods/mnajs) - Mana and Artifice integration for KubeJS
 11. [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) - Fixes nether portal linking bugs
+12. [Almost Unified](https://www.curseforge.com/minecraft/mc-mods/almost-unified) - Unifies item recipes and tags across mods
