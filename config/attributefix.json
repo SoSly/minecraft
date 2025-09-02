@@ -66,6 +66,17 @@
         "value": 2048
       }
     },
+    "vminus:width": {
+      "enabled": false,
+      "min": {
+        "default": 0.2,
+        "value": 0.2
+      },
+      "max": {
+        "default": 5,
+        "value": 5
+      }
+    },
     "minecraft:generic.attack_speed": {
       "enabled": true,
       "min": {
@@ -86,6 +97,17 @@
       "max": {
         "default": 2048,
         "value": 1000000
+      }
+    },
+    "vminus:height": {
+      "enabled": false,
+      "min": {
+        "default": 0.2,
+        "value": 0.2
+      },
+      "max": {
+        "default": 5,
+        "value": 5
       }
     },
     "minecraft:generic.luck": {
@@ -148,6 +170,17 @@
       "min": {
         "default": -100,
         "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "vminus:jump_boost": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
       },
       "max": {
         "default": 100,
