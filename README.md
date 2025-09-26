@@ -104,6 +104,7 @@ Magivnicent World includes the following mods:
 22. [Spark](https://www.curseforge.com/minecraft/mc-mods/spark) - Performance profiler
 23. [Structure Essentials](https://www.curseforge.com/minecraft/mc-mods/structure-essentials) - Structure generation performance improvements
 24. [Too Fast](https://www.curseforge.com/minecraft/mc-mods/toofast) - Optimizations for faster game performance
+25. [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) - Pre-generates chunks to reduce exploration lag
 
 ### Visual Enhancement Mods
 
@@ -218,15 +219,17 @@ Magivnicent World includes the following mods:
 4. [Hopo Better Underwater Ruins](https://www.curseforge.com/minecraft/mc-mods/hopo-better-underwater-ruins) - Improved underwater ruins
 5. [Integrated Stronghold](https://www.curseforge.com/minecraft/mc-mods/integrated-stronghold) - Enhanced stronghold structures
 6. [Mana and Artifice](https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice) - Comprehensive magic system with rituals and spells
-7. [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships) - Build and sail custom ships
-8. [YUNG's Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples) - Complete desert temple overhaul
-9. [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons) - Improved dungeon generation
-10. [YUNG's Better End Island](https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island) - Enhanced End dimension island
-11. [YUNG's Better Jungle Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples) - Redesigned jungle temples
-12. [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts) - Enhanced mineshaft structures
-13. [YUNG's Better Nether Fortresses](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses) - Improved Nether fortress generation
-14. [YUNG's Better Ocean Monuments](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments) - Redesigned ocean monuments
-15. [YUNG's Better Witch Huts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts) - Enhanced witch hut structures
+7. [M&A Witchcraft](https://www.curseforge.com/minecraft/mc-mods/mna-witchcraft) - Witchcraft expansion for Mana and Artifice
+8. [Mystic Alchemy](https://www.curseforge.com/minecraft/mc-mods/mystic-alchemy) - Alchemical magic and transmutation system
+9. [Small Ships](https://www.curseforge.com/minecraft/mc-mods/small-ships) - Build and sail custom ships
+10. [YUNG's Better Desert Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples) - Complete desert temple overhaul
+11. [YUNG's Better Dungeons](https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons) - Improved dungeon generation
+12. [YUNG's Better End Island](https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island) - Enhanced End dimension island
+13. [YUNG's Better Jungle Temples](https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples) - Redesigned jungle temples
+14. [YUNG's Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts) - Enhanced mineshaft structures
+15. [YUNG's Better Nether Fortresses](https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses) - Improved Nether fortress generation
+16. [YUNG's Better Ocean Monuments](https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments) - Redesigned ocean monuments
+17. [YUNG's Better Witch Huts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts) - Enhanced witch hut structures
 
 ### Combat & Weapons Mods
 
