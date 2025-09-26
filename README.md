@@ -34,8 +34,6 @@ The economy follows a 10:1 exchange ratio between tiers:
 - **Villager Integration** - Villagers now buy/sell with coins based on their profession level
 
 This currency system is integrated with:
-- **Recruits mod** - Hire and pay NPC companions
-- **Workers mod** - Pay workers for automated tasks
 - **Villager Literacy Program (VLP)** - Adds the banker profession and expanded villager functionality
 
 ## Mod List
@@ -63,20 +61,24 @@ Magivnicent World includes the following mods:
 18. [InsaneLib](https://www.curseforge.com/minecraft/mc-mods/insanelib) - Library for progressive bosses and other mods
 19. [Integrated API](https://www.curseforge.com/minecraft/mc-mods/integrated-api) - API for Integrated mods
 20. [Kiwi](https://www.curseforge.com/minecraft/mc-mods/kiwi) - Library for various mods
-21. [Let's Do API](https://www.curseforge.com/minecraft/mc-mods/do-api) - API for Let's Do mod series
-22. [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) - Configuration library
-23. [Mob Player Animator](https://www.curseforge.com/minecraft/mc-mods/mobplayeranimator) - Animation framework for mobs and players
-24. [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/moonlight) - Library framework for various mods
-25. [MUtil](https://www.curseforge.com/minecraft/mc-mods/mutil) - Utility library for Tetra mod
-26. [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) - Library framework
-27. [Player Animation Lib](https://www.curseforge.com/minecraft/mc-mods/playeranimator) - Animation library for combat mods
-28. [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib) - Text formatting and coloring library
-29. [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib) - Library for various mods
-30. [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourcefullib) - Library for various mods
-31. [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) - JavaScript engine for KubeJS
-32. [VMinus](https://www.curseforge.com/minecraft/mc-mods/vminus) - Library for Farmer's Delight compatibility mods (removes duplicate items)
-33. [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api) - API for YUNG's mods
-34. [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta) - Library for Quark mod
+21. [BaguetteLib](https://www.curseforge.com/minecraft/mc-mods/baguettelib) - Library for various mods  
+22. [Let's Do API](https://www.curseforge.com/minecraft/mc-mods/do-api) - API for Let's Do mod series
+23. [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) - Configuration library
+24. [Mob Player Animator](https://www.curseforge.com/minecraft/mc-mods/mobplayeranimator) - Animation framework for mobs and players
+25. [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/moonlight) - Library framework for various mods
+26. [MUtil](https://www.curseforge.com/minecraft/mc-mods/mutil) - Utility library for Tetra mod
+27. [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) - Library framework
+28. [Player Animation Lib](https://www.curseforge.com/minecraft/mc-mods/playeranimator) - Animation library for combat mods
+29. [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib) - Text formatting and coloring library
+30. [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib) - Library for various mods
+31. [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourcefullib) - Library for various mods
+32. [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) - JavaScript engine for KubeJS
+33. [VMinus](https://www.curseforge.com/minecraft/mc-mods/vminus) - Library for Farmer's Delight compatibility mods (removes duplicate items)
+34. [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api) - API for YUNG's mods
+35. [Carbon Config](https://www.curseforge.com/minecraft/mc-mods/carbonconfig) - Configuration library
+36. [Cracker's Lib](https://www.curseforge.com/minecraft/mc-mods/crackerslib) - Library for various mods
+37. [YACL (Yet Another Config Lib)](https://www.curseforge.com/minecraft/mc-mods/yacl) - Configuration library and UI
+38. [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta) - Library for Quark mod
 
 ### Performance & Optimization Mods
 
@@ -105,6 +107,7 @@ Magivnicent World includes the following mods:
 23. [Structure Essentials](https://www.curseforge.com/minecraft/mc-mods/structure-essentials) - Structure generation performance improvements
 24. [Too Fast](https://www.curseforge.com/minecraft/mc-mods/toofast) - Optimizations for faster game performance
 25. [Chunk Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator) - Pre-generates chunks to reduce exploration lag
+26. [Simple Block Physics](https://www.curseforge.com/minecraft/mc-mods/simpleblockphysics) - Adds physics to blocks
 
 ### Visual Enhancement Mods
 
@@ -122,7 +125,11 @@ Magivnicent World includes the following mods:
 12. [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) - More player animations
 13. [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) - Shader support (Iris port)
 14. [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - Dynamic footstep sounds
-15. [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes) - Animated capes
+15. [Cool Rain](https://www.curseforge.com/minecraft/mc-mods/coolrain) - Enhanced rain effects and weather
+16. [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particlerain) - Particle-based weather effects
+17. [Polytone](https://www.curseforge.com/minecraft/mc-mods/polytone) - Color and texture customization
+18. [Simple Clouds](https://www.curseforge.com/minecraft/mc-mods/simpleclouds) - Improved cloud rendering (disabled)
+19. [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes) - Animated capes
 
 ### UI/Menu Mods
 
@@ -194,7 +201,7 @@ Magivnicent World includes the following mods:
 ### Technology & Automation Mods
 
 1. [AstikorCarts](https://www.curseforge.com/minecraft/mc-mods/astikorcarts) - Horse-drawn carts and transportation
-2. [BOP Create Mod Rose Quartz](https://www.curseforge.com/minecraft/mc-mods/bop-create-mod-rose-quartz) - Biomes O' Plenty rose quartz integration for Create
+2. [Rose Quartz Compat](https://www.curseforge.com/minecraft/mc-mods/rosequartzcompat) - Biomes O' Plenty rose quartz integration for Create
 3. [Create](https://www.curseforge.com/minecraft/mc-mods/create) - Mechanical contraptions and automation
 4. [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco) - Decorative blocks for Create
 5. [Create Encased](https://www.curseforge.com/minecraft/mc-mods/create-encased) - Additional encased blocks for Create
@@ -207,9 +214,7 @@ Magivnicent World includes the following mods:
 12. [Create: Picky Wheels](https://www.curseforge.com/minecraft/mc-mods/create-picky-wheels) - Selective item transport for Create
 13. [Create: Rustic Structures](https://www.curseforge.com/minecraft/mc-mods/create-rustic-structures) - Pre-built structures for Create
 14. [Molten Metals](https://www.curseforge.com/minecraft/mc-mods/molten-metals) - Liquid metal mechanics
-15. [Recruits](https://www.curseforge.com/minecraft/mc-mods/recruits) - Recruit and manage NPC companions for automation
-16. [Simply Steel](https://www.curseforge.com/minecraft/mc-mods/simply-steel) - Steel production and tools
-17. [Workers](https://www.curseforge.com/minecraft/mc-mods/workers) - Hire workers to automate tasks
+15. [Simply Steel](https://www.curseforge.com/minecraft/mc-mods/simply-steel) - Steel production and tools
 
 ### Magic & Adventure Mods
 
@@ -297,10 +302,12 @@ Magivnicent World includes the following mods:
 11. [Floral Enchantment](https://www.curseforge.com/minecraft/mc-mods/floral-enchantment) - Decorative flowers and floral arrangements
 12. [Handcrafted](https://www.curseforge.com/minecraft/mc-mods/handcrafted) - Decorative furniture and blocks
 13. [Immersive Weathering](https://www.curseforge.com/minecraft/mc-mods/immersive-weathering) - Block weathering and aging mechanics
-14. [Perfect Plushies](https://www.curseforge.com/minecraft/mc-mods/perfect-plushies) - Collectible plushie toys
-15. [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) - Vanilla-style improvements and additions
-16. [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) - Decorative blocks and utilities
-17. [Supplementaries Squared](https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared) - Additional content for Supplementaries
+14. [D&Decor](https://www.curseforge.com/minecraft/mc-mods/dndecor) - Dungeons & Dragons themed decorative blocks
+15. [Flimsy Torches](https://www.curseforge.com/minecraft/mc-mods/flimsytorches) - Torches that burn out over time
+16. [Perfect Plushies](https://www.curseforge.com/minecraft/mc-mods/perfect-plushies) - Collectible plushie toys
+17. [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) - Vanilla-style improvements and additions
+18. [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) - Decorative blocks and utilities
+19. [Supplementaries Squared](https://www.curseforge.com/minecraft/mc-mods/supplementaries-squared) - Additional content for Supplementaries
 
 ### World, Wildlife & Structures
 
@@ -341,16 +348,17 @@ Magivnicent World includes the following mods:
 The following resource packs are included to enhance the visual experience:
 
 1. **Apples Revamped** - Enhanced apple textures and variations
-2. **Fusion 3D Items** v1.0.0 - Adds 3D models to various items for more realistic appearance
-3. **Fusion Block Transitions** v1.0.1 - Smooth transitions between connected blocks
-4. **Fusion Connected Blocks** v1.0.1 - Connected textures for various blocks
-5. **Fusion Connected Glass** v1.0.0 - Seamless connected glass textures
-6. **Fusion Stacking Items** v1.0.0 - Visual stacking effects for dropped items
-7. **Quark Programmer Art** - Classic programmer art style textures for Quark mod content
+2. **Fusion 3D Items** - Adds 3D models to various items for more realistic appearance
+3. **Fusion Block Transitions** - Smooth transitions between connected blocks
+4. **Fusion Connected Blocks** - Connected textures for various blocks
+5. **Fusion Connected Glass** - Seamless connected glass textures
+6. **Fusion Stacking Items** - Visual stacking effects for dropped items
+7. **Angel's Weather** - Enhanced weather and atmospheric effects  
+8. **Quark Programmer Art** - Classic programmer art style textures for Quark mod content
 
 ## Shader Packs
 
 Enhanced visual effects through Oculus shader support:
 
-1. **Complementary Unbound** r5.5.1 - High-quality shader pack with realistic lighting and atmospheric effects
-2. **Euphoria Patches** 1.6.5 - Compatibility patches for enhanced shader performance (active with Complementary Unbound)
+1. **Complementary Unbound** - High-quality shader pack with realistic lighting and atmospheric effects
+2. **Euphoria Patches** - Compatibility patches for enhanced shader performance (active with Complementary Unbound)

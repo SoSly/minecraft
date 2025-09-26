@@ -51,40 +51,22 @@
   },
   "structures": {
     "structures": {
-      "minecraft:ruined_portals": {
-        "spacing": 40,
-        "separation": 15,
-        "salt": 34222645,
-        "disabled": false
-      },
-      "minecraft:ancient_cities": {
-        "spacing": 24,
+      "tetra:forged_ruins": {
+        "spacing": 14,
         "separation": 8,
-        "salt": 20083232,
+        "salt": 746218233,
         "disabled": false
       },
-      "minecraft:ocean_ruins": {
-        "spacing": 20,
-        "separation": 8,
-        "salt": 14357621,
+      "mna:boss_structures": {
+        "spacing": 150,
+        "separation": 50,
+        "salt": 80248143,
         "disabled": false
       },
-      "minecraft:mineshafts": {
-        "spacing": 1,
-        "separation": 0,
-        "salt": 0,
-        "disabled": false
-      },
-      "minecraft:jungle_temples": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 14357619,
-        "disabled": false
-      },
-      "minecraft:pillager_outposts": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 165745296,
+      "bakery:bakery": {
+        "spacing": 128,
+        "separation": 64,
+        "salt": 246813,
         "disabled": false
       },
       "minecraft:igloos": {
@@ -93,16 +75,10 @@
         "salt": 14357618,
         "disabled": false
       },
-      "minecraft:swamp_huts": {
-        "spacing": 32,
-        "separation": 8,
-        "salt": 14357620,
-        "disabled": false
-      },
-      "minecraft:ocean_monuments": {
-        "spacing": 32,
-        "separation": 5,
-        "salt": 10387313,
+      "hopo:portal_dripstone": {
+        "spacing": 90,
+        "separation": 20,
+        "salt": 1646207470,
         "disabled": false
       },
       "minecraft:desert_pyramids": {
@@ -111,16 +87,10 @@
         "salt": 14357617,
         "disabled": false
       },
-      "minecraft:woodland_mansions": {
-        "spacing": 80,
-        "separation": 20,
-        "salt": 10387319,
-        "disabled": false
-      },
-      "minecraft:shipwrecks": {
-        "spacing": 24,
-        "separation": 4,
-        "salt": 165745295,
+      "meadow:observation_post": {
+        "spacing": 33,
+        "separation": 17,
+        "salt": 6942069,
         "disabled": false
       },
       "minecraft:trail_ruins": {
@@ -129,16 +99,292 @@
         "salt": 83469867,
         "disabled": false
       },
-      "minecraft:buried_treasures": {
-        "spacing": 1,
-        "separation": 0,
-        "salt": 0,
+      "meadow:chalet": {
+        "spacing": 49,
+        "separation": 22,
+        "salt": 22427392,
+        "disabled": false
+      },
+      "minecraft:ruined_portals": {
+        "spacing": 40,
+        "separation": 15,
+        "salt": 34222645,
+        "disabled": false
+      },
+      "hauntedharvest:abandoned_farm": {
+        "spacing": 40,
+        "separation": 28,
+        "salt": 121931326,
+        "disabled": false
+      },
+      "hopo:portal": {
+        "spacing": 55,
+        "separation": 23,
+        "salt": 21378301,
+        "disabled": false
+      },
+      "minecraft:pillager_outposts": {
+        "spacing": 32,
+        "separation": 8,
+        "salt": 165745296,
+        "disabled": false
+      },
+      "minecraft:woodland_mansions": {
+        "spacing": 80,
+        "separation": 20,
+        "salt": 10387319,
+        "disabled": false
+      },
+      "hopo:underwater_city": {
+        "spacing": 42,
+        "separation": 38,
+        "salt": 77777777,
+        "disabled": false
+      },
+      "meadow:bench": {
+        "spacing": 36,
+        "separation": 24,
+        "salt": 992963,
         "disabled": false
       },
       "minecraft:villages": {
         "spacing": 34,
         "separation": 8,
         "salt": 10387312,
+        "disabled": false
+      },
+      "integrated_stronghold:stronghold": {
+        "spacing": 85,
+        "separation": 50,
+        "salt": 68173563,
+        "disabled": false
+      },
+      "hopo:portal_deepslate": {
+        "spacing": 95,
+        "separation": 20,
+        "salt": 5272004,
+        "disabled": false
+      },
+      "minecraft:mineshafts": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0,
+        "disabled": false
+      },
+      "betterdungeons:small_dungeons": {
+        "spacing": 10,
+        "separation": 6,
+        "salt": 34239823,
+        "disabled": false
+      },
+      "betterwitchhuts:witch_hut": {
+        "spacing": 30,
+        "separation": 8,
+        "salt": 79297177,
+        "disabled": false
+      },
+      "bettermineshafts:mineshafts": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 593751784,
+        "disabled": false
+      },
+      "betteroceanmonuments:ocean_monument": {
+        "spacing": 50,
+        "separation": 20,
+        "salt": 784827271,
+        "disabled": false
+      },
+      "brewery:brewfest_tent": {
+        "spacing": 88,
+        "separation": 76,
+        "salt": 99761,
+        "disabled": false
+      },
+      "minecraft:ancient_cities": {
+        "spacing": 24,
+        "separation": 8,
+        "salt": 20083232,
+        "disabled": false
+      },
+      "hopo:underwater_fossils": {
+        "spacing": 12,
+        "separation": 4,
+        "salt": 66666666,
+        "disabled": false
+      },
+      "create_rustic_structures:rustic_barn": {
+        "spacing": 32,
+        "separation": 16,
+        "salt": 1218093568,
+        "disabled": false
+      },
+      "meadow:logging_camp": {
+        "spacing": 30,
+        "separation": 28,
+        "salt": 42069,
+        "disabled": false
+      },
+      "betterdeserttemples:desert_temples": {
+        "spacing": 30,
+        "separation": 20,
+        "salt": 92746251,
+        "disabled": false
+      },
+      "minecraft:ocean_ruins": {
+        "spacing": 20,
+        "separation": 8,
+        "salt": 14357621,
+        "disabled": false
+      },
+      "mna:scatter": {
+        "spacing": 20,
+        "separation": 15,
+        "salt": 64916713,
+        "disabled": false
+      },
+      "minecraft:ocean_monuments": {
+        "spacing": 32,
+        "separation": 5,
+        "salt": 10387313,
+        "disabled": false
+      },
+      "integrated_villages:air_villages": {
+        "spacing": 115,
+        "separation": 90,
+        "salt": 1982700828,
+        "disabled": false
+      },
+      "hopo:underwater_small_ruins": {
+        "spacing": 12,
+        "separation": 5,
+        "salt": 711111117,
+        "disabled": false
+      },
+      "mna:manaweave_caches": {
+        "spacing": 25,
+        "separation": 20,
+        "salt": 1567486,
+        "disabled": true
+      },
+      "betterdungeons:skeleton_dungeons": {
+        "spacing": 46,
+        "separation": 23,
+        "salt": 732581671,
+        "disabled": false
+      },
+      "vsrevamped:village_cherry": {
+        "spacing": 32,
+        "separation": 18,
+        "salt": 1218123376,
+        "disabled": false
+      },
+      "betterdungeons:zombie_dungeons": {
+        "spacing": 48,
+        "separation": 24,
+        "salt": 280667671,
+        "disabled": false
+      },
+      "mna:faction_strongholds": {
+        "spacing": 25,
+        "separation": 20,
+        "salt": 7346154,
+        "disabled": false
+      },
+      "meadow:chapel": {
+        "spacing": 74,
+        "separation": 27,
+        "salt": 205745294,
+        "disabled": false
+      },
+      "create_rustic_structures:rustic_well": {
+        "spacing": 16,
+        "separation": 8,
+        "salt": 1221516354,
+        "disabled": false
+      },
+      "betterwitchhuts:witch_circle": {
+        "spacing": 40,
+        "separation": 10,
+        "salt": 19797254,
+        "disabled": false
+      },
+      "supplementaries:way_signs": {
+        "spacing": 19,
+        "separation": 10,
+        "salt": 431041527,
+        "disabled": false
+      },
+      "create_rustic_structures:rustic_smithy": {
+        "spacing": 24,
+        "separation": 12,
+        "salt": 703989288,
+        "disabled": false
+      },
+      "hopo:underwater_warm_small_ruins": {
+        "spacing": 12,
+        "separation": 2,
+        "salt": 333333333,
+        "disabled": false
+      },
+      "minecraft:swamp_huts": {
+        "spacing": 32,
+        "separation": 8,
+        "salt": 14357620,
+        "disabled": false
+      },
+      "hopo:portal_lush": {
+        "spacing": 90,
+        "separation": 33,
+        "salt": 3202004,
+        "disabled": false
+      },
+      "minecraft:buried_treasures": {
+        "spacing": 1,
+        "separation": 0,
+        "salt": 0,
+        "disabled": false
+      },
+      "betterdungeons:spider_dungeons": {
+        "spacing": 44,
+        "separation": 22,
+        "salt": 596523129,
+        "disabled": false
+      },
+      "minecraft:jungle_temples": {
+        "spacing": 32,
+        "separation": 8,
+        "salt": 14357619,
+        "disabled": false
+      },
+      "integrated_villages:regular_villages": {
+        "spacing": 26,
+        "separation": 19,
+        "salt": 1982700828,
+        "disabled": false
+      },
+      "meadow:monument": {
+        "spacing": 20,
+        "separation": 10,
+        "salt": 62069,
+        "disabled": false
+      },
+      "betterjungletemples:jungle_temples": {
+        "spacing": 24,
+        "separation": 8,
+        "salt": 996971851,
+        "disabled": false
+      },
+      "create_rustic_structures:rustic_windmill": {
+        "spacing": 24,
+        "separation": 12,
+        "salt": 1297317345,
+        "disabled": false
+      },
+      "minecraft:shipwrecks": {
+        "spacing": 24,
+        "separation": 4,
+        "salt": 165745295,
         "disabled": false
       }
     }
