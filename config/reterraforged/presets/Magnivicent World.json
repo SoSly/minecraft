@@ -262,9 +262,9 @@
         "disabled": false
       },
       "mna:manaweave_caches": {
-        "spacing": 25,
-        "separation": 20,
-        "salt": 1567486,
+        "spacing": 202000000000000,
+        "separation": 202000000000000,
+        "salt": 0,
         "disabled": true
       },
       "betterdungeons:skeleton_dungeons": {

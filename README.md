@@ -47,38 +47,39 @@ Magivnicent World includes the following mods:
 4. [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) - Library for Enchantment Descriptions
 5. [Caelus](https://www.curseforge.com/minecraft/mc-mods/caelus) - Elytra slot API
 6. [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config) - Configuration library for various mods
-7. [Collective](https://www.curseforge.com/minecraft/mc-mods/collective) - Common library for Serilum's mods
-8. [Corgilib](https://www.curseforge.com/minecraft/mc-mods/corgilib) - Library for various mods
-9. [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil) - Utility library for various mods
-10. [Crafted Core](https://www.curseforge.com/minecraft/mc-mods/crafted-core) - Core library for various mods
-11. [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore) - Core library for AmbientSounds
-12. [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard) - Library framework
-13. [EpheroLib](https://www.curseforge.com/minecraft/mc-mods/epherolib) - Library for Croptopia
-14. [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) - Rendering engine for Create mod
-15. [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib) - Animation library for various mods
-16. [Iceberg](https://www.curseforge.com/minecraft/mc-mods/iceberg) - Library for LegendaryTooltips and Prism
-17. [iChunUtil](https://www.curseforge.com/minecraft/mc-mods/ichunutil) - Core library for iChun's mods
-18. [InsaneLib](https://www.curseforge.com/minecraft/mc-mods/insanelib) - Library for progressive bosses and other mods
-19. [Integrated API](https://www.curseforge.com/minecraft/mc-mods/integrated-api) - API for Integrated mods
-20. [Kiwi](https://www.curseforge.com/minecraft/mc-mods/kiwi) - Library for various mods
-21. [BaguetteLib](https://www.curseforge.com/minecraft/mc-mods/baguettelib) - Library for various mods  
-22. [Let's Do API](https://www.curseforge.com/minecraft/mc-mods/do-api) - API for Let's Do mod series
-23. [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) - Configuration library
-24. [Mob Player Animator](https://www.curseforge.com/minecraft/mc-mods/mobplayeranimator) - Animation framework for mobs and players
-25. [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/moonlight) - Library framework for various mods
-26. [MUtil](https://www.curseforge.com/minecraft/mc-mods/mutil) - Utility library for Tetra mod
-27. [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) - Library framework
-28. [Player Animation Lib](https://www.curseforge.com/minecraft/mc-mods/playeranimator) - Animation library for combat mods
-29. [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib) - Text formatting and coloring library
-30. [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib) - Library for various mods
-31. [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourcefullib) - Library for various mods
-32. [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) - JavaScript engine for KubeJS
-33. [VMinus](https://www.curseforge.com/minecraft/mc-mods/vminus) - Library for Farmer's Delight compatibility mods (removes duplicate items)
-34. [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api) - API for YUNG's mods
-35. [Carbon Config](https://www.curseforge.com/minecraft/mc-mods/carbonconfig) - Configuration library
-36. [Cracker's Lib](https://www.curseforge.com/minecraft/mc-mods/crackerslib) - Library for various mods
-37. [YACL (Yet Another Config Lib)](https://www.curseforge.com/minecraft/mc-mods/yacl) - Configuration library and UI
-38. [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta) - Library for Quark mod
+7. [Cobweb](https://www.curseforge.com/minecraft/mc-mods/cobweb) - API library for mod development
+8. [Collective](https://www.curseforge.com/minecraft/mc-mods/collective) - Common library for Serilum's mods
+9. [Corgilib](https://www.curseforge.com/minecraft/mc-mods/corgilib) - Library for various mods
+10. [CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil) - Utility library for various mods
+11. [Crafted Core](https://www.curseforge.com/minecraft/mc-mods/crafted-core) - Core library for various mods
+12. [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore) - Core library for AmbientSounds
+13. [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard) - Library framework
+14. [EpheroLib](https://www.curseforge.com/minecraft/mc-mods/epherolib) - Library for Croptopia
+15. [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel) - Rendering engine for Create mod
+16. [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib) - Animation library for various mods
+17. [Iceberg](https://www.curseforge.com/minecraft/mc-mods/iceberg) - Library for LegendaryTooltips and Prism
+18. [iChunUtil](https://www.curseforge.com/minecraft/mc-mods/ichunutil) - Core library for iChun's mods
+19. [InsaneLib](https://www.curseforge.com/minecraft/mc-mods/insanelib) - Library for progressive bosses and other mods
+20. [Integrated API](https://www.curseforge.com/minecraft/mc-mods/integrated-api) - API for Integrated mods
+21. [Kiwi](https://www.curseforge.com/minecraft/mc-mods/kiwi) - Library for various mods
+22. [BaguetteLib](https://www.curseforge.com/minecraft/mc-mods/baguettelib) - Library for various mods  
+23. [Let's Do API](https://www.curseforge.com/minecraft/mc-mods/do-api) - API for Let's Do mod series
+24. [MidnightLib](https://www.curseforge.com/minecraft/mc-mods/midnightlib) - Configuration library
+25. [Mob Player Animator](https://www.curseforge.com/minecraft/mc-mods/mobplayeranimator) - Animation framework for mobs and players
+26. [Moonlight Lib](https://www.curseforge.com/minecraft/mc-mods/moonlight) - Library framework for various mods
+27. [MUtil](https://www.curseforge.com/minecraft/mc-mods/mutil) - Utility library for Tetra mod
+28. [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) - Library framework
+29. [Player Animation Lib](https://www.curseforge.com/minecraft/mc-mods/playeranimator) - Animation library for combat mods
+30. [Prism](https://www.curseforge.com/minecraft/mc-mods/prism-lib) - Text formatting and coloring library
+31. [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib) - Library for various mods
+32. [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourcefullib) - Library for various mods
+33. [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) - JavaScript engine for KubeJS
+34. [VMinus](https://www.curseforge.com/minecraft/mc-mods/vminus) - Library for Farmer's Delight compatibility mods (removes duplicate items)
+35. [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api) - API for YUNG's mods
+36. [Carbon Config](https://www.curseforge.com/minecraft/mc-mods/carbonconfig) - Configuration library
+37. [Cracker's Lib](https://www.curseforge.com/minecraft/mc-mods/crackerslib) - Library for various mods
+38. [YACL (Yet Another Config Lib)](https://www.curseforge.com/minecraft/mc-mods/yacl) - Configuration library and UI
+39. [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta) - Library for Quark mod
 
 ### Performance & Optimization Mods
 
@@ -119,30 +120,34 @@ Magivnicent World includes the following mods:
 6. [Blur](https://www.curseforge.com/minecraft/mc-mods/blur) - Adds blur effect to background of GUI
 7. [Cosmetic Armor Reworked](https://www.curseforge.com/minecraft/mc-mods/cosmetic-armor-reworked) - Cosmetic armor system
 8. [Falling Leaves](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge) - Falling leaf particles
-9. [First-person Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model) - First person model rendering
-10. [Fusion](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures) - Connected textures support
-11. [Immersive Paintings](https://www.curseforge.com/minecraft/mc-mods/immersive-paintings) - Custom paintings system
-12. [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) - More player animations
-13. [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) - Shader support (Iris port)
-14. [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - Dynamic footstep sounds
-15. [Cool Rain](https://www.curseforge.com/minecraft/mc-mods/coolrain) - Enhanced rain effects and weather
-16. [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particlerain) - Particle-based weather effects
-17. [Polytone](https://www.curseforge.com/minecraft/mc-mods/polytone) - Color and texture customization
-18. [Simple Clouds](https://www.curseforge.com/minecraft/mc-mods/simpleclouds) - Improved cloud rendering (disabled)
-19. [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes) - Animated capes
+9. [Continuity](https://www.curseforge.com/minecraft/mc-mods/continuity) - Connected textures support for Fabric/Forge
+10. [Drip Sounds](https://www.curseforge.com/minecraft/mc-mods/dripsounds) - Adds dripping sounds for water and lava
+11. [First-person Model](https://www.curseforge.com/minecraft/mc-mods/first-person-model) - First person model rendering
+12. [Fusion](https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures) - Connected textures support
+13. [Immersive Paintings](https://www.curseforge.com/minecraft/mc-mods/immersive-paintings) - Custom paintings system
+14. [Not Enough Animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations) - More player animations
+15. [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) - Shader support (Iris port)
+16. [Presence Footsteps](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) - Dynamic footstep sounds
+17. [Cool Rain](https://www.curseforge.com/minecraft/mc-mods/coolrain) - Enhanced rain effects and weather
+18. [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particlerain) - Particle-based weather effects
+19. [Polytone](https://www.curseforge.com/minecraft/mc-mods/polytone) - Color and texture customization
+20. [Simple Clouds](https://www.curseforge.com/minecraft/mc-mods/simpleclouds) - Improved cloud rendering (disabled)
+21. [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench) - Shows crafting on workbench surface
+22. [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes) - Animated capes
 
 ### UI/Menu Mods
 
-1. [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) - Improved advancement UI
-2. [BetterF3+](https://www.curseforge.com/minecraft/mc-mods/better-f3-plus) - Enhanced F3 debug screen
-3. [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) - Configuration GUI for mods
-4. [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) - Keybind management
-5. [Ding](https://www.curseforge.com/minecraft/mc-mods/ding) - Loading complete notification sound
-6. [Enchanted Book Redesign](https://www.curseforge.com/minecraft/mc-mods/enchanted-book-redesign) - Visual redesign of enchanted books
-7. [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) - Mouse interaction improvements
-8. [Overloaded Armor Bar](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar) - Enhanced armor bar display
-9. [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) - Toast notification control
-10. [Traveler's Titles](https://www.curseforge.com/minecraft/mc-mods/travelers-titles) - Biome and dimension titles
+1. [Better Lightning](https://www.curseforge.com/minecraft/mc-mods/betterlightning) - Enhanced lightning effects and strikes
+2. [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) - Improved advancement UI
+3. [BetterF3+](https://www.curseforge.com/minecraft/mc-mods/better-f3-plus) - Enhanced F3 debug screen
+4. [Configured](https://www.curseforge.com/minecraft/mc-mods/configured) - Configuration GUI for mods
+5. [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) - Keybind management
+6. [Ding](https://www.curseforge.com/minecraft/mc-mods/ding) - Loading complete notification sound
+7. [Enchanted Book Redesign](https://www.curseforge.com/minecraft/mc-mods/enchanted-book-redesign) - Visual redesign of enchanted books
+8. [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) - Mouse interaction improvements
+9. [Overloaded Armor Bar](https://www.curseforge.com/minecraft/mc-mods/overloaded-armor-bar) - Enhanced armor bar display
+10. [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control) - Toast notification control
+11. [Traveler's Titles](https://www.curseforge.com/minecraft/mc-mods/travelers-titles) - Biome and dimension titles
 
 ### Utility & Information Mods
 
@@ -241,15 +246,19 @@ Magivnicent World includes the following mods:
 1. [Better Combat](https://www.curseforge.com/minecraft/mc-mods/better-combat) - Enhanced combat mechanics with weapon combos
 2. [Better Farmer's Combat](https://www.curseforge.com/minecraft/mc-mods/better-farmers-combat) - Farmer's Delight weapons with Better Combat compatibility
 3. [Dummmmmmy](https://www.curseforge.com/minecraft/mc-mods/dummmmmmy) - Target dummy for testing combat damage and DPS
-4. [Fabulous Fletching](https://www.curseforge.com/minecraft/mc-mods/fabulous-fletching) - Enhanced arrow crafting and fletching table functionality
-5. [Secrets of Forging Revelations](https://www.curseforge.com/minecraft/mc-mods/secrets-of-forging-revelations) - Advanced smithing mechanics
-6. [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) - Modular tool and weapon crafting system
-7. [Tetra GUI Compat](https://www.curseforge.com/minecraft/mc-mods/tetra-gui-compat) - GUI compatibility for Tetra
-8. [Tetra Re-Enlarged](https://www.curseforge.com/minecraft/mc-mods/tetra-re-enlarged) - Additional Tetra content
-9. [Tetra Tables](https://www.curseforge.com/minecraft/mc-mods/tetra-tables) - Crafting tables for Tetra
-10. [Tetra's Delight](https://www.curseforge.com/minecraft/mc-mods/tetras-delight) - Farmer's Delight integration for Tetra
-11. [Tetranomicon](https://www.curseforge.com/minecraft/mc-mods/tetranomicon) - Guidebook for Tetra
-12. [Tetratic Combat Expanded](https://www.curseforge.com/minecraft/mc-mods/tetratic-combat-expanded) - Enhanced combat features for Tetra
+5. [Fabulous Fletching](https://www.curseforge.com/minecraft/mc-mods/fabulous-fletching) - Enhanced arrow crafting and fletching table functionality
+6. [Secrets of Forging Revelations](https://www.curseforge.com/minecraft/mc-mods/secrets-of-forging-revelations) - Advanced smithing mechanics
+7. [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) - Modular tool and weapon crafting system
+8. [Tetra GUI Compat](https://www.curseforge.com/minecraft/mc-mods/tetra-gui-compat) - GUI compatibility for Tetra
+9. [Tetra Re-Enlarged](https://www.curseforge.com/minecraft/mc-mods/tetra-re-enlarged) - Additional Tetra content
+10. [Tetra Tables](https://www.curseforge.com/minecraft/mc-mods/tetra-tables) - Crafting tables for Tetra
+11. [Tetra's Delight](https://www.curseforge.com/minecraft/mc-mods/tetras-delight) - Farmer's Delight integration for Tetra
+12. [Tetranomicon](https://www.curseforge.com/minecraft/mc-mods/tetranomicon) - Guidebook for Tetra
+13. [Tetratic Combat Expanded](https://www.curseforge.com/minecraft/mc-mods/tetratic-combat-expanded) - Enhanced combat features for Tetra
+14. [Art of Forging](https://www.curseforge.com/minecraft/mc-mods/art-of-forging) - Advanced smithing and forging mechanics
+15. [JEI Tetra](https://www.curseforge.com/minecraft/mc-mods/jei-tetra) - JEI integration for Tetra crafting  
+16. [Soul Fire'd](https://www.curseforge.com/minecraft/mc-mods/soul-fire-d) - Soul fire mechanics and features
+17. [Tetra More Weapons](https://www.curseforge.com/minecraft/mc-mods/tetra-more-weapons) - Additional weapons for Tetra (disabled)
 
 ### Food & Farming Mods
 
@@ -268,10 +277,10 @@ Magivnicent World includes the following mods:
 13. [Fruits Delight](https://www.curseforge.com/minecraft/mc-mods/fruits-delight) - Fruit cultivation and recipes
 14. [Haunted Harvest](https://www.curseforge.com/minecraft/mc-mods/haunted-harvest) - Spooky seasonal foods
 15. [Let's Do Compat](https://www.curseforge.com/minecraft/mc-mods/lets-do-addon-compat) - Compatibility patches for Let's Do mod series
-16. [Let's Do: Applewood](https://www.curseforge.com/minecraft/mc-mods/lets-do-applewood) - Apple-themed content (disabled)
+16. [Let's Do: Applewood](https://www.curseforge.com/minecraft/mc-mods/lets-do-applewood) - Apple-themed content
 17. [Let's Do: Bakery](https://www.curseforge.com/minecraft/mc-mods/lets-do-bakery) - Baking and bakery-themed content
 18. [Let's Do: Brewery](https://www.curseforge.com/minecraft/mc-mods/lets-do-brewery) - Brewing and beverage crafting
-19. [Let's Do: Candlelight](https://www.curseforge.com/minecraft/mc-mods/lets-do-candlelight) - Decorative lighting and dining (disabled)
+19. [Let's Do: Candlelight](https://www.curseforge.com/minecraft/mc-mods/lets-do-candlelight) - Decorative lighting and dining
 20. [Let's Do: Farm & Charm](https://www.curseforge.com/minecraft/mc-mods/lets-do-farm-and-charm) - Farming decorations and furniture
 21. [Let's Do: Furniture](https://www.curseforge.com/minecraft/mc-mods/lets-do-furniture) - Various furniture pieces
 22. [Let's Do: Herbal Brews](https://www.curseforge.com/minecraft/mc-mods/lets-do-herbal-brews) - Tea brewing and herbal drinks
@@ -302,7 +311,7 @@ Magivnicent World includes the following mods:
 11. [Floral Enchantment](https://www.curseforge.com/minecraft/mc-mods/floral-enchantment) - Decorative flowers and floral arrangements
 12. [Handcrafted](https://www.curseforge.com/minecraft/mc-mods/handcrafted) - Decorative furniture and blocks
 13. [Immersive Weathering](https://www.curseforge.com/minecraft/mc-mods/immersive-weathering) - Block weathering and aging mechanics
-14. [D&Decor](https://www.curseforge.com/minecraft/mc-mods/dndecor) - Dungeons & Dragons themed decorative blocks
+14. [Design and Decor](https://www.curseforge.com/minecraft/mc-mods/dndecor) - Additional decorative blocks and furniture (disabled)
 15. [Flimsy Torches](https://www.curseforge.com/minecraft/mc-mods/flimsytorches) - Torches that burn out over time
 16. [Perfect Plushies](https://www.curseforge.com/minecraft/mc-mods/perfect-plushies) - Collectible plushie toys
 17. [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) - Vanilla-style improvements and additions
@@ -331,30 +340,35 @@ Magivnicent World includes the following mods:
 
 1. [Almost Unified](https://www.curseforge.com/minecraft/mc-mods/almost-unified) - Unifies item recipes and tags across mods
 2. [Connectivity](https://www.curseforge.com/minecraft/mc-mods/connectivity) - Connection error handling
-3. [Euphoria Patches](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches) - Compatibility patches
-4. [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) - Render distance improvements
-5. [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) - JavaScript-based game scripting and customization
-6. [KubeJS Additions](https://www.curseforge.com/minecraft/mc-mods/kubejs-additions) - Additional features for KubeJS
-7. [KubeJS Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) - Create mod integration for KubeJS
-8. [KubeJS Curios](https://www.curseforge.com/minecraft/mc-mods/kubejs-curios) - Curios API integration for KubeJS
-9. [KubeJS Delight](https://www.curseforge.com/minecraft/mc-mods/kubejs-delight) - Farmer's Delight integration for KubeJS
-10. [LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs) - Loot table modification via JavaScript
-11. [MnaJS](https://www.curseforge.com/minecraft/mc-mods/mnajs) - Mana and Artifice integration for KubeJS
-12. [MoreJS](https://www.curseforge.com/minecraft/mc-mods/morejs) - Extended JavaScript capabilities for KubeJS
-13. [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) - Fixes nether portal linking bugs
+3. [Connector](https://www.curseforge.com/minecraft/mc-mods/connector) - Allows Fabric mods to run on Forge
+4. [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) - Core API for Fabric mods (running via Connector)
+5. [Euphoria Patches](https://www.curseforge.com/minecraft/mc-mods/euphoria-patches) - Compatibility patches
+6. [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) - Render distance improvements
+7. [KubeJS](https://www.curseforge.com/minecraft/mc-mods/kubejs) - JavaScript-based game scripting and customization
+8. [KubeJS Additions](https://www.curseforge.com/minecraft/mc-mods/kubejs-additions) - Additional features for KubeJS
+9. [KubeJS Create](https://www.curseforge.com/minecraft/mc-mods/kubejs-create) - Create mod integration for KubeJS
+10. [KubeJS Curios](https://www.curseforge.com/minecraft/mc-mods/kubejs-curios) - Curios API integration for KubeJS
+11. [KubeJS Delight](https://www.curseforge.com/minecraft/mc-mods/kubejs-delight) - Farmer's Delight integration for KubeJS
+12. [LootJS](https://www.curseforge.com/minecraft/mc-mods/lootjs) - Loot table modification via JavaScript
+13. [MnaJS](https://www.curseforge.com/minecraft/mc-mods/mnajs) - Mana and Artifice integration for KubeJS
+14. [MoreJS](https://www.curseforge.com/minecraft/mc-mods/morejs) - Extended JavaScript capabilities for KubeJS
+15. [Nether Portal Fix](https://www.curseforge.com/minecraft/mc-mods/netherportalfix) - Fixes nether portal linking bugs
 
 ## Resource Packs
 
 The following resource packs are included to enhance the visual experience:
 
-1. **Apples Revamped** - Enhanced apple textures and variations
-2. **Fusion 3D Items** - Adds 3D models to various items for more realistic appearance
-3. **Fusion Block Transitions** - Smooth transitions between connected blocks
-4. **Fusion Connected Blocks** - Connected textures for various blocks
-5. **Fusion Connected Glass** - Seamless connected glass textures
-6. **Fusion Stacking Items** - Visual stacking effects for dropped items
-7. **Angel's Weather** - Enhanced weather and atmospheric effects  
-8. **Quark Programmer Art** - Classic programmer art style textures for Quark mod content
+1. **Angel's Weather** - Enhanced weather and atmospheric effects
+2. **Apples Revamped** - Enhanced apple textures and variations
+3. **Better Lanterns** - Improved lantern models and textures
+4. **Fusion 3D Items** - Adds 3D models to various items for more realistic appearance
+5. **Fusion Block Transitions** - Smooth transitions between connected blocks
+6. **Fusion Connected Blocks** - Connected textures for various blocks
+7. **Fusion Connected Glass** - Seamless connected glass textures
+8. **Fusion Stacking Items** - Visual stacking effects for dropped items
+9. **Quark Programmer Art** - Classic programmer art style textures for Quark mod content
+10. **RAY's 3D Ladders** - Three-dimensional ladder models
+11. **RAY's 3D Rails** - Three-dimensional rail models
 
 ## Shader Packs
 
