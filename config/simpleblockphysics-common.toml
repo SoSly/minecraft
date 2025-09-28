@@ -44,4 +44,9 @@ overwriteBlockTagValues = [4]
 overwriteBlocks = ["minecraft:moss_block"]
 #A list of support strength values to override native (hardness based) individual block support strength, matched by index to above list.
 overwriteBlockValues = [3]
+#Invert the list of 'indestructible blocks' such that only those blocks in the indestructible list will be considered for collapse. Keep in mind, blocks that cannot fall are also always valid supports.
+invertIndestructibleBlocks = false
+#Assuming the falling block doesn't break and has a valid spot to shift to, the percent chance that it does. 0 will turn shifting off, 1 means blocks will always shift given the chance.
+#Range: 0.0 ~ 1.0
+fallingBlockShiftFactor = 0.8
 
