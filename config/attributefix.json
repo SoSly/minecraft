@@ -143,17 +143,6 @@
         "value": 100
       }
     },
-    "vminus:blunt_protection": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "forge:entity_reach": {
       "enabled": false,
       "min": {
@@ -163,6 +152,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "vminus:blunt_protection": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "vminus:fall_protection": {
@@ -385,17 +385,6 @@
         "value": 0
       }
     },
-    "vminus:magic_protection": {
-      "enabled": false,
-      "min": {
-        "default": -100,
-        "value": -100
-      },
-      "max": {
-        "default": 100,
-        "value": 100
-      }
-    },
     "tetra:ability_cooldown": {
       "enabled": false,
       "min": {
@@ -405,6 +394,17 @@
       "max": {
         "default": 2048,
         "value": 2048
+      }
+    },
+    "vminus:magic_protection": {
+      "enabled": false,
+      "min": {
+        "default": -100,
+        "value": -100
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     }
   }

@@ -74,12 +74,11 @@ Magivnicent World includes the following mods:
 31. [Puzzles Lib](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib) - Library for various mods
 32. [Resourceful Lib](https://www.curseforge.com/minecraft/mc-mods/resourcefullib) - Library for various mods
 33. [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino) - JavaScript engine for KubeJS
-34. [VMinus](https://www.curseforge.com/minecraft/mc-mods/vminus) - Library for Farmer's Delight compatibility mods (removes duplicate items)
-35. [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api) - API for YUNG's mods
-36. [Carbon Config](https://www.curseforge.com/minecraft/mc-mods/carbonconfig) - Configuration library
-37. [Cracker's Lib](https://www.curseforge.com/minecraft/mc-mods/crackerslib) - Library for various mods
-38. [YACL (Yet Another Config Lib)](https://www.curseforge.com/minecraft/mc-mods/yacl) - Configuration library and UI
-39. [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta) - Library for Quark mod
+34. [YUNG's API](https://www.curseforge.com/minecraft/mc-mods/yungs-api) - API for YUNG's mods
+35. [Carbon Config](https://www.curseforge.com/minecraft/mc-mods/carbonconfig) - Configuration library
+36. [Cracker's Lib](https://www.curseforge.com/minecraft/mc-mods/crackerslib) - Library for various mods
+37. [YACL (Yet Another Config Lib)](https://www.curseforge.com/minecraft/mc-mods/yacl) - Configuration library and UI
+38. [Zeta](https://www.curseforge.com/minecraft/mc-mods/zeta) - Library for Quark mod
 
 ### Performance & Optimization Mods
 
@@ -246,55 +245,54 @@ Magivnicent World includes the following mods:
 1. [Better Combat](https://www.curseforge.com/minecraft/mc-mods/better-combat) - Enhanced combat mechanics with weapon combos
 2. [Better Farmer's Combat](https://www.curseforge.com/minecraft/mc-mods/better-farmers-combat) - Farmer's Delight weapons with Better Combat compatibility
 3. [Dummmmmmy](https://www.curseforge.com/minecraft/mc-mods/dummmmmmy) - Target dummy for testing combat damage and DPS
-5. [Fabulous Fletching](https://www.curseforge.com/minecraft/mc-mods/fabulous-fletching) - Enhanced arrow crafting and fletching table functionality
-6. [Secrets of Forging Revelations](https://www.curseforge.com/minecraft/mc-mods/secrets-of-forging-revelations) - Advanced smithing mechanics
-7. [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) - Modular tool and weapon crafting system
-8. [Tetra GUI Compat](https://www.curseforge.com/minecraft/mc-mods/tetra-gui-compat) - GUI compatibility for Tetra
-9. [Tetra Re-Enlarged](https://www.curseforge.com/minecraft/mc-mods/tetra-re-enlarged) - Additional Tetra content
-10. [Tetra Tables](https://www.curseforge.com/minecraft/mc-mods/tetra-tables) - Crafting tables for Tetra
-11. [Tetra's Delight](https://www.curseforge.com/minecraft/mc-mods/tetras-delight) - Farmer's Delight integration for Tetra
-12. [Tetranomicon](https://www.curseforge.com/minecraft/mc-mods/tetranomicon) - Guidebook for Tetra
-13. [Tetratic Combat Expanded](https://www.curseforge.com/minecraft/mc-mods/tetratic-combat-expanded) - Enhanced combat features for Tetra
-14. [Art of Forging](https://www.curseforge.com/minecraft/mc-mods/art-of-forging) - Advanced smithing and forging mechanics
-15. [JEI Tetra](https://www.curseforge.com/minecraft/mc-mods/jei-tetra) - JEI integration for Tetra crafting  
-16. [Soul Fire'd](https://www.curseforge.com/minecraft/mc-mods/soul-fire-d) - Soul fire mechanics and features
-17. [Tetra More Weapons](https://www.curseforge.com/minecraft/mc-mods/tetra-more-weapons) - Additional weapons for Tetra (disabled)
+4. [Fabulous Fletching](https://www.curseforge.com/minecraft/mc-mods/fabulous-fletching) - Enhanced arrow crafting and fletching table functionality
+5. [Secrets of Forging Revelations](https://www.curseforge.com/minecraft/mc-mods/secrets-of-forging-revelations) - Advanced smithing mechanics
+6. [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra) - Modular tool and weapon crafting system
+7. [Tetra GUI Compat](https://www.curseforge.com/minecraft/mc-mods/tetra-gui-compat) - GUI compatibility for Tetra
+8. [Tetra Re-Enlarged](https://www.curseforge.com/minecraft/mc-mods/tetra-re-enlarged) - Additional Tetra content
+9. [Tetra Tables](https://www.curseforge.com/minecraft/mc-mods/tetra-tables) - Crafting tables for Tetra
+10. [Tetra's Delight](https://www.curseforge.com/minecraft/mc-mods/tetras-delight) - Farmer's Delight integration for Tetra
+11. [Tetranomicon](https://www.curseforge.com/minecraft/mc-mods/tetranomicon) - Guidebook for Tetra
+12. [Tetratic Combat Expanded](https://www.curseforge.com/minecraft/mc-mods/tetratic-combat-expanded) - Enhanced combat features for Tetra
+13. [Art of Forging](https://www.curseforge.com/minecraft/mc-mods/art-of-forging) - Advanced smithing and forging mechanics
+14. [JEI Tetra](https://www.curseforge.com/minecraft/mc-mods/jei-tetra) - JEI integration for Tetra crafting  
+15. [Soul Fire'd](https://www.curseforge.com/minecraft/mc-mods/soul-fire-d) - Soul fire mechanics and features
+16. [Tetra More Weapons](https://www.curseforge.com/minecraft/mc-mods/tetra-more-weapons) - Additional weapons for Tetra (disabled)
 
 ### Food & Farming Mods
 
 1. [Aquaculture Delight](https://www.curseforge.com/minecraft/mc-mods/aquaculture-delight) - Aquaculture and Farmer's Delight integration
 2. [Chef's Delight](https://www.curseforge.com/minecraft/mc-mods/chefs-delight) - Professional cooking expansion for Farmer's Delight
-3. [Compat Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/compat-farmers-delight) - Compatibility patches for Farmer's Delight
-4. [Crabber's Delight](https://www.curseforge.com/minecraft/mc-mods/crabbers-delight) - Seafood and crab dishes
-5. [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia) - Adds over 200 new crops and food items
-6. [Cuisine Delight](https://www.curseforge.com/minecraft/mc-mods/cuisine-delight) - International cuisine additions
-7. [Cultural Delights](https://www.curseforge.com/minecraft/mc-mods/cultural-delights) - Cultural food variety
-8. [Egg Delight](https://www.curseforge.com/minecraft/mc-mods/egg-delight) - Egg-based recipes
-9. [Farmer'd Naturalist Compat](https://www.curseforge.com/minecraft/mc-mods/farmerd-naturalist-compat) - Naturalist and Farmer's Delight compatibility
-10. [Farmer's Croptopia](https://www.curseforge.com/minecraft/mc-mods/farmers-croptopia) - Farmer's Delight and Croptopia integration
-11. [Farmers Cutting Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/farmers-cutting-biomes-o-plenty) - Farmer's Delight cutting board support for BOP woods
-12. [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) - Cooking and farming expansion
-13. [Fruits Delight](https://www.curseforge.com/minecraft/mc-mods/fruits-delight) - Fruit cultivation and recipes
-14. [Haunted Harvest](https://www.curseforge.com/minecraft/mc-mods/haunted-harvest) - Spooky seasonal foods
-15. [Let's Do Compat](https://www.curseforge.com/minecraft/mc-mods/lets-do-addon-compat) - Compatibility patches for Let's Do mod series
-16. [Let's Do: Applewood](https://www.curseforge.com/minecraft/mc-mods/lets-do-applewood) - Apple-themed content
-17. [Let's Do: Bakery](https://www.curseforge.com/minecraft/mc-mods/lets-do-bakery) - Baking and bakery-themed content
-18. [Let's Do: Brewery](https://www.curseforge.com/minecraft/mc-mods/lets-do-brewery) - Brewing and beverage crafting
-19. [Let's Do: Candlelight](https://www.curseforge.com/minecraft/mc-mods/lets-do-candlelight) - Decorative lighting and dining
-20. [Let's Do: Farm & Charm](https://www.curseforge.com/minecraft/mc-mods/lets-do-farm-and-charm) - Farming decorations and furniture
-21. [Let's Do: Furniture](https://www.curseforge.com/minecraft/mc-mods/lets-do-furniture) - Various furniture pieces
-22. [Let's Do: Herbal Brews](https://www.curseforge.com/minecraft/mc-mods/lets-do-herbal-brews) - Tea brewing and herbal drinks
-23. [Let's Do: Meadow](https://www.curseforge.com/minecraft/mc-mods/lets-do-meadow) - Cheese making and meadow content
-24. [Let's Do: Vinery](https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery) - Wine making and vineyard content
-25. [Miner's Delight](https://www.curseforge.com/minecraft/mc-mods/miners-delight) - Food for mining expeditions
-26. [More Delight](https://www.curseforge.com/minecraft/mc-mods/more-delight) - Additional recipes and ingredients
-27. [Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/nethers-delight) - Nether-themed cooking
-28. [Ocean's Delight](https://www.curseforge.com/minecraft/mc-mods/oceans-delight) - Ocean-themed food additions
-29. [Quark Delight](https://www.curseforge.com/minecraft/mc-mods/quark-delight) - Quark and Farmer's Delight integration
-30. [Seed Delight](https://www.curseforge.com/minecraft/mc-mods/seed-delight) - Seed cultivation and uses
-31. [Storage Delight](https://www.curseforge.com/minecraft/mc-mods/storage-delight) - Food storage solutions
-32. [Vanilla Delight](https://www.curseforge.com/minecraft/mc-mods/vanilla-delight) - Vanilla-friendly food additions
-33. [Vintage Delight](https://www.curseforge.com/minecraft/mc-mods/vintage-delight) - Classic and aged foods
+3. [Crabber's Delight](https://www.curseforge.com/minecraft/mc-mods/crabbers-delight) - Seafood and crab dishes
+4. [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia) - Adds over 200 new crops and food items
+5. [Cuisine Delight](https://www.curseforge.com/minecraft/mc-mods/cuisine-delight) - International cuisine additions
+6. [Cultural Delights](https://www.curseforge.com/minecraft/mc-mods/cultural-delights) - Cultural food variety
+7. [Egg Delight](https://www.curseforge.com/minecraft/mc-mods/egg-delight) - Egg-based recipes
+8. [Farmer'd Naturalist Compat](https://www.curseforge.com/minecraft/mc-mods/farmerd-naturalist-compat) - Naturalist and Farmer's Delight compatibility
+9. [Farmer's Croptopia](https://www.curseforge.com/minecraft/mc-mods/farmers-croptopia) - Farmer's Delight and Croptopia integration
+10. [Farmers Cutting Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/farmers-cutting-biomes-o-plenty) - Farmer's Delight cutting board support for BOP woods
+11. [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) - Cooking and farming expansion
+12. [Fruits Delight](https://www.curseforge.com/minecraft/mc-mods/fruits-delight) - Fruit cultivation and recipes
+13. [Haunted Harvest](https://www.curseforge.com/minecraft/mc-mods/haunted-harvest) - Spooky seasonal foods
+14. [Let's Do Compat](https://www.curseforge.com/minecraft/mc-mods/lets-do-addon-compat) - Compatibility patches for Let's Do mod series
+15. [Let's Do: Applewood](https://www.curseforge.com/minecraft/mc-mods/lets-do-applewood) - Apple-themed content
+16. [Let's Do: Bakery](https://www.curseforge.com/minecraft/mc-mods/lets-do-bakery) - Baking and bakery-themed content
+17. [Let's Do: Brewery](https://www.curseforge.com/minecraft/mc-mods/lets-do-brewery) - Brewing and beverage crafting
+18. [Let's Do: Candlelight](https://www.curseforge.com/minecraft/mc-mods/lets-do-candlelight) - Decorative lighting and dining
+19. [Let's Do: Farm & Charm](https://www.curseforge.com/minecraft/mc-mods/lets-do-farm-and-charm) - Farming decorations and furniture
+20. [Let's Do: Furniture](https://www.curseforge.com/minecraft/mc-mods/lets-do-furniture) - Various furniture pieces
+21. [Let's Do: Herbal Brews](https://www.curseforge.com/minecraft/mc-mods/lets-do-herbal-brews) - Tea brewing and herbal drinks
+22. [Let's Do: Meadow](https://www.curseforge.com/minecraft/mc-mods/lets-do-meadow) - Cheese making and meadow content
+23. [Let's Do: Vinery](https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery) - Wine making and vineyard content
+24. [Miner's Delight](https://www.curseforge.com/minecraft/mc-mods/miners-delight) - Food for mining expeditions
+25. [More Delight](https://www.curseforge.com/minecraft/mc-mods/more-delight) - Additional recipes and ingredients
+26. [Nether's Delight](https://www.curseforge.com/minecraft/mc-mods/nethers-delight) - Nether-themed cooking
+27. [Ocean's Delight](https://www.curseforge.com/minecraft/mc-mods/oceans-delight) - Ocean-themed food additions
+28. [Quark Delight](https://www.curseforge.com/minecraft/mc-mods/quark-delight) - Quark and Farmer's Delight integration
+29. [Seed Delight](https://www.curseforge.com/minecraft/mc-mods/seed-delight) - Seed cultivation and uses
+30. [Storage Delight](https://www.curseforge.com/minecraft/mc-mods/storage-delight) - Food storage solutions
+31. [Vanilla Delight](https://www.curseforge.com/minecraft/mc-mods/vanilla-delight) - Vanilla-friendly food additions
+32. [Vintage Delight](https://www.curseforge.com/minecraft/mc-mods/vintage-delight) - Classic and aged foods
 
 ### Building & Decoration Mods
 
